@@ -7,7 +7,20 @@
 
 import Foundation
 import SwiftUI
+
+
 class Const{
     static let width = UIScreen.main.bounds.width
     static let height = UIScreen.main.bounds.height
+}
+
+struct PressableButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            
+            .background(configuration.isPressed ? Color.yellow : Color.red)
+            .cornerRadius(20)
+            .scaleEffect(configuration.isPressed ? 0.95 : 1.0)
+            .animation(.easeInOut(duration: 0.2), value: configuration.isPressed)
+    }
 }

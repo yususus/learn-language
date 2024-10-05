@@ -17,7 +17,7 @@ struct HelpMain: View {
                 Spacer()
             }.padding()
             
-            }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(.red).cornerRadius(20)
+        }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(.red.opacity(0.8).gradient).cornerRadius(20)
         
     }
 }

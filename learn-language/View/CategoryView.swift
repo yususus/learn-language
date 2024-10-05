@@ -16,18 +16,19 @@ struct CategoryView: View {
             
             ScrollView {
                 HStack {
-                    Text("Words").font(Font.custom("FugazOne-Regular", size: 40))
+                    Text("Words").font(Font.custom("FugazOne-Regular", size: UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
                         .foregroundStyle(Color.black.gradient)
                     Spacer()
                 }.padding(.horizontal, Const.width * 0.05)
                 ScrollView(.horizontal){
                     HStack {
-                        ForEach(words, id: \.self){
-                            category in
-                            
-                            NavigationLink(destination: QuestionView(title: category)){
+                        ForEach(words, id: \.self){ category in
+                            NavigationLink {
+                                QuestionView(title: category)
+                            } label: {
                                 HelpCategory(categoryTitle: category)
                             }
+                            .buttonStyle(PressableButtonStyle())
                             
                             
                         }
@@ -35,7 +36,7 @@ struct CategoryView: View {
                     }
                 }.padding()
                 HStack {
-                    Text("Sentences").font(Font.custom("FugazOne-Regular", size: 40))
+                    Text("Sentences").font(Font.custom("FugazOne-Regular", size:  UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
                         .foregroundStyle(Color.black.gradient)
                     Spacer()
                 }.padding(.horizontal, Const.width * 0.05)
@@ -46,6 +47,7 @@ struct CategoryView: View {
                         } label: {
                             SentencesView(categoryTitle: level)
                         }
+                        .buttonStyle(PressableButtonStyle())
                     }
 
                 }
@@ -57,5 +59,7 @@ struct CategoryView: View {
 }
 
 #Preview {
-    CategoryView(title: "B1")
+    NavigationView {
+        CategoryView(title: "B1")
+    }
 }

@@ -19,12 +19,15 @@ struct MainView: View {
                     } label: {
                         HelpMain(title: level)
                     }
+                    .buttonStyle(PressableButtonStyle())
                 }
             }
             .navigationTitle("Good Morning")
         }
     }
 }
+
+
 
 
 
