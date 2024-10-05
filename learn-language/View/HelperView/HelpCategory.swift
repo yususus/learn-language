@@ -8,11 +8,31 @@
 import SwiftUI
 
 struct HelpCategory: View {
+    var categoryTitle: String
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack(alignment: .leading){
+            HStack {
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.white).shadow(radius: 1, x: 5, y: 8)
+                Spacer()
+            }.padding()
+            
+            }.frame(width: Const.width * 0.4, height: Const.height * 0.18).background(.red).cornerRadius(20)
+    }
+}
+
+struct SentencesView: View {
+    var categoryTitle: String
+    var body: some View {
+        VStack(alignment: .leading){
+            HStack {
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.white).shadow(radius: 1, x: 5, y: 8)
+                Spacer()
+            }.padding()
+            
+            }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(.red).cornerRadius(20)
     }
 }
 
 #Preview {
-    HelpCategory()
+    HelpCategory(categoryTitle: "Sports")
 }
