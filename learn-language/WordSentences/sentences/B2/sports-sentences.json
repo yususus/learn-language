@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "Regular exercise contributes to overall physical health.",
+        "choices": [
+          "Düzenli egzersizin genel fiziksel sağlığa katkıda bulunduğuna inanıyorum.",
+          "Düzenli egzersiz gereksizdir.",
+          "Düzenli egzersiz sadece sporcular için önemlidir.",
+          "Düzenli egzersiz zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Team sports promote social interaction and teamwork.",
+        "choices": [
+          "Takım sporlarının sosyal etkileşimi ve takım çalışmasını teşvik ettiğine inanıyorum.",
+          "Takım sporları gereksizdir.",
+          "Takım sporları sadece gençler için önemlidir.",
+          "Takım sporları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Athletic competitions inspire people to achieve their best.",
+        "choices": [
+          "Spor müsabakalarının insanları en iyi başarılarını elde etmeye teşvik ettiğine inanıyorum.",
+          "Spor müsabakaları gereksizdir.",
+          "Spor müsabakaları sadece profesyonellere yöneliktir.",
+          "Spor müsabakaları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Physical fitness is essential for a healthy lifestyle.",
+        "choices": [
+          "Fiziksel sağlığın sağlıklı bir yaşam tarzı için gerekli olduğuna inanıyorum.",
+          "Fiziksel fitness gereksizdir.",
+          "Fiziksel fitness sadece gençler için önemlidir.",
+          "Fiziksel fitness zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Participating in sports can improve mental well-being.",
+        "choices": [
+          "Spor yapmanın zihinsel sağlığı iyileştirebileceğine inanıyorum.",
+          "Spor yapmak gereksizdir.",
+          "Spor yapmak yalnızca fiziksel sağlık için önemlidir.",
+          "Spor yapmak zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Learning new sports skills can boost self-confidence.",
+        "choices": [
+          "Yeni spor becerileri öğrenmenin öz güveni artırabileceğine inanıyorum.",
+          "Yeni spor becerileri öğrenmek gereksizdir.",
+          "Spor becerileri sadece profesyonellere yöneliktir.",
+          "Spor becerileri zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Yoga and meditation are beneficial for physical and mental health.",
+        "choices": [
+          "Yoga ve meditasyonun fiziksel ve zihinsel sağlık için faydalı olduğuna inanıyorum.",
+          "Yoga ve meditasyon gereksizdir.",
+          "Yoga ve meditasyon sadece rahatlama içindir.",
+          "Yoga ve meditasyon zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nutrition plays a crucial role in athletic performance.",
+        "choices": [
+          "Beslenmenin atletik performansta kritik bir rol oynadığına inanıyorum.",
+          "Beslenme gereksizdir.",
+          "Beslenme sadece diyet yapanlar için önemlidir.",
+          "Beslenme zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports help develop discipline and time management skills.",
+        "choices": [
+          "Sporun disiplin ve zaman yönetimi becerilerini geliştirmeye yardımcı olduğuna inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor sadece gençler için önemlidir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Outdoor activities encourage appreciation for nature.",
+        "choices": [
+          "Açık hava etkinliklerinin doğaya hayranlık duymayı teşvik ettiğine inanıyorum.",
+          "Açık hava etkinlikleri gereksizdir.",
+          "Açık hava etkinlikleri sadece eğlence içindir.",
+          "Açık hava etkinlikleri zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Regular sports participation can reduce stress levels.",
+        "choices": [
+          "Düzenli spor katılımının stres seviyelerini azaltabileceğine inanıyorum.",
+          "Düzenli spor gereksizdir.",
+          "Spor katılımı yalnızca fiziksel sağlık içindir.",
+          "Spor katılımı zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Watching sports can foster community spirit.",
+        "choices": [
+          "Spor izleme etkinliğinin topluluk ruhunu güçlendirdiğine inanıyorum.",
+          "Spor izlemek gereksizdir.",
+          "Spor izlemek sadece fanlar için önemlidir.",
+          "Spor izlemek zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Individual sports teach self-reliance and personal responsibility.",
+        "choices": [
+          "Bireysel sporların öz güven ve kişisel sorumluluk öğrettiğine inanıyorum.",
+          "Bireysel sporlar gereksizdir.",
+          "Bireysel sporlar yalnızca bazı insanlar için önemlidir.",
+          "Bireysel sporlar zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Competitive sports can improve focus and concentration.",
+        "choices": [
+          "Rekabetçi sporların dikkat ve konsantrasyonu artırabileceğine inanıyorum.",
+          "Rekabetçi sporlar gereksizdir.",
+          "Rekabetçi sporlar sadece profesyoneller için önemlidir.",
+          "Rekabetçi sporlar zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Swimming is an effective full-body workout.",
+        "choices": [
+          "Yüzmenin etkili bir tam vücut egzersizi olduğuna inanıyorum.",
+          "Yüzme gereksizdir.",
+          "Yüzme sadece yazın yapılır.",
+          "Yüzme zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Martial arts promote self-discipline and respect.",
+        "choices": [
+          "Savaş sanatlarının öz disiplin ve saygıyı teşvik ettiğine inanıyorum.",
+          "Savaş sanatları gereksizdir.",
+          "Savaş sanatları sadece savunma için önemlidir.",
+          "Savaş sanatları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Cycling is an environmentally friendly mode of transportation.",
+        "choices": [
+          "Bisiklet sürmenin çevre dostu bir ulaşım aracı olduğuna inanıyorum.",
+          "Bisiklet sürmek gereksizdir.",
+          "Bisiklet sürmek sadece eğlence içindir.",
+          "Bisiklet sürmek zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports can enhance one's ability to work under pressure.",
+        "choices": [
+          "Sporun baskı altında çalışabilme yeteneğini artırabileceğine inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor sadece gençler için önemlidir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Participating in sports can create lasting friendships.",
+        "choices": [
+          "Sporun katılımının kalıcı dostluklar oluşturabileceğine inanıyorum.",
+          "Spor katılımı gereksizdir.",
+          "Spor sadece tanıdık edinmek içindir.",
+          "Spor katılımı zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Fitness trends influence people's workout routines.",
+        "choices": [
+          "Fitness trendlerinin insanların egzersiz rutinlerini etkilediğine inanıyorum.",
+          "Fitness trendleri gereksizdir.",
+          "Fitness trendleri sadece gençler için önemlidir.",
+          "Fitness trendleri zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports medicine is essential for athlete care.",
+        "choices": [
+          "Spor tıbbının sporcu bakımı için gerekli olduğuna inanıyorum.",
+          "Spor tıbbı gereksizdir.",
+          "Spor tıbbı sadece profesyonellere yöneliktir.",
+          "Spor tıbbı zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Dance is a form of exercise that combines fitness and art.",
+        "choices": [
+          "Dansın fitness ve sanatı birleştiren bir egzersiz şekli olduğuna inanıyorum.",
+          "Dans gereksizdir.",
+          "Dans sadece eğlence içindir.",
+          "Dans zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports can be a powerful tool for social change.",
+        "choices": [
+          "Sporun sosyal değişim için güçlü bir araç olabileceğine inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor yalnızca eğlence içindir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Fitness challenges can motivate people to stay active.",
+        "choices": [
+          "Fitness yarışmalarının insanları aktif kalmaya motive ettiğine inanıyorum.",
+          "Fitness yarışmaları gereksizdir.",
+          "Fitness yarışmaları yalnızca gençler için önemlidir.",
+          "Fitness yarışmaları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports can improve community health overall.",
+        "choices": [
+          "Sporun toplum sağlığını genel olarak iyileştirebileceğine inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor yalnızca bazı insanlar için önemlidir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Running is a popular way to stay fit.",
+        "choices": [
+          "Koşmanın formda kalmanın popüler bir yolu olduğuna inanıyorum.",
+          "Koşmak gereksizdir.",
+          "Koşmak yalnızca sporcular için önemlidir.",
+          "Koşmak zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Playing sports can boost academic performance.",
+        "choices": [
+          "Spor oynamanın akademik performansı artırabileceğine inanıyorum.",
+          "Spor oynamak gereksizdir.",
+          "Spor oynamak sadece eğlence içindir.",
+          "Spor oynamak zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Motivational speakers can inspire athletes to achieve greatness.",
+        "choices": [
+          "Motivasyon konuşmacılarının sporcuları büyük başarılara teşvik edebileceğine inanıyorum.",
+          "Motivasyon konuşmaları gereksizdir.",
+          "Motivasyon konuşmaları yalnızca profesyoneller içindir.",
+          "Motivasyon konuşmaları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Being part of a team fosters a sense of belonging.",
+        "choices": [
+          "Bir takımın parçası olmanın aidiyet duygusunu teşvik ettiğine inanıyorum.",
+          "Takım olmak gereksizdir.",
+          "Takım olmak yalnızca bazı insanlar için önemlidir.",
+          "Takım olmak zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Fitness apps can help track progress and stay motivated.",
+        "choices": [
+          "Fitness uygulamalarının ilerlemeyi takip etme ve motive olma konusunda yardımcı olduğuna inanıyorum.",
+          "Fitness uygulamaları gereksizdir.",
+          "Fitness uygulamaları yalnızca profesyoneller içindir.",
+          "Fitness uygulamaları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Outdoor sports can enhance appreciation for the environment.",
+        "choices": [
+          "Açık hava sporlarının çevreye hayranlık duymayı artırabileceğine inanıyorum.",
+          "Açık hava sporları gereksizdir.",
+          "Açık hava sporları yalnızca eğlence içindir.",
+          "Açık hava sporları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Personal trainers can provide guidance and accountability.",
+        "choices": [
+          "Kişisel antrenörlerin rehberlik ve hesap verebilirlik sağlayabileceğine inanıyorum.",
+          "Kişisel antrenörler gereksizdir.",
+          "Kişisel antrenörler yalnızca zenginler için önemlidir.",
+          "Kişisel antrenörler zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports can teach valuable life lessons.",
+        "choices": [
+          "Sporun değerli yaşam dersleri öğretebileceğine inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor sadece eğlence içindir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Community sports programs can bring people together.",
+        "choices": [
+          "Topluluk spor programlarının insanları bir araya getirebileceğine inanıyorum.",
+          "Topluluk sporları gereksizdir.",
+          "Topluluk sporları sadece gençler için önemlidir.",
+          "Topluluk sporları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sports can enhance cognitive skills such as problem-solving.",
+        "choices": [
+          "Sporun problem çözme gibi bilişsel becerileri artırabileceğine inanıyorum.",
+          "Spor gereksizdir.",
+          "Spor yalnızca fiziksel sağlık içindir.",
+          "Spor zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Fitness challenges can build resilience and determination.",
+        "choices": [
+          "Fitness yarışmalarının dayanıklılık ve kararlılık geliştirebileceğine inanıyorum.",
+          "Fitness yarışmaları gereksizdir.",
+          "Fitness yarışmaları yalnızca gençler için önemlidir.",
+          "Fitness yarışmaları zorunlu değildir."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  

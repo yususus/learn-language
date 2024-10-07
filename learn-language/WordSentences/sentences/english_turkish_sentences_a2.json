@@ -1,0 +1,5002 @@
+[
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    },
+    {
+        "question": "Translate to Turkish: 'I am going to the park.'",
+        "options": [
+            "Ben parka gidiyorum.",
+            "Ben okula gidiyorum.",
+            "Ben alışverişe gidiyorum.",
+            "Ben sinemaya gidiyorum."
+        ],
+        "correct_answer": "Ben parka gidiyorum."
+    },
+    {
+        "question": "Translate to English: 'O bilgisayarda çalışıyor.'",
+        "options": [
+            "He is working on a car.",
+            "He is working on a book.",
+            "He is working on a computer.",
+            "He is working on a table."
+        ],
+        "correct_answer": "He is working on a computer."
+    },
+    {
+        "question": "Translate to Turkish: 'She likes reading books.'",
+        "options": [
+            "O kitap yazmayı seviyor.",
+            "O kitap okumayı seviyor.",
+            "O kitap satmayı seviyor.",
+            "O kitap almayı seviyor."
+        ],
+        "correct_answer": "O kitap okumayı seviyor."
+    },
+    {
+        "question": "Translate to English: 'Biz her gün kahvaltı yapıyoruz.'",
+        "options": [
+            "We eat breakfast every day.",
+            "We eat lunch every day.",
+            "We eat dinner every day.",
+            "We eat snacks every day."
+        ],
+        "correct_answer": "We eat breakfast every day."
+    },
+    {
+        "question": "Translate to Turkish: 'They are playing football.'",
+        "options": [
+            "Onlar basketbol oynuyor.",
+            "Onlar voleybol oynuyor.",
+            "Onlar futbol oynuyor.",
+            "Onlar tenis oynuyor."
+        ],
+        "correct_answer": "Onlar futbol oynuyor."
+    }
+]

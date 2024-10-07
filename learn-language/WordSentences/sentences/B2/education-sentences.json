@@ -1,0 +1,474 @@
+{
+    "questions": [
+      {
+        "question": "I believe that education is the key to success.",
+        "choices": [
+          "Eğitimin başarı için anahtar olduğuna inanıyorum.",
+          "Başarılı olmak için eğitime ihtiyaç yok.",
+          "Eğitim başarısızlıkla sonuçlanır.",
+          "Eğitim sadece zaman kaybıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Studying abroad can broaden one's horizons.",
+        "choices": [
+          "Yurt dışında eğitim almak bakış açısını genişletebilir.",
+          "Yurt dışında eğitim almak zorunlu değildir.",
+          "Yurt dışında eğitim almak pahalıdır.",
+          "Yurt dışında eğitim almak sadece turistliktir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Online learning has become increasingly popular in recent years.",
+        "choices": [
+          "Çevrimiçi eğitim son yıllarda giderek popüler hale geldi.",
+          "Çevrimiçi eğitim artık kullanılmıyor.",
+          "Çevrimiçi eğitim sadece çocuklar içindir.",
+          "Çevrimiçi eğitim geleneksel eğitimin yerini tamamen aldı."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Lifelong learning is essential in today's rapidly changing world.",
+        "choices": [
+          "Yaşam boyu öğrenme, günümüzün hızla değişen dünyasında esastır.",
+          "Yaşam boyu öğrenme sadece yaşlılar içindir.",
+          "Yaşam boyu öğrenme gereksizdir.",
+          "Yaşam boyu öğrenme sadece bir pazarlama taktiğidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Critical thinking skills are crucial for academic success.",
+        "choices": [
+          "Eleştirel düşünme becerileri akademik başarı için çok önemlidir.",
+          "Eleştirel düşünme becerileri gereksizdir.",
+          "Eleştirel düşünme becerileri sadece felsefe öğrencileri içindir.",
+          "Eleştirel düşünme becerileri akademik başarıyı engeller."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many universities offer scholarships to outstanding students.",
+        "choices": [
+          "Birçok üniversite üstün başarılı öğrencilere burs imkanı sunuyor.",
+          "Üniversiteler asla burs vermez.",
+          "Burslar sadece zengin öğrencilere verilir.",
+          "Burslar eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The importance of STEM education has been emphasized in recent years.",
+        "choices": [
+          "Son yıllarda STEM eğitiminin önemi vurgulanmaktadır.",
+          "STEM eğitimi artık önemsizdir.",
+          "STEM eğitimi sadece erkekler içindir.",
+          "STEM eğitimi yaratıcılığı öldürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Effective time management is crucial for students to balance their studies and personal life.",
+        "choices": [
+          "Etkili zaman yönetimi, öğrencilerin çalışmalarını ve kişisel hayatlarını dengelemesi için çok önemlidir.",
+          "Zaman yönetimi öğrenciler için gereksizdir.",
+          "Zaman yönetimi sadece yetişkinler içindir.",
+          "Zaman yönetimi öğrencilerin stresini artırır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are incorporating technology into their curriculum.",
+        "choices": [
+          "Birçok okul müfredatlarına teknolojiyi dahil ediyor.",
+          "Okullar teknoloji kullanımını yasaklıyor.",
+          "Teknoloji eğitimde hiçbir role sahip değildir.",
+          "Teknoloji sadece oyun oynamak için kullanılır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Extracurricular activities can enhance a student's overall educational experience.",
+        "choices": [
+          "Ders dışı etkinlikler öğrencinin genel eğitim deneyimini zenginleştirebilir.",
+          "Ders dışı etkinlikler zaman kaybıdır.",
+          "Ders dışı etkinlikler sadece spor odaklıdır.",
+          "Ders dışı etkinlikler akademik başarıyı düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many countries are investing heavily in improving their education systems.",
+        "choices": [
+          "Birçok ülke eğitim sistemlerini iyileştirmek için büyük yatırımlar yapıyor.",
+          "Ülkeler eğitime yatırım yapmayı bıraktı.",
+          "Eğitim sistemleri iyileştirmeye ihtiyaç duymaz.",
+          "Eğitim sistemlerine yatırım yapmak gereksizdir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Inclusive education aims to provide equal opportunities for all students.",
+        "choices": [
+          "Kapsayıcı eğitim, tüm öğrencilere eşit fırsatlar sunmayı amaçlar.",
+          "Kapsayıcı eğitim sadece engelli öğrenciler içindir.",
+          "Kapsayıcı eğitim eğitim kalitesini düşürür.",
+          "Kapsayıcı eğitim gereksiz bir kavramdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many educators believe that project-based learning enhances student engagement.",
+        "choices": [
+          "Birçok eğitimci, proje tabanlı öğrenmenin öğrenci katılımını artırdığına inanıyor.",
+          "Proje tabanlı öğrenme hiçbir fayda sağlamaz.",
+          "Proje tabanlı öğrenme sadece sanat dersleri içindir.",
+          "Proje tabanlı öğrenme öğrencileri sıkar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The COVID-19 pandemic has significantly impacted education worldwide.",
+        "choices": [
+          "COVID-19 pandemisi dünya çapında eğitimi önemli ölçüde etkiledi.",
+          "COVID-19 pandemisinin eğitim üzerinde hiçbir etkisi olmadı.",
+          "COVID-19 pandemisi eğitimi daha iyi hale getirdi.",
+          "COVID-19 pandemisi sadece yükseköğretimi etkiledi."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are focusing on developing students' soft skills.",
+        "choices": [
+          "Birçok okul öğrencilerin yumuşak becerilerini geliştirmeye odaklanıyor.",
+          "Yumuşak beceriler eğitimde önemsizdir.",
+          "Yumuşak beceriler sadece iş hayatında önemlidir.",
+          "Okullar sadece akademik becerilere odaklanmalıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Vocational education is gaining importance in many countries.",
+        "choices": [
+          "Mesleki eğitim birçok ülkede önem kazanıyor.",
+          "Mesleki eğitim artık kullanılmıyor.",
+          "Mesleki eğitim sadece başarısız öğrenciler içindir.",
+          "Mesleki eğitim ülke ekonomisine zarar verir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many educators advocate for a more personalized approach to learning.",
+        "choices": [
+          "Birçok eğitimci, öğrenmeye daha kişiselleştirilmiş bir yaklaşımı savunuyor.",
+          "Kişiselleştirilmiş öğrenme imkansızdır.",
+          "Kişiselleştirilmiş öğrenme sadece özel okullarda uygulanabilir.",
+          "Kişiselleştirilmiş öğrenme eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Digital literacy has become an essential skill in modern education.",
+        "choices": [
+          "Dijital okuryazarlık modern eğitimde temel bir beceri haline geldi.",
+          "Dijital okuryazarlık gereksiz bir beceridir.",
+          "Dijital okuryazarlık sadece bilgisayar derslerinde önemlidir.",
+          "Dijital okuryazarlık öğrencilerin dikkatini dağıtır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are implementing mindfulness programs to support student well-being.",
+        "choices": [
+          "Birçok okul, öğrenci refahını desteklemek için bilinçli farkındalık programları uyguluyor.",
+          "Bilinçli farkındalık programları eğitimde yeri yoktur.",
+          "Bilinçli farkındalık programları sadece yetişkinler içindir.",
+          "Bilinçli farkındalık programları akademik başarıyı düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The role of teachers is evolving in the digital age.",
+        "choices": [
+          "Öğretmenlerin rolü dijital çağda değişiyor.",
+          "Öğretmenlerin rolü hiç değişmedi.",
+          "Dijital çağda öğretmenlere gerek kalmadı.",
+          "Öğretmenler sadece teknoloji kullanımını öğretiyor."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many universities are offering interdisciplinary programs to prepare students for complex challenges.",
+        "choices": [
+          "Birçok üniversite, öğrencileri karmaşık zorluklara hazırlamak için disiplinler arası programlar sunuyor.",
+          "Disiplinler arası programlar gereksizdir.",
+          "Üniversiteler sadece tek bir alanda uzmanlaşma sunmalıdır.",
+          "Disiplinler arası programlar öğrencileri karıştırır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Continuous professional development is crucial for teachers to stay up-to-date.",
+        "choices": [
+          "Sürekli mesleki gelişim, öğretmenlerin güncel kalması için çok önemlidir.",
+          "Öğretmenler için mesleki gelişim gereksizdir.",
+          "Öğretmenler sadece bir kez eğitim almalıdır.",
+          "Mesleki gelişim öğretmenlerin zamanını boşa harcar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are implementing anti-bullying programs to create a safe learning environment.",
+        "choices": [
+          "Birçok okul, güvenli bir öğrenme ortamı oluşturmak için zorbalık karşıtı programlar uyguluyor.",
+          "Zorbalık karşıtı programlar gereksizdir.",
+          "Zorbalık okullarda bir sorun değildir.",
+          "Zorbalık karşıtı programlar öğrencileri zayıflatır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The importance of early childhood education is increasingly recognized.",
+        "choices": [
+          "Erken çocukluk eğitiminin önemi giderek daha fazla kabul görüyor.",
+          "Erken çocukluk eğitimi gereksizdir.",
+          "Eğitim sadece ilkokulda başlamalıdır.",
+          "Erken çocukluk eğitimi çocukların gelişimini olumsuz etkiler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many countries are working to improve access to higher education.",
+        "choices": [
+          "Birçok ülke yükseköğretime erişimi iyileştirmek için çalışıyor.",
+          "Yükseköğretime erişim zaten mükemmeldir.",
+          "Yükseköğretim sadece seçkinler içindir.",
+          "Yükseköğretime erişimi artırmak eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Environmental education is becoming an important part of many school curricula.",
+        "choices": [
+          "Çevre eğitimi birçok okul müfredatının önemli bir parçası haline geliyor.",
+          "Çevre eğitimi gereksizdir.",
+          "Çevre eğitimi sadece biyoloji derslerinde verilmelidir.",
+          "Çevre eğitimi öğrencileri endişelendirir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many educators emphasize the importance of fostering creativity in the classroom.",
+        "choices": [
+          "Birçok eğitimci, sınıfta yaratıcılığı teşvik etmenin önemini vurguluyor.",
+          "Yaratıcılık eğitimde önemsizdir.",
+          "Yaratıcılık sadece sanat derslerinde gereklidir.",
+          "Yaratıcılık akademik başarıyı engeller."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The integration of technology in education has transformed traditional teaching methods.",
+        "choices": [
+          "Eğitimde teknoloji entegrasyonu geleneksel öğretim yöntemlerini dönüştürdü.",
+          "Teknoloji eğitimde hiç kullanılmamalıdır.",
+          "Geleneksel öğretim yöntemleri değişmemiştir.",
+          "Teknoloji sadece eğlence amaçlı kullanılır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are adopting a more student-centered approach to learning.",
+        "choices": [
+          "Birçok okul öğrenmeye daha öğrenci merkezli bir yaklaşım benimsiyor.",
+          "Öğrenci merkezli yaklaşım etkisizdir.",
+          "Eğitim sadece öğretmen merkezli olmalıdır.",
+          "Öğrenci merkezli yaklaşım disiplini azaltır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Critical thinking is considered a key 21st-century skill in education.",
+        "choices": [
+          "Eleştirel düşünme, eğitimde önemli bir 21. yüzyıl becerisi olarak kabul ediliyor.",
+          "Eleştirel düşünme gereksiz bir beceridir.",
+          "Eleştirel düşünme sadece üniversitede öğretilmelidir.",
+          "Eleştirel düşünme öğrencileri olumsuz etkiler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many countries are investing in teacher training to improve education quality.",
+        "choices": [
+          "Birçok ülke eğitim kalitesini artırmak için öğretmen eğitimine yatırım yapıyor.",
+          "Öğretmen eğitimi gereksizdir.",
+          "Öğretmenler zaten yeterince eğitimlidir.",
+          "Öğretmen eğitimi eğitim bütçesini boşa harcar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The concept of lifelong learning is becoming increasingly important in today's rapidly changing world.",
+        "choices": [
+          "Yaşam boyu öğrenme kavramı, günümüzün hızla değişen dünyasında giderek daha önemli hale geliyor.",
+          "Yaşam boyu öğrenme gereksiz bir kavramdır.",
+          "Öğrenme sadece gençlik döneminde olmalıdır.",
+          "Yaşam boyu öğrenme sadece hobiler için geçerlidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are implementing programs to promote mental health and well-being among students.",
+        "choices": [
+          "Birçok okul, öğrenciler arasında ruh sağlığı ve refahı teşvik etmek için programlar uyguluyor.",
+          "Ruh sağlığı okulların sorumluluğunda değildir.",
+          "Ruh sağlığı programları gereksizdir.",
+          "Ruh sağlığı programları öğrencileri zayıflatır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The importance of STEM education in preparing students for future careers is widely recognized.",
+        "choices": [
+          "STEM eğitiminin öğrencileri gelecekteki kariyerlere hazırlamadaki önemi yaygın olarak kabul ediliyor.",
+          "STEM eğitimi gereksizdir.",
+          "STEM eğitimi sadece belirli öğrenciler içindir.",
+          "STEM eğitimi yaratıcılığı engeller."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many universities are offering online courses to make education more accessible.",
+        "choices": [
+          "Birçok üniversite, eğitimi daha erişilebilir kılmak için çevrimiçi kurslar sunuyor.",
+          "Çevrimiçi kurslar etkisizdir.",
+          "Eğitim sadece yüz yüze olmalıdır.",
+          "Çevrimiçi kurslar eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The role of artificial intelligence in education is a topic of growing interest and debate.",
+        "choices": [
+          "Yapay zekanın eğitimdeki rolü, artan ilgi ve tartışma konusudur.",
+          "Yapay zekanın eğitimde yeri yoktur.",
+          "Yapay zeka öğretmenlerin yerini alacaktır.",
+          "Yapay zeka sadece bilgisayar derslerinde kullanılmalıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many educators are emphasizing the importance of developing students' social and emotional skills.",
+        "choices": [
+          "Birçok eğitimci, öğrencilerin sosyal ve duygusal becerilerini geliştirmenin önemini vurguluyor.",
+          "Sosyal ve duygusal beceriler önemsizdir.",
+          "Okullar sadece akademik becerilere odaklanmalıdır.",
+          "Sosyal ve duygusal beceriler evde öğrenilmelidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The concept of inclusive education is gaining traction in many educational systems.",
+        "choices": [
+          "Kapsayıcı eğitim kavramı birçok eğitim sisteminde kabul görüyor.",
+          "Kapsayıcı eğitim gereksizdir.",
+          "Kapsayıcı eğitim sadece özel eğitim okullarında uygulanmalıdır.",
+          "Kapsayıcı eğitim eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are implementing project-based learning to enhance student engagement.",
+        "choices": [
+          "Birçok okul, öğrenci katılımını artırmak için proje tabanlı öğrenmeyi uyguluyor.",
+          "Proje tabanlı öğrenme etkisizdir.",
+          "Proje tabanlı öğrenme sadece ileri düzey öğrenciler içindir.",
+          "Proje tabanlı öğrenme çok zaman alıcıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The importance of digital literacy in today's education landscape cannot be overstated.",
+        "choices": [
+          "Günümüz eğitim ortamında dijital okuryazarlığın önemi abartılamaz.",
+          "Dijital okuryazarlık gereksizdir.",
+          "Dijital okuryazarlık sadece bilgisayar derslerinde önemlidir.",
+          "Dijital okuryazarlık öğrencileri teknolojiye bağımlı hale getirir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many countries are working to bridge the digital divide in education.",
+        "choices": [
+          "Birçok ülke eğitimde dijital uçurumu kapatmak için çalışıyor.",
+          "Dijital uçurum bir sorun değildir.",
+          "Dijital uçurum sadece gelişmekte olan ülkelerde vardır.",
+          "Dijital uçurumu kapatmak imkansızdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The role of assessment in education is evolving, with a focus on more formative approaches.",
+        "choices": [
+          "Eğitimde değerlendirmenin rolü, daha biçimlendirici yaklaşımlara odaklanarak gelişiyor.",
+          "Değerlendirme eğitimde gereksizdir.",
+          "Sadece sınavlar önemlidir.",
+          "Biçimlendirici değerlendirme etkisizdir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are incorporating mindfulness practices to help students manage stress.",
+        "choices": [
+          "Birçok okul, öğrencilerin stresi yönetmesine yardımcı olmak için bilinçli farkındalık uygulamalarını dahil ediyor.",
+          "Bilinçli farkındalık uygulamaları gereksizdir.",
+          "Stres yönetimi okulun sorumluluğu değildir.",
+          "Bilinçli farkındalık uygulamaları zaman kaybıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The importance of cultural diversity in education is increasingly recognized.",
+        "choices": [
+          "Eğitimde kültürel çeşitliliğin önemi giderek daha fazla kabul görüyor.",
+          "Kültürel çeşitlilik eğitimde önemsizdir.",
+          "Eğitim sadece baskın kültüre odaklanmalıdır.",
+          "Kültürel çeşitlilik öğrencileri karıştırır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many educators are advocating for a more holistic approach to education.",
+        "choices": [
+          "Birçok eğitimci, eğitime daha bütüncül bir yaklaşımı savunuyor.",
+          "Bütüncül eğitim gereksizdir.",
+          "Eğitim sadece akademik konulara odaklanmalıdır.",
+          "Bütüncül yaklaşım eğitim kalitesini düşürür."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The concept of personalized learning is gaining traction in many educational systems.",
+        "choices": [
+          "Kişiselleştirilmiş öğrenme kavramı birçok eğitim sisteminde kabul görüyor.",
+          "Kişiselleştirilmiş öğrenme imkansızdır.",
+          "Tüm öğrenciler aynı şekilde öğrenmelidir.",
+          "Kişiselleştirilmiş öğrenme çok maliyetlidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Many schools are implementing programs to promote global citizenship education.",
+        "choices": [
+          "Birçok okul, küresel vatandaşlık eğitimini teşvik etmek için programlar uyguluyor.",
+          "Küresel vatandaşlık eğitimi gereksizdir.",
+          "Eğitim sadece ulusal konulara odaklanmalıdır.",
+          "Küresel vatandaşlık eğitimi milliyetçiliği zayıflatır."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }

@@ -11,7 +11,7 @@ struct MainView: View {
     let levels = ["A1", "A2", "B1", "B2"]
 
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ScrollView {
                 ForEach(levels, id: \.self) { level in
                     NavigationLink {

@@ -1,0 +1,455 @@
+{
+    "sentences": [
+      {
+        "question": "The sun is a star.",
+        "choices": [
+          "Güneş bir yıldızdır.",
+          "Güneş bir gezegendir.",
+          "Güneş bir uydudur.",
+          "Güneş bir meteorittir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Water boils at 100 degrees Celsius.",
+        "choices": [
+          "Su 50 derece Celcius'ta kaynar.",
+          "Su 100 derece Celcius'ta kaynar.",
+          "Su 200 derece Celcius'ta kaynar.",
+          "Su 0 derece Celcius'ta kaynar."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+          "Bitkiler büyümek için güneş ışığına ihtiyaç duyar.",
+          "Bitkiler büyümek için suya ihtiyaç duyar.",
+          "Bitkiler büyümek için gübreye ihtiyaç duyar.",
+          "Bitkiler büyümek için karanlığa ihtiyaç duyar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Earth orbits the Sun.",
+        "choices": [
+          "Dünya Ay'ın etrafında döner.",
+          "Ay Dünya'nın etrafında döner.",
+          "Dünya Güneş'in etrafında döner.",
+          "Mars Dünya'nın etrafında döner."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Electricity powers our homes.",
+        "choices": [
+          "Elektrik evlerimizi aydınlatır.",
+          "Elektrik evlerimizi ısıtır.",
+          "Elektrik evlerimize güç sağlar.",
+          "Elektrik evlerimizi serinletir."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The sun is a star.",
+        "choices": [
+          "Güneş bir yıldızdır.",
+          "Güneş bir gezegendir.",
+          "Güneş bir uydudur.",
+          "Güneş bir meteorittir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Water boils at 100 degrees Celsius.",
+        "choices": [
+          "Su 50 derece Celcius'ta kaynar.",
+          "Su 100 derece Celcius'ta kaynar.",
+          "Su 200 derece Celcius'ta kaynar.",
+          "Su 0 derece Celcius'ta kaynar."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+          "Bitkiler büyümek için güneş ışığına ihtiyaç duyar.",
+          "Bitkiler büyümek için suya ihtiyaç duyar.",
+          "Bitkiler büyümek için gübreye ihtiyaç duyar.",
+          "Bitkiler büyümek için karanlığa ihtiyaç duyar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Earth orbits the Sun.",
+        "choices": [
+          "Dünya Ay'ın etrafında döner.",
+          "Ay Dünya'nın etrafında döner.",
+          "Dünya Güneş'in etrafında döner.",
+          "Mars Dünya'nın etrafında döner."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Electricity powers our homes.",
+        "choices": [
+          "Elektrik evlerimizi aydınlatır.",
+          "Elektrik evlerimizi ısıtır.",
+          "Elektrik evlerimize güç sağlar.",
+          "Elektrik evlerimizi serinletir."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The moon is Earth's satellite.",
+        "choices": [
+          "Ay Dünya'nın uydusudur.",
+          "Mars Dünya'nın uydusudur.",
+          "Venüs Dünya'nın uydusudur.",
+          "Merkür Dünya'nın uydusudur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Gravity keeps us on the ground.",
+        "choices": [
+          "Yer çekimi bizi havada tutar.",
+          "Yer çekimi bizi yere çeker.",
+          "Yer çekimi bizi suyun üzerinde tutar.",
+          "Yer çekimi bizi hareket ettirir."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Fish can breathe in water.",
+        "choices": [
+          "Balıklar suyun içinde nefes alır.",
+          "Balıklar havada nefes alır.",
+          "Balıklar karada nefes alır.",
+          "Balıklar toprağın altında nefes alır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A scientist studies nature.",
+        "choices": [
+          "Bir bilim insanı doğayı inceler.",
+          "Bir bilim insanı tarihi inceler.",
+          "Bir bilim insanı uzayı inceler.",
+          "Bir bilim insanı matematiği inceler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Stars are far away from Earth.",
+        "choices": [
+          "Yıldızlar Dünya'ya çok yakındır.",
+          "Yıldızlar Dünya'dan çok uzaktadır.",
+          "Yıldızlar Dünya'ya dokunabilir.",
+          "Yıldızlar Dünya'nın içindedir."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Earth orbits the Sun.",
+        "choices": [
+          "Dünya Güneş'in etrafında döner.",
+          "Ay Dünya'nın etrafında döner.",
+          "Güneş Ay'ın etrafında döner.",
+          "Dünya Ay'ın etrafında döner."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Water boils at 100 degrees Celsius.",
+        "choices": [
+          "Su 100 derece Celsius'ta kaynar.",
+          "Su 50 derece Celsius'ta kaynar.",
+          "Su 150 derece Celsius'ta kaynar.",
+          "Su 0 derece Celsius'ta kaynar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+          "Bitkiler büyümek için güneş ışığına ihtiyaç duyar.",
+          "Bitkiler büyümek için suya ihtiyaç duyar.",
+          "Bitkiler büyümek için toprağa ihtiyaç duyar.",
+          "Bitkiler büyümek için rüzgara ihtiyaç duyar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Moon reflects light from the Sun.",
+        "choices": [
+          "Ay, Güneş'ten gelen ışığı yansıtır.",
+          "Ay, Dünya'dan gelen ışığı yansıtır.",
+          "Ay, kendi ışığını yansıtır.",
+          "Ay, yıldızlardan gelen ışığı yansıtır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Gravity pulls objects toward the Earth.",
+        "choices": [
+          "Yerçekimi cisimleri Dünya'ya doğru çeker.",
+          "Yerçekimi cisimleri Ay'a doğru çeker.",
+          "Yerçekimi cisimleri Mars'a doğru çeker.",
+          "Yerçekimi cisimleri yukarıya doğru çeker."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "An atom is made of protons, neutrons, and electrons.",
+        "choices": [
+          "Bir atom protonlar, nötronlar ve elektronlardan oluşur.",
+          "Bir atom yalnızca protonlardan oluşur.",
+          "Bir atom yalnızca elektronlardan oluşur.",
+          "Bir atom yalnızca nötronlardan oluşur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The speed of light is approximately 300,000 km/s.",
+        "choices": [
+          "Işık hızı yaklaşık olarak 300,000 km/sn'dir.",
+          "Işık hızı yaklaşık olarak 150,000 km/sn'dir.",
+          "Işık hızı yaklaşık olarak 400,000 km/sn'dir.",
+          "Işık hızı yaklaşık olarak 200,000 km/sn'dir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Dinosaurs lived millions of years ago.",
+        "choices": [
+          "Dinozorlar milyonlarca yıl önce yaşadı.",
+          "Dinozorlar binlerce yıl önce yaşadı.",
+          "Dinozorlar yüzlerce yıl önce yaşadı.",
+          "Dinozorlar milyonlarca yıl sonra yaşayacak."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The human body is made of cells.",
+        "choices": [
+          "İnsan vücudu hücrelerden oluşur.",
+          "İnsan vücudu atomlardan oluşur.",
+          "İnsan vücudu kemiklerden oluşur.",
+          "İnsan vücudu kaslardan oluşur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sound travels faster in water than in air.",
+        "choices": [
+          "Ses suda havadan daha hızlı yayılır.",
+          "Ses havada suda daha hızlı yayılır.",
+          "Ses boşlukta daha hızlı yayılır.",
+          "Ses suda hiç yayılmaz."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Energy cannot be created or destroyed.",
+        "choices": [
+          "Enerji yaratılmaz ve yok edilemez.",
+          "Enerji yaratılır ama yok edilemez.",
+          "Enerji yok edilir ama yaratılmaz.",
+          "Enerji her zaman yaratılır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The sun is a star.",
+        "choices": [
+          "Güneş bir yıldızdır.",
+          "Güneş bir gezegendir.",
+          "Güneş bir ay'dır.",
+          "Güneş bir gök taşıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Oxygen is essential for human life.",
+        "choices": [
+          "Oksijen insan yaşamı için gereklidir.",
+          "Helyum insan yaşamı için gereklidir.",
+          "Karbon dioksit insan yaşamı için gereklidir.",
+          "Azot insan yaşamı için gereklidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Electricity flows through a conductor.",
+        "choices": [
+          "Elektrik bir iletkenden geçer.",
+          "Elektrik bir yalıtkandan geçer.",
+          "Elektrik bir duvardan geçer.",
+          "Elektrik bir plastikten geçer."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Photosynthesis occurs in plants.",
+        "choices": [
+          "Fotosentez bitkilerde gerçekleşir.",
+          "Fotosentez hayvanlarda gerçekleşir.",
+          "Fotosentez minerallerde gerçekleşir.",
+          "Fotosentez bakterilerde gerçekleşir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The heart pumps blood throughout the body.",
+        "choices": [
+          "Kalp kanı vücuda pompalar.",
+          "Kalp oksijeni vücuda pompalar.",
+          "Kalp gıdayı vücuda pompalar.",
+          "Kalp enerjiyi vücuda pompalar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "DNA carries genetic information.",
+        "choices": [
+          "DNA genetik bilgiyi taşır.",
+          "DNA enerji taşır.",
+          "DNA oksijen taşır.",
+          "DNA protein taşır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Milky Way is our galaxy.",
+        "choices": [
+          "Samanyolu bizim galaksimizdir.",
+          "Andromeda bizim galaksimizdir.",
+          "Mars bizim galaksimizdir.",
+          "Jüpiter bizim galaksimizdir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Atoms are the building blocks of matter.",
+        "choices": [
+          "Atomlar maddenin yapı taşlarıdır.",
+          "Elektronlar maddenin yapı taşlarıdır.",
+          "Hücreler maddenin yapı taşlarıdır.",
+          "Proteinler maddenin yapı taşlarıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Water is made up of hydrogen and oxygen.",
+        "choices": [
+          "Su hidrojen ve oksijenden oluşur.",
+          "Su hidrojen ve karbon'dan oluşur.",
+          "Su oksijen ve nitrojen'den oluşur.",
+          "Su karbon ve oksijenden oluşur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Evolution explains the diversity of life.",
+        "choices": [
+          "Evrim yaşam çeşitliliğini açıklar.",
+          "Yerçekimi yaşam çeşitliliğini açıklar.",
+          "Fotosentez yaşam çeşitliliğini açıklar.",
+          "Kimya yaşam çeşitliliğini açıklar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A volcano erupts when pressure builds up.",
+        "choices": [
+          "Bir volkan basınç biriktiğinde patlar.",
+          "Bir volkan sıcaklık düştüğünde patlar.",
+          "Bir volkan su biriktiğinde patlar.",
+          "Bir volkan oksijen bittiğinde patlar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Light travels in a straight line.",
+        "choices": [
+          "Işık düz bir çizgide yayılır.",
+          "Işık bir daire içinde yayılır.",
+          "Işık bir eğri boyunca yayılır.",
+          "Işık rastgele yayılır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Plants produce oxygen through photosynthesis.",
+        "choices": [
+          "Bitkiler fotosentez yoluyla oksijen üretir.",
+          "Bitkiler fotosentez yoluyla karbondioksit üretir.",
+          "Bitkiler fotosentez yoluyla su üretir.",
+          "Bitkiler fotosentez yoluyla enerji üretir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Ice melts at 0 degrees Celsius.",
+        "choices": [
+          "Buz 0 derece Celsius'ta erir.",
+          "Buz 50 derece Celsius'ta erir.",
+          "Buz -10 derece Celsius'ta erir.",
+          "Buz 100 derece Celsius'ta erir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Magnets have north and south poles.",
+        "choices": [
+          "Mıknatısların kuzey ve güney kutupları vardır.",
+          "Mıknatısların doğu ve batı kutupları vardır.",
+          "Mıknatısların kuzey ve doğu kutupları vardır.",
+          "Mıknatısların güney ve batı kutupları vardır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The solar system has eight planets.",
+        "choices": [
+          "Güneş sistemi sekiz gezegene sahiptir.",
+          "Güneş sistemi dokuz gezegene sahiptir.",
+          "Güneş sistemi yedi gezegene sahiptir.",
+          "Güneş sistemi on gezegene sahiptir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Stars produce light and heat.",
+        "choices": [
+          "Yıldızlar ışık ve ısı üretir.",
+          "Yıldızlar sadece ışık üretir.",
+          "Yıldızlar sadece ısı üretir.",
+          "Yıldızlar su üretir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A solid turns into a liquid when heated.",
+        "choices": [
+          "Bir katı ısıtıldığında sıvıya dönüşür.",
+          "Bir katı ısıtıldığında gaza dönüşür.",
+          "Bir katı ısıtıldığında buhara dönüşür.",
+          "Bir katı ısıtıldığında buz olur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A telescope is used to observe distant stars.",
+        "choices": [
+          "Bir teleskop uzak yıldızları gözlemlemek için kullanılır.",
+          "Bir teleskop yakın nesneleri gözlemlemek için kullanılır.",
+          "Bir teleskop hücreleri gözlemlemek için kullanılır.",
+          "Bir teleskop bakterileri gözlemlemek için kullanılır."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  

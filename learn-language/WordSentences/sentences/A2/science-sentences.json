@@ -1,0 +1,395 @@
+{
+    "questions": [
+      {
+        "question": "The Earth revolves around the Sun.",
+        "choices": [
+          "Dünya Güneş'in etrafında döner.",
+          "Dünya Ay'ın etrafında döner.",
+          "Güneş Dünya'nın etrafında döner.",
+          "Ay Dünya'nın etrafında döner."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Water freezes at 0 degrees Celsius.",
+        "choices": [
+          "Su 0 derece Celsius'ta donar.",
+          "Su 100 derece Celsius'ta donar.",
+          "Su 0 derece Celsius'ta kaynar.",
+          "Su 50 derece Celsius'ta donar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+          "Bitkilerin büyümesi için güneş ışığına ihtiyacı var.",
+          "Bitkiler suya ihtiyacı yoktur.",
+          "Bitkiler karanlıkta büyür.",
+          "Bitkiler sadece toprağa ihtiyaç duyar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The human body has 206 bones.",
+        "choices": [
+          "İnsan vücudunda 206 kemik var.",
+          "İnsan vücudunda 100 kemik var.",
+          "İnsan vücudunda 300 kemik var.",
+          "İnsan vücudunda 250 kemik var."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The water cycle includes evaporation.",
+        "choices": [
+          "Su döngüsü buharlaşmayı içerir.",
+          "Su döngüsü dondurmayı içerir.",
+          "Su döngüsü ışık saçmayı içerir.",
+          "Su döngüsü büyümeyi içerir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Oxygen is necessary for humans.",
+        "choices": [
+          "Oksijen insanlar için gereklidir.",
+          "Oksijen bitkiler için gereklidir.",
+          "Oksijen sadece su içinde bulunur.",
+          "Oksijen yoktur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The speed of light is very fast.",
+        "choices": [
+          "Işık hızı çok hızlıdır.",
+          "Ses hızı daha hızlıdır.",
+          "Işık hızı yavaştır.",
+          "Işık hızında herhangi bir şey yoktur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The moon affects the tides.",
+        "choices": [
+          "Ay gelgitleri etkiler.",
+          "Güneş gelgitleri etkiler.",
+          "Yıldızlar gelgitleri etkiler.",
+          "Rüzgar gelgitleri etkiler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Cells are the building blocks of life.",
+        "choices": [
+          "Hücreler yaşamın yapı taşlarıdır.",
+          "Hücreler sadece bitkilerde bulunur.",
+          "Hücreler insanlarda yoktur.",
+          "Hücreler sadece hayvanlarda bulunur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The heart pumps blood.",
+        "choices": [
+          "Kalp kanı pompalar.",
+          "Kalp havayı pompalar.",
+          "Kalp suyu pompalar.",
+          "Kalp gıdayı pompalar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Animals breathe oxygen.",
+        "choices": [
+          "Hayvanlar oksijen nefes alır.",
+          "Hayvanlar karbondioksit nefes alır.",
+          "Hayvanlar su nefes alır.",
+          "Hayvanlar hava nefes almaz."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Photosynthesis occurs in plants.",
+        "choices": [
+          "Fotosentez bitkilerde gerçekleşir.",
+          "Fotosentez hayvanlarda gerçekleşir.",
+          "Fotosentez su altında gerçekleşir.",
+          "Fotosentez sadece ağaçlarda gerçekleşir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Earth's atmosphere is essential for life.",
+        "choices": [
+          "Dünya'nın atmosferi yaşam için gereklidir.",
+          "Dünya'nın atmosferi yoktur.",
+          "Dünya'nın atmosferi sadece su içerir.",
+          "Dünya'nın atmosferi insanlar için gereksizdir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Gravity pulls objects toward the Earth.",
+        "choices": [
+          "Yerçekimi nesneleri Dünya'ya çeker.",
+          "Yerçekimi nesneleri uzaya çeker.",
+          "Yerçekimi sadece suda etkilidir.",
+          "Yerçekimi nesneleri yukarı iter."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Electricity can power machines.",
+        "choices": [
+          "Elektrik makineleri çalıştırabilir.",
+          "Elektrik sadece lambaları çalıştırır.",
+          "Elektrik ses yapar.",
+          "Elektrik ısıtma yapmaz."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The brain controls the body.",
+        "choices": [
+          "Beyin vücudu kontrol eder.",
+          "Kalp vücudu kontrol eder.",
+          "Karaciğer vücudu kontrol eder.",
+          "Akciğerler vücudu kontrol eder."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Earth is the third planet from the Sun.",
+        "choices": [
+          "Dünya, Güneş'ten üçüncü gezegendir.",
+          "Dünya, Güneş'ten beşinci gezegendir.",
+          "Dünya, Güneş'ten ikinci gezegendir.",
+          "Dünya, Güneş'ten dördüncü gezegendir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A microscope helps us see small things.",
+        "choices": [
+          "Mikroskop, küçük şeyleri görmemize yardımcı olur.",
+          "Mikroskop, büyük şeyleri görmemize yardımcı olur.",
+          "Mikroskop, ışığı görmemize yardımcı olur.",
+          "Mikroskop, sesi görmemize yardımcı olur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Animals reproduce to create offspring.",
+        "choices": [
+          "Hayvanlar yavrular oluşturmak için ürer.",
+          "Hayvanlar sadece yemek için ürer.",
+          "Hayvanlar üremez.",
+          "Hayvanlar sadece uyur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sound travels in waves.",
+        "choices": [
+          "Ses dalgalar halinde yayılır.",
+          "Ses düz bir çizgide yayılır.",
+          "Ses sadece su altında gider.",
+          "Ses rüzgarla gitmez."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The scientific method is used for experiments.",
+        "choices": [
+          "Bilimsel yöntem deneyler için kullanılır.",
+          "Bilimsel yöntem sadece kitaplar için kullanılır.",
+          "Bilimsel yöntem sadece insanlara uygulanır.",
+          "Bilimsel yöntem gereksizdir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Atoms are the smallest units of matter.",
+        "choices": [
+          "Atomlar maddenin en küçük birimleridir.",
+          "Atomlar en büyük birimlerdir.",
+          "Atomlar sadece sıvılarda bulunur.",
+          "Atomlar gaz halinde bulunmaz."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The sun gives us light and warmth.",
+        "choices": [
+          "Güneş bize ışık ve sıcaklık verir.",
+          "Güneş karanlık yapar.",
+          "Güneş sadece soğuk verir.",
+          "Güneş ışık vermez."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Electric circuits are used to power devices.",
+        "choices": [
+          "Elektrik devreleri cihazları çalıştırmak için kullanılır.",
+          "Elektrik devreleri sadece ışık için kullanılır.",
+          "Elektrik devreleri ses için kullanılır.",
+          "Elektrik devreleri su için kullanılır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Fossils are evidence of past life.",
+        "choices": [
+          "Fosiller geçmiş yaşamın kanıtıdır.",
+          "Fosiller sadece kayalarda bulunur.",
+          "Fosiller canlı değildir.",
+          "Fosiller sadece hayvanlarda bulunur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The respiratory system helps us breathe.",
+        "choices": [
+          "Solunum sistemi nefes almamıza yardımcı olur.",
+          "Sindirim sistemi nefes almaz.",
+          "Dolaşım sistemi nefes almaz.",
+          "Sinir sistemi nefes almaz."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The skeletal system supports the body.",
+        "choices": [
+          "İskelet sistemi vücudu destekler.",
+          "Dolaşım sistemi vücudu destekler.",
+          "Sinir sistemi vücudu destekler.",
+          "Sindirim sistemi vücudu destekler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Electricity can be dangerous.",
+        "choices": [
+          "Elektrik tehlikeli olabilir.",
+          "Elektrik güvenlidir.",
+          "Elektrik sadece ışık verir.",
+          "Elektrik ses yapar."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The internet connects computers worldwide.",
+        "choices": [
+          "İnternet, bilgisayarları dünya genelinde bağlar.",
+          "İnternet sadece yerel ağlar için vardır.",
+          "İnternet yalnızca telefonlar içindir.",
+          "İnternet yalnızca oyun içindir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Chemistry studies matter and its changes.",
+        "choices": [
+          "Kimya, maddeyi ve değişimlerini inceler.",
+          "Kimya, sadece bitkileri inceler.",
+          "Kimya, yalnızca hayvanları inceler.",
+          "Kimya, sadece ağaçları inceler."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Physics studies the laws of nature.",
+        "choices": [
+          "Fizik, doğanın yasalarını inceler.",
+          "Fizik yalnızca matematikle ilgilidir.",
+          "Fizik, sadece astronomi ile ilgilidir.",
+          "Fizik, sadece sosyal bilimlerle ilgilidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Biology studies living organisms.",
+        "choices": [
+          "Biyoloji, canlı organizmaları inceler.",
+          "Biyoloji sadece ölü organizmaları inceler.",
+          "Biyoloji yalnızca bitkilerle ilgilidir.",
+          "Biyoloji yalnızca hayvanlarla ilgilidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Earth's surface is covered by water.",
+        "choices": [
+          "Dünya'nın yüzeyi su ile kaplıdır.",
+          "Dünya'nın yüzeyi tamamen karadır.",
+          "Dünya'nın yüzeyi sadece havayla kaplıdır.",
+          "Dünya'nın yüzeyi sadece taşlarla kaplıdır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The seasons change throughout the year.",
+        "choices": [
+          "Mevsimler yıl boyunca değişir.",
+          "Mevsimler her zaman aynıdır.",
+          "Mevsimler sadece yazda değişir.",
+          "Mevsimler kışta değişmez."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Stars are massive balls of gas.",
+        "choices": [
+          "Yıldızlar büyük gaz toplarıdır.",
+          "Yıldızlar sadece su ile doludur.",
+          "Yıldızlar sadece katı maddelerden oluşur.",
+          "Yıldızlar yalnızca toprakla ilgilidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The brain is part of the nervous system.",
+        "choices": [
+          "Beyin sinir sisteminin bir parçasıdır.",
+          "Beyin yalnızca kalp ile ilgilidir.",
+          "Beyin sadece sindirimle ilgilidir.",
+          "Beyin yalnızca kaslarla ilgilidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The heart is a muscle.",
+        "choices": [
+          "Kalp bir kas grubudur.",
+          "Kalp bir kemiktir.",
+          "Kalp sadece yağdan oluşur.",
+          "Kalp yalnızca su ile ilgilidir."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The sun is a star.",
+        "choices": [
+          "Güneş bir yıldızdır.",
+          "Güneş bir gezegendir.",
+          "Güneş bir ay'dır.",
+          "Güneş bir uydudur."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Mercury is the closest planet to the Sun.",
+        "choices": [
+          "Merkür, Güneş'e en yakın gezegendir.",
+          "Merkür, Dünya'dan daha uzaktır.",
+          "Merkür, Ay'dan daha büyüktür.",
+          "Merkür, Mars'tan daha büyüktür."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  

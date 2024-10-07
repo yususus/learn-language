@@ -1,0 +1,375 @@
+{
+    "sentences": [
+      {
+        "question": "I usually wake up at 7 a.m. on weekdays.",
+        "choices": [
+          "Hafta içi genellikle sabah 7'de uyanırım.",
+          "Hafta içi her gün sabah 6'da uyanırım.",
+          "Hafta içi sabahları 8'de uyanırım.",
+          "Hafta içi sabahları hiç uyanmam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I eat breakfast with my family in the morning.",
+        "choices": [
+          "Sabahları ailemle kahvaltı yaparım.",
+          "Sabahları yalnız kahvaltı yaparım.",
+          "Sabahları dışarıda kahvaltı yaparım.",
+          "Sabahları kahvaltı yapmam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I go to school by bus every day.",
+        "choices": [
+          "Her gün okula otobüsle giderim.",
+          "Her gün okula yürüyerek giderim.",
+          "Her gün okula bisikletle giderim.",
+          "Her gün okula arabayla giderim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I study English for an hour every evening.",
+        "choices": [
+          "Her akşam bir saat İngilizce çalışırım.",
+          "Her akşam iki saat İngilizce çalışırım.",
+          "Her akşam üç saat İngilizce çalışırım.",
+          "Her akşam hiç İngilizce çalışmam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I have lunch with my friends at school.",
+        "choices": [
+          "Okulda arkadaşlarımla öğle yemeği yerim.",
+          "Okulda yalnız yemek yerim.",
+          "Okulda dışarıda yemek yerim.",
+          "Okulda hiç yemek yemem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I play football in the park after school.",
+        "choices": [
+          "Okuldan sonra parkta futbol oynarım.",
+          "Okuldan sonra parkta basketbol oynarım.",
+          "Okuldan sonra parkta tenis oynarım.",
+          "Okuldan sonra parka gitmem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I usually watch TV for an hour in the evening.",
+        "choices": [
+          "Akşamları genellikle bir saat televizyon izlerim.",
+          "Akşamları iki saat televizyon izlerim.",
+          "Akşamları üç saat televizyon izlerim.",
+          "Akşamları hiç televizyon izlemem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I go to bed at 10 p.m. on weekdays.",
+        "choices": [
+          "Hafta içi gece 10'da yatarım.",
+          "Hafta içi gece 11'de yatarım.",
+          "Hafta içi gece 12'de yatarım.",
+          "Hafta içi hiç uyumam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I always do my homework before dinner.",
+        "choices": [
+          "Akşam yemeğinden önce ödevimi her zaman yaparım.",
+          "Akşam yemeğinden sonra ödevimi yaparım.",
+          "Ödevimi hiç yapmam.",
+          "Ödevimi her gün unuturum."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I enjoy reading books in my free time.",
+        "choices": [
+          "Boş zamanlarımda kitap okumayı severim.",
+          "Boş zamanlarımda oyun oynamayı severim.",
+          "Boş zamanlarımda film izlemeyi severim.",
+          "Boş zamanlarımda dışarı çıkmayı severim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I help my parents with household chores.",
+        "choices": [
+          "Ebeveynlerime ev işlerinde yardım ederim.",
+          "Ebeveynlerime yardım etmem.",
+          "Eve gelince dinlenirim.",
+          "Ev işlerine karışmam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I sometimes go shopping with my friends.",
+        "choices": [
+          "Bazen arkadaşlarımla alışverişe giderim.",
+          "Her zaman arkadaşlarımla alışverişe giderim.",
+          "Hiç alışverişe gitmem.",
+          "Bazen yalnız alışveriş yaparım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I like cooking new dishes on weekends.",
+        "choices": [
+          "Hafta sonları yeni yemekler yapmayı severim.",
+          "Hafta sonları dışarıda yemek yemeyi severim.",
+          "Hafta sonları hiç yemek yapmam.",
+          "Hafta sonları sadece tatlı yaparım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I take a shower every morning.",
+        "choices": [
+          "Her sabah duş alırım.",
+          "Her akşam duş alırım.",
+          "Haftada bir duş alırım.",
+          "Duş almam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I ride my bike to the park on weekends.",
+        "choices": [
+          "Hafta sonları bisikletimle parka giderim.",
+          "Hafta sonları arabayla parka giderim.",
+          "Hafta sonları yürüyerek parka giderim.",
+          "Hafta sonları otobüsle parka giderim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I often spend time with my family.",
+        "choices": [
+          "Sık sık ailemle zaman geçiririm.",
+          "Sık sık yalnız kalmayı tercih ederim.",
+          "Sık sık dışarı çıkarım.",
+          "Sık sık arkadaşlarımla buluşurum."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I go for a walk in the evening with my dog.",
+        "choices": [
+          "Akşamları köpeğimle yürüyüşe çıkarım.",
+          "Akşamları yalnız yürüyüşe çıkarım.",
+          "Akşamları koşarım.",
+          "Akşamları hiç dışarı çıkmam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I have a garden where I grow flowers.",
+        "choices": [
+          "Çiçekler yetiştirdiğim bir bahçem var.",
+          "Hiç bahçem yok.",
+          "Sadece sebzeler yetiştiririm.",
+          "Bahçemde hiç çiçek yok."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I wash the dishes after dinner every night.",
+        "choices": [
+          "Her gece akşam yemeğinden sonra bulaşıkları yıkarım.",
+          "Her gece bulaşıkları yıkamam.",
+          "Bulaşıkları hep annem yıkar.",
+          "Her gece yemek yaparım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I play video games on Sundays.",
+        "choices": [
+          "Pazar günleri video oyunları oynarım.",
+          "Cumartesi günleri video oyunları oynarım.",
+          "Her gün video oyunları oynarım.",
+          "Hiç video oyunu oynamam."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I like listening to music while studying.",
+        "choices": [
+          "Çalışırken müzik dinlemeyi severim.",
+          "Çalışırken sessiz kalmayı severim.",
+          "Çalışırken televizyon izlemeyi severim.",
+          "Çalışırken oyun oynamayı severim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I often visit my grandparents on holidays.",
+        "choices": [
+          "Tatil günlerinde sık sık büyüklerimi ziyaret ederim.",
+          "Büyüklerimi hiç ziyaret etmem.",
+          "Yalnızca yaz tatilinde ziyaret ederim.",
+          "Büyüklerim yanımda değil."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I take care of my pets at home.",
+        "choices": [
+          "Evde evcil hayvanlarıma bakarım.",
+          "Evde hiç hayvanım yok.",
+          "Sadece balık beslerim.",
+          "Evdeki hayvanlarla hiç ilgilenmem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I enjoy watching movies with friends on weekends.",
+        "choices": [
+          "Hafta sonları arkadaşlarımla film izlemeyi severim.",
+          "Hafta sonları yalnız film izlemeyi severim.",
+          "Hafta sonları sadece kitap okurum.",
+          "Hafta sonları dışarı çıkmayı severim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I keep my room clean and tidy.",
+        "choices": [
+          "Odamı temiz ve düzenli tutarım.",
+          "Odamı hiç temizlemem.",
+          "Odam hep dağınıktır.",
+          "Odamı yalnızca yazın temizlerim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I help my sister with her homework.",
+        "choices": [
+          "Kız kardeşime ödevinde yardım ederim.",
+          "Kız kardeşime yardım etmem.",
+          "Kız kardeşimin ödevi yok.",
+          "Kız kardeşim hep yalnız çalışır."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I visit the library to borrow books.",
+        "choices": [
+          "Kitap ödünç almak için kütüphaneye giderim.",
+          "Kütüphaneye hiç gitmem.",
+          "Sadece arkadaşlarımla kütüphanede otururum.",
+          "Kütüphanede oyun oynarım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I enjoy painting in my free time.",
+        "choices": [
+          "Boş zamanlarımda resim yapmayı severim.",
+          "Boş zamanlarımda yalnızca müzik dinlerim.",
+          "Boş zamanlarımda oyun oynamayı severim.",
+          "Boş zamanlarımda film izlerim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I take the train to the city center on weekends.",
+        "choices": [
+          "Hafta sonları şehir merkezine trenle giderim.",
+          "Hafta sonları şehir merkezine arabayla giderim.",
+          "Hafta sonları şehir merkezine yürüyerek giderim.",
+          "Hafta sonları şehir merkezine gitmem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I like going to the beach in summer.",
+        "choices": [
+          "Yazın plaja gitmeyi severim.",
+          "Kışın plaja gitmeyi severim.",
+          "Yazın dağ yürüyüşü yapmayı severim.",
+          "Yazın evde kalmayı severim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I drink coffee in the morning to wake up.",
+        "choices": [
+          "Sabahları uyanmak için kahve içerim.",
+          "Kahve içmem.",
+          "Her sabah çay içerim.",
+          "Sabahları sadece su içerim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I visit my friends on weekends.",
+        "choices": [
+          "Hafta sonları arkadaşlarımı ziyaret ederim.",
+          "Hafta sonları yalnız kalmayı tercih ederim.",
+          "Hafta sonları hiç kimseyi ziyaret etmem.",
+          "Hafta sonları sadece dışarı çıkarım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I often cook dinner for my family.",
+        "choices": [
+          "Sık sık ailem için akşam yemeği yaparım.",
+          "Hiç yemek yapmam.",
+          "Sadece kahvaltı yaparım.",
+          "Sadece tatlı yaparım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I learn new things every day.",
+        "choices": [
+          "Her gün yeni şeyler öğrenirim.",
+          "Her gün hiç bir şey öğrenmem.",
+          "Her gün yalnızca kitap okurum.",
+          "Her gün bilgisayar kullanırım."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I like to travel and explore new places.",
+        "choices": [
+          "Yeni yerler keşfetmeyi ve seyahat etmeyi severim.",
+          "Sadece evde kalmayı severim.",
+          "Seyahat etmem.",
+          "Yeni yerler görmek istemem."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I often go to the cinema with my friends.",
+        "choices": [
+          "Sık sık arkadaşlarımla sinemaya giderim.",
+          "Sadece tek başıma sinemaya giderim.",
+          "Sinema hiç gitmem.",
+          "Sadece televizyon izlerim."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "I write in my diary every night.",
+        "choices": [
+          "Her gece günlüğüme yazarım.",
+          "Hiç yazmam.",
+          "Her gece televizyon izlerim.",
+          "Her gece yalnızca uyurum."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  
