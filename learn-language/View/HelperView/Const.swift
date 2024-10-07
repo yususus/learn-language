@@ -18,7 +18,7 @@ struct PressableButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
             
-            .background(configuration.isPressed ? Color.yellow : Color.red)
+            .background(configuration.isPressed ? Color.blue : Color.blue.opacity(0.3))
             .cornerRadius(20)
             .scaleEffect(configuration.isPressed ? 0.95 : 1.0)
             .animation(.easeInOut(duration: 0.2), value: configuration.isPressed)
