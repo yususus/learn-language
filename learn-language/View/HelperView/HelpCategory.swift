@@ -12,11 +12,11 @@ struct HelpCategory: View {
     var body: some View {
         VStack(alignment: .leading){
             HStack {
-                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.white).shadow(radius: 1, x: 5, y: 8)
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(LinearGradient(colors: [.black.opacity(0.65), .black.opacity(0.8), ], startPoint: .top, endPoint: .bottomTrailing)).shadow(radius: 1, x: 5, y: 8)
                 Spacer()
             }.padding()
             
-        }.frame(width: Const.width * 0.4, height: Const.height * 0.18).background(Color.blue.opacity(0.3).gradient).cornerRadius(20)
+        }.frame(width: Const.width * 0.48, height: Const.height * 0.18).background(LinearGradient(gradient: Gradient(colors: [.red.opacity(0.3), .blue.opacity(0.8), ]), startPoint: .top, endPoint: .bottomTrailing)).cornerRadius(20)
     }
 }
 
@@ -25,14 +25,14 @@ struct SentencesView: View {
     var body: some View {
         VStack(alignment: .leading){
             HStack {
-                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.white).shadow(radius: 1, x: 5, y: 8)
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(LinearGradient(colors: [.black.opacity(0.65), .black.opacity(0.8), ], startPoint: .top, endPoint: .bottomTrailing)).shadow(radius: 1, x: 5, y: 8)
                 Spacer()
             }.padding()
             
-        }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(Color.blue.opacity(0.3).gradient).cornerRadius(20)
+        }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(LinearGradient(gradient: Gradient(colors: [.red.opacity(0.2), .blue.opacity(0.8), ]), startPoint: .top, endPoint: .bottomTrailing)).cornerRadius(20)
     }
 }
 
 #Preview {
-    HelpCategory(categoryTitle: "Sports")
+    HelpCategory(categoryTitle: "Education")
 }
