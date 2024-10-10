@@ -18,7 +18,7 @@ struct HelpQuestion: View {
                 Button {
                     
                 } label: {
-                    Text("dasd").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
+                    Text("seçenek1").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
                     .frame(width: Const.width * 0.9, height: Const.height * 0.07).background(.brown.opacity(0.1)).cornerRadius(20).overlay(
                         RoundedRectangle(cornerRadius: 20)
                             .stroke(.black, lineWidth: 1)
@@ -27,7 +27,7 @@ struct HelpQuestion: View {
                 Button {
                     
                 } label: {
-                    Text("dasd").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
+                    Text("seçenek2").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
                     .frame(width: Const.width * 0.9, height: Const.height * 0.07).background(.brown.opacity(0.1)).cornerRadius(20).overlay(
                         RoundedRectangle(cornerRadius: 20)
                             .stroke(.black, lineWidth: 1)
@@ -36,7 +36,7 @@ struct HelpQuestion: View {
                 Button {
                     
                 } label: {
-                    Text("dasd").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
+                    Text("seçenek3").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
                     .frame(width: Const.width * 0.9, height: Const.height * 0.07).background(.brown.opacity(0.1)).cornerRadius(20).overlay(
                         RoundedRectangle(cornerRadius: 20)
                             .stroke(.black, lineWidth: 1)
@@ -45,7 +45,7 @@ struct HelpQuestion: View {
                 Button {
                     
                 } label: {
-                    Text("dasd").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
+                    Text("seçenek4").foregroundStyle(.black.opacity(0.7)).fontWeight(.bold)
                         .frame(width: Const.width * 0.9, height: Const.height * 0.07).background(.brown.opacity(0.1)).cornerRadius(20).overlay(
                             RoundedRectangle(cornerRadius: 20)
                                 .stroke(.black, lineWidth: 1)

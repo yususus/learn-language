@@ -16,7 +16,7 @@ struct HelpMain: View {
                 Image(title).resizable()
             }.padding()
             
-        }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(LinearGradient(gradient: Gradient(colors: [.red.opacity(0.2), .blue.opacity(0.8), ]), startPoint: .top, endPoint: .bottomTrailing)).cornerRadius(20)
+        }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(LinearGradient(gradient: Gradient(colors: [.red.opacity(0.25), .brown.opacity(0.25), ]), startPoint: .topTrailing, endPoint: .bottomTrailing)).cornerRadius(20)
         
             
         

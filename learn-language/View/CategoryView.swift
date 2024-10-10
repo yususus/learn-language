@@ -11,6 +11,7 @@ struct CategoryView: View {
     var title: String
     let words = ["Sport", "Science","Family", "Education", "Life"]
     let sentences = ["Sport", "Science","Family", "Education","Life"]
+    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     var body: some View {
         VStack{
             
@@ -53,7 +54,21 @@ struct CategoryView: View {
                 }
                     
             }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
-        }
+        }.navigationBarBackButtonHidden(true) // Varsayılan geri tuşunu gizle
+            .toolbar {
+                ToolbarItem(placement: .navigationBarLeading) {
+                    Button(action: {
+                        // Geri gitme aksiyonu
+                        // Örneğin:
+                        self.presentationMode.wrappedValue.dismiss()
+                    }) {
+                        HStack {
+                            Image(systemName: "chevron.left") // Sol ok simgesi
+                            Text("Home") // Sabit "Home" metni
+                        }
+                    }
+                }
+            }
         
     }
 }

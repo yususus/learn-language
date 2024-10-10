@@ -9,6 +9,18 @@ import SwiftUI
 
 struct MainView: View {
     let levels = ["A1", "A2", "B1", "B2"]
+    
+    var currentGreeting: String {
+            let hour = Calendar.current.component(.hour, from: Date())
+            switch hour {
+            case 6..<10:
+                return "Good Morning"
+            case 10..<18:
+                return "Have a Nice Day"
+            default:
+                return "Good Night"
+            }
+        }
 
     var body: some View {
         NavigationStack {
@@ -22,7 +34,7 @@ struct MainView: View {
                     .buttonStyle(PressableButtonStyle())
                 }
             }
-            .navigationTitle("Good Morning")
+            .navigationTitle(currentGreeting)
         }
     }
 }

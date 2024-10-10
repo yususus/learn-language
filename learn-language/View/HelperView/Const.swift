@@ -19,8 +19,8 @@ struct PressableButtonStyle: ButtonStyle {
         configuration.label
             .background(
                 configuration.isPressed ?
-                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.blue]), startPoint: .top, endPoint: .bottom) :
-                LinearGradient(gradient: Gradient(colors: [.red.opacity(0.1), .blue.opacity(0.4)]), startPoint: .top, endPoint: .bottomTrailing)
+                LinearGradient(gradient: Gradient(colors: [.red.opacity(0.25), .brown.opacity(0.1)]), startPoint: .topTrailing, endPoint: .bottomTrailing) :
+                    LinearGradient(gradient: Gradient(colors: [.red.opacity(0), .brown.opacity(0)]), startPoint: .topTrailing, endPoint: .bottomTrailing)
             )
             .cornerRadius(20)
             .scaleEffect(configuration.isPressed ? 0.95 : 1.0)
