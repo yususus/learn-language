@@ -479,7 +479,407 @@
           "Kuzenim yemek yapmayı çok sever."
         ],
         "correctAnswer": 0
-      }
+      },
+      {
+            "question": "My mother likes to read books.",
+            "choices": [
+              "Annem kitap okumayı sever.",
+              "Annem koşmayı sever.",
+              "Annem yemek yapmayı sever.",
+              "Annem uyumayı sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My father goes to work every day.",
+            "choices": [
+              "Babam her gün işe gider.",
+              "Babam her gün spor yapar.",
+              "Babam her gün yemek yapar.",
+              "Babam her gün televizyon izler."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My brother plays video games after school.",
+            "choices": [
+              "Erkek kardeşim okuldan sonra video oyunları oynar.",
+              "Erkek kardeşim okuldan sonra ders çalışır.",
+              "Erkek kardeşim okuldan sonra dışarı çıkar.",
+              "Erkek kardeşim okuldan sonra kitap okur."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "We watch movies together on weekends.",
+            "choices": [
+              "Biz hafta sonları birlikte film izleriz.",
+              "Biz hafta sonları birlikte oyun oynarız.",
+              "Biz hafta sonları birlikte yemek yaparız.",
+              "Biz hafta sonları birlikte yürüyüş yaparız."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My sister likes to draw pictures.",
+            "choices": [
+              "Kız kardeşim resim yapmayı sever.",
+              "Kız kardeşim kitap okumayı sever.",
+              "Kız kardeşim dans etmeyi sever.",
+              "Kız kardeşim şarkı söylemeyi sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My mother wakes up early in the morning.",
+            "choices": [
+              "Annem sabahları erken kalkar.",
+              "Annem akşamları erken kalkar.",
+              "Annem gece geç kalkar.",
+              "Annem hiç kalkmaz."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My father loves coffee.",
+            "choices": [
+              "Babam kahveyi çok sever.",
+              "Babam çayı çok sever.",
+              "Babam suyu çok sever.",
+              "Babam sütü çok sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "We play board games on rainy days.",
+            "choices": [
+              "Yağmurlu günlerde masa oyunları oynarız.",
+              "Yağmurlu günlerde dışarı çıkarız.",
+              "Yağmurlu günlerde kitap okuruz.",
+              "Yağmurlu günlerde televizyon izleriz."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My uncle is a good driver.",
+            "choices": [
+              "Amcam iyi bir şofördür.",
+              "Amcam iyi bir aşçıdır.",
+              "Amcam iyi bir doktor.",
+              "Amcam iyi bir öğretmendir."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My aunt works in a hospital.",
+            "choices": [
+              "Teyzem hastanede çalışır.",
+              "Teyzem okulda çalışır.",
+              "Teyzem evde çalışır.",
+              "Teyzem dışarıda çalışır."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "We go for walks in the park.",
+            "choices": [
+              "Biz parkta yürüyüş yaparız.",
+              "Biz parkta koşarız.",
+              "Biz parkta oyun oynarız.",
+              "Biz parkta otururuz."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My grandfather wakes up early.",
+            "choices": [
+              "Büyükbabam sabahları erken kalkar.",
+              "Büyükbabam gece kalkar.",
+              "Büyükbabam akşam kalkar.",
+              "Büyükbabam hiç kalkmaz."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My family likes to visit museums.",
+            "choices": [
+              "Ailem müzeleri ziyaret etmeyi sever.",
+              "Ailem sinemayı ziyaret etmeyi sever.",
+              "Ailem marketi ziyaret etmeyi sever.",
+              "Ailem okulu ziyaret etmeyi sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My father drives a big car.",
+            "choices": [
+              "Babam büyük bir araba sürer.",
+              "Babam küçük bir araba sürer.",
+              "Babam motosiklet sürer.",
+              "Babam bisiklet sürer."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My mother likes to listen to music.",
+            "choices": [
+              "Annem müzik dinlemeyi sever.",
+              "Annem resim yapmayı sever.",
+              "Annem televizyon izlemeyi sever.",
+              "Annem spor yapmayı sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "We go shopping on Sundays.",
+            "choices": [
+              "Pazar günleri alışverişe gideriz.",
+              "Pazartesi günleri alışverişe gideriz.",
+              "Cumartesi günleri alışverişe gideriz.",
+              "Cuma günleri alışverişe gideriz."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My sister wants a new bicycle.",
+            "choices": [
+              "Kız kardeşim yeni bir bisiklet istiyor.",
+              "Kız kardeşim yeni bir araba istiyor.",
+              "Kız kardeşim yeni bir telefon istiyor.",
+              "Kız kardeşim yeni bir kitap istiyor."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "We play football in the garden.",
+            "choices": [
+              "Bahçede futbol oynarız.",
+              "Bahçede basketbol oynarız.",
+              "Bahçede tenis oynarız.",
+              "Bahçede satranç oynarız."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My father likes to read history books.",
+            "choices": [
+              "Babam tarih kitapları okumayı sever.",
+              "Babam roman okumayı sever.",
+              "Babam bilim kitapları okumayı sever.",
+              "Babam dergi okumayı sever."
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "My grandparents visit us every month.",
+            "choices": [
+              "Büyükannem ve büyükbabam her ay bizi ziyaret eder.",
+              "Büyükannem ve büyükbabam her hafta bizi ziyaret eder.",
+              "Büyükannem ve büyükbabam her yıl bizi ziyaret eder.",
+              "Büyükannem ve büyükbabam hiç bizi ziyaret etmez."
+            ],
+            "correctAnswer": 0
+          },
+          {
+                "question": "My brother likes to play chess.",
+                "choices": [
+                  "Erkek kardeşim satranç oynamayı sever.",
+                  "Erkek kardeşim futbol oynamayı sever.",
+                  "Erkek kardeşim basketbol oynamayı sever.",
+                  "Erkek kardeşim tenis oynamayı sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My father reads books before bed.",
+                "choices": [
+                  "Babam yatmadan önce kitap okur.",
+                  "Babam yatmadan önce yemek yapar.",
+                  "Babam yatmadan önce televizyon izler.",
+                  "Babam yatmadan önce koşar."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We visit our grandparents in the village.",
+                "choices": [
+                  "Biz köydeki büyükbabamızı ziyaret ederiz.",
+                  "Biz şehirdeki büyükbabamızı ziyaret ederiz.",
+                  "Biz parktaki büyükbabamızı ziyaret ederiz.",
+                  "Biz okuldaki büyükbabamızı ziyaret ederiz."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My cousin is very tall.",
+                "choices": [
+                  "Kuzenim çok uzun.",
+                  "Kuzenim çok kısa.",
+                  "Kuzenim çok hızlı.",
+                  "Kuzenim çok sessiz."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My uncle likes to cook on weekends.",
+                "choices": [
+                  "Amcam hafta sonları yemek yapmayı sever.",
+                  "Amcam hafta sonları koşmayı sever.",
+                  "Amcam hafta sonları yürüyüş yapmayı sever.",
+                  "Amcam hafta sonları kitap okumayı sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My aunt loves to travel.",
+                "choices": [
+                  "Teyzem seyahat etmeyi çok sever.",
+                  "Teyzem evde kalmayı sever.",
+                  "Teyzem yemek yapmayı sever.",
+                  "Teyzem spor yapmayı sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We eat breakfast together every day.",
+                "choices": [
+                  "Biz her gün birlikte kahvaltı yaparız.",
+                  "Biz her gün birlikte akşam yemeği yeriz.",
+                  "Biz her gün birlikte öğle yemeği yeriz.",
+                  "Biz her gün birlikte yürüyüş yaparız."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My sister studies very hard.",
+                "choices": [
+                  "Kız kardeşim çok çalışır.",
+                  "Kız kardeşim çok koşar.",
+                  "Kız kardeşim çok uyur.",
+                  "Kız kardeşim çok okur."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My father has a black car.",
+                "choices": [
+                  "Babamın siyah bir arabası var.",
+                  "Babamın kırmızı bir arabası var.",
+                  "Babamın beyaz bir arabası var.",
+                  "Babamın mavi bir arabası var."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We play football in the park on Sundays.",
+                "choices": [
+                  "Pazar günleri parkta futbol oynarız.",
+                  "Pazar günleri parkta basketbol oynarız.",
+                  "Pazar günleri parkta tenis oynarız.",
+                  "Pazar günleri parkta satranç oynarız."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My grandmother bakes delicious cakes.",
+                "choices": [
+                  "Büyükannem harika kekler yapar.",
+                  "Büyükannem harika kurabiyeler yapar.",
+                  "Büyükannem harika ekmek yapar.",
+                  "Büyükannem harika yemek yapar."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We go to the beach every summer.",
+                "choices": [
+                  "Biz her yaz plaja gideriz.",
+                  "Biz her yaz parka gideriz.",
+                  "Biz her yaz dağa gideriz.",
+                  "Biz her yaz ormana gideriz."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My brother likes to swim in the pool.",
+                "choices": [
+                  "Erkek kardeşim havuzda yüzmeyi sever.",
+                  "Erkek kardeşim denizde yüzmeyi sever.",
+                  "Erkek kardeşim parkta yüzmeyi sever.",
+                  "Erkek kardeşim bahçede yüzmeyi sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My cousin wants to be a pilot.",
+                "choices": [
+                  "Kuzenim pilot olmak istiyor.",
+                  "Kuzenim öğretmen olmak istiyor.",
+                  "Kuzenim doktor olmak istiyor.",
+                  "Kuzenim mühendis olmak istiyor."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We celebrate New Year's Eve together.",
+                "choices": [
+                  "Yılbaşı gecesini birlikte kutlarız.",
+                  "Doğum gününü birlikte kutlarız.",
+                  "Bayramı birlikte kutlarız.",
+                  "Tatili birlikte kutlarız."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My father likes to play tennis.",
+                "choices": [
+                  "Babam tenis oynamayı sever.",
+                  "Babam futbol oynamayı sever.",
+                  "Babam basketbol oynamayı sever.",
+                  "Babam voleybol oynamayı sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We visit the zoo every year.",
+                "choices": [
+                  "Biz her yıl hayvanat bahçesine gideriz.",
+                  "Biz her yıl sinemaya gideriz.",
+                  "Biz her yıl okula gideriz.",
+                  "Biz her yıl kütüphaneye gideriz."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My grandmother loves knitting.",
+                "choices": [
+                  "Büyükannem örgü örmeyi sever.",
+                  "Büyükannem dikiş yapmayı sever.",
+                  "Büyükannem yemek yapmayı sever.",
+                  "Büyükannem yürüyüş yapmayı sever."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "My sister helps me with my homework.",
+                "choices": [
+                  "Kız kardeşim bana ödevimde yardım eder.",
+                  "Kız kardeşim bana yemek yapmada yardım eder.",
+                  "Kız kardeşim bana temizlikte yardım eder.",
+                  "Kız kardeşim bana alışverişte yardım eder."
+                ],
+                "correctAnswer": 0
+              },
+              {
+                "question": "We have a family picnic every spring.",
+                "choices": [
+                  "Her bahar aile pikniği yaparız.",
+                  "Her yaz aile pikniği yaparız.",
+                  "Her kış aile pikniği yaparız.",
+                  "Her sonbahar aile pikniği yaparız."
+                ],
+                "correctAnswer": 0
+              }
     ]
   }
   

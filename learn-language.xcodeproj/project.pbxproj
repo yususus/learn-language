@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8870286F2CB8594B00873C07 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 8870286E2CB8594B00873C07 /* SwiftyJSON */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		88B564B02CB02012005F1949 /* learn-language.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "learn-language.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8870286F2CB8594B00873C07 /* SwiftyJSON in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 			);
 			name = "learn-language";
 			packageProductDependencies = (
+				8870286E2CB8594B00873C07 /* SwiftyJSON */,
 			);
 			productName = "learn-language";
 			productReference = 88B564B02CB02012005F1949 /* learn-language.app */;
@@ -107,6 +113,9 @@
 			);
 			mainGroup = 88B564A72CB02012005F1949;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				8870286D2CB8594B00873C07 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 88B564B12CB02012005F1949 /* Products */;
 			projectDirPath = "";
@@ -349,6 +358,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8870286D2CB8594B00873C07 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8870286E2CB8594B00873C07 /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8870286D2CB8594B00873C07 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 88B564A82CB02012005F1949 /* Project object */;
 }
