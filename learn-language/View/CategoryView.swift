@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CategoryView: View {
     var title: String
-    let words = ["Sport", "Science","Family", "Education", "Life"]
+    let words = ["General"]
     let sentences = ["Sport", "Science","Family", "Education","Life"]
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     var body: some View {

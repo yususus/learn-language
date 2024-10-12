@@ -45,7 +45,13 @@ struct HelpQuestion: View {
                     }
 
                     Spacer()
-
+                    // Doğru cevabı göstermek için yeni bir VStack
+                    if isCorrect == false {
+                        Text("Correct Answer: \(question.choices[question.correctAnswer])")
+                            .foregroundColor(.green)
+                            .fontWeight(.bold)
+                            .padding()
+                    }
                     Button {
                         if let selectedAnswer = selectedAnswer {
                             isCorrect = selectedAnswer == question.correctAnswer
@@ -59,13 +65,7 @@ struct HelpQuestion: View {
                             .cornerRadius(20)
                     }
 
-                    // Doğru cevabı göstermek için yeni bir VStack
-                    if isCorrect == false {
-                        Text("Correct Answer: \(question.choices[question.correctAnswer])")
-                            .foregroundColor(.green)
-                            .fontWeight(.bold)
-                            .padding()
-                    }
+                    
                 }
                 .padding()
             }
