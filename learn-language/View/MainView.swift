@@ -27,7 +27,7 @@ struct MainView: View {
             ScrollView {
                 ForEach(levels, id: \.self) { level in
                     NavigationLink {
-                        CategoryView(title: level)
+                        CategoryView(title: level, level: level)
                     } label: {
                         HelpMain(title: level)
                     }

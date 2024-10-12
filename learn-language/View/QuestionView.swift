@@ -9,13 +9,16 @@ import SwiftUI
 
 struct QuestionView: View {
     var title : String
+    var level: String   // Seviye parametresi
+    var category: String // Kategori parametresi
+
     var body: some View {
         VStack {
-            HelpQuestion()
+            HelpQuestion(level: level, category: category)
         }.navigationTitle(title)
     }
 }
 
 #Preview {
-    QuestionView(title: "ads")
+    QuestionView(title: "ads",level: "A1", category: "General")
 }

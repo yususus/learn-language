@@ -8,7 +8,7 @@
 import Foundation
 
 struct QuestionModel: Codable, Identifiable {
-    let id = UUID()
+    let id: Int 
     let question: String
     let choices: [String]
     let correctAnswer: Int

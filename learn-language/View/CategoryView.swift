@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CategoryView: View {
     var title: String
+    var level: String
     let words = ["General"]
     let sentences = ["Sport", "Science","Family", "Education","Life"]
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
@@ -25,15 +26,13 @@ struct CategoryView: View {
                     HStack {
                         ForEach(words, id: \.self){ category in
                             NavigationLink {
-                                QuestionView(title: category)
+                                QuestionView(title: category, level: level, category: category)
                             } label: {
                                 HelpCategory(categoryTitle: category)
                             }
                             .buttonStyle(PressableButtonStyle())
                             
-                            
                         }
-                        
                     }
                 }.padding()
                 HStack {
@@ -42,17 +41,15 @@ struct CategoryView: View {
                     Spacer()
                 }.padding(.horizontal, Const.width * 0.05)
                 VStack{
-                    ForEach(sentences, id: \.self) { level in
+                    ForEach(sentences, id: \.self) { seviye in
                         NavigationLink {
-                            QuestionView(title: level)
+                            QuestionView(title: seviye, level: level, category: "Sentences")
                         } label: {
-                            SentencesView(categoryTitle: level)
+                            SentencesView(categoryTitle: seviye)
                         }
                         .buttonStyle(PressableButtonStyle())
                     }
-
                 }
-                    
             }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
         }.navigationBarBackButtonHidden(true) // Varsayılan geri tuşunu gizle
             .toolbar {
@@ -69,12 +66,11 @@ struct CategoryView: View {
                     }
                 }
             }
-        
     }
 }
 
 #Preview {
     NavigationView {
-        CategoryView(title: "B1")
+        CategoryView(title: "B1", level: "General")
     }
 }

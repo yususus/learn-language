@@ -11,6 +11,9 @@ struct HelpQuestion: View {
     @StateObject var viewModel = HelpQuestionsViewModel()
     @State private var selectedAnswer: Int? = nil
     @State private var isCorrect: Bool? = nil // Doğru veya yanlış durumu için
+    
+    var level: String
+    var category: String
 
     var body: some View {
         VStack {
@@ -71,11 +74,11 @@ struct HelpQuestion: View {
             }
         }
         .onAppear {
-            viewModel.loadQuestions()
+            viewModel.loadQuestions(for: level, category: category)
         }
     }
 }
 
 #Preview {
-    HelpQuestion()
+    HelpQuestion(level: "A1", category: "General")
 }
