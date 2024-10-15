@@ -1,405 +1,444 @@
-{
-    "sentences": [
-      {
+[
+    {
+        "id": 1,
         "question": "I study English every day.",
         "choices": [
-          "Her gün İngilizce çalışırım.",
-          "Her gün matematik çalışırım.",
-          "Her gün tarih çalışırım.",
-          "Her gün fen bilgisi çalışırım."
+            "Her gün İngilizce çalışırım.",
+            "Her gün matematik çalışırım.",
+            "Her gün tarih çalışırım.",
+            "Her gün fen bilgisi çalışırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 2,
         "question": "My teacher gives us homework.",
         "choices": [
-          "Öğretmenim bize tatil verir.",
-          "Öğretmenim bize ödev verir.",
-          "Öğretmenim bize oyun verir.",
-          "Öğretmenim bize ödül verir."
+            "Öğretmenim bize tatil verir.",
+            "Öğretmenim bize ödev verir.",
+            "Öğretmenim bize oyun verir.",
+            "Öğretmenim bize ödül verir."
         ],
         "correctAnswer": 1
-      },
-      {
+    },
+    {
+        "id": 3,
         "question": "We have a math exam tomorrow.",
         "choices": [
-          "Yarın tarih sınavımız var.",
-          "Yarın İngilizce sınavımız var.",
-          "Yarın matematik sınavımız var.",
-          "Yarın fen bilgisi sınavımız var."
+            "Yarın tarih sınavımız var.",
+            "Yarın İngilizce sınavımız var.",
+            "Yarın matematik sınavımız var.",
+            "Yarın fen bilgisi sınavımız var."
         ],
         "correctAnswer": 2
-      },
-      {
+    },
+    {
+        "id": 4,
         "question": "The library is quiet.",
         "choices": [
-          "Kütüphane gürültülüdür.",
-          "Kütüphane sessizdir.",
-          "Kütüphane kalabalıktır.",
-          "Kütüphane karışıktır."
+            "Kütüphane gürültülüdür.",
+            "Kütüphane sessizdir.",
+            "Kütüphane kalabalıktır.",
+            "Kütüphane karışıktır."
         ],
         "correctAnswer": 1
-      },
-      {
+    },
+    {
+        "id": 5,
         "question": "We learn new things at school.",
         "choices": [
-          "Okulda eski şeyler öğreniriz.",
-          "Okulda yeni şeyler öğreniriz.",
-          "Okulda eğleniriz.",
-          "Okulda oyun oynarız."
+            "Okulda eski şeyler öğreniriz.",
+            "Okulda yeni şeyler öğreniriz.",
+            "Okulda eğleniriz.",
+            "Okulda oyun oynarız."
         ],
         "correctAnswer": 1
-      },
-      {
+    },
+    {
+        "id": 6,
         "question": "The teacher explains the lesson.",
         "choices": [
-          "Öğretmen dersi açıklar.",
-          "Öğrenci dersi açıklar.",
-          "Müdür dersi açıklar.",
-          "Arkadaşım dersi açıklar."
+            "Öğretmen dersi açıklar.",
+            "Öğrenci dersi açıklar.",
+            "Müdür dersi açıklar.",
+            "Arkadaşım dersi açıklar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 7,
         "question": "We have homework every day.",
         "choices": [
-          "Her gün ödevimiz var.",
-          "Her hafta ödevimiz var.",
-          "Her ay ödevimiz var.",
-          "Her yıl ödevimiz var."
+            "Her gün ödevimiz var.",
+            "Her hafta ödevimiz var.",
+            "Her ay ödevimiz var.",
+            "Her yıl ödevimiz var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 8,
         "question": "I study math in the afternoon.",
         "choices": [
-          "Öğleden sonra matematik çalışırım.",
-          "Öğleden sonra tarih çalışırım.",
-          "Öğleden sonra sanat çalışırım.",
-          "Öğleden sonra spor çalışırım."
+            "Öğleden sonra matematik çalışırım.",
+            "Öğleden sonra tarih çalışırım.",
+            "Öğleden sonra sanat çalışırım.",
+            "Öğleden sonra spor çalışırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 9,
         "question": "The students read a book in class.",
         "choices": [
-          "Öğrenciler sınıfta kitap okur.",
-          "Öğrenciler sınıfta şarkı söyler.",
-          "Öğrenciler sınıfta resim çizer.",
-          "Öğrenciler sınıfta oyun oynar."
+            "Öğrenciler sınıfta kitap okur.",
+            "Öğrenciler sınıfta şarkı söyler.",
+            "Öğrenciler sınıfta resim çizer.",
+            "Öğrenciler sınıfta oyun oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 10,
         "question": "The bell rings at 3 pm.",
         "choices": [
-          "Zil saat 2'de çalar.",
-          "Zil saat 4'te çalar.",
-          "Zil saat 3'te çalar.",
-          "Zil saat 5'te çalar."
+            "Zil saat 2'de çalar.",
+            "Zil saat 4'te çalar.",
+            "Zil saat 3'te çalar.",
+            "Zil saat 5'te çalar."
         ],
         "correctAnswer": 2
-      },
-      {
+    },
+    {
+        "id": 11,
         "question": "She writes notes in her notebook.",
         "choices": [
-          "Defterine not yazar.",
-          "Kitabına not yazar.",
-          "Tahtaya not yazar.",
-          "Bilgisayarına not yazar."
+            "Defterine not yazar.",
+            "Kitabına not yazar.",
+            "Tahtaya not yazar.",
+            "Bilgisayarına not yazar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 12,
         "question": "We listen to the teacher carefully.",
         "choices": [
-          "Öğretmeni dikkatlice dinleriz.",
-          "Öğretmeni hızlıca dinleriz.",
-          "Öğretmeni yavaşça dinleriz.",
-          "Öğretmeni sessizce dinleriz."
+            "Öğretmeni dikkatlice dinleriz.",
+            "Öğretmeni hızlıca dinleriz.",
+            "Öğretmeni yavaşça dinleriz.",
+            "Öğretmeni sessizce dinleriz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 13,
         "question": "They take an exam next week.",
         "choices": [
-          "Onlar gelecek hafta sınav olur.",
-          "Onlar geçen hafta sınav olur.",
-          "Onlar her gün sınav olur.",
-          "Onlar bugün sınav olur."
+            "Onlar gelecek hafta sınav olur.",
+            "Onlar geçen hafta sınav olur.",
+            "Onlar her gün sınav olur.",
+            "Onlar bugün sınav olur."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 14,
         "question": "The students go to the library.",
         "choices": [
-          "Öğrenciler kütüphaneye gider.",
-          "Öğrenciler parka gider.",
-          "Öğrenciler sınıfa gider.",
-          "Öğrenciler yemekhaneye gider."
+            "Öğrenciler kütüphaneye gider.",
+            "Öğrenciler parka gider.",
+            "Öğrenciler sınıfa gider.",
+            "Öğrenciler yemekhaneye gider."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 15,
         "question": "She learns new words in class.",
         "choices": [
-          "Sınıfta yeni kelimeler öğrenir.",
-          "Sınıfta yeni şarkılar öğrenir.",
-          "Sınıfta yeni oyunlar öğrenir.",
-          "Sınıfta yeni resimler öğrenir."
+            "Sınıfta yeni kelimeler öğrenir.",
+            "Sınıfta yeni şarkılar öğrenir.",
+            "Sınıfta yeni oyunlar öğrenir.",
+            "Sınıfta yeni resimler öğrenir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 16,
         "question": "The teacher asks a question.",
         "choices": [
-          "Öğretmen soru sorar.",
-          "Öğretmen cevap verir.",
-          "Öğrenci soru sorar.",
-          "Öğrenci cevap verir."
+            "Öğretmen soru sorar.",
+            "Öğretmen cevap verir.",
+            "Öğrenci soru sorar.",
+            "Öğrenci cevap verir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 17,
         "question": "We use computers in the computer lab.",
         "choices": [
-          "Bilgisayar laboratuvarında bilgisayar kullanırız.",
-          "Bilgisayar laboratuvarında kitap kullanırız.",
-          "Bilgisayar laboratuvarında tahta kullanırız.",
-          "Bilgisayar laboratuvarında telefon kullanırız."
+            "Bilgisayar laboratuvarında bilgisayar kullanırız.",
+            "Bilgisayar laboratuvarında kitap kullanırız.",
+            "Bilgisayar laboratuvarında tahta kullanırız.",
+            "Bilgisayar laboratuvarında telefon kullanırız."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 18,
         "question": "I need a pen for the exam.",
         "choices": [
-          "Sınav için kaleme ihtiyacım var.",
-          "Sınav için kitaba ihtiyacım var.",
-          "Sınav için deftere ihtiyacım var.",
-          "Sınav için silgiye ihtiyacım var."
+            "Sınav için kaleme ihtiyacım var.",
+            "Sınav için kitaba ihtiyacım var.",
+            "Sınav için deftere ihtiyacım var.",
+            "Sınav için silgiye ihtiyacım var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 19,
         "question": "The classroom is very quiet.",
         "choices": [
-          "Sınıf çok sessiz.",
-          "Sınıf çok kalabalık.",
-          "Sınıf çok gürültülü.",
-          "Sınıf çok sıcak."
+            "Sınıf çok sessiz.",
+            "Sınıf çok kalabalık.",
+            "Sınıf çok gürültülü.",
+            "Sınıf çok sıcak."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 20,
         "question": "He studies science every evening.",
         "choices": [
-          "Her akşam bilim çalışır.",
-          "Her akşam tarih çalışır.",
-          "Her akşam sanat çalışır.",
-          "Her akşam müzik çalışır."
+            "Her akşam bilim çalışır.",
+            "Her akşam tarih çalışır.",
+            "Her akşam sanat çalışır.",
+            "Her akşam müzik çalışır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 21,
         "question": "We have a break after two lessons.",
         "choices": [
-          "İki dersten sonra teneffüsümüz var.",
-          "Üç dersten sonra teneffüsümüz var.",
-          "Bir dersten sonra teneffüsümüz var.",
-          "Beş dersten sonra teneffüsümüz var."
+            "İki dersten sonra teneffüsümüz var.",
+            "Üç dersten sonra teneffüsümüz var.",
+            "Bir dersten sonra teneffüsümüz var.",
+            "Beş dersten sonra teneffüsümüz var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 22,
         "question": "The blackboard is clean now.",
         "choices": [
-          "Tahta şimdi temiz.",
-          "Tahta şimdi kirli.",
-          "Tahta şimdi dolu.",
-          "Tahta şimdi boş."
+            "Tahta şimdi temiz.",
+            "Tahta şimdi kirli.",
+            "Tahta şimdi dolu.",
+            "Tahta şimdi boş."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 23,
         "question": "He passes the exam with high marks.",
         "choices": [
-          "Sınavı yüksek notla geçer.",
-          "Sınavı düşük notla geçer.",
-          "Sınavı orta notla geçer.",
-          "Sınavı geçemez."
+            "Sınavı yüksek notla geçer.",
+            "Sınavı düşük notla geçer.",
+            "Sınavı orta notla geçer.",
+            "Sınavı geçemez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 24,
         "question": "The teacher gives us homework every week.",
         "choices": [
-          "Öğretmen her hafta bize ödev verir.",
-          "Öğretmen her gün bize ödev verir.",
-          "Öğretmen her ay bize ödev verir.",
-          "Öğretmen hiç ödev vermez."
+            "Öğretmen her hafta bize ödev verir.",
+            "Öğretmen her gün bize ödev verir.",
+            "Öğretmen her ay bize ödev verir.",
+            "Öğretmen hiç ödev vermez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 25,
         "question": "We learn history on Tuesdays.",
         "choices": [
-          "Salı günleri tarih öğreniriz.",
-          "Salı günleri matematik öğreniriz.",
-          "Salı günleri spor öğreniriz.",
-          "Salı günleri sanat öğreniriz."
+            "Salı günleri tarih öğreniriz.",
+            "Salı günleri matematik öğreniriz.",
+            "Salı günleri fen bilgisi öğreniriz.",
+            "Salı günleri İngilizce öğreniriz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 26,
         "question": "I sit next to my friend in class.",
         "choices": [
-          "Sınıfta arkadaşımın yanında otururum.",
-          "Sınıfta öğretmenimin yanında otururum.",
-          "Sınıfta pencerede otururum.",
-          "Sınıfta kapının yanında otururum."
+            "Sınıfta arkadaşımın yanında otururum.",
+            "Sınıfta öğretmenimin yanında otururum.",
+            "Sınıfta pencerede otururum.",
+            "Sınıfta kapının yanında otururum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 27,
         "question": "We finish school at 4 pm.",
         "choices": [
-          "Okulu saat 4'te bitiririz.",
-          "Okulu saat 5'te bitiririz.",
-          "Okulu saat 3'te bitiririz.",
-          "Okulu saat 6'da bitiririz."
+            "Okulu saat 4'te bitiririz.",
+            "Okulu saat 5'te bitiririz.",
+            "Okulu saat 3'te bitiririz.",
+            "Okulu saat 6'da bitiririz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 28,
         "question": "The teacher explains the new topic.",
         "choices": [
-          "Öğretmen yeni konuyu açıklar.",
-          "Öğretmen eski konuyu açıklar.",
-          "Öğretmen bir soruyu açıklar.",
-          "Öğretmen bir hikayeyi açıklar."
+            "Öğretmen yeni konuyu açıklar.",
+            "Öğretmen eski konuyu açıklar.",
+            "Öğretmen bir soruyu açıklar.",
+            "Öğretmen bir hikayeyi açıklar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 29,
         "question": "I take notes during the lesson.",
         "choices": [
-          "Ders sırasında not alırım.",
-          "Ders sırasında şarkı söylerim.",
-          "Ders sırasında resim çizerim.",
-          "Ders sırasında oyun oynarım."
+            "Ders sırasında not alırım.",
+            "Ders sırasında şarkı söylerim.",
+            "Ders sırasında resim çizerim.",
+            "Ders sırasında oyun oynarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 30,
         "question": "We start school at 8 am.",
         "choices": [
-          "Okul saat 8'de başlar.",
-          "Okul saat 9'da başlar.",
-          "Okul saat 7'de başlar.",
-          "Okul saat 6'da başlar."
+            "Okul saat 8'de başlar.",
+            "Okul saat 9'da başlar.",
+            "Okul saat 7'de başlar.",
+            "Okul saat 6'da başlar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 31,
         "question": "She helps her friend with homework.",
         "choices": [
-          "Arkadaşına ödev konusunda yardım eder.",
-          "Arkadaşına oyun konusunda yardım eder.",
-          "Arkadaşına resim konusunda yardım eder.",
-          "Arkadaşına yemek konusunda yardım eder."
+            "Arkadaşına ödev konusunda yardım eder.",
+            "Arkadaşına oyun konusunda yardım eder.",
+            "Arkadaşına resim konusunda yardım eder.",
+            "Arkadaşına yemek konusunda yardım eder."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 32,
         "question": "We read stories in the literature class.",
         "choices": [
-          "Edebiyat dersinde hikayeler okuruz.",
-          "Edebiyat dersinde şiirler okuruz.",
-          "Edebiyat dersinde romanlar okuruz.",
-          "Edebiyat dersinde makaleler okuruz."
+            "Edebiyat dersinde hikayeler okuruz.",
+            "Edebiyat dersinde şiirler okuruz.",
+            "Edebiyat dersinde romanlar okuruz.",
+            "Edebiyat dersinde makaleler okuruz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 33,
         "question": "She writes an essay for English class.",
         "choices": [
-          "İngilizce dersi için makale yazar.",
-          "İngilizce dersi için şiir yazar.",
-          "İngilizce dersi için hikaye yazar.",
-          "İngilizce dersi için mektup yazar."
+            "İngilizce dersi için makale yazar.",
+            "İngilizce dersi için şiir yazar.",
+            "İngilizce dersi için hikaye yazar.",
+            "İngilizce dersi için mektup yazar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 34,
         "question": "We have a math test tomorrow.",
         "choices": [
-          "Yarın matematik sınavımız var.",
-          "Bugün matematik sınavımız var.",
-          "Gelecek hafta matematik sınavımız var.",
-          "Dün matematik sınavımız vardı."
+            "Yarın matematik sınavımız var.",
+            "Bugün matematik sınavımız var.",
+            "Gelecek hafta matematik sınavımız var.",
+            "Dün matematik sınavımız vardı."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 35,
         "question": "The principal talks to the students.",
         "choices": [
-          "Müdür öğrencilere konuşur.",
-          "Müdür öğretmenlere konuşur.",
-          "Müdür velilere konuşur.",
-          "Müdür işçilere konuşur."
+            "Müdür öğrencilere konuşur.",
+            "Müdür öğretmenlere konuşur.",
+            "Müdür velilere konuşur.",
+            "Müdür işçilere konuşur."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 36,
         "question": "The school library is very big.",
         "choices": [
-          "Okul kütüphanesi çok büyük.",
-          "Okul kütüphanesi çok küçük.",
-          "Okul kütüphanesi çok eski.",
-          "Okul kütüphanesi çok gürültülü."
+            "Okul kütüphanesi çok büyük.",
+            "Okul kütüphanesi çok küçük.",
+            "Okul kütüphanesi çok eski.",
+            "Okul kütüphanesi çok gürültülü."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 37,
         "question": "The art teacher shows us paintings.",
         "choices": [
-          "Sanat öğretmeni bize resimler gösterir.",
-          "Sanat öğretmeni bize müzikler gösterir.",
-          "Sanat öğretmeni bize kitaplar gösterir.",
-          "Sanat öğretmeni bize filmler gösterir."
+            "Sanat öğretmeni bize resimler gösterir.",
+            "Sanat öğretmeni bize müzikler gösterir.",
+            "Sanat öğretmeni bize kitaplar gösterir.",
+            "Sanat öğretmeni bize filmler gösterir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 38,
         "question": "I ask questions when I don't understand.",
         "choices": [
-          "Anlamadığımda soru sorarım.",
-          "Anladığımda soru sorarım.",
-          "Cevap verdiğimde soru sorarım.",
-          "Okuduğumda soru sorarım."
+            "Anlamadığımda soru sorarım.",
+            "Anladığımda soru sorarım.",
+            "Cevap verdiğimde soru sorarım.",
+            "Okuduğumda soru sorarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 39,
         "question": "We have music class in the afternoon.",
         "choices": [
-          "Öğleden sonra müzik dersimiz var.",
-          "Öğleden sonra resim dersimiz var.",
-          "Öğleden sonra spor dersimiz var.",
-          "Öğleden sonra matematik dersimiz var."
+            "Öğleden sonra müzik dersimiz var.",
+            "Öğleden sonra resim dersimiz var.",
+            "Öğleden sonra spor dersimiz var.",
+            "Öğleden sonra matematik dersimiz var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 40,
         "question": "The school cafeteria is open during lunch.",
         "choices": [
-          "Okul yemekhanesi öğle yemeği sırasında açıktır.",
-          "Okul yemekhanesi akşam yemeği sırasında açıktır.",
-          "Okul yemekhanesi kahvaltı sırasında açıktır.",
-          "Okul yemekhanesi ders sırasında açıktır."
+            "Okul yemekhanesi öğle yemeği sırasında açıktır.",
+            "Okul yemekhanesi akşam yemeği sırasında açıktır.",
+            "Okul yemekhanesi kahvaltı sırasında açıktır.",
+            "Okul yemekhanesi ders sırasında açıktır."
         ],
         "correctAnswer": 0
-      }
-    ]
-  }
-  
+    }
+]
+ 
+ 

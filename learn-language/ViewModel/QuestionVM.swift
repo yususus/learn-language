@@ -21,6 +21,7 @@ class HelpQuestionsViewModel: ObservableObject {
                 let data = try Data(contentsOf: url)
                 let decoder = JSONDecoder()
                 self.questions = try decoder.decode([QuestionModel].self, from: data)
+                print("File found: \(fileName).json")
             } catch {
                 print("Error loading questions: \(error)")
             }

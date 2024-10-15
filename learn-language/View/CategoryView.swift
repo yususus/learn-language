@@ -43,7 +43,7 @@ struct CategoryView: View {
                 VStack{
                     ForEach(sentences, id: \.self) { seviye in
                         NavigationLink {
-                            QuestionView(title: seviye, level: level, category: "Sentences")
+                            QuestionView(title: seviye, level: level, category: seviye)
                         } label: {
                             SentencesView(categoryTitle: seviye)
                         }
@@ -51,16 +51,14 @@ struct CategoryView: View {
                     }
                 }
             }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
-        }.navigationBarBackButtonHidden(true) // Varsayılan geri tuşunu gizle
+        }.navigationBarBackButtonHidden(true)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button(action: {
-                        // Geri gitme aksiyonu
-                        // Örneğin:
                         self.presentationMode.wrappedValue.dismiss()
                     }) {
                         HStack {
-                            Image(systemName: "chevron.left") // Sol ok simgesi
+                            Image(systemName: "chevron.left")
                             Text("Home") // Sabit "Home" metni
                         }
                     }
