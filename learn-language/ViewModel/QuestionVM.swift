@@ -11,19 +11,47 @@ import SwiftyJSON
 class HelpQuestionsViewModel: ObservableObject {
     @Published var questions: [QuestionModel] = []
     @Published var currentQuestionIndex: Int = 0
-
     
+    let defaults = UserDefaults.standard
+
+    // Seviye ve kategori için benzersiz bir anahtar oluşturma
+    func key(for level: String, category: String) -> String {
+        return "\(level)_\(category)_progress"
+    }
+
+    // İlerlemeyi kaydet
+    func saveProgress(for level: String, category: String) {
+        let progressKey = key(for: level, category: category)
+        defaults.set(currentQuestionIndex, forKey: progressKey)
+        print("Progress saved for \(progressKey): \(currentQuestionIndex)")
+    }
+
+    // İlerlemeyi geri yükle
+    func loadProgress(for level: String, category: String) {
+        let progressKey = key(for: level, category: category)
+        if let savedIndex = defaults.value(forKey: progressKey) as? Int {
+            currentQuestionIndex = savedIndex
+            print("Progress loaded for \(progressKey): \(currentQuestionIndex)")
+        } else {
+            print("No progress found for \(progressKey), starting from 0.")
+            currentQuestionIndex = 0
+        }
+    }
+
+    // Soruları yükle ve ilerlemeyi geri getir
     func loadQuestions(for level: String, category: String) {
-        // Seviye ve kategoriye göre JSON dosyası adını oluştur
         let fileName = "\(level)\(category)"
         
-        // Dosyayı yükle
         if let url = Bundle.main.url(forResource: fileName, withExtension: "json") {
             do {
                 let data = try Data(contentsOf: url)
                 let decoder = JSONDecoder()
                 self.questions = try decoder.decode([QuestionModel].self, from: data)
-                print("File found: \(fileName).json")
+                
+                // İlerlemeyi geri yükle
+                loadProgress(for: level, category: category)
+                
+                print("File found: \(fileName).json, questions loaded successfully.")
             } catch {
                 print("Error loading questions: \(error)")
             }
@@ -31,4 +59,13 @@ class HelpQuestionsViewModel: ObservableObject {
             print("File not found: \(fileName).json")
         }
     }
+
+    // Sıradaki soruya geç
+    func nextQuestion(for level: String, category: String) {
+        if currentQuestionIndex < questions.count - 1 {
+            currentQuestionIndex += 1
+            saveProgress(for: level, category: category)
+        }
+    }
 }
+

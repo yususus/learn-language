@@ -15,16 +15,9 @@ struct QuestionView: View {
     
     var body: some View {
         VStack {
-            if !viewModel.questions.isEmpty {
-                
-                let currentQuestionIndex = viewModel.currentQuestionIndex + 1
-                //index sıfırdan başladığı için +1 var
-                Text("\(currentQuestionIndex)/\(viewModel.questions.count)")
-            } else {
-                Text("Loading...")
-            }
             HelpQuestion(level: level, category: category)
-        }.onAppear {
+        }
+        .onAppear {
             viewModel.loadQuestions(for: level, category: category)
         }
         .navigationTitle(title)
