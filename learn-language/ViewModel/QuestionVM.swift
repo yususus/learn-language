@@ -10,6 +10,8 @@ import SwiftyJSON
 
 class HelpQuestionsViewModel: ObservableObject {
     @Published var questions: [QuestionModel] = []
+    @Published var currentQuestionIndex: Int = 0
+
     
     func loadQuestions(for level: String, category: String) {
         // Seviye ve kategoriye göre JSON dosyası adını oluştur

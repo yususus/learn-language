@@ -9,16 +9,28 @@ import SwiftUI
 
 struct QuestionView: View {
     var title : String
-    var level: String   // Seviye parametresi
-    var category: String // Kategori parametresi
-
+    var level: String   
+    var category: String
+    @ObservedObject var viewModel = HelpQuestionsViewModel()
+    
     var body: some View {
         VStack {
+            if !viewModel.questions.isEmpty {
+                
+                let currentQuestionIndex = viewModel.currentQuestionIndex + 1
+                //index sıfırdan başladığı için +1 var
+                Text("\(currentQuestionIndex)/\(viewModel.questions.count)")
+            } else {
+                Text("Loading...")
+            }
             HelpQuestion(level: level, category: category)
-        }.navigationTitle(title)
+        }.onAppear {
+            viewModel.loadQuestions(for: level, category: category)
+        }
+        .navigationTitle(title)
     }
 }
 
 #Preview {
-    QuestionView(title: "ads",level: "A1", category: "General")
+    QuestionView(title: "ads",level: "A1", category: "Family")
 }
