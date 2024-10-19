@@ -12,7 +12,7 @@ struct HelpCategory: View {
     var body: some View {
         VStack(alignment: .leading){
             HStack {
-                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(LinearGradient(colors: [.black.opacity(0.65), .black.opacity(0.8), ], startPoint: .top, endPoint: .bottomTrailing)).shadow(radius: 1, x: 5, y: 8)
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.black).shadow(radius: 1.2, x: 10, y: 10)
                 Spacer()
             }.padding()
             
@@ -25,7 +25,7 @@ struct SentencesView: View {
     var body: some View {
         VStack(alignment: .leading){
             HStack {
-                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(LinearGradient(colors: [.black.opacity(0.65), .black.opacity(0.8), ], startPoint: .top, endPoint: .bottomTrailing)).shadow(radius: 1, x: 5, y: 8)
+                Text("\(categoryTitle)").font(Font.custom("FugazOne-Regular", size: 30)).foregroundStyle(.black).shadow(radius: 2, x: 10, y: 10)
                 Spacer()
             }.padding()
             

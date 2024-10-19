@@ -62,8 +62,8 @@ struct CategoryView: View {
                         self.presentationMode.wrappedValue.dismiss()
                     }) {
                         HStack {
-                            Image(systemName: "chevron.left")
-                            Text("Home") // Sabit "Home" metni
+                            Image(systemName: "chevron.left").foregroundStyle(Color.black)
+                            Text("Home").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
                         }
                     }
                 }

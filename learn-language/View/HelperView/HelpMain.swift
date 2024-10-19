@@ -14,7 +14,7 @@ struct HelpMain: View {
         VStack(alignment: .leading){
             HStack {
                 Image(title).resizable()
-            }.padding()
+            }
             
         }.frame(width: Const.width * 0.9, height: Const.height * 0.18).background(Color.brown.opacity(0.3)).cornerRadius(20)
         
