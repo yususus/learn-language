@@ -16,41 +16,45 @@ struct CategoryView: View {
     var body: some View {
         VStack{
             
-            ScrollView {
-                HStack {
-                    Text("Words").font(Font.custom("FugazOne-Regular", size: UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
-                        .foregroundStyle(Color.black.gradient)
-                    Spacer()
-                }.padding(.horizontal, Const.width * 0.05)
-                ScrollView(.horizontal){
+            ZStack {
+                Color(red: 1.0, green: 0.96, blue: 0.9)
+                    .edgesIgnoringSafeArea(.all)
+                ScrollView {
                     HStack {
-                        ForEach(words, id: \.self){ category in
+                        Text("Words").font(Font.custom("FugazOne-Regular", size: UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
+                            .foregroundStyle(Color.black.gradient)
+                        Spacer()
+                    }.padding(.horizontal, Const.width * 0.05)
+                    ScrollView(.horizontal){
+                        HStack {
+                            ForEach(words, id: \.self){ category in
+                                NavigationLink {
+                                    QuestionView(title: category, level: level, category: category)
+                                } label: {
+                                    HelpCategory(categoryTitle: category)
+                                }
+                                .buttonStyle(PressableButtonStyle())
+                                
+                            }
+                        }
+                    }.padding()
+                    HStack {
+                        Text("Sentences").font(Font.custom("FugazOne-Regular", size:  UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
+                            .foregroundStyle(Color.black.gradient)
+                        Spacer()
+                    }.padding(.horizontal, Const.width * 0.05)
+                    VStack{
+                        ForEach(sentences, id: \.self) { seviye in
                             NavigationLink {
-                                QuestionView(title: category, level: level, category: category)
+                                QuestionView(title: seviye, level: level, category: seviye)
                             } label: {
-                                HelpCategory(categoryTitle: category)
+                                SentencesView(categoryTitle: seviye)
                             }
                             .buttonStyle(PressableButtonStyle())
-                            
                         }
                     }
-                }.padding()
-                HStack {
-                    Text("Sentences").font(Font.custom("FugazOne-Regular", size:  UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
-                        .foregroundStyle(Color.black.gradient)
-                    Spacer()
-                }.padding(.horizontal, Const.width * 0.05)
-                VStack{
-                    ForEach(sentences, id: \.self) { seviye in
-                        NavigationLink {
-                            QuestionView(title: seviye, level: level, category: seviye)
-                        } label: {
-                            SentencesView(categoryTitle: seviye)
-                        }
-                        .buttonStyle(PressableButtonStyle())
-                    }
-                }
-            }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
+                }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
+            }
         }.navigationBarBackButtonHidden(true)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {

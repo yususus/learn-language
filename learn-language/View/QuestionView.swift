@@ -14,13 +14,17 @@ struct QuestionView: View {
     @ObservedObject var viewModel = HelpQuestionsViewModel()
     
     var body: some View {
-        VStack {
-            HelpQuestion(level: level, category: category)
+        ZStack {
+            Color(red: 1.0, green: 0.96, blue: 0.9)
+                .edgesIgnoringSafeArea(.all)
+            VStack {
+                HelpQuestion(level: level, category: category)
+            }
+            .onAppear {
+                viewModel.loadQuestions(for: level, category: category)
+            }
+            .navigationTitle(title)
         }
-        .onAppear {
-            viewModel.loadQuestions(for: level, category: category)
-        }
-        .navigationTitle(title)
     }
 }
 
