@@ -1,385 +1,421 @@
-{
-    "questions": [
-      {
+[
+    {
+        "id": 1,
         "question": "I have one brother and one sister.",
         "choices": [
-          "Bir kardeşim ve bir kız kardeşim var.",
-          "Hiç kardeşim yok.",
-          "Sadece bir kardeşim var.",
-          "Bir kız kardeşim var."
+            "Bir kardeşim ve bir kız kardeşim var.",
+            "Hiç kardeşim yok.",
+            "Sadece bir kardeşim var.",
+            "Bir kız kardeşim var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 2,
         "question": "My mother is a teacher.",
         "choices": [
-          "Annem öğretmendir.",
-          "Babam öğretmendir.",
-          "Kardeşim öğretmendir.",
-          "Ablam avukattır."
+            "Annem öğretmendir.",
+            "Babam öğretmendir.",
+            "Kardeşim öğretmendir.",
+            "Ablam avukattır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 3,
         "question": "My father likes to cook.",
         "choices": [
-          "Babam yemek yapmayı sever.",
-          "Annem yemek yapmayı sevmez.",
-          "Ben yemek yapmam.",
-          "Kardeşim şefdir."
+            "Babam yemek yapmayı sever.",
+            "Annem yemek yapmayı sevmez.",
+            "Ben yemek yapmam.",
+            "Kardeşim şefdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 4,
         "question": "We have a big family gathering every year.",
         "choices": [
-          "Her yıl büyük bir aile buluşmamız var.",
-          "Aile buluşması yapmam.",
-          "Sadece arkadaşlarımla buluşurum.",
-          "Küçük bir ailem var."
+            "Her yıl büyük bir aile buluşmamız var.",
+            "Aile buluşması yapmam.",
+            "Sadece arkadaşlarımla buluşurum.",
+            "Küçük bir ailem var."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 5,
         "question": "My grandparents live in another city.",
         "choices": [
-          "Büyüklerim başka bir şehirde yaşıyor.",
-          "Büyüklerim burada yaşıyor.",
-          "Sadece annem burada.",
-          "Bütün ailem burada."
+            "Büyüklerim başka bir şehirde yaşıyor.",
+            "Büyüklerim burada yaşıyor.",
+            "Sadece annem burada.",
+            "Bütün ailem burada."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 6,
         "question": "I often visit my relatives.",
         "choices": [
-          "Akrabalarımı sık sık ziyaret ederim.",
-          "Akrabalarıma gitmem.",
-          "Sadece arkadaşlarımı ziyaret ederim.",
-          "Hiç kimseyi ziyaret etmem."
+            "Akrabalarımı sık sık ziyaret ederim.",
+            "Akrabalarıma gitmem.",
+            "Sadece arkadaşlarımı ziyaret ederim.",
+            "Hiç kimseyi ziyaret etmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 7,
         "question": "My sister is very good at math.",
         "choices": [
-          "Kız kardeşim matematikte çok iyidir.",
-          "Kız kardeşim matematiği sevmez.",
-          "Kardeşim resim yapar.",
-          "Ben matematikte iyiyim."
+            "Kız kardeşim matematikte çok iyidir.",
+            "Kız kardeşim matematiği sevmez.",
+            "Kardeşim resim yapar.",
+            "Ben matematikte iyiyim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 8,
         "question": "We celebrate birthdays together.",
         "choices": [
-          "Doğum günlerini birlikte kutlarız.",
-          "Sadece kendi doğum günümü kutlarım.",
-          "Kutlama yapmam.",
-          "Ailemle kutlamam."
+            "Doğum günlerini birlikte kutlarız.",
+            "Sadece kendi doğum günümü kutlarım.",
+            "Kutlama yapmam.",
+            "Ailemle kutlamam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 9,
         "question": "My mother has a dog.",
         "choices": [
-          "Annemin bir köpeği var.",
-          "Kedim var.",
-          "Babam hayvanları sevmez.",
-          "Kardeşim köpek istemiyor."
+            "Annemin bir köpeği var.",
+            "Kedim var.",
+            "Babam hayvanları sevmez.",
+            "Kardeşim köpek istemiyor."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 10,
         "question": "I love spending time with my family.",
         "choices": [
-          "Ailemle vakit geçirmeyi severim.",
-          "Ailemi hiç sevmem.",
-          "Yalnız vakit geçirmeyi severim.",
-          "Sadece arkadaşlarımla vakit geçiririm."
+            "Ailemle vakit geçirmeyi severim.",
+            "Ailemi hiç sevmem.",
+            "Yalnız vakit geçirmeyi severim.",
+            "Sadece arkadaşlarımla vakit geçiririm."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 11,
         "question": "We go on family vacations every summer.",
         "choices": [
-          "Her yaz aile tatiline çıkarız.",
-          "Tatile gitmem.",
-          "Sadece arkadaşlarımla tatile giderim.",
-          "Ailemle tatil yapmam."
+            "Her yaz aile tatiline çıkarız.",
+            "Tatile gitmem.",
+            "Sadece arkadaşlarımla tatile giderim.",
+            "Ailemle tatil yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 12,
         "question": "My father works in an office.",
         "choices": [
-          "Babam bir ofiste çalışıyor.",
-          "Annem ev hanımıdır.",
-          "Kardeşim öğrencidir.",
-          "Ailem işsiz."
+            "Babam bir ofiste çalışıyor.",
+            "Annem ev hanımıdır.",
+            "Kardeşim öğrencidir.",
+            "Ailem işsiz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 13,
         "question": "My brother loves playing video games.",
         "choices": [
-          "Kardeşim video oyunları oynamayı sever.",
-          "Kardeşim oyun oynamaz.",
-          "Ben oyun oynamayı sevmem.",
-          "Sadece spor oynar."
+            "Kardeşim video oyunları oynamayı sever.",
+            "Kardeşim oyun oynamaz.",
+            "Ben oyun oynamayı sevmem.",
+            "Sadece spor oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 14,
         "question": "We have dinner together every evening.",
         "choices": [
-          "Her akşam birlikte akşam yemeği yeriz.",
-          "Akşam yemeği yemem.",
-          "Sadece kahvaltıda birlikteyiz.",
-          "Akşam yemeklerini sevmem."
+            "Her akşam birlikte akşam yemeği yeriz.",
+            "Akşam yemeği yemem.",
+            "Sadece kahvaltıda birlikteyiz.",
+            "Akşam yemeklerini sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 15,
         "question": "My aunt has three children.",
         "choices": [
-          "Teyzemin üç çocuğu var.",
-          "Bütün çocuklarım var.",
-          "Sadece bir çocuğum var.",
-          "Kız kardeşim yok."
+            "Teyzemin üç çocuğu var.",
+            "Bütün çocuklarım var.",
+            "Sadece bir çocuğum var.",
+            "Kız kardeşim yok."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 16,
         "question": "We watch movies as a family on weekends.",
         "choices": [
-          "Hafta sonları ailece film izleriz.",
-          "Sadece sinemaya giderim.",
-          "Ben film izlemem.",
-          "Ailem film izlemek istemiyor."
+            "Hafta sonları ailece film izleriz.",
+            "Sadece sinemaya giderim.",
+            "Ben film izlemem.",
+            "Ailem film izlemek istemiyor."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 17,
         "question": "My grandmother tells great stories.",
         "choices": [
-          "Büyükannem harika hikayeler anlatır.",
-          "Büyükbabam hikaye anlatmaz.",
-          "Annem hikaye anlatır.",
-          "Ben hikaye yazmam."
+            "Büyükannem harika hikayeler anlatır.",
+            "Büyükbabam hikaye anlatmaz.",
+            "Annem hikaye anlatır.",
+            "Ben hikaye yazmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 18,
         "question": "My family has a garden.",
         "choices": [
-          "Ailemizin bir bahçesi var.",
-          "Bahçem yok.",
-          "Sadece çiçeklerim var.",
-          "Bahçe ile ilgilenmem."
+            "Ailemizin bir bahçesi var.",
+            "Bahçem yok.",
+            "Sadece çiçeklerim var.",
+            "Bahçe ile ilgilenmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 19,
         "question": "I enjoy family game nights.",
         "choices": [
-          "Aile oyun gecelerini severim.",
-          "Oyun oynamayı sevmem.",
-          "Sadece arkadaşlarımla oyun oynarım.",
-          "Ailem oyun oynamaz."
+            "Aile oyun gecelerini severim.",
+            "Oyun oynamayı sevmem.",
+            "Sadece arkadaşlarımla oyun oynarım.",
+            "Ailem oyun oynamaz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 20,
         "question": "My cousin lives in another country.",
         "choices": [
-          "Kuzenim başka bir ülkede yaşıyor.",
-          "Kuzenim burada yaşıyor.",
-          "Sadece kardeşim burada.",
-          "Ailem başka ülkede."
+            "Kuzenim başka bir ülkede yaşıyor.",
+            "Kuzenim burada yaşıyor.",
+            "Sadece kardeşim burada.",
+            "Ailem başka ülkede."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 21,
         "question": "We take family photos together.",
         "choices": [
-          "Birlikte aile fotoğrafları çekeriz.",
-          "Fotoğraf çekmem.",
-          "Sadece tek başıma fotoğraf çekerim.",
-          "Aile fotoğraflarını sevmem."
+            "Birlikte aile fotoğrafları çekeriz.",
+            "Fotoğraf çekmem.",
+            "Sadece tek başıma fotoğraf çekerim.",
+            "Aile fotoğraflarını sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 22,
         "question": "My mother is the best cook in the family.",
         "choices": [
-          "Annem ailedeki en iyi aşçıdır.",
-          "Babam yemek yapmayı sever.",
-          "Ben yemek yapmam.",
-          "Kardeşim yemek yapar."
+            "Annem ailedeki en iyi aşçıdır.",
+            "Babam yemek yapmayı sever.",
+            "Ben yemek yapmam.",
+            "Kardeşim yemek yapar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 23,
         "question": "We celebrate holidays together.",
         "choices": [
-          "Tatil günlerini birlikte kutlarız.",
-          "Tatilleri sevemem.",
-          "Sadece arkadaşlarımla kutlarım.",
-          "Tatilde evde kalırım."
+            "Tatil günlerini birlikte kutlarız.",
+            "Tatilleri sevemem.",
+            "Sadece arkadaşlarımla kutlarım.",
+            "Tatilde evde kalırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 24,
         "question": "My family is very supportive.",
         "choices": [
-          "Ailem çok destekleyicidir.",
-          "Ailem desteklemez.",
-          "Sadece arkadaşlarım destek olur.",
-          "Ben destek olmam."
+            "Ailem çok destekleyicidir.",
+            "Ailem desteklemez.",
+            "Sadece arkadaşlarım destek olur.",
+            "Ben destek olmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 25,
         "question": "I call my family every week.",
         "choices": [
-          "Her hafta ailemi ararım.",
-          "Ailemi hiç aramam.",
-          "Sadece arkadaşlarımı ararım.",
-          "Haftada bir kez çıkmam."
+            "Her hafta ailemi ararım.",
+            "Ailemi hiç aramam.",
+            "Sadece arkadaşlarımı ararım.",
+            "Haftada bir kez çıkmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 26,
         "question": "My parents met in college.",
         "choices": [
-          "Ebeveynlerim üniversitede tanıştı.",
-          "Ebeveynlerim işte tanıştı.",
-          "Ben üniversiteye gitmedim.",
-          "Sadece lisede tanıştılar."
+            "Ebeveynlerim üniversitede tanıştı.",
+            "Ebeveynlerim işte tanıştı.",
+            "Ben üniversiteye gitmedim.",
+            "Sadece lisede tanıştılar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 27,
         "question": "We help each other with homework.",
         "choices": [
-          "Birbirimize ödevlerde yardımcı oluruz.",
-          "Ödev yapmam.",
-          "Ben ödev yapmam.",
-          "Sadece arkadaşlarıma yardım ederim."
+            "Birbirimize ödevlerde yardımcı oluruz.",
+            "Ödev yapmam.",
+            "Ben ödev yapmam.",
+            "Sadece arkadaşlarıma yardım ederim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 28,
         "question": "My uncle works as a doctor.",
         "choices": [
-          "Amcam doktor olarak çalışıyor.",
-          "Amcam öğretmendir.",
-          "Babam mühendis.",
-          "Kız kardeşim doktor."
+            "Amcam doktor olarak çalışıyor.",
+            "Amcam öğretmendir.",
+            "Babam mühendis.",
+            "Kız kardeşim doktor."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 29,
         "question": "We share everything in our family.",
         "choices": [
-          "Ailemizde her şeyi paylaşırız.",
-          "Hiçbir şey paylaşmam.",
-          "Sadece arkadaşlarımla paylaşırım.",
-          "Ailemle paylaşmam."
+            "Ailemizde her şeyi paylaşırız.",
+            "Hiçbir şey paylaşmam.",
+            "Sadece arkadaşlarımla paylaşırım.",
+            "Ailemle paylaşmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 30,
         "question": "My father loves to read books.",
         "choices": [
-          "Babam kitap okumayı sever.",
-          "Annem okumayı sevmez.",
-          "Kardeşim okumayı seviyor.",
-          "Ben okumayı sevmem."
+            "Babam kitap okumayı sever.",
+            "Annem okumayı sevmez.",
+            "Kardeşim okumayı seviyor.",
+            "Ben okumayı sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 31,
         "question": "We enjoy picnics in the park.",
         "choices": [
-          "Parkta piknik yapmayı severiz.",
-          "Piknik yapmam.",
-          "Sadece evde kalırım.",
-          "Parkta oturmayı sevmem."
+            "Parkta piknik yapmayı severiz.",
+            "Piknik yapmam.",
+            "Sadece evde kalırım.",
+            "Parkta oturmayı sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 32,
         "question": "My family has a tradition of storytelling.",
         "choices": [
-          "Ailemizin hikaye anlatma geleneği var.",
-          "Hikaye anlatmayı sevmem.",
-          "Sadece ben hikaye anlatırım.",
-          "Ailemde kimse anlatmaz."
+            "Ailemizin hikaye anlatma geleneği var.",
+            "Hikaye anlatmayı sevmem.",
+            "Sadece ben hikaye anlatırım.",
+            "Ailemde kimse anlatmaz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 33,
         "question": "We play board games every Saturday.",
         "choices": [
-          "Her Cumartesi masa oyunları oynarız.",
-          "Oyun oynamam.",
-          "Sadece bilgisayar oyunları oynarım.",
-          "Ailem oyun oynamaz."
+            "Her Cumartesi masa oyunları oynarız.",
+            "Oyun oynamam.",
+            "Sadece bilgisayar oyunları oynarım.",
+            "Ailem oyun oynamaz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 34,
         "question": "My brother is studying at university.",
         "choices": [
-          "Kardeşim üniversitede okuyor.",
-          "Kardeşim liseden mezun oldu.",
-          "Ben üniversitede okurum.",
-          "Ailem okulda değil."
+            "Kardeşim üniversitede okuyor.",
+            "Kardeşim liseden mezun oldu.",
+            "Ben üniversitede okurum.",
+            "Ailem okulda değil."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 35,
         "question": "We visit our grandparents every month.",
         "choices": [
-          "Her ay büyüklerimizi ziyaret ederiz.",
-          "Büyüklerimi hiç görmem.",
-          "Sadece yazın giderim.",
-          "Ailem büyüklerini unutur."
+            "Her ay büyüklerimizi ziyaret ederiz.",
+            "Büyüklerimi hiç görmem.",
+            "Sadece yazın giderim.",
+            "Ailem büyüklerini unutur."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 36,
         "question": "My mother loves gardening.",
         "choices": [
-          "Annem bahçeciliği sever.",
-          "Babam bahçeyle ilgilenmez.",
-          "Kardeşim bahçecilik yapar.",
-          "Bahçeyle ilgilenmem."
+            "Annem bahçeciliği sever.",
+            "Babam bahçeyle ilgilenmez.",
+            "Kardeşim bahçecilik yapar.",
+            "Bahçeyle ilgilenmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 37,
         "question": "We celebrate Thanksgiving together.",
         "choices": [
-          "Şükran Günü'nü birlikte kutlarız.",
-          "Bu günü kutlamam.",
-          "Sadece kendi kutlamamı yaparım.",
-          "Ailem tatil yapmaz."
+            "Şükran Günü'nü birlikte kutlarız.",
+            "Bu günü kutlamam.",
+            "Sadece kendi kutlamamı yaparım.",
+            "Ailem tatil yapmaz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 38,
         "question": "I look up to my parents.",
         "choices": [
-          "Ebeveynlerime hayranım.",
-          "Kardeşlerime saygı duymam.",
-          "Sadece arkadaşlarımı severim.",
-          "Kimseye hayran olmam."
+            "Ebeveynlerime hayranım.",
+            "Kardeşlerime saygı duymam.",
+            "Sadece arkadaşlarımı severim.",
+            "Kimseye hayran olmam."
         ],
         "correctAnswer": 0
-      }
-    ]
-  }
-  
+    }
+]
+ 

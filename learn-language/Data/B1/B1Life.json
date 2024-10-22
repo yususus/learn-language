@@ -1,365 +1,399 @@
-{
-    "questions": [
-      {
+[
+    {
+        "id": 1,
         "question": "I usually wake up at 7 AM on weekdays.",
         "choices": [
-          "Hafta içi genellikle sabah 7'de uyanırım.",
-          "Her gün aynı saatte uyanırım.",
-          "Uyanmak istemiyorum.",
-          "Sabahları hiç uyanmam."
+            "Hafta içi genellikle sabah 7'de uyanırım.",
+            "Her gün aynı saatte uyanırım.",
+            "Uyanmak istemiyorum.",
+            "Sabahları hiç uyanmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 2,
         "question": "I like to drink coffee in the morning.",
         "choices": [
-          "Sabahları kahve içmeyi severim.",
-          "Kahve içmek sağlıklı değil.",
-          "Kahve her zaman pahalıdır.",
-          "Kahve içmem."
+            "Sabahları kahve içmeyi severim.",
+            "Kahve içmek sağlıklı değil.",
+            "Kahve her zaman pahalıdır.",
+            "Kahve içmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 3,
         "question": "I take the bus to work every day.",
         "choices": [
-          "Her gün işe otobüsle giderim.",
-          "İş yerine yürüyerek giderim.",
-          "Hiç işe gitmiyorum.",
-          "İş yerine araba kullanırım."
+            "Her gün işe otobüsle giderim.",
+            "İş yerine yürüyerek giderim.",
+            "Hiç işe gitmiyorum.",
+            "İş yerine araba kullanırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 4,
         "question": "I enjoy cooking dinner for my family.",
         "choices": [
-          "Ailem için akşam yemeği pişirmeyi severim.",
-          "Yemek yapmak zor bir iş.",
-          "Ailem için yemek pişirmem.",
-          "Ailem yemek yapmayı sevmez."
+            "Ailem için akşam yemeği pişirmeyi severim.",
+            "Yemek yapmak zor bir iş.",
+            "Ailem için yemek pişirmem.",
+            "Ailem yemek yapmayı sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 5,
         "question": "I usually read a book before bed.",
         "choices": [
-          "Genellikle yatmadan önce bir kitap okurum.",
-          "Kitap okumak çok sıkıcı.",
-          "Yatmadan önce televizyon izlerim.",
-          "Yatmadan önce hiç bir şey yapmam."
+            "Genellikle yatmadan önce bir kitap okurum.",
+            "Kitap okumak çok sıkıcı.",
+            "Yatmadan önce televizyon izlerim.",
+            "Yatmadan önce hiç bir şey yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 6,
         "question": "I like to go for a walk in the park.",
         "choices": [
-          "Parkta yürüyüşe çıkmayı severim.",
-          "Yürümek hiç hoşuma gitmiyor.",
-          "Parka gitmiyorum.",
-          "Yürüyüşe çıkmak zor."
+            "Parkta yürüyüşe çıkmayı severim.",
+            "Yürümek hiç hoşuma gitmiyor.",
+            "Parka gitmiyorum.",
+            "Yürüyüşe çıkmak zor."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 7,
         "question": "I often meet my friends on weekends.",
         "choices": [
-          "Hafta sonları sık sık arkadaşlarımla buluşurum.",
-          "Hafta sonları yalnız kalmayı severim.",
-          "Arkadaşlarımı hiç aramam.",
-          "Arkadaşlarımla buluşmak zor."
+            "Hafta sonları sık sık arkadaşlarımla buluşurum.",
+            "Hafta sonları yalnız kalmayı severim.",
+            "Arkadaşlarımı hiç aramam.",
+            "Arkadaşlarımla buluşmak zor."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 8,
         "question": "I like to watch movies in my free time.",
         "choices": [
-          "Boş zamanlarımda film izlemeyi severim.",
-          "Film izlemek çok sıkıcı.",
-          "Boş zamanım yok.",
-          "Film izlemem."
+            "Boş zamanlarımda film izlemeyi severim.",
+            "Film izlemek çok sıkıcı.",
+            "Boş zamanım yok.",
+            "Film izlemem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 9,
         "question": "I usually go grocery shopping on Sundays.",
         "choices": [
-          "Genellikle pazar günleri market alışverişi yaparım.",
-          "Alışveriş yapmayı sevmiyorum.",
-          "Her gün alışveriş yaparım.",
-          "Alışverişe gitmem."
+            "Genellikle pazar günleri market alışverişi yaparım.",
+            "Alışveriş yapmayı sevmiyorum.",
+            "Her gün alışveriş yaparım.",
+            "Alışverişe gitmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 10,
         "question": "I love trying new recipes.",
         "choices": [
-          "Yeni tarifler denemeyi severim.",
-          "Tarifler çok karmaşık.",
-          "Hiç yeni tarif denemem.",
-          "Yemek yapmak istemiyorum."
+            "Yeni tarifler denemeyi severim.",
+            "Tarifler çok karmaşık.",
+            "Hiç yeni tarif denemem.",
+            "Yemek yapmak istemiyorum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 11,
         "question": "I enjoy listening to music while I work.",
         "choices": [
-          "Çalışırken müzik dinlemeyi severim.",
-          "Müzik dinlemek dikkatimi dağıtır.",
-          "Çalışırken sessiz kalmayı tercih ederim.",
-          "Müzik dinlemem."
+            "Çalışırken müzik dinlemeyi severim.",
+            "Müzik dinlemek dikkatimi dağıtır.",
+            "Çalışırken sessiz kalmayı tercih ederim.",
+            "Müzik dinlemem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 12,
         "question": "I often go to the gym to stay fit.",
         "choices": [
-          "Formda kalmak için sık sık spor salonuna giderim.",
-          "Spor salonuna gitmem.",
-          "Egzersiz yapmayı sevmiyorum.",
-          "Sadece yüzme yaparım."
+            "Formda kalmak için sık sık spor salonuna giderim.",
+            "Spor salonuna gitmem.",
+            "Egzersiz yapmayı sevmiyorum.",
+            "Sadece yüzme yaparım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 13,
         "question": "I usually go to bed at 11 PM.",
         "choices": [
-          "Genellikle gece 11'de yatarım.",
-          "Gece geç yatmam gerek.",
-          "Gece hiç uyumam.",
-          "Gece 10'da yatarım."
+            "Genellikle gece 11'de yatarım.",
+            "Gece geç yatmam gerek.",
+            "Gece hiç uyumam.",
+            "Gece 10'da yatarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 14,
         "question": "I like to drink tea in the evening.",
         "choices": [
-          "Akşamları çay içmeyi severim.",
-          "Çay içmek hoşuma gitmiyor.",
-          "Akşamları kahve içerim.",
-          "Çay içmem."
+            "Akşamları çay içmeyi severim.",
+            "Çay içmek hoşuma gitmiyor.",
+            "Akşamları kahve içerim.",
+            "Çay içmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 15,
         "question": "I often visit my grandparents on holidays.",
         "choices": [
-          "Tatil günlerinde sık sık büyüklerimi ziyaret ederim.",
-          "Büyüklerimi hiç ziyaret etmem.",
-          "Sadece yaz tatilinde ziyaret ederim.",
-          "Büyüklerimle görüşmem."
+            "Tatil günlerinde sık sık büyüklerimi ziyaret ederim.",
+            "Büyüklerimi hiç ziyaret etmem.",
+            "Sadece yaz tatilinde ziyaret ederim.",
+            "Büyüklerimle görüşmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 16,
         "question": "I like to keep my house clean and organized.",
         "choices": [
-          "Evimizi temiz ve düzenli tutmayı severim.",
-          "Evim her zaman dağınık.",
-          "Temizlik benim için önemli değil.",
-          "Evimde dağınıklığı severim."
+            "Evimizi temiz ve düzenli tutmayı severim.",
+            "Evim her zaman dağınık.",
+            "Temizlik benim için önemli değil.",
+            "Evimde dağınıklığı severim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 17,
         "question": "I enjoy gardening in my free time.",
         "choices": [
-          "Boş zamanlarımda bahçecilik yapmayı severim.",
-          "Bahçe işlerine hiç ilgim yok.",
-          "Bahçe her zaman karışık.",
-          "Bahçemde çalışmam."
+            "Boş zamanlarımda bahçecilik yapmayı severim.",
+            "Bahçe işlerine hiç ilgim yok.",
+            "Bahçe her zaman karışık.",
+            "Bahçemde çalışmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 18,
         "question": "I like to travel to new places.",
         "choices": [
-          "Yeni yerlere seyahat etmeyi severim.",
-          "Seyahat etmek çok zor.",
-          "Seyahat etmeyi sevmem.",
-          "Her zaman aynı yerde kalırım."
+            "Yeni yerlere seyahat etmeyi severim.",
+            "Seyahat etmek çok zor.",
+            "Seyahat etmeyi sevmem.",
+            "Her zaman aynı yerde kalırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 19,
         "question": "I often cook breakfast for my family on weekends.",
         "choices": [
-          "Hafta sonları ailem için kahvaltı yaparım.",
-          "Kahvaltı hazırlamak zor.",
-          "Kahvaltı hiç yapmam.",
-          "Kahvaltı benim için önemli değil."
+            "Hafta sonları ailem için kahvaltı yaparım.",
+            "Kahvaltı hazırlamak zor.",
+            "Kahvaltı hiç yapmam.",
+            "Kahvaltı benim için önemli değil."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 20,
         "question": "I like to go shopping for clothes.",
         "choices": [
-          "Kıyafet alışverişine gitmeyi severim.",
-          "Alışveriş yapmak sıkıcı.",
-          "Hiç kıyafet almam.",
-          "Sadece ihtiyaçlarımı alırım."
+            "Kıyafet alışverişine gitmeyi severim.",
+            "Alışveriş yapmak sıkıcı.",
+            "Hiç kıyafet almam.",
+            "Sadece ihtiyaçlarımı alırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 21,
         "question": "I enjoy reading the news every morning.",
         "choices": [
-          "Her sabah haberleri okumayı severim.",
-          "Haberler her zaman yanlıdır.",
-          "Haber okumayı sevmem.",
-          "Sadece sosyal medyadan bakarım."
+            "Her sabah haberleri okumayı severim.",
+            "Haberler her zaman yanlıdır.",
+            "Haber okumayı sevmem.",
+            "Sadece sosyal medyadan bakarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 22,
         "question": "I often spend time with my family during holidays.",
         "choices": [
-          "Tatil günlerinde ailemle zaman geçirmeyi severim.",
-          "Tatil günleri yalnız kalmayı tercih ederim.",
-          "Ailemle vakit geçirmem.",
-          "Ailemle konuşmam."
+            "Tatil günlerinde ailemle zaman geçirmeyi severim.",
+            "Tatil günleri yalnız kalmayı tercih ederim.",
+            "Ailemle vakit geçirmem.",
+            "Ailemle konuşmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 23,
         "question": "I like to play games with my friends.",
         "choices": [
-          "Arkadaşlarımla oyun oynamayı severim.",
-          "Oyun oynamak zaman kaybı.",
-          "Oyun oynamam.",
-          "Sadece yalnız oynarım."
+            "Arkadaşlarımla oyun oynamayı severim.",
+            "Oyun oynamak zaman kaybı.",
+            "Oyun oynamam.",
+            "Sadece yalnız oynarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 24,
         "question": "I enjoy trying new restaurants.",
         "choices": [
-          "Yeni restoranları denemeyi severim.",
-          "Her zaman aynı yeri tercih ederim.",
-          "Restoranlar çok pahalı.",
-          "Yemek yemem."
+            "Yeni restoranları denemeyi severim.",
+            "Her zaman aynı yeri tercih ederim.",
+            "Restoranlar çok pahalı.",
+            "Yemek yemem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 25,
         "question": "I often ride my bike in the evening.",
         "choices": [
-          "Akşamları sık sık bisiklet sürerim.",
-          "Bisiklet sürmeyi sevmem.",
-          "Her zaman yürürüm.",
-          "Bisikletim yok."
+            "Akşamları sık sık bisiklet sürerim.",
+            "Bisiklet sürmeyi sevmem.",
+            "Her zaman yürürüm.",
+            "Bisikletim yok."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 26,
         "question": "I like to write in my journal every day.",
         "choices": [
-          "Her gün günlük yazmayı severim.",
-          "Yazmak zor bir iş.",
-          "Hiç yazmam.",
-          "Sadece çizim yaparım."
+            "Her gün günlük yazmayı severim.",
+            "Yazmak zor bir iş.",
+            "Hiç yazmam.",
+            "Sadece çizim yaparım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 27,
         "question": "I often practice speaking English with friends.",
         "choices": [
-          "Arkadaşlarımla İngilizce konuşma pratiği yaparım.",
-          "İngilizce konuşmayı sevmem.",
-          "Hiç pratik yapmam.",
-          "Sadece derslerde konuşurum."
+            "Arkadaşlarımla İngilizce konuşma pratiği yaparım.",
+            "İngilizce konuşmayı sevmem.",
+            "Hiç pratik yapmam.",
+            "Sadece derslerde konuşurum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 28,
         "question": "I like to plan my week every Sunday.",
         "choices": [
-          "Her pazar haftamı planlamayı severim.",
-          "Plan yapmak sıkıcı.",
-          "Hiç plan yapmam.",
-          "Her zaman spontane hareket ederim."
+            "Her pazar haftamı planlamayı severim.",
+            "Plan yapmak sıkıcı.",
+            "Hiç plan yapmam.",
+            "Her zaman spontane hareket ederim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 29,
         "question": "I enjoy visiting museums in my free time.",
         "choices": [
-          "Boş zamanlarımda müze gezmeyi severim.",
-          "Müzeler çok sıkıcı.",
-          "Müzeleri ziyaret etmem.",
-          "Sadece tarihi yerleri gezerim."
+            "Boş zamanlarımda müze gezmeyi severim.",
+            "Müzeler çok sıkıcı.",
+            "Müzeleri ziyaret etmem.",
+            "Sadece tarihi yerleri gezerim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 30,
         "question": "I like to help my neighbors when they need it.",
         "choices": [
-          "İhtiyaç duyduklarında komşularıma yardım etmeyi severim.",
-          "Komşularıma yardım etmem.",
-          "Sadece kendi işimle ilgilenirim.",
-          "Yardım etmek istemiyorum."
+            "İhtiyaç duyduklarında komşularıma yardım etmeyi severim.",
+            "Komşularıma yardım etmem.",
+            "Sadece kendi işimle ilgilenirim.",
+            "Yardım etmek istemiyorum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 31,
         "question": "I often go to the library to study.",
         "choices": [
-          "Sık sık ders çalışmak için kütüphaneye giderim.",
-          "Kütüphane çok sessiz.",
-          "Kütüphaneye gitmem.",
-          "Kütüphaneler sıkıcı."
+            "Sık sık ders çalışmak için kütüphaneye giderim.",
+            "Kütüphane çok sessiz.",
+            "Kütüphaneye gitmem.",
+            "Kütüphaneler sıkıcı."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 32,
         "question": "I like to take photos of nature.",
         "choices": [
-          "Doğanın fotoğraflarını çekmeyi severim.",
-          "Fotoğraf çekmek zor.",
-          "Hiç fotoğraf çekmem.",
-          "Sadece insanları çekerim."
+            "Doğanın fotoğraflarını çekmeyi severim.",
+            "Fotoğraf çekmek zor.",
+            "Hiç fotoğraf çekmem.",
+            "Sadece insanları çekerim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 33,
         "question": "I enjoy participating in community events.",
         "choices": [
-          "Toplum etkinliklerine katılmayı severim.",
-          "Etkinliklere katılmam.",
-          "Sadece arkadaşlarımın etkinliklerine giderim.",
-          "Etkinlikler çok sıkıcı."
+            "Toplum etkinliklerine katılmayı severim.",
+            "Etkinliklere katılmam.",
+            "Sadece arkadaşlarımın etkinliklerine giderim.",
+            "Etkinlikler çok sıkıcı."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 34,
         "question": "I like to learn new things every day.",
         "choices": [
-          "Her gün yeni şeyler öğrenmeyi severim.",
-          "Yeni şeyler öğrenmek zor.",
-          "Hiç yeni bir şey öğrenmem.",
-          "Her şeyi zaten biliyorum."
+            "Her gün yeni şeyler öğrenmeyi severim.",
+            "Yeni şeyler öğrenmek zor.",
+            "Hiç yeni bir şey öğrenmem.",
+            "Her şeyi zaten biliyorum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 35,
         "question": "I often go for coffee with my friends.",
         "choices": [
-          "Arkadaşlarımla sık sık kahve içmeye giderim.",
-          "Kahve içmeyi sevmem.",
-          "Arkadaşlarımla hiç buluşmam.",
-          "Kahve sadece evde içilir."
+            "Arkadaşlarımla sık sık kahve içmeye giderim.",
+            "Kahve içmeyi sevmem.",
+            "Arkadaşlarımla hiç buluşmam.",
+            "Kahve sadece evde içilir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 36,
         "question": "I like to volunteer in my community.",
         "choices": [
-          "Toplumumda gönüllü çalışmayı severim.",
-          "Gönüllü olmak sıkıcı.",
-          "Hiç gönüllü çalışmam.",
-          "Sadece işimi yaparım."
+            "Toplumumda gönüllü çalışmayı severim.",
+            "Gönüllü olmak sıkıcı.",
+            "Hiç gönüllü çalışmam.",
+            "Sadece işimi yaparım."
         ],
         "correctAnswer": 0
-      }
-    ]
-  }
-  
+    }
+]
+ 

@@ -1,924 +1,1064 @@
-{
-  "sentences": [
-    {
-      "question": "I play soccer every weekend.",
-      "choices": [
-        "Her hafta sonu futbol oynarım.",
-        "Her hafta sonu basketbol oynarım.",
-        "Her hafta sonu tenis oynarım.",
-        "Her hafta sonu voleybol oynarım."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "She runs in the park every morning.",
-      "choices": [
-        "Her sabah parkta yürür.",
-        "Her sabah parkta koşar.",
-        "Her sabah parkta yüzer.",
-        "Her sabah parkta bisiklet sürer."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "They are watching a football match on TV.",
-      "choices": [
-        "Televizyonda bir basketbol maçı izliyorlar.",
-        "Televizyonda bir tenis maçı izliyorlar.",
-        "Televizyonda bir voleybol maçı izliyorlar.",
-        "Televizyonda bir futbol maçı izliyorlar."
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "The athlete won a gold medal in the Olympics.",
-      "choices": [
-        "Sporcu, olimpiyatlarda altın madalya kazandı.",
-        "Sporcu, olimpiyatlarda gümüş madalya kazandı.",
-        "Sporcu, olimpiyatlarda bronz madalya kazandı.",
-        "Sporcu, olimpiyatlarda madalya kazanamadı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We go swimming at the beach in summer.",
-      "choices": [
-        "Yazın dağda yürüyüş yaparız.",
-        "Yazın plajda yüzeriz.",
-        "Yazın parkta piknik yaparız.",
-        "Yazın evde film izleriz."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He plays tennis every Tuesday and Thursday.",
-      "choices": [
-        "Her Salı ve Perşembe futbol oynar.",
-        "Her Salı ve Perşembe basketbol oynar.",
-        "Her Salı ve Perşembe tenis oynar.",
-        "Her Salı ve Perşembe voleybol oynar."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The team is practicing for the big game next week.",
-      "choices": [
-        "Takım gelecek hafta büyük maç için antrenman yapıyor.",
-        "Takım geçen haftaki büyük maçı kutluyor.",
-        "Takım gelecek ay büyük maç için dinleniyor.",
-        "Takım büyük maçı ertelemeyi düşünüyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "I need to buy new running shoes.",
-      "choices": [
-        "Yeni bir spor çantası almam gerekiyor.",
-        "Yeni bir koşu ayakkabısı almam gerekiyor.",
-        "Yeni bir spor kıyafeti almam gerekiyor.",
-        "Yeni bir spor saati almam gerekiyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The basketball game starts at 7 PM.",
-      "choices": [
-        "Futbol maçı saat 19:00'da başlıyor.",
-        "Basketbol maçı saat 19:00'da başlıyor.",
-        "Tenis maçı saat 19:00'da başlıyor.",
-        "Voleybol maçı saat 19:00'da başlıyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "She is learning to play golf.",
-      "choices": [
-        "Yüzme öğreniyor.",
-        "Tenis oynamayı öğreniyor.",
-        "Golf oynamayı öğreniyor.",
-        "Kayak yapmayı öğreniyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The cyclist won the race by a narrow margin.",
-      "choices": [
-        "Bisikletçi yarışı küçük bir farkla kazandı.",
-        "Bisikletçi yarışı büyük bir farkla kazandı.",
-        "Bisikletçi yarışı kaybetti.",
-        "Bisikletçi yarışı tamamlayamadı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We need to warm up before exercising.",
-      "choices": [
-        "Egzersizden sonra soğuma hareketleri yapmalıyız.",
-        "Egzersiz yapmadan önce ısınmalıyız.",
-        "Egzersiz sırasında mola vermeliyiz.",
-        "Egzersizden önce bol su içmeliyiz."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The swimming pool is closed on Mondays.",
-      "choices": [
-        "Yüzme havuzu Pazartesileri açık.",
-        "Yüzme havuzu Pazartesileri kapalı.",
-        "Yüzme havuzu her gün açık.",
-        "Yüzme havuzu hafta sonları kapalı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He scored a goal in the last minute of the game.",
-      "choices": [
-        "Maçın son dakikasında gol attı.",
-        "Maçın ilk dakikasında gol attı.",
-        "Maçın ortasında gol attı.",
-        "Maçta hiç gol atamadı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The yoga class is every Wednesday evening.",
-      "choices": [
-        "Yoga dersi her Salı akşamı.",
-        "Yoga dersi her Çarşamba akşamı.",
-        "Yoga dersi her Perşembe sabahı.",
-        "Yoga dersi her Cuma öğleden sonra."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "They are hiking in the mountains this weekend.",
-      "choices": [
-        "Bu hafta sonu sahilde güneşleniyorlar.",
-        "Bu hafta sonu evde dinleniyorlar.",
-        "Bu hafta sonu dağlarda yürüyüş yapıyorlar.",
-        "Bu hafta sonu şehirde alışveriş yapıyorlar."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The referee blew the whistle to end the match.",
-      "choices": [
-        "Hakem maçı başlatmak için düdük çaldı.",
-        "Hakem maçı bitirmek için düdük çaldı.",
-        "Hakem oyuncuya sarı kart gösterdi.",
-        "Hakem molayı işaret etti."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "She is practicing her serve for the tennis tournament.",
-      "choices": [
-        "Tenis turnuvası için servisini çalışıyor.",
-        "Tenis turnuvası için koşu antrenmanı yapıyor.",
-        "Tenis turnuvası için ısınma hareketleri yapıyor.",
-        "Tenis turnuvası için strateji geliştiriyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The gym is open from 6 AM to 10 PM.",
-      "choices": [
-        "Spor salonu sabah 6'dan akşam 10'a kadar açık.",
-        "Spor salonu sabah 8'den akşam 8'e kadar açık.",
-        "Spor salonu 24 saat açık.",
-        "Spor salonu öğleden sonra 2'den gece 12'ye kadar açık."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We need to buy tickets for the baseball game.",
-      "choices": [
-        "Futbol maçı için bilet almamız gerekiyor.",
-        "Basketbol maçı için bilet almamız gerekiyor.",
-        "Beyzbol maçı için bilet almamız gerekiyor.",
-        "Tenis maçı için bilet almamız gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The marathon starts at 7 AM on Sunday.",
-      "choices": [
-        "Maraton Pazar günü sabah 7'de başlıyor.",
-        "Maraton Cumartesi günü öğlen 12'de başlıyor.",
-        "Maraton Pazar günü akşam 7'de başlıyor.",
-        "Maraton Pazartesi günü sabah 6'da başlıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He is the captain of the volleyball team.",
-      "choices": [
-        "O, futbol takımının kaptanı.",
-        "O, basketbol takımının kaptanı.",
-        "O, voleybol takımının kaptanı.",
-        "O, hentbol takımının kaptanı."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The cycling race covers a distance of 100 kilometers.",
-      "choices": [
-        "Bisiklet yarışı 50 kilometre mesafeyi kapsıyor.",
-        "Bisiklet yarışı 75 kilometre mesafeyi kapsıyor.",
-        "Bisiklet yarışı 100 kilometre mesafeyi kapsıyor.",
-        "Bisiklet yarışı 150 kilometre mesafeyi kapsıyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "We need to inflate the basketball before the game.",
-      "choices": [
-        "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce tenis topunu kontrol etmemiz gerekiyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The ice skating rink is very crowded on weekends.",
-      "choices": [
-        "Buz pateni pisti hafta sonları çok kalabalık.",
-        "Buz pateni pisti hafta içi çok kalabalık.",
-        "Buz pateni pisti her zaman boş.",
-        "Buz pateni pisti sadece akşamları kalabalık."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "She won first place in the gymnastics competition.",
-      "choices": [
-        "Yüzme yarışmasında birinci oldu.",
-        "Atletizm yarışmasında birinci oldu.",
-        "Jimnastik yarışmasında birinci oldu.",
-        "Kayak yarışmasında birinci oldu."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The football stadium can seat 50,000 people.",
-      "choices": [
-        "Futbol stadyumu 30.000 kişi kapasiteli.",
-        "Futbol stadyumu 40.000 kişi kapasiteli.",
-        "Futbol stadyumu 50.000 kişi kapasiteli.",
-        "Futbol stadyumu 60.000 kişi kapasiteli."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "We're going to watch the Olympic Games on TV.",
-      "choices": [
-        "Olimpiyat Oyunları'nı televizyonda izleyeceğiz.",
-        "Dünya Kupası'nı televizyonda izleyeceğiz.",
-        "Şampiyonlar Ligi'ni televizyonda izleyeceğiz.",
-        "Avrupa Şampiyonası'nı televizyonda izleyeceğiz."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He needs to improve his backhand in tennis.",
-      "choices": [
-        "Teniste servisini geliştirmesi gerekiyor.",
-        "Teniste forehand vuruşunu geliştirmesi gerekiyor.",
-        "Teniste backhand vuruşunu geliştirmesi gerekiyor.",
-        "Teniste vole vuruşunu geliştirmesi gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The surfer is waiting for the perfect wave.",
-      "choices": [
-        "Sörfçü mükemmel dalgayı bekliyor.",
-        "Sörfçü arkadaşlarını bekliyor.",
-        "Sörfçü hava durumunu kontrol ediyor.",
-        "Sörfçü ekipmanlarını hazırlıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "They are playing badminton in the park.",
-      "choices": [
-        "Parkta tenis oynuyorlar.",
-        "Parkta basketbol oynuyorlar.",
-        "Parkta badminton oynuyorlar.",
-        "Parkta futbol oynuyorlar."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The boxer is training for his next fight.",
-      "choices": [
-        "Boksör gelecek maçı için antrenman yapıyor.",
-        "Boksör emekli oldu.",
-        "Boksör tatile çıktı.",
-        "Boksör basın toplantısı düzenliyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We need to replace the net on the tennis court.",
-      "choices": [
-        "Basketbol sahasındaki çemberi değiştirmemiz gerekiyor.",
-        "Futbol sahasındaki kale ağlarını değiştirmemiz gerekiyor.",
-        "Tenis kortundaki fileyi değiştirmemiz gerekiyor.",
-        "Voleybol sahasındaki çizgileri yenilememiz gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The golf tournament will last for four days.",
-      "choices": [
-        "Golf turnuvası iki gün sürecek.",
-        "Golf turnuvası üç gün sürecek.",
-        "Golf turnuvası dört gün sürecek.",
-        "Golf turnuvası bir hafta sürecek."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "She is doing push-ups to build upper body strength.",
-      "choices": [
-        "Üst vücut gücünü artırmak için şınav çekiyor.",
-        "Üst vücut gücünü artırmak için koşu yapıyor.",
-        "Üst vücut gücünü artırmak için ağırlık kaldırıyor.",
-        "Üst vücut gücünü artırmak için yüzüyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The referee showed a red card to the player.",
-      "choices": [
-        "Hakem oyuncuya sarı kart gösterdi.",
-        "Hakem oyuncuya kırmızı kart gösterdi.",
-        "Hakem oyuncuya yeşil kart gösterdi.",
-        "Hakem oyuncuya mavi kart gösterdi."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We need to buy new tennis balls for practice.",
-      "choices": [
-        "Antrenman için yeni futbol topları almamız gerekiyor.",
-        "Antrenman için yeni basketbol topları almamız gerekiyor.",
-        "Antrenman için yeni tenis topları almamız gerekiyor.",
-        "Antrenman için yeni voleybol topları almamız gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The swimmer broke the world record in the 100-meter freestyle.",
-      "choices": [
-        "Yüzücü 100 metre serbest stilde dünya rekorunu kırdı.",
-        "Yüzücü 200 metre kelebekte dünya rekorunu kırdı.",
-        "Yüzücü 400 metre karışıkta dünya rekorunu kırdı.",
-        "Yüzücü 50 metre sırtüstünde dünya rekorunu kırdı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The basketball player scored a three-pointer at the buzzer.",
-      "choices": [
-        "Basketbolcu son saniyede serbest atış kullandı.",
-        "Basketbolcu son saniyede üç sayılık atış soktu.",
-        "Basketbolcu son saniyede faul yaptı.",
-        "Basketbolcu son saniyede top çaldı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We're going skiing in the mountains next weekend.",
-      "choices": [
-        "Gelecek hafta sonu dağlarda kayak yapacağız.",
-        "Gelecek hafta sonu sahilde yüzeceğiz.",
-        "Gelecek hafta sonu şehirde bisiklet süreceğiz.",
-        "Gelecek hafta sonu ormanda kamp yapacağız."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The gymnast performed a perfect routine on the balance beam.",
-      "choices": [
-        "Jimnastikçi paralel barda mükemmel bir seri yaptı.",
-        "Jimnastikçi denge tahtasında mükemmel bir seri yaptı.",
-        "Jimnastikçi yer hareketlerinde mükemmel bir seri yaptı.",
-        "Jimnastikçi atlama masasında mükemmel bir seri yaptı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He's learning to serve in volleyball.",
-      "choices": [
-        "Voleybolda servis atmayı öğreniyor.",
-        "Voleybolda smaç vurmayı öğreniyor.",
-        "Voleybolda blok yapmayı öğreniyor.",
-        "Voleybolda parmak pas yapmayı öğreniyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The cricket match was cancelled due to rain.",
-      "choices": [
-        "Yağmur nedeniyle futbol maçı iptal edildi.",
-        "Yağmur nedeniyle tenis maçı iptal edildi.",
-        "Yağmur nedeniyle kriket maçı iptal edildi.",
-        "Yağmur nedeniyle basketbol maçı iptal edildi."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "She's practicing her free throws in basketball.",
-      "choices": [
-        "Basketbolda serbest atışlarını çalışıyor.",
-        "Basketbolda üç sayılık atışlarını çalışıyor.",
-        "Basketbolda dripling yapmasını çalışıyor.",
-        "Basketbolda pas vermesini çalışıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The marathon runner hit the wall at the 30km mark.",
-      "choices": [
-        "Maraton koşucusu 30. kilometrede düştü.",
-        "Maraton koşucusu 30. kilometrede duvar etkisine girdi.",
-        "Maraton koşucusu 30. kilometrede hızlandı.",
-        "Maraton koşucusu 30. kilometrede mola verdi."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We need to buy new cleats for the soccer season.",
-      "choices": [
-        "Futbol sezonu için yeni forma almamız gerekiyor.",
-        "Futbol sezonu için yeni top almamız gerekiyor.",
-        "Futbol sezonu için yeni krampon almamız gerekiyor.",
-        "Futbol sezonu için yeni tekmelik almamız gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The javelin thrower won the gold medal at the Olympics.",
-      "choices": [
-        "Cirit atıcısı Olimpiyatlarda altın madalya kazandı.",
-        "Disk atıcısı Olimpiyatlarda altın madalya kazandı.",
-        "Gülle atıcısı Olimpiyatlarda altın madalya kazandı.",
-        "Çekiç atıcısı Olimpiyatlarda altın madalya kazandı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He's doing squats to strengthen his leg muscles.",
-      "choices": [
-        "Kol kaslarını güçlendirmek için şınav çekiyor.",
-        "Bacak kaslarını güçlendirmek için squat yapıyor.",
-        "Karın kaslarını güçlendirmek için mekik çekiyor.",
-        "Sırt kaslarını güçlendirmek için pull-up yapıyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The figure skater performed a triple axel in her routine.",
-      "choices": [
-        "Buz patencisi gösterisinde üçlü axel yaptı.",
-        "Buz patencisi gösterisinde dörtlü salchow yaptı.",
-        "Buz patencisi gösterisinde ikili lutz yaptı.",
-        "Buz patencisi gösterisinde tekli toe loop yaptı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We're going to play doubles in tennis this afternoon.",
-      "choices": [
-        "Bu öğleden sonra teniste tekler oynayacağız.",
-        "Bu öğleden sonra teniste çiftler oynayacağız.",
-        "Bu öğleden sonra teniste karışık çiftler oynayacağız.",
-        "Bu öğleden sonra teniste turnuva oynayacağız."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The archer hit the bullseye with her final arrow.",
-      "choices": [
-        "Okçu son okuyla hedefin merkezini vurdu.",
-        "Okçu son okuyla hedefi ıskaladı.",
-        "Okçu son okuyla yayını kırdı.",
-        "Okçu son okuyla rakibini yendi."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He's learning to do a backflip on the trampoline.",
-      "choices": [
-        "Trambolinde öne takla atmayı öğreniyor.",
-        "Trambolinde geriye takla atmayı öğreniyor.",
-        "Trambolinde zıplamayı öğreniyor.",
-        "Trambolinde denge kurmayı öğreniyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The rugby team is practicing their scrum formation.",
-      "choices": [
-        "Ragbi takımı pas çalışması yapıyor.",
-        "Ragbi takımı koşu antrenmanı yapıyor.",
-        "Ragbi takımı skrum formasyonunu çalışıyor.",
-        "Ragbi takımı taktik toplantısı yapıyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "She's doing yoga to improve her flexibility.",
-      "choices": [
-        "Esnekliğini artırmak için pilates yapıyor.",
-        "Esnekliğini artırmak için yoga yapıyor.",
-        "Esnekliğini artırmak için aerobik yapıyor.",
-        "Esnekliğini artırmak için dans ediyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The baseball player hit a home run in the ninth inning.",
-      "choices": [
-        "Beyzbolcu dokuzuncu vuruşta sayı aldı.",
-        "Beyzbolcu dokuzuncu vuruşta hata yaptı.",
-        "Beyzbolcu dokuzuncu vuruşta eve koşu yaptı.",
-        "Beyzbolcu dokuzuncu vuruşta yakalandı."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "We need to inflate the soccer ball before the match.",
-      "choices": [
-        "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce hentbol topunu şişirmemiz gerekiyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The pole vaulter cleared the bar at 5 meters.",
-      "choices": [
-        "Sırıkla atlayıcı 4 metrede çıtayı geçti.",
-        "Sırıkla atlayıcı 5 metrede çıtayı geçti.",
-        "Sırıkla atlayıcı 6 metrede çıtayı geçti.",
-        "Sırıkla atlayıcı 7 metrede çıtayı geçti."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He's practicing his butterfly stroke for the swimming competition.",
-      "choices": [
-        "Yüzme yarışması için serbest stil çalışıyor.",
-        "Yüzme yarışması için sırtüstü stil çalışıyor.",
-        "Yüzme yarışması için kurbağalama stil çalışıyor.",
-        "Yüzme yarışması için kelebek stil çalışıyor."
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "The fencer scored a touch with a quick lunge.",
-      "choices": [
-        "Eskrimci hızlı bir hamleyle puan aldı.",
-        "Eskrimci hızlı bir hamleyle düştü.",
-        "Eskrimci hızlı bir hamleyle rakibini yaraladı.",
-        "Eskrimci hızlı bir hamleyle silahını düşürdü."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We're going to watch the Super Bowl this Sunday.",
-      "choices": [
-        "Bu Pazar Dünya Kupası finalini izleyeceğiz.",
-        "Bu Pazar Super Bowl'u izleyeceğiz.",
-        "Bu Pazar NBA finalini izleyeceğiz.",
-        "Bu Pazar Wimbledon finalini izleyeceğiz."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The hockey player scored a hat-trick in the final period.",
-      "choices": [
-        "Hokey oyuncusu son periyotta bir gol attı.",
-        "Hokey oyuncusu son periyotta iki gol attı.",
-        "Hokey oyuncusu son periyotta üç gol attı.",
-        "Hokey oyuncusu son periyotta dört gol attı."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "She's practicing her serve for the tennis tournament.",
-      "choices": [
-        "Tenis turnuvası için servisini çalışıyor.",
-        "Tenis turnuvası için forehand vuruşunu çalışıyor.",
-        "Tenis turnuvası için backhand vuruşunu çalışıyor.",
-        "Tenis turnuvası için vole vuruşunu çalışıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The marathon starts at 7 AM on Sunday.",
-      "choices": [
-        "Maraton Pazar günü sabah 7'de başlıyor.",
-        "Maraton Pazar günü öğlen 12'de başlıyor.",
-        "Maraton Pazar günü akşam 5'te başlıyor.",
-        "Maraton Pazar günü gece 9'da başlıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He needs to improve his putting in golf.",
-      "choices": [
-        "Golfta sürüşünü geliştirmesi gerekiyor.",
-        "Golfta vuruşunu geliştirmesi gerekiyor.",
-        "Golfta patını geliştirmesi gerekiyor.",
-        "Golfta duruşunu geliştirmesi gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The cyclist is leading the peloton in the Tour de France.",
-      "choices": [
-        "Bisikletçi, Giro d'Italia'da pelotonu yönetiyor.",
-        "Bisikletçi, Tour de France'ta pelotonu yönetiyor.",
-        "Bisikletçi, Vuelta a España'da pelotonu yönetiyor.",
-        "Bisikletçi, Paris-Roubaix'de pelotonu yönetiyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We need to buy new shin guards for soccer practice.",
-      "choices": [
-        "Futbol antrenmanı için yeni forma almamız gerekiyor.",
-        "Futbol antrenmanı için yeni krampon almamız gerekiyor.",
-        "Futbol antrenmanı için yeni tekmelik almamız gerekiyor.",
-        "Futbol antrenmanı için yeni kaleci eldiveni almamız gerekiyor."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "The wrestler pinned his opponent in the first round.",
-      "choices": [
-        "Güreşçi rakibini ilk rauntta tuş etti.",
-        "Güreşçi rakibini ilk rauntta yendi.",
-        "Güreşçi rakibini ilk rauntta diskalifiye etti.",
-        "Güreşçi rakibini ilk rauntta yaraladı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "She's practicing her floor routine for the gymnastics meet.",
-      "choices": [
-        "Jimnastik müsabakası için denge aleti serisini çalışıyor.",
-        "Jimnastik müsabakası için yer serisini çalışıyor.",
-        "Jimnastik müsabakası için atlama beygiri serisini çalışıyor.",
-        "Jimnastik müsabakası için asimetrik bar serisini çalışıyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The boxing match went into the twelfth round.",
-      "choices": [
-        "Boks maçı onuncu raunda kadar sürdü.",
-        "Boks maçı on birinci raunda kadar sürdü.",
-        "Boks maçı on ikinci raunda kadar sürdü.",
-        "Boks maçı on üçüncü raunda kadar sürdü."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "We're going to play beach volleyball this weekend.",
-      "choices": [
-        "Bu hafta sonu plaj voleybolu oynayacağız.",
-        "Bu hafta sonu plaj futbolu oynayacağız.",
-        "Bu hafta sonu plaj tenisi oynayacağız.",
-        "Bu hafta sonu plaj hentbolu oynayacağız."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The sprinter false started and was disqualified.",
-      "choices": [
-        "Kısa mesafe koşucusu geç çıkış yaptı ve diskalifiye oldu.",
-        "Kısa mesafe koşucusu erken çıkış yaptı ve diskalifiye oldu.",
-        "Kısa mesafe koşucusu düştü ve diskalifiye oldu.",
-        "Kısa mesafe koşucusu hatalı koştu ve diskalifiye oldu."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He's practicing his free kicks for the soccer game.",
-      "choices": [
-        "Futbol maçı için frikik çalışıyor.",
-        "Futbol maçı için korner çalışıyor.",
-        "Futbol maçı için penaltı çalışıyor.",
-        "Futbol maçı için taç atışı çalışıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The horse jumped over all the hurdles in the equestrian event.",
-      "choices": [
-        "At, binicilik etkinliğinde tüm engelleri aştı.",
-        "At, binicilik etkinliğinde bazı engelleri aştı.",
-        "At, binicilik etkinliğinde hiçbir engeli aşamadı.",
-        "At, binicilik etkinliğinde yarışı tamamlayamadı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We need to wax the snowboard before hitting the slopes.",
-      "choices": [
-        "Piste çıkmadan önce kayakları cilalamemız gerekiyor.",
-        "Piste çıkmadan önce snowboardu cilalamamız gerekiyor.",
-        "Piste çıkmadan önce botları kontrol etmemiz gerekiyor.",
-        "Piste çıkmadan önce kaskı kontrol etmemiz gerekiyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The baseball player hit a grand slam in the bottom of the ninth.",
-      "choices": [
-        "Beyzbolcu dokuzuncu vuruşta grand slam yaptı.",
-        "Beyzbolcu sekizinci vuruşta grand slam yaptı.",
-        "Beyzbolcu yedinci vuruşta grand slam yaptı.",
-        "Beyzbolcu altıncı vuruşta grand slam yaptı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "She's practicing her butterfly kick for the swimming race.",
-      "choices": [
-        "Yüzme yarışı için kelebek vuruşunu çalışıyor.",
-        "Yüzme yarışı için serbest stil vuruşunu çalışıyor.",
-        "Yüzme yarışı için sırtüstü vuruşunu çalışıyor.",
-        "Yüzme yarışı için kurbağalama vuruşunu çalışıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The goalkeeper made a spectacular save in the last minute.",
-      "choices": [
-        "Kaleci son dakikada harika bir gol attı.",
-        "Kaleci son dakikada harika bir kurtarış yaptı.",
-        "Kaleci son dakikada hata yaptı.",
-        "Kaleci son dakikada oyundan çıktı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We're going to watch the NBA Finals tonight.",
-      "choices": [
-        "Bu akşam NBA Finallerini izleyeceğiz.",
-        "Bu akşam Dünya Kupası Finalini izleyeceğiz.",
-        "Bu akşam Şampiyonlar Ligi Finalini izleyeceğiz.",
-        "Bu akşam Wimbledon Finalini izleyeceğiz."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The javelin thrower set a new Olympic record.",
-      "choices": [
-        "Cirit atıcısı yeni bir dünya rekoru kırdı.",
-        "Cirit atıcısı yeni bir Olimpiyat rekoru kırdı.",
-        "Cirit atıcısı yeni bir Avrupa rekoru kırdı.",
-        "Cirit atıcısı yeni bir ülke rekoru kırdı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He's doing bench presses to build chest muscles.",
-      "choices": [
-        "Göğüs kaslarını geliştirmek için bench press yapıyor.",
-        "Göğüs kaslarını geliştirmek için şınav çekiyor.",
-        "Göğüs kaslarını geliştirmek için koşu yapıyor.",
-        "Göğüs kaslarını geliştirmek için mekik çekiyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The cricket player scored a century in the test match.",
-      "choices": [
-        "Kriket oyuncusu test maçında 50 sayı yaptı.",
-        "Kriket oyuncusu test maçında 75 sayı yaptı.",
-        "Kriket oyuncusu test maçında 100 sayı yaptı.",
-        "Kriket oyuncusu test maçında 150 sayı yaptı."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "We need to buy new shuttlecocks for badminton practice.",
-      "choices": [
-        "Badminton antrenmanı için yeni raket almamız gerekiyor.",
-        "Badminton antrenmanı için yeni file almamız gerekiyor.",
-        "Badminton antrenmanı için yeni ayakkabı almamız gerekiyor.",
-        "Badminton antrenmanı için yeni top almamız gerekiyor."
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "The figure skater performed a perfect triple axel.",
-      "choices": [
-        "Buz patencisi mükemmel bir ikili axel yaptı.",
-        "Buz patencisi mükemmel bir üçlü axel yaptı.",
-        "Buz patencisi mükemmel bir dörtlü axel yaptı.",
-        "Buz patencisi mükemmel bir tekli axel yaptı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "He's practicing his curveball for the baseball game.",
-      "choices": [
-        "Beyzbol maçı için kavisli atışını çalışıyor.",
-        "Beyzbol maçı için düz atışını çalışıyor.",
-        "Beyzbol maçı için hızlı atışını çalışıyor.",
-        "Beyzbol maçı için yavaş atışını çalışıyor."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "The marathon runner hit the wall at the 30km mark.",
-      "choices": [
-        "Maraton koşucusu 30 km noktasında hızlandı.",
-        "Maraton koşucusu 30 km noktasında duvar etkisine girdi.",
-        "Maraton koşucusu 30 km noktasında mola verdi.",
-        "Maraton koşucusu 30 km noktasında yarışı bıraktı."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "We're going to play doubles in tennis this afternoon.",
-      "choices": [
-        "Bu öğleden sonra teniste tekler oynayacağız.",
-        "Bu öğleden sonra teniste çiftler oynayacağız.",
-        "Bu öğleden sonra teniste karışık çiftler oynayacağız.",
-        "Bu öğleden sonra teniste turnuva oynayacağız."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The surfer caught a perfect wave.",
-      "choices": [
-        "Sörfçü mükemmel bir dalga yakaladı.",
-        "Sörfçü büyük bir balık yakaladı.",
-        "Sörfçü yeni bir sörf tahtası aldı.",
-        "Sörfçü sahilde güneşlendi."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He's doing squats to strengthen his leg muscles.",
-      "choices": [
-        "Bacak kaslarını güçlendirmek için koşu yapıyor.",
-        "Bacak kaslarını güçlendirmek için squat yapıyor.",
-        "Bacak kaslarını güçlendirmek için yüzüyor.",
-        "Bacak kaslarını güçlendirmek için bisiklet sürüyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The archer hit the bullseye with her final arrow.",
-      "choices": [
-        "Okçu son okuyla tam isabet kaydetti.",
-        "Okçu son okuyla hedefi ıskaladı.",
-        "Okçu son okuyla yayını kırdı.",
-        "Okçu son okuyla rakibini yendi."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "We need to inflate the basketball before the game.",
-      "choices": [
-        "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
-        "Maçtan önce hentbol topunu şişirmemiz gerekiyor."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "The gymnast performed a perfect routine on the balance beam.",
-      "choices": [
-        "Jimnastikçi denge tahtasında mükemmel bir seri yaptı.",
-        "Jimnastikçi parallelde mükemmel bir seri yaptı.",
-        "Jimnastikçi yer hareketlerinde mükemmel bir seri yaptı.",
-        "Jimnastikçi atlama masasında mükemmel bir seri yaptı."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "He's learning to do a backflip on the trampoline.",
-      "choices": [
-        "Trambolinde öne takla atmayı öğreniyor.",
-        "Trambolinde geriye takla atmayı öğreniyor.",
-        "Trambolinde zıplamayı öğreniyor.",
-        "Trambolinde denge kurmayı öğreniyor."
-      ],
-      "correctAnswer": 1
+[
+    {
+        "id": 1,
+        "question": "I play soccer every weekend.",
+        "choices": [
+            "Her hafta sonu futbol oynarım.",
+            "Her hafta sonu basketbol oynarım.",
+            "Her hafta sonu tenis oynarım.",
+            "Her hafta sonu voleybol oynarım."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "She runs in the park every morning.",
+        "choices": [
+            "Her sabah parkta yürür.",
+            "Her sabah parkta koşar.",
+            "Her sabah parkta yüzer.",
+            "Her sabah parkta bisiklet sürer."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "They are watching a football match on TV.",
+        "choices": [
+            "Televizyonda bir basketbol maçı izliyorlar.",
+            "Televizyonda bir tenis maçı izliyorlar.",
+            "Televizyonda bir voleybol maçı izliyorlar.",
+            "Televizyonda bir futbol maçı izliyorlar."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 4,
+        "question": "The athlete won a gold medal in the Olympics.",
+        "choices": [
+            "Sporcu, olimpiyatlarda altın madalya kazandı.",
+            "Sporcu, olimpiyatlarda gümüş madalya kazandı.",
+            "Sporcu, olimpiyatlarda bronz madalya kazandı.",
+            "Sporcu, olimpiyatlarda madalya kazanamadı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 5,
+        "question": "We go swimming at the beach in summer.",
+        "choices": [
+            "Yazın dağda yürüyüş yaparız.",
+            "Yazın plajda yüzeriz.",
+            "Yazın parkta piknik yaparız.",
+            "Yazın evde film izleriz."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 6,
+        "question": "He plays tennis every Tuesday and Thursday.",
+        "choices": [
+            "Her Salı ve Perşembe futbol oynar.",
+            "Her Salı ve Perşembe basketbol oynar.",
+            "Her Salı ve Perşembe tenis oynar.",
+            "Her Salı ve Perşembe voleybol oynar."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 7,
+        "question": "The team is practicing for the big game next week.",
+        "choices": [
+            "Takım gelecek hafta büyük maç için antrenman yapıyor.",
+            "Takım geçen haftaki büyük maçı kutluyor.",
+            "Takım gelecek ay büyük maç için dinleniyor.",
+            "Takım büyük maçı ertelemeyi düşünüyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 8,
+        "question": "I need to buy new running shoes.",
+        "choices": [
+            "Yeni bir spor çantası almam gerekiyor.",
+            "Yeni bir koşu ayakkabısı almam gerekiyor.",
+            "Yeni bir spor kıyafeti almam gerekiyor.",
+            "Yeni bir spor saati almam gerekiyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 9,
+        "question": "The basketball game starts at 7 PM.",
+        "choices": [
+            "Futbol maçı saat 19:00'da başlıyor.",
+            "Basketbol maçı saat 19:00'da başlıyor.",
+            "Tenis maçı saat 19:00'da başlıyor.",
+            "Voleybol maçı saat 19:00'da başlıyor."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "She is learning to play golf.",
+        "choices": [
+            "Yüzme öğreniyor.",
+            "Tenis oynamayı öğreniyor.",
+            "Golf oynamayı öğreniyor.",
+            "Kayak yapmayı öğreniyor."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "The cyclist won the race by a narrow margin.",
+        "choices": [
+            "Bisikletçi yarışı küçük bir farkla kazandı.",
+            "Bisikletçi yarışı büyük bir farkla kazandı.",
+            "Bisikletçi yarışı kaybetti.",
+            "Bisikletçi yarışı tamamlayamadı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 12,
+        "question": "We need to warm up before exercising.",
+        "choices": [
+            "Egzersizden sonra soğuma hareketleri yapmalıyız.",
+            "Egzersiz yapmadan önce ısınmalıyız.",
+            "Egzersiz sırasında mola vermeliyiz.",
+            "Egzersizden önce bol su içmeliyiz."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "The swimming pool is closed on Mondays.",
+        "choices": [
+            "Yüzme havuzu Pazartesileri açık.",
+            "Yüzme havuzu Pazartesileri kapalı.",
+            "Yüzme havuzu her gün açık.",
+            "Yüzme havuzu hafta sonları kapalı."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "He scored a goal in the last minute of the game.",
+        "choices": [
+            "Maçın son dakikasında gol attı.",
+            "Maçın ilk dakikasında gol attı.",
+            "Maçın ortasında gol attı.",
+            "Maçta hiç gol atamadı."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "The yoga class is every Wednesday evening.",
+        "choices": [
+            "Yoga dersi her Salı akşamı.",
+            "Yoga dersi her Çarşamba akşamı.",
+            "Yoga dersi her Perşembe sabahı.",
+            "Yoga dersi her Cuma öğleden sonra."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 16,
+        "question": "They are hiking in the mountains this weekend.",
+        "choices": [
+            "Bu hafta sonu sahilde güneşleniyorlar.",
+            "Bu hafta sonu evde dinleniyorlar.",
+            "Bu hafta sonu dağlarda yürüyüş yapıyorlar.",
+            "Bu hafta sonu şehirde alışveriş yapıyorlar."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 17,
+        "question": "The referee blew the whistle to end the match.",
+        "choices": [
+            "Hakem maçı başlatmak için düdük çaldı.",
+            "Hakem maçı bitirmek için düdük çaldı.",
+            "Hakem oyuncuya sarı kart gösterdi.",
+            "Hakem molayı işaret etti."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 18,
+        "question": "She is practicing her serve for the tennis tournament.",
+        "choices": [
+            "Tenis turnuvası için servisini çalışıyor.",
+            "Tenis turnuvası için koşu antrenmanı yapıyor.",
+            "Tenis turnuvası için ısınma hareketleri yapıyor.",
+            "Tenis turnuvası için strateji geliştiriyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 19,
+        "question": "The gym is open from 6 AM to 10 PM.",
+        "choices": [
+            "Spor salonu sabah 6'dan akşam 10'a kadar açık.",
+            "Spor salonu sabah 8'den akşam 8'e kadar açık.",
+            "Spor salonu 24 saat açık.",
+            "Spor salonu öğleden sonra 2'den gece 12'ye kadar açık."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 20,
+        "question": "We need to buy tickets for the baseball game.",
+        "choices": [
+            "Futbol maçı için bilet almamız gerekiyor.",
+            "Basketbol maçı için bilet almamız gerekiyor.",
+            "Beyzbol maçı için bilet almamız gerekiyor.",
+            "Tenis maçı için bilet almamız gerekiyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 21,
+        "question": "The marathon starts at 7 AM on Sunday.",
+        "choices": [
+            "Maraton Pazar günü sabah 7'de başlıyor.",
+            "Maraton Cumartesi günü öğlen 12'de başlıyor.",
+            "Maraton Pazar günü akşam 7'de başlıyor.",
+            "Maraton Pazartesi günü sabah 6'da başlıyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 22,
+        "question": "He is the captain of the volleyball team.",
+        "choices": [
+            "O, futbol takımının kaptanı.",
+            "O, basketbol takımının kaptanı.",
+            "O, voleybol takımının kaptanı.",
+            "O, hentbol takımının kaptanı."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 23,
+        "question": "The cycling race covers a distance of 100 kilometers.",
+        "choices": [
+            "Bisiklet yarışı 50 kilometre mesafeyi kapsıyor.",
+            "Bisiklet yarışı 75 kilometre mesafeyi kapsıyor.",
+            "Bisiklet yarışı 100 kilometre mesafeyi kapsıyor.",
+            "Bisiklet yarışı 150 kilometre mesafeyi kapsıyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 24,
+        "question": "We need to inflate the basketball before the game.",
+        "choices": [
+            "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce tenis topunu kontrol etmemiz gerekiyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 25,
+        "question": "The ice skating rink is very crowded on weekends.",
+        "choices": [
+            "Buz pateni pisti hafta sonları çok kalabalık.",
+            "Buz pateni pisti hafta içi çok kalabalık.",
+            "Buz pateni pisti her zaman boş.",
+            "Buz pateni pisti sadece akşamları kalabalık."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 26,
+        "question": "She won first place in the gymnastics competition.",
+        "choices": [
+            "Yüzme yarışmasında birinci oldu.",
+            "Atletizm yarışmasında birinci oldu.",
+            "Jimnastik yarışmasında birinci oldu.",
+            "Kayak yarışmasında birinci oldu."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 27,
+        "question": "The football stadium can seat 50,000 people.",
+        "choices": [
+            "Futbol stadyumu 30.000 kişi kapasiteli.",
+            "Futbol stadyumu 40.000 kişi kapasiteli.",
+            "Futbol stadyumu 50.000 kişi kapasiteli.",
+            "Futbol stadyumu 60.000 kişi kapasiteli."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 28,
+        "question": "We're going to watch the Olympic Games on TV.",
+        "choices": [
+            "Olimpiyat Oyunları'nı televizyonda izleyeceğiz.",
+            "Dünya Kupası'nı televizyonda izleyeceğiz.",
+            "Şampiyonlar Ligi'ni televizyonda izleyeceğiz.",
+            "Avrupa Şampiyonası'nı televizyonda izleyeceğiz."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 29,
+        "question": "He needs to improve his backhand in tennis.",
+        "choices": [
+            "Teniste servisini geliştirmesi gerekiyor.",
+            "Teniste forehand vuruşunu geliştirmesi gerekiyor.",
+            "Teniste backhand vuruşunu geliştirmesi gerekiyor.",
+            "Teniste vole vuruşunu geliştirmesi gerekiyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 30,
+        "question": "The surfer is waiting for the perfect wave.",
+        "choices": [
+            "Sörfçü mükemmel dalgayı bekliyor.",
+            "Sörfçü arkadaşlarını bekliyor.",
+            "Sörfçü hava durumunu kontrol ediyor.",
+            "Sörfçü ekipmanlarını hazırlıyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 31,
+        "question": "They are playing badminton in the park.",
+        "choices": [
+            "Parkta tenis oynuyorlar.",
+            "Parkta basketbol oynuyorlar.",
+            "Parkta badminton oynuyorlar.",
+            "Parkta futbol oynuyorlar."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 32,
+        "question": "The boxer is training for his next fight.",
+        "choices": [
+            "Boksör gelecek maçı için antrenman yapıyor.",
+            "Boksör emekli oldu.",
+            "Boksör tatile çıktı.",
+            "Boksör basın toplantısı düzenliyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 33,
+        "question": "We need to replace the net on the tennis court.",
+        "choices": [
+            "Basketbol sahasındaki çemberi değiştirmemiz gerekiyor.",
+            "Futbol sahasındaki kale ağlarını değiştirmemiz gerekiyor.",
+            "Tenis kortundaki fileyi değiştirmemiz gerekiyor.",
+            "Voleybol sahasındaki çizgileri yenilememiz gerekiyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 34,
+        "question": "The golf tournament will last for four days.",
+        "choices": [
+            "Golf turnuvası iki gün sürecek.",
+            "Golf turnuvası üç gün sürecek.",
+            "Golf turnuvası dört gün sürecek.",
+            "Golf turnuvası bir hafta sürecek."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 35,
+        "question": "She is doing push-ups to build upper body strength.",
+        "choices": [
+            "Üst vücut gücünü artırmak için şınav çekiyor.",
+            "Üst vücut gücünü artırmak için koşu yapıyor.",
+            "Üst vücut gücünü artırmak için ağırlık kaldırıyor.",
+            "Üst vücut gücünü artırmak için yüzüyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 36,
+        "question": "The referee showed a red card to the player.",
+        "choices": [
+            "Hakem oyuncuya sarı kart gösterdi.",
+            "Hakem oyuncuya kırmızı kart gösterdi.",
+            "Hakem oyuncuya yeşil kart gösterdi.",
+            "Hakem oyuncuya mavi kart gösterdi."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 37,
+        "question": "We need to buy new tennis balls for practice.",
+        "choices": [
+            "Antrenman için yeni futbol topları almamız gerekiyor.",
+            "Antrenman için yeni basketbol topları almamız gerekiyor.",
+            "Antrenman için yeni tenis topları almamız gerekiyor.",
+            "Antrenman için yeni voleybol topları almamız gerekiyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 38,
+        "question": "The swimmer broke the world record in the 100-meter freestyle.",
+        "choices": [
+            "Yüzücü 100 metre serbest stilde dünya rekorunu kırdı.",
+            "Yüzücü 200 metre kelebekte dünya rekorunu kırdı.",
+            "Yüzücü 400 metre karışıkta dünya rekorunu kırdı.",
+            "Yüzücü 50 metre sırtüstünde dünya rekorunu kırdı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 39,
+        "question": "The basketball player scored a three-pointer at the buzzer.",
+        "choices": [
+            "Basketbolcu son saniyede serbest atış kullandı.",
+            "Basketbolcu son saniyede üç sayılık atış soktu.",
+            "Basketbolcu son saniyede faul yaptı.",
+            "Basketbolcu son saniyede top çaldı."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 40,
+        "question": "We're going skiing in the mountains next weekend.",
+        "choices": [
+            "Gelecek hafta sonu dağlarda kayak yapacağız.",
+            "Gelecek hafta sonu sahilde yüzeceğiz.",
+            "Gelecek hafta sonu şehirde bisiklet süreceğiz.",
+            "Gelecek hafta sonu ormanda kamp yapacağız."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 41,
+        "question": "The gymnast performed a perfect routine on the balance beam.",
+        "choices": [
+            "Jimnastikçi paralel barda mükemmel bir seri yaptı.",
+            "Jimnastikçi denge tahtasında mükemmel bir seri yaptı.",
+            "Jimnastikçi yer hareketlerinde mükemmel bir seri yaptı.",
+            "Jimnastikçi atlama masasında mükemmel bir seri yaptı."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 42,
+        "question": "He's learning to serve in volleyball.",
+        "choices": [
+            "Voleybolda servis atmayı öğreniyor.",
+            "Voleybolda smaç vurmayı öğreniyor.",
+            "Voleybolda blok yapmayı öğreniyor.",
+            "Voleybolda parmak pas yapmayı öğreniyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 43,
+        "question": "The cricket match was cancelled due to rain.",
+        "choices": [
+            "Yağmur nedeniyle futbol maçı iptal edildi.",
+            "Yağmur nedeniyle tenis maçı iptal edildi.",
+            "Yağmur nedeniyle kriket maçı iptal edildi.",
+            "Yağmur nedeniyle basketbol maçı iptal edildi."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 44,
+        "question": "She's practicing her free throws in basketball.",
+        "choices": [
+            "Basketbolda serbest atışlarını çalışıyor.",
+            "Basketbolda üç sayılık atışlarını çalışıyor.",
+            "Basketbolda dripling yapmasını çalışıyor.",
+            "Basketbolda pas vermesini çalışıyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 45,
+        "question": "The marathon runner hit the wall at the 30km mark.",
+        "choices": [
+            "Maraton koşucusu 30. kilometrede düştü.",
+            "Maraton koşucusu 30. kilometrede duvar etkisine girdi.",
+            "Maraton koşucusu 30. kilometrede hızlandı.",
+            "Maraton koşucusu 30. kilometrede mola verdi."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 46,
+        "question": "We need to buy new cleats for the soccer season.",
+        "choices": [
+            "Futbol sezonu için yeni forma almamız gerekiyor.",
+            "Futbol sezonu için yeni top almamız gerekiyor.",
+            "Futbol sezonu için yeni krampon almamız gerekiyor.",
+            "Futbol sezonu için yeni tekmelik almamız gerekiyor."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 47,
+        "question": "The javelin thrower won the gold medal at the Olympics.",
+        "choices": [
+            "Cirit atıcısı Olimpiyatlarda altın madalya kazandı.",
+            "Disk atıcısı Olimpiyatlarda altın madalya kazandı.",
+            "Gülle atıcısı Olimpiyatlarda altın madalya kazandı.",
+            "Çekiç atıcısı Olimpiyatlarda altın madalya kazandı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 48,
+        "question": "He's doing squats to strengthen his leg muscles.",
+        "choices": [
+            "Kol kaslarını güçlendirmek için şınav çekiyor.",
+            "Bacak kaslarını güçlendirmek için squat yapıyor.",
+            "Karın kaslarını güçlendirmek için mekik çekiyor.",
+            "Sırt kaslarını güçlendirmek için pull-up yapıyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 49,
+        "question": "The figure skater performed a triple axel in her routine.",
+        "choices": [
+            "Buz patencisi gösterisinde üçlü axel yaptı.",
+            "Buz patencisi gösterisinde dörtlü salchow yaptı.",
+            "Buz patencisi gösterisinde ikili lutz yaptı.",
+            "Buz patencisi gösterisinde tekli toe loop yaptı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 50,
+        "question": "We're going to play doubles in tennis this afternoon.",
+        "choices": [
+            "Bu öğleden sonra teniste tekler oynayacağız.",
+            "Bu öğleden sonra teniste çiftler oynayacağız.",
+            "Bu öğleden sonra teniste karışık çiftler oynayacağız.",
+            "Bu öğleden sonra teniste turnuva oynayacağız."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 51,
+        "question": "The archer hit the bullseye with her final arrow.",
+        "choices": [
+            "Okçu son okuyla hedefin merkezini vurdu.",
+            "Okçu son okuyla hedefi ıskaladı.",
+            "Okçu son okuyla yayını kırdı.",
+            "Okçu son okuyla rakibini yendi."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 52,
+        "question": "He's learning to do a backflip on the trampoline.",
+        "choices": [
+            "Trambolinde öne takla atmayı öğreniyor.",
+            "Trambolinde geriye takla atmayı öğreniyor.",
+            "Trambolinde zıplamayı öğreniyor.",
+            "Trambolinde denge kurmayı öğreniyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 53,
+        "question": "The rugby team is practicing their scrum formation.",
+        "choices": [
+            "Ragbi takımı pas çalışması yapıyor.",
+            "Ragbi takımı koşu antrenmanı yapıyor.",
+            "Ragbi takımı skrum formasyonunu çalışıyor.",
+            "Ragbi takımı taktik toplantısı yapıyor."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 54,
+        "question": "She's doing yoga to improve her flexibility.",
+        "choices": [
+            "Esnekliğini artırmak için pilates yapıyor.",
+            "Esnekliğini artırmak için yoga yapıyor.",
+            "Esnekliğini artırmak için aerobik yapıyor.",
+            "Esnekliğini artırmak için dans ediyor."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 55,
+        "question": "The baseball player hit a home run in the ninth inning.",
+        "choices": [
+            "Beyzbolcu dokuzuncu vuruşta sayı aldı.",
+            "Beyzbolcu dokuzuncu vuruşta hata yaptı.",
+            "Beyzbolcu dokuzuncu vuruşta eve koşu yaptı.",
+            "Beyzbolcu dokuzuncu vuruşta yakalandı."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 56,
+        "question": "We need to inflate the soccer ball before the match.",
+        "choices": [
+            "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce hentbol topunu şişirmemiz gerekiyor."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 57,
+        "question": "The pole vaulter cleared the bar at 5 meters.",
+        "choices": [
+            "Sırıkla atlayıcı 4 metrede çıtayı geçti.",
+            "Sırıkla atlayıcı 5 metrede çıtayı geçti.",
+            "Sırıkla atlayıcı 6 metrede çıtayı geçti.",
+            "Sırıkla atlayıcı 7 metrede çıtayı geçti."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 58,
+        "question": "He's practicing his butterfly stroke for the swimming competition.",
+        "choices": [
+            "Yüzme yarışması için serbest stil çalışıyor.",
+            "Yüzme yarışması için sırtüstü stil çalışıyor.",
+            "Yüzme yarışması için kurbağalama stil çalışıyor.",
+            "Yüzme yarışması için kelebek stil çalışıyor."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 59,
+        "question": "The fencer scored a touch with a quick lunge.",
+        "choices": [
+            "Eskrimci hızlı bir hamleyle puan aldı.",
+            "Eskrimci hızlı bir hamleyle düştü.",
+            "Eskrimci hızlı bir hamleyle rakibini yaraladı.",
+            "Eskrimci hızlı bir hamleyle silahını düşürdü."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 60,
+        "question": "We're going to watch the Super Bowl this Sunday.",
+        "choices": [
+            "Bu Pazar Dünya Kupası finalini izleyeceğiz.",
+            "Bu Pazar Super Bowl'u izleyeceğiz.",
+            "Bu Pazar NBA finalini izleyeceğiz.",
+            "Bu Pazar Wimbledon finalini izleyeceğiz."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 61,
+        "question": "The hockey player scored a hat-trick in the final period.",
+        "choices": [
+            "Hokey oyuncusu son periyotta bir gol attı.",
+            "Hokey oyuncusu son periyotta iki gol attı.",
+            "Hokey oyuncusu son periyotta üç gol attı.",
+            "Hokey oyuncusu son periyotta dört gol attı."
+        ],
+        "correctAnswer": 2
+        
+    },
+    {
+        "id": 62,
+        "question": "She's practicing her serve for the tennis tournament.",
+        "choices": [
+            "Tenis turnuvası için servisini çalışıyor.",
+            "Tenis turnuvası için forehand vuruşunu çalışıyor.",
+            "Tenis turnuvası için backhand vuruşunu çalışıyor.",
+            "Tenis turnuvası için vole vuruşunu çalışıyor."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 63,
+        "question": "The marathon starts at 7 AM on Sunday.",
+        "choices": [
+            "Maraton Pazar günü sabah 7'de başlıyor.",
+            "Maraton Pazar günü öğlen 12'de başlıyor.",
+            "Maraton Pazar günü akşam 5'te başlıyor.",
+            "Maraton Pazar günü gece 9'da başlıyor."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 64,
+        "question": "He needs to improve his putting in golf.",
+        "choices": [
+            "Golfta sürüşünü geliştirmesi gerekiyor.",
+            "Golfta vuruşunu geliştirmesi gerekiyor.",
+            "Golfta patını geliştirmesi gerekiyor.",
+            "Golfta duruşunu geliştirmesi gerekiyor."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 65,
+        "question": "The cyclist is leading the peloton in the Tour de France.",
+        "choices": [
+            "Bisikletçi, Giro d'Italia'da pelotonu yönetiyor.",
+            "Bisikletçi, Tour de France'ta pelotonu yönetiyor.",
+            "Bisikletçi, Vuelta a España'da pelotonu yönetiyor.",
+            "Bisikletçi, Paris-Roubaix'de pelotonu yönetiyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 66,
+        "question": "We need to buy new shin guards for soccer practice.",
+        "choices": [
+            "Futbol antrenmanı için yeni forma almamız gerekiyor.",
+            "Futbol antrenmanı için yeni krampon almamız gerekiyor.",
+            "Futbol antrenmanı için yeni tekmelik almamız gerekiyor.",
+            "Futbol antrenmanı için yeni kaleci eldiveni almamız gerekiyor."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 67,
+        "question": "The wrestler pinned his opponent in the first round.",
+        "choices": [
+            "Güreşçi rakibini ilk rauntta tuş etti.",
+            "Güreşçi rakibini ilk rauntta yendi.",
+            "Güreşçi rakibini ilk rauntta diskalifiye etti.",
+            "Güreşçi rakibini ilk rauntta yaraladı."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 68,
+        "question": "She's practicing her floor routine for the gymnastics meet.",
+        "choices": [
+            "Jimnastik müsabakası için denge aleti serisini çalışıyor.",
+            "Jimnastik müsabakası için yer serisini çalışıyor.",
+            "Jimnastik müsabakası için atlama beygiri serisini çalışıyor.",
+            "Jimnastik müsabakası için asimetrik bar serisini çalışıyor."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 69,
+        "question": "The boxing match went into the twelfth round.",
+        "choices": [
+            "Boks maçı onuncu raunda kadar sürdü.",
+            "Boks maçı on birinci raunda kadar sürdü.",
+            "Boks maçı on ikinci raunda kadar sürdü.",
+            "Boks maçı on üçüncü raunda kadar sürdü."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 70,
+        "question": "We're going to play beach volleyball this weekend.",
+        "choices": [
+            "Bu hafta sonu plaj voleybolu oynayacağız.",
+            "Bu hafta sonu plaj futbolu oynayacağız.",
+            "Bu hafta sonu plaj tenisi oynayacağız.",
+            "Bu hafta sonu plaj hentbolu oynayacağız."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 71,
+        "question": "The sprinter false started and was disqualified.",
+        "choices": [
+            "Kısa mesafe koşucusu geç çıkış yaptı ve diskalifiye oldu.",
+            "Kısa mesafe koşucusu erken çıkış yaptı ve diskalifiye oldu.",
+            "Kısa mesafe koşucusu düştü ve diskalifiye oldu.",
+            "Kısa mesafe koşucusu hatalı koştu ve diskalifiye oldu."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 72,
+        "question": "He's practicing his free kicks for the soccer game.",
+        "choices": [
+            "Futbol maçı için frikik çalışıyor.",
+            "Futbol maçı için korner çalışıyor.",
+            "Futbol maçı için penaltı çalışıyor.",
+            "Futbol maçı için taç atışı çalışıyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 73,
+        "question": "The horse jumped over all the hurdles in the equestrian event.",
+        "choices": [
+            "At, binicilik etkinliğinde tüm engelleri aştı.",
+            "At, binicilik etkinliğinde bazı engelleri aştı.",
+            "At, binicilik etkinliğinde hiçbir engeli aşamadı.",
+            "At, binicilik etkinliğinde yarışı tamamlayamadı."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 74,
+        "question": "We need to wax the snowboard before hitting the slopes.",
+        "choices": [
+            "Piste çıkmadan önce kayakları cilalamemız gerekiyor.",
+            "Piste çıkmadan önce snowboardu cilalamamız gerekiyor.",
+            "Piste çıkmadan önce botları kontrol etmemiz gerekiyor.",
+            "Piste çıkmadan önce kaskı kontrol etmemiz gerekiyor."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 75,
+        "question": "The baseball player hit a grand slam in the bottom of the ninth.",
+        "choices": [
+            "Beyzbolcu dokuzuncu vuruşta grand slam yaptı.",
+            "Beyzbolcu sekizinci vuruşta grand slam yaptı.",
+            "Beyzbolcu yedinci vuruşta grand slam yaptı.",
+            "Beyzbolcu altıncı vuruşta grand slam yaptı."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 76,
+        "question": "She's practicing her butterfly kick for the swimming race.",
+        "choices": [
+            "Yüzme yarışı için kelebek vuruşunu çalışıyor.",
+            "Yüzme yarışı için serbest stil vuruşunu çalışıyor.",
+            "Yüzme yarışı için sırtüstü vuruşunu çalışıyor.",
+            "Yüzme yarışı için kurbağalama vuruşunu çalışıyor."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 77,
+        "question": "The goalkeeper made a spectacular save in the last minute.",
+        "choices": [
+            "Kaleci son dakikada harika bir gol attı.",
+            "Kaleci son dakikada harika bir kurtarış yaptı.",
+            "Kaleci son dakikada hata yaptı.",
+            "Kaleci son dakikada oyundan çıktı."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 78,
+        "question": "We're going to watch the NBA Finals tonight.",
+        "choices": [
+            "Bu akşam NBA Finallerini izleyeceğiz.",
+            "Bu akşam Dünya Kupası Finalini izleyeceğiz.",
+            "Bu akşam Şampiyonlar Ligi Finalini izleyeceğiz.",
+            "Bu akşam Wimbledon Finalini izleyeceğiz."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 79,
+        "question": "The javelin thrower set a new Olympic record.",
+        "choices": [
+            "Cirit atıcısı yeni bir dünya rekoru kırdı.",
+            "Cirit atıcısı yeni bir Olimpiyat rekoru kırdı.",
+            "Cirit atıcısı yeni bir Avrupa rekoru kırdı.",
+            "Cirit atıcısı yeni bir ülke rekoru kırdı."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 80,
+        "question": "He's doing bench presses to build chest muscles.",
+        "choices": [
+            "Göğüs kaslarını geliştirmek için bench press yapıyor.",
+            "Göğüs kaslarını geliştirmek için şınav çekiyor.",
+            "Göğüs kaslarını geliştirmek için koşu yapıyor.",
+            "Göğüs kaslarını geliştirmek için mekik çekiyor."
+        ],
+        "correctAnswer": 0
+        
+    },
+    {
+        "id": 81,
+        "question": "The cricket player scored a century in the test match.",
+        "choices": [
+            "Kriket oyuncusu test maçında 50 sayı yaptı.",
+            "Kriket oyuncusu test maçında 75 sayı yaptı.",
+            "Kriket oyuncusu test maçında 100 sayı yaptı.",
+            "Kriket oyuncusu test maçında 150 sayı yaptı."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 82,
+        "question": "We need to buy new shuttlecocks for badminton practice.",
+        "choices": [
+            "Badminton antrenmanı için yeni raket almamız gerekiyor.",
+            "Badminton antrenmanı için yeni file almamız gerekiyor.",
+            "Badminton antrenmanı için yeni ayakkabı almamız gerekiyor.",
+            "Badminton antrenmanı için yeni top almamız gerekiyor."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 83,
+        "question": "The figure skater performed a perfect triple axel.",
+        "choices": [
+            "Buz patencisi mükemmel bir ikili axel yaptı.",
+            "Buz patencisi mükemmel bir üçlü axel yaptı.",
+            "Buz patencisi mükemmel bir dörtlü axel yaptı.",
+            "Buz patencisi mükemmel bir tekli axel yaptı."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 84,
+        "question": "He's practicing his curveball for the baseball game.",
+        "choices": [
+            "Beyzbol maçı için kavisli atışını çalışıyor.",
+            "Beyzbol maçı için düz atışını çalışıyor.",
+            "Beyzbol maçı için hızlı atışını çalışıyor.",
+            "Beyzbol maçı için yavaş atışını çalışıyor."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 85,
+        "question": "The marathon runner hit the wall at the 30km mark.",
+        "choices": [
+            "Maraton koşucusu 30 km noktasında hızlandı.",
+            "Maraton koşucusu 30 km noktasında duvar etkisine girdi.",
+            "Maraton koşucusu 30 km noktasında mola verdi.",
+            "Maraton koşucusu 30 km noktasında yarışı bıraktı."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 86,
+        "question": "We're going to play doubles in tennis this afternoon.",
+        "choices": [
+            "Bu öğleden sonra teniste tekler oynayacağız.",
+            "Bu öğleden sonra teniste çiftler oynayacağız.",
+            "Bu öğleden sonra teniste karışık çiftler oynayacağız.",
+            "Bu öğleden sonra teniste turnuva oynayacağız."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 87,
+        "question": "The surfer caught a perfect wave.",
+        "choices": [
+            "Sörfçü mükemmel bir dalga yakaladı.",
+            "Sörfçü büyük bir balık yakaladı.",
+            "Sörfçü yeni bir sörf tahtası aldı.",
+            "Sörfçü sahilde güneşlendi."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 88,
+        "question": "He's doing squats to strengthen his leg muscles.",
+        "choices": [
+            "Bacak kaslarını güçlendirmek için koşu yapıyor.",
+            "Bacak kaslarını güçlendirmek için squat yapıyor.",
+            "Bacak kaslarını güçlendirmek için yüzüyor.",
+            "Bacak kaslarını güçlendirmek için bisiklet sürüyor."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 89,
+        "question": "The archer hit the bullseye with her final arrow.",
+        "choices": [
+            "Okçu son okuyla tam isabet kaydetti.",
+            "Okçu son okuyla hedefi ıskaladı.",
+            "Okçu son okuyla yayını kırdı.",
+            "Okçu son okuyla rakibini yendi."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 90,
+        "question": "We need to inflate the basketball before the game.",
+        "choices": [
+            "Maçtan önce futbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce basketbol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce voleybol topunu şişirmemiz gerekiyor.",
+            "Maçtan önce hentbol topunu şişirmemiz gerekiyor."
+        ],
+        "correctAnswer": 1
+        
+    },
+    {
+        "id": 91,
+        "question": "The gymnast performed a perfect routine on the balance beam.",
+        "choices": [
+            "Jimnastikçi denge tahtasında mükemmel bir seri yaptı.",
+            "Jimnastikçi parallelde mükemmel bir seri yaptı.",
+            "Jimnastikçi yer hareketlerinde mükemmel bir seri yaptı.",
+            "Jimnastikçi atlama masasında mükemmel bir seri yaptı."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 92,
+        "question": "He's learning to do a backflip on the trampoline.",
+        "choices": [
+            "Trambolinde öne takla atmayı öğreniyor.",
+            "Trambolinde geriye takla atmayı öğreniyor.",
+            "Trambolinde zıplamayı öğreniyor.",
+            "Trambolinde denge kurmayı öğreniyor."
+        ],
+        "correctAnswer": 1
     }
-  ]
-}
+]

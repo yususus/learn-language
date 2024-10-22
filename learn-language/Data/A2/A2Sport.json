@@ -1,405 +1,443 @@
-{
-    "sentences": [
-      {
+[
+    {
+        "id": 1,
         "question": "I go swimming every Saturday.",
         "choices": [
-          "Her Cumartesi yüzmeye giderim.",
-          "Her Cuma yüzmeye giderim.",
-          "Yüzmeyi hiç sevmem.",
-          "Yüzme dersi alırım."
+            "Her Cumartesi yüzmeye giderim.",
+            "Her Cuma yüzmeye giderim.",
+            "Yüzmeyi hiç sevmem.",
+            "Yüzme dersi alırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 2,
         "question": "He plays basketball with his friends.",
         "choices": [
-          "Arkadaşlarıyla basketbol oynar.",
-          "Arkadaşlarıyla futbol oynar.",
-          "Yalnızca tenis oynar.",
-          "Basketbol oynamayı sevmez."
+            "Arkadaşlarıyla basketbol oynar.",
+            "Arkadaşlarıyla futbol oynar.",
+            "Yalnızca tenis oynar.",
+            "Basketbol oynamayı sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 3,
         "question": "She practices yoga every morning.",
         "choices": [
-          "Her sabah yoga yapar.",
-          "Yoga yapmayı sevmez.",
-          "Sadece akşamları spor yapar.",
-          "Spor salonuna gider."
+            "Her sabah yoga yapar.",
+            "Yoga yapmayı sevmez.",
+            "Sadece akşamları spor yapar.",
+            "Spor salonuna gider."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 4,
         "question": "We watch football matches on TV.",
         "choices": [
-          "Televizyonda futbol maçları izleriz.",
-          "Futbol maçı izlemeyiz.",
-          "Sadece basketbol izleriz.",
-          "Futbol oynamayı severiz."
+            "Televizyonda futbol maçları izleriz.",
+            "Futbol maçı izlemeyiz.",
+            "Sadece basketbol izleriz.",
+            "Futbol oynamayı severiz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 5,
         "question": "They run in the park every evening.",
         "choices": [
-          "Her akşam parkta koşarlar.",
-          "Parkta yürürler.",
-          "Her akşam yalnızca otururlar.",
-          "Koşmayı sevmezler."
+            "Her akşam parkta koşarlar.",
+            "Parkta yürürler.",
+            "Her akşam yalnızca otururlar.",
+            "Koşmayı sevmezler."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 6,
         "question": "I enjoy playing tennis on weekends.",
         "choices": [
-          "Hafta sonları tenis oynamayı severim.",
-          "Tenis oynamam.",
-          "Sadece basketbol oynarım.",
-          "Yalnızca futbol oynarım."
+            "Hafta sonları tenis oynamayı severim.",
+            "Tenis oynamam.",
+            "Sadece basketbol oynarım.",
+            "Yalnızca futbol oynarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 7,
         "question": "My brother likes cycling in the countryside.",
         "choices": [
-          "Kardeşim kırsalda bisiklet sürmeyi sever.",
-          "Kardeşim hiç bisiklet sürmez.",
-          "Sadece şehirde bisiklet sürer.",
-          "Kırsalda yürümeyi sever."
+            "Kardeşim kırsalda bisiklet sürmeyi sever.",
+            "Kardeşim hiç bisiklet sürmez.",
+            "Sadece şehirde bisiklet sürer.",
+            "Kırsalda yürümeyi sever."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 8,
         "question": "I participate in a marathon every year.",
         "choices": [
-          "Her yıl bir maratona katılırım.",
-          "Maratona katılmam.",
-          "Sadece spor salonuna giderim.",
-          "Sadece yüzme yarışlarına katılırım."
+            "Her yıl bir maratona katılırım.",
+            "Maratona katılmam.",
+            "Sadece spor salonuna giderim.",
+            "Sadece yüzme yarışlarına katılırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 9,
         "question": "We play volleyball at the beach.",
         "choices": [
-          "Plajda voleybol oynarız.",
-          "Voleybol oynamayı sevmeyiz.",
-          "Sadece futbol oynarız.",
-          "Plajda güneşleniriz."
+            "Plajda voleybol oynarız.",
+            "Voleybol oynamayı sevmeyiz.",
+            "Sadece futbol oynarız.",
+            "Plajda güneşleniriz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 10,
         "question": "I lift weights at the gym.",
         "choices": [
-          "Spor salonunda ağırlık kaldırırım.",
-          "Ağırlık kaldırmam.",
-          "Sadece koşu bandında koşarım.",
-          "Spor salonuna gitmem."
+            "Spor salonunda ağırlık kaldırırım.",
+            "Ağırlık kaldırmam.",
+            "Sadece koşu bandında koşarım.",
+            "Spor salonuna gitmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 11,
         "question": "She enjoys dancing in her free time.",
         "choices": [
-          "Boş zamanlarında dans etmeyi sever.",
-          "Dans etmeyi sevmez.",
-          "Sadece müzik dinler.",
-          "Sadece resim yapar."
+            "Boş zamanlarında dans etmeyi sever.",
+            "Dans etmeyi sevmez.",
+            "Sadece müzik dinler.",
+            "Sadece resim yapar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 12,
         "question": "We go hiking in the mountains.",
         "choices": [
-          "Dağlarda doğa yürüyüşü yaparız.",
-          "Dağlara hiç gitmem.",
-          "Sadece plaja giderim.",
-          "Dağda piknik yaparım."
+            "Dağlarda doğa yürüyüşü yaparız.",
+            "Dağlara hiç gitmem.",
+            "Sadece plaja giderim.",
+            "Dağda piknik yaparım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 13,
         "question": "He trains for a triathlon.",
         "choices": [
-          "Bir triatlon için antrenman yapar.",
-          "Triatlonu sevmez.",
-          "Sadece yüzme antrenmanı yapar.",
-          "Koşmayı hiç sevmez."
+            "Bir triatlon için antrenman yapar.",
+            "Triatlonu sevmez.",
+            "Sadece yüzme antrenmanı yapar.",
+            "Koşmayı hiç sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 14,
         "question": "I play badminton with my family.",
         "choices": [
-          "Ailemle badminton oynarım.",
-          "Badminton oynamam.",
-          "Sadece masa tenisi oynarım.",
-          "Ailemle hiç oyun oynamam."
+            "Ailemle badminton oynarım.",
+            "Badminton oynamam.",
+            "Sadece masa tenisi oynarım.",
+            "Ailemle hiç oyun oynamam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 15,
         "question": "She enjoys watching sports on TV.",
         "choices": [
-          "Televizyonda spor izlemeyi sever.",
-          "Spor izlemeyi sevmez.",
-          "Sadece haber izler.",
-          "Televizyonda hiç film izlemez."
+            "Televizyonda spor izlemeyi sever.",
+            "Spor izlemeyi sevmez.",
+            "Sadece haber izler.",
+            "Televizyonda hiç film izlemez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 16,
         "question": "We join a sports club.",
         "choices": [
-          "Bir spor kulübüne katılırız.",
-          "Spor kulübüne katılmam.",
-          "Sadece yüzme kulübüne katılırım.",
-          "Spor yapmam."
+            "Bir spor kulübüne katılırız.",
+            "Spor kulübüne katılmam.",
+            "Sadece yüzme kulübüne katılırım.",
+            "Spor yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 17,
         "question": "I often go for a run in the morning.",
         "choices": [
-          "Sabahları sık sık koşuya çıkarım.",
-          "Sabahları hiç koşmam.",
-          "Sadece akşamları yürüyüş yaparım.",
-          "Her gün yalnızca spor salonuna giderim."
+            "Sabahları sık sık koşuya çıkarım.",
+            "Sabahları hiç koşmam.",
+            "Sadece akşamları yürüyüş yaparım.",
+            "Her gün yalnızca spor salonuna giderim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 18,
         "question": "He practices martial arts every week.",
         "choices": [
-          "Her hafta dövüş sanatları çalışır.",
-          "Dövüş sanatları ile ilgilenmez.",
-          "Sadece futbol oynar.",
-          "Haftada bir kez spor yapar."
+            "Her hafta dövüş sanatları çalışır.",
+            "Dövüş sanatları ile ilgilenmez.",
+            "Sadece futbol oynar.",
+            "Haftada bir kez spor yapar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 19,
         "question": "I like to watch gymnastics competitions.",
         "choices": [
-          "Jimnastik yarışmalarını izlemeyi severim.",
-          "Jimnastik yapmam.",
-          "Sadece futbol maçları izlerim.",
-          "Hiç spor izlemem."
+            "Jimnastik yarışmalarını izlemeyi severim.",
+            "Jimnastik yapmam.",
+            "Sadece futbol maçları izlerim.",
+            "Hiç spor izlemem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 20,
         "question": "We go to the swimming pool in summer.",
         "choices": [
-          "Yazın yüzme havuzuna gideriz.",
-          "Kışın havuza gitmem.",
-          "Sadece plajda yüzmeyi severim.",
-          "Yüzme havuzunu sevmem."
+            "Yazın yüzme havuzuna gideriz.",
+            "Kışın havuza gitmem.",
+            "Sadece plajda yüzmeyi severim.",
+            "Yüzme havuzunu sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 21,
         "question": "She enjoys playing team sports.",
         "choices": [
-          "Takım sporları oynamayı sever.",
-          "Sadece bireysel sporları sever.",
-          "Spor yapmayı sevmez.",
-          "Sadece tenis oynar."
+            "Takım sporları oynamayı sever.",
+            "Sadece bireysel sporları sever.",
+            "Spor yapmayı sevmez.",
+            "Sadece tenis oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 22,
         "question": "I watch the Olympics every four years.",
         "choices": [
-          "Her dört yılda bir Olimpiyatları izlerim.",
-          "Olimpiyatları hiç izlemem.",
-          "Sadece dünya kupasını izlerim.",
-          "Sadece kendi sporumu izlerim."
+            "Her dört yılda bir Olimpiyatları izlerim.",
+            "Olimpiyatları hiç izlemem.",
+            "Sadece dünya kupasını izlerim.",
+            "Sadece kendi sporumu izlerim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 23,
         "question": "We have a picnic in the park and play frisbee.",
         "choices": [
-          "Parkta piknik yapar ve frizbi oynarız.",
-          "Parkta hiç gitmem.",
-          "Sadece evde kalırız.",
-          "Frizbi oynamam."
+            "Parkta piknik yapar ve frizbi oynarız.",
+            "Parkta hiç gitmem.",
+            "Sadece evde kalırız.",
+            "Frizbi oynamam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 24,
         "question": "I love to watch boxing matches.",
         "choices": [
-          "Boks maçlarını izlemeyi severim.",
-          "Boks yapmam.",
-          "Sadece futbol izlerim.",
-          "Sadece basketbol izlerim."
+            "Boks maçlarını izlemeyi severim.",
+            "Boks yapmam.",
+            "Sadece futbol izlerim.",
+            "Sadece basketbol izlerim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 25,
         "question": "She is a member of the running club.",
         "choices": [
-          "Koşu kulübünün üyesidir.",
-          "Hiç kulübe katılmaz.",
-          "Sadece yüzme kulübüne katılır.",
-          "Yalnızca evde kalır."
+            "Koşu kulübünün üyesidir.",
+            "Hiç kulübe katılmaz.",
+            "Sadece yüzme kulübüne katılır.",
+            "Yalnızca evde kalır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 26,
         "question": "We play sports to stay healthy.",
         "choices": [
-          "Sağlıklı kalmak için spor yaparız.",
-          "Spor yapmam.",
-          "Sadece dinlenirim.",
-          "Yalnızca uyurum."
+            "Sağlıklı kalmak için spor yaparız.",
+            "Spor yapmam.",
+            "Sadece dinlenirim.",
+            "Yalnızca uyurum."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 27,
         "question": "I enjoy skiing in winter.",
         "choices": [
-          "Kışın kayak yapmayı severim.",
-          "Kışın yüzmeyi severim.",
-          "Sadece yazın spor yaparım.",
-          "Kayak yapmam."
+            "Kışın kayak yapmayı severim.",
+            "Kışın yüzmeyi severim.",
+            "Sadece yazın spor yaparım.",
+            "Kayak yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 28,
         "question": "They play table tennis in their free time.",
         "choices": [
-          "Boş zamanlarında masa tenisi oynarlar.",
-          "Boş zamanlarını hiç kullanmazlar.",
-          "Sadece basketbol oynarlar.",
-          "Masa tenisi oynamayı sevmezler."
+            "Boş zamanlarında masa tenisi oynarlar.",
+            "Boş zamanlarını hiç kullanmazlar.",
+            "Sadece basketbol oynarlar.",
+            "Masa tenisi oynamayı sevmezler."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 29,
         "question": "We go to sports events together.",
         "choices": [
-          "Birlikte spor etkinliklerine gideriz.",
-          "Spor etkinliklerine katılmam.",
-          "Sadece sinemaya giderim.",
-          "Etkinlikleri sevmem."
+            "Birlikte spor etkinliklerine gideriz.",
+            "Spor etkinliklerine katılmam.",
+            "Sadece sinemaya giderim.",
+            "Etkinlikleri sevmem."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 30,
         "question": "I prefer individual sports to team sports.",
         "choices": [
-          "Bireysel sporları takım sporlarına tercih ederim.",
-          "Takım sporlarını tercih ederim.",
-          "Sadece yüzme sporunu yaparım.",
-          "Spor yapmam."
+            "Bireysel sporları takım sporlarına tercih ederim.",
+            "Takım sporlarını tercih ederim.",
+            "Sadece yüzme sporunu yaparım.",
+            "Spor yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 31,
         "question": "She goes to the gym three times a week.",
         "choices": [
-          "Haftada üç kez spor salonuna gider.",
-          "Sadece bir kez gider.",
-          "Spor salonuna gitmeyi sevmez.",
-          "Sadece evde çalışır."
+            "Haftada üç kez spor salonuna gider.",
+            "Sadece bir kez gider.",
+            "Spor salonuna gitmeyi sevmez.",
+            "Sadece evde çalışır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 32,
         "question": "They like to skate in the winter.",
         "choices": [
-          "Kışın kaymayı severler.",
-          "Kaymayı hiç sevmezler.",
-          "Yalnızca yazın yüzme yaparlar.",
-          "Sadece koşmayı severler."
+            "Kışın kaymayı severler.",
+            "Kaymayı hiç sevmezler.",
+            "Yalnızca yazın yüzme yaparlar.",
+            "Sadece koşmayı severler."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 33,
         "question": "I take dance classes every week.",
         "choices": [
-          "Her hafta dans dersi alırım.",
-          "Dans etmem.",
-          "Sadece spor dersi alırım.",
-          "Yalnızca müzik dersi alırım."
+            "Her hafta dans dersi alırım.",
+            "Dans etmem.",
+            "Sadece spor dersi alırım.",
+            "Yalnızca müzik dersi alırım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 34,
         "question": "We train together for the race.",
         "choices": [
-          "Yarış için birlikte antrenman yaparız.",
-          "Yarışa katılmam.",
-          "Sadece yüzmeye giderim.",
-          "Antrenman yapmam."
+            "Yarış için birlikte antrenman yaparız.",
+            "Yarışa katılmam.",
+            "Sadece yüzmeye giderim.",
+            "Antrenman yapmam."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 35,
         "question": "She is very good at playing golf.",
         "choices": [
-          "Golf oynamakta çok iyidir.",
-          "Golf oynamaz.",
-          "Sadece basketbol oynar.",
-          "Golfü sevmez."
+            "Golf oynamakta çok iyidir.",
+            "Golf oynamaz.",
+            "Sadece basketbol oynar.",
+            "Golfü sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 36,
         "question": "I often go to the sports shop.",
         "choices": [
-          "Sık sık spor mağazasına giderim.",
-          "Spor mağazasına gitmem.",
-          "Yalnızca yemek alışverişi yaparım.",
-          "Giyimde alışveriş yaparım."
+            "Sık sık spor mağazasına giderim.",
+            "Spor mağazasına gitmem.",
+            "Yalnızca yemek alışverişi yaparım.",
+            "Giyimde alışveriş yaparım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 37,
         "question": "We play cricket on weekends.",
         "choices": [
-          "Hafta sonları kriket oynarız.",
-          "Kriket oynamayı sevmem.",
-          "Sadece futbol oynarız.",
-          "Yalnızca basketbol oynarım."
+            "Hafta sonları kriket oynarız.",
+            "Kriket oynamayı sevmem.",
+            "Sadece futbol oynarız.",
+            "Yalnızca basketbol oynarım."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 38,
         "question": "He trains hard to improve his skills.",
         "choices": [
-          "Becerilerini geliştirmek için çok çalışır.",
-          "Çalışmayı sevmez.",
-          "Sadece dinlenmeyi sever.",
-          "Hiç spor yapmaz."
+            "Becerilerini geliştirmek için çok çalışır.",
+            "Çalışmayı sevmez.",
+            "Sadece dinlenmeyi sever.",
+            "Hiç spor yapmaz."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 39,
         "question": "I watch sports documentaries on Netflix.",
         "choices": [
-          "Netflix'te spor belgeselleri izlerim.",
-          "Spor belgeseli izlemem.",
-          "Sadece film izlerim.",
-          "Yalnızca dizi izlerim."
+            "Netflix'te spor belgeselleri izlerim.",
+            "Spor belgeseli izlemem.",
+            "Sadece film izlerim.",
+            "Yalnızca dizi izlerim."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 40,
         "question": "We have a friendly match with another team.",
         "choices": [
-          "Başka bir takımla dostluk maçı yaparız.",
-          "Dostluk maçı yapmam.",
-          "Sadece resmi maç yaparım.",
-          "Dostluk maçlarını sevmem."
+            "Başka bir takımla dostluk maçı yaparız.",
+            "Dostluk maçı yapmam.",
+            "Sadece resmi maç yaparım.",
+            "Dostluk maçlarını sevmem."
         ],
         "correctAnswer": 0
-      }
-    ]
-  }
+    }
+]
   

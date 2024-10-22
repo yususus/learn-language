@@ -1,355 +1,388 @@
-{
-    "questions": [
-      {
+[
+    {
+        "id": 1,
         "question": "School is a place for learning.",
         "choices": [
-          "Okul öğrenmek için bir yerdir.",
-          "Okul sadece oyun içindir.",
-          "Okul sadece yemek yemek için vardır.",
-          "Okul yalnızca alışveriş yapmak içindir."
+            "Okul öğrenmek için bir yerdir.",
+            "Okul sadece oyun içindir.",
+            "Okul sadece yemek yemek için vardır.",
+            "Okul yalnızca alışveriş yapmak içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 2,
         "question": "Teachers help students.",
         "choices": [
-          "Öğretmenler öğrencilere yardım eder.",
-          "Öğretmenler sadece kitap okur.",
-          "Öğretmenler öğrencileri eğitmez.",
-          "Öğretmenler yalnızca ders anlatır."
+            "Öğretmenler öğrencilere yardım eder.",
+            "Öğretmenler sadece kitap okur.",
+            "Öğretmenler öğrencileri eğitmez.",
+            "Öğretmenler yalnızca ders anlatır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 3,
         "question": "Students study different subjects.",
         "choices": [
-          "Öğrenciler farklı dersleri çalışır.",
-          "Öğrenciler sadece bir dersi çalışır.",
-          "Öğrenciler ders çalışmaz.",
-          "Öğrenciler yalnızca oyun oynar."
+            "Öğrenciler farklı dersleri çalışır.",
+            "Öğrenciler sadece bir dersi çalışır.",
+            "Öğrenciler ders çalışmaz.",
+            "Öğrenciler yalnızca oyun oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 4,
         "question": "Homework is assigned to students.",
         "choices": [
-          "Ödev öğrencilere verilir.",
-          "Ödev sadece öğretmenler içindir.",
-          "Ödev yalnızca sınavlarda vardır.",
-          "Ödev hiç kimseye verilmez."
+            "Ödev öğrencilere verilir.",
+            "Ödev sadece öğretmenler içindir.",
+            "Ödev yalnızca sınavlarda vardır.",
+            "Ödev hiç kimseye verilmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 5,
         "question": "Books are important for education.",
         "choices": [
-          "Kitaplar eğitim için önemlidir.",
-          "Kitaplar sadece eğlence içindir.",
-          "Kitaplar yalnızca okulda kullanılmaz.",
-          "Kitaplar sadece yazı yazmak için vardır."
+            "Kitaplar eğitim için önemlidir.",
+            "Kitaplar sadece eğlence içindir.",
+            "Kitaplar yalnızca okulda kullanılmaz.",
+            "Kitaplar sadece yazı yazmak için vardır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 6,
         "question": "Students can ask questions in class.",
         "choices": [
-          "Öğrenciler derste soru sorabilir.",
-          "Öğrenciler derste konuşamaz.",
-          "Öğrenciler sadece öğretmenleri dinler.",
-          "Öğrenciler derste oyun oynar."
+            "Öğrenciler derste soru sorabilir.",
+            "Öğrenciler derste konuşamaz.",
+            "Öğrenciler sadece öğretmenleri dinler.",
+            "Öğrenciler derste oyun oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 7,
         "question": "Tests evaluate students' knowledge.",
         "choices": [
-          "Sınavlar öğrencilerin bilgisini değerlendirir.",
-          "Sınavlar yalnızca eğlence içindir.",
-          "Sınavlar öğretmenler için yapılır.",
-          "Sınavlar sadece kitap okumak içindir."
+            "Sınavlar öğrencilerin bilgisini değerlendirir.",
+            "Sınavlar yalnızca eğlence içindir.",
+            "Sınavlar öğretmenler için yapılır.",
+            "Sınavlar sadece kitap okumak içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 8,
         "question": "Graduation is an important event.",
         "choices": [
-          "Mezuniyet önemli bir etkinliktir.",
-          "Mezuniyet sadece bir tatildir.",
-          "Mezuniyet yalnızca öğretmenler içindir.",
-          "Mezuniyet hiç kimse için önemlidir."
+            "Mezuniyet önemli bir etkinliktir.",
+            "Mezuniyet sadece bir tatildir.",
+            "Mezuniyet yalnızca öğretmenler içindir.",
+            "Mezuniyet hiç kimse için önemlidir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 9,
         "question": "Students learn new things every day.",
         "choices": [
-          "Öğrenciler her gün yeni şeyler öğrenir.",
-          "Öğrenciler sadece eski bilgileri hatırlar.",
-          "Öğrenciler öğrenmez.",
-          "Öğrenciler sadece oyun oynar."
+            "Öğrenciler her gün yeni şeyler öğrenir.",
+            "Öğrenciler sadece eski bilgileri hatırlar.",
+            "Öğrenciler öğrenmez.",
+            "Öğrenciler sadece oyun oynar."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 10,
         "question": "Group work helps students cooperate.",
         "choices": [
-          "Grup çalışması öğrencilere iş birliği yapmayı öğretir.",
-          "Grup çalışması sadece öğretmenler içindir.",
-          "Grup çalışması yalnızca ders dışıdır.",
-          "Grup çalışması önemli değildir."
+            "Grup çalışması öğrencilere iş birliği yapmayı öğretir.",
+            "Grup çalışması sadece öğretmenler içindir.",
+            "Grup çalışması yalnızca ders dışıdır.",
+            "Grup çalışması önemli değildir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 11,
         "question": "Learning a new language is useful.",
         "choices": [
-          "Yeni bir dil öğrenmek faydalıdır.",
-          "Yeni bir dil öğrenmek gereksizdir.",
-          "Yeni bir dil öğrenmek sadece zordur.",
-          "Yeni bir dil öğrenmek zaman kaybıdır."
+            "Yeni bir dil öğrenmek faydalıdır.",
+            "Yeni bir dil öğrenmek gereksizdir.",
+            "Yeni bir dil öğrenmek sadece zordur.",
+            "Yeni bir dil öğrenmek zaman kaybıdır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 12,
         "question": "Field trips provide real-world experiences.",
         "choices": [
-          "Saha gezileri gerçek dünya deneyimleri sunar.",
-          "Saha gezileri yalnızca oyun içindir.",
-          "Saha gezileri sadece öğretmenler içindir.",
-          "Saha gezileri eğlenceli değildir."
+            "Saha gezileri gerçek dünya deneyimleri sunar.",
+            "Saha gezileri yalnızca oyun içindir.",
+            "Saha gezileri sadece öğretmenler içindir.",
+            "Saha gezileri eğlenceli değildir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 13,
         "question": "Education helps build a better future.",
         "choices": [
-          "Eğitim, daha iyi bir gelecek inşa etmeye yardımcı olur.",
-          "Eğitim gereksizdir.",
-          "Eğitim yalnızca eğlencelidir.",
-          "Eğitim sadece zaman kaybıdır."
+            "Eğitim, daha iyi bir gelecek inşa etmeye yardımcı olur.",
+            "Eğitim gereksizdir.",
+            "Eğitim yalnızca eğlencelidir.",
+            "Eğitim sadece zaman kaybıdır."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 14,
         "question": "Students can join clubs to explore interests.",
         "choices": [
-          "Öğrenciler ilgi alanlarını keşfetmek için kulüplere katılabilir.",
-          "Öğrenciler kulüplere katılamaz.",
-          "Öğrenciler yalnızca derse katılır.",
-          "Öğrenciler kulüpleri sevmez."
+            "Öğrenciler ilgi alanlarını keşfetmek için kulüplere katılabilir.",
+            "Öğrenciler kulüplere katılamaz.",
+            "Öğrenciler yalnızca derse katılır.",
+            "Öğrenciler kulüpleri sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 15,
         "question": "Education is a lifelong process.",
         "choices": [
-          "Eğitim, ömür boyu süren bir süreçtir.",
-          "Eğitim sadece okulda olur.",
-          "Eğitim yalnızca gençler içindir.",
-          "Eğitim gereksizdir."
+            "Eğitim, ömür boyu süren bir süreçtir.",
+            "Eğitim sadece okulda olur.",
+            "Eğitim yalnızca gençler içindir.",
+            "Eğitim gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 16,
         "question": "A good study environment is important.",
         "choices": [
-          "İyi bir çalışma ortamı önemlidir.",
-          "Çalışma ortamı önemli değildir.",
-          "Çalışmak yalnızca uyurken olur.",
-          "Çalışmak sadece gürültülü yerlerde mümkündür."
+            "İyi bir çalışma ortamı önemlidir.",
+            "Çalışma ortamı önemli değildir.",
+            "Çalışmak yalnızca uyurken olur.",
+            "Çalışmak sadece gürültülü yerlerde mümkündür."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 17,
         "question": "Online courses are becoming popular.",
         "choices": [
-          "Online kurslar popüler hale geliyor.",
-          "Online kurslar yalnızca öğretmenler içindir.",
-          "Online kurslar zor değildir.",
-          "Online kurslar gereksizdir."
+            "Online kurslar popüler hale geliyor.",
+            "Online kurslar yalnızca öğretmenler içindir.",
+            "Online kurslar zor değildir.",
+            "Online kurslar gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 18,
         "question": "Science teaches us about the world.",
         "choices": [
-          "Bilim, dünyayı bize öğretir.",
-          "Bilim sadece matematikle ilgilidir.",
-          "Bilim, yalnızca tarih dersi içindir.",
-          "Bilim gereksizdir."
+            "Bilim, dünyayı bize öğretir.",
+            "Bilim sadece matematikle ilgilidir.",
+            "Bilim, yalnızca tarih dersi içindir.",
+            "Bilim gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 19,
         "question": "Mathematics helps us solve problems.",
         "choices": [
-          "Matematik, sorunları çözmemize yardımcı olur.",
-          "Matematik yalnızca eğlencelidir.",
-          "Matematikte yalnızca oyun oynanır.",
-          "Matematik gereksizdir."
+            "Matematik, sorunları çözmemize yardımcı olur.",
+            "Matematik yalnızca eğlencelidir.",
+            "Matematikte yalnızca oyun oynanır.",
+            "Matematik gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 20,
         "question": "Reading improves language skills.",
         "choices": [
-          "Okuma, dil becerilerini geliştirir.",
-          "Okuma yalnızca eğlencelidir.",
-          "Okuma sadece ders çalışmak içindir.",
-          "Okuma gereksizdir."
+            "Okuma, dil becerilerini geliştirir.",
+            "Okuma yalnızca eğlencelidir.",
+            "Okuma sadece ders çalışmak içindir.",
+            "Okuma gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 21,
         "question": "Writing helps express thoughts.",
         "choices": [
-          "Yazma, düşünceleri ifade etmeye yardımcı olur.",
-          "Yazma sadece okul için gereklidir.",
-          "Yazma yalnızca eğlencelidir.",
-          "Yazma gereksizdir."
+            "Yazma, düşünceleri ifade etmeye yardımcı olur.",
+            "Yazma sadece okul için gereklidir.",
+            "Yazma yalnızca eğlencelidir.",
+            "Yazma gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 22,
         "question": "Physical education keeps us healthy.",
         "choices": [
-          "Beden eğitimi bizi sağlıklı tutar.",
-          "Beden eğitimi sadece oyun içindir.",
-          "Beden eğitimi gereksizdir.",
-          "Beden eğitimi sadece öğretmenler içindir."
+            "Beden eğitimi bizi sağlıklı tutar.",
+            "Beden eğitimi sadece oyun içindir.",
+            "Beden eğitimi gereksizdir.",
+            "Beden eğitimi sadece öğretmenler içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 23,
         "question": "Art encourages creativity.",
         "choices": [
-          "Sanat yaratıcılığı teşvik eder.",
-          "Sanat gereksizdir.",
-          "Sanat yalnızca eğlence içindir.",
-          "Sanat yalnızca tarih dersi içindir."
+            "Sanat yaratıcılığı teşvik eder.",
+            "Sanat gereksizdir.",
+            "Sanat yalnızca eğlence içindir.",
+            "Sanat yalnızca tarih dersi içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 24,
         "question": "History teaches us about the past.",
         "choices": [
-          "Tarih, bize geçmişi öğretir.",
-          "Tarih yalnızca eğlencelidir.",
-          "Tarih, yalnızca ders içindir.",
-          "Tarih gereksizdir."
+            "Tarih, bize geçmişi öğretir.",
+            "Tarih yalnızca eğlencelidir.",
+            "Tarih, yalnızca ders içindir.",
+            "Tarih gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 25,
         "question": "Education opens doors to opportunities.",
         "choices": [
-          "Eğitim, fırsatların kapılarını açar.",
-          "Eğitim yalnızca oyun içindir.",
-          "Eğitim, sadece çocuklar içindir.",
-          "Eğitim gereksizdir."
+            "Eğitim, fırsatların kapılarını açar.",
+            "Eğitim yalnızca oyun içindir.",
+            "Eğitim, sadece çocuklar içindir.",
+            "Eğitim gereksizdir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 26,
         "question": "Listening to lectures is important for learning.",
         "choices": [
-          "Ders dinlemek öğrenmek için önemlidir.",
-          "Ders dinlemek gereksizdir.",
-          "Ders dinlemek yalnızca eğlencelidir.",
-          "Ders dinlemek sadece öğretmenler içindir."
+            "Ders dinlemek öğrenmek için önemlidir.",
+            "Ders dinlemek gereksizdir.",
+            "Ders dinlemek yalnızca eğlencelidir.",
+            "Ders dinlemek sadece öğretmenler içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 27,
         "question": "Students can use computers for research.",
         "choices": [
-          "Öğrenciler araştırma için bilgisayar kullanabilir.",
-          "Öğrenciler bilgisayarları kullanamaz.",
-          "Öğrenciler yalnızca oyun oynar.",
-          "Öğrenciler bilgisayarları sevmez."
+            "Öğrenciler araştırma için bilgisayar kullanabilir.",
+            "Öğrenciler bilgisayarları kullanamaz.",
+            "Öğrenciler yalnızca oyun oynar.",
+            "Öğrenciler bilgisayarları sevmez."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 28,
         "question": "Education includes practical experiences.",
         "choices": [
-          "Eğitim, pratik deneyimleri içerir.",
-          "Eğitim yalnızca kitap okumaktır.",
-          "Eğitim gereksizdir.",
-          "Eğitim yalnızca eğlencelidir."
+            "Eğitim, pratik deneyimleri içerir.",
+            "Eğitim yalnızca kitap okumaktır.",
+            "Eğitim gereksizdir.",
+            "Eğitim yalnızca eğlencelidir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 29,
         "question": "Learning about cultures is important.",
         "choices": [
-          "Kültürler hakkında öğrenmek önemlidir.",
-          "Kültürler gereksizdir.",
-          "Kültürler yalnızca eğlence içindir.",
-          "Kültürler sadece tarih dersi içindir."
+            "Kültürler hakkında öğrenmek önemlidir.",
+            "Kültürler gereksizdir.",
+            "Kültürler yalnızca eğlence içindir.",
+            "Kültürler sadece tarih dersi içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 30,
         "question": "Studying hard leads to good grades.",
         "choices": [
-          "Çalışkan olmak iyi notlar almanızı sağlar.",
-          "Çalışmak gereksizdir.",
-          "Çalışkan olmak yalnızca eğlencelidir.",
-          "Çalışmak sadece oyun oynamak içindir."
+            "Çalışkan olmak iyi notlar almanızı sağlar.",
+            "Çalışmak gereksizdir.",
+            "Çalışkan olmak yalnızca eğlencelidir.",
+            "Çalışmak sadece oyun oynamak içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 31,
         "question": "Education helps us understand the world better.",
         "choices": [
-          "Eğitim, dünyayı daha iyi anlamamıza yardımcı olur.",
-          "Eğitim gereksizdir.",
-          "Eğitim yalnızca eğlence içindir.",
-          "Eğitim sadece tarih dersi içindir."
+            "Eğitim, dünyayı daha iyi anlamamıza yardımcı olur.",
+            "Eğitim gereksizdir.",
+            "Eğitim yalnızca eğlence içindir.",
+            "Eğitim sadece tarih dersi içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 32,
         "question": "Learning can be fun.",
         "choices": [
-          "Öğrenmek eğlenceli olabilir.",
-          "Öğrenmek yalnızca zordur.",
-          "Öğrenmek gereksizdir.",
-          "Öğrenmek sadece oyun içindir."
+            "Öğrenmek eğlenceli olabilir.",
+            "Öğrenmek yalnızca zordur.",
+            "Öğrenmek gereksizdir.",
+            "Öğrenmek sadece oyun içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 33,
         "question": "Teachers inspire their students.",
         "choices": [
-          "Öğretmenler öğrencilerini ilham verir.",
-          "Öğretmenler sadece ders anlatır.",
-          "Öğretmenler gereksizdir.",
-          "Öğretmenler yalnızca eğlencelidir."
+            "Öğretmenler öğrencilerini ilham verir.",
+            "Öğretmenler sadece ders anlatır.",
+            "Öğretmenler gereksizdir.",
+            "Öğretmenler yalnızca eğlencelidir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 34,
         "question": "Discipline is important in education.",
         "choices": [
-          "Disiplin eğitimde önemlidir.",
-          "Disiplin gereksizdir.",
-          "Disiplin sadece eğlence içindir.",
-          "Disiplin yalnızca öğretmenler içindir."
+            "Disiplin eğitimde önemlidir.",
+            "Disiplin gereksizdir.",
+            "Disiplin sadece eğlence içindir.",
+            "Disiplin yalnızca öğretmenler içindir."
         ],
         "correctAnswer": 0
-      },
-      {
+    },
+    {
+        "id": 35,
         "question": "Participating in discussions enhances learning.",
         "choices": [
-          "Tartışmalara katılmak öğrenmeyi artırır.",
-          "Tartışmak yalnızca eğlencelidir.",
-          "Tartışmak gereksizdir.",
-          "Tartışmak yalnızca öğretmenler içindir."
+            "Tartışmalara katılmak öğrenmeyi artırır.",
+            "Tartışmak yalnızca eğlencelidir.",
+            "Tartışmak gereksizdir.",
+            "Tartışmak yalnızca öğretmenler içindir."
         ],
         "correctAnswer": 0
-      }
-    ]
-  }
-  
+    }
+]
+ 
