@@ -8,56 +8,81 @@
 import SwiftUI
 
 struct SplashView: View {
-    @State private var rotation = 180.0  // Başlangıç rotasyonu 360 derece
-        @State private var isActive = false
-        @State private var scale: CGFloat = 0.1  // Başlangıç ölçeği küçük
-        
-        var body: some View {
-            if isActive {
-                MainView()
-            } else {
-                ZStack {
-                    Color(red: 1.0, green: 0.96, blue: 0.9)
-                        .edgesIgnoringSafeArea(.all)
+    @State private var progressWidth: CGFloat = 0.0 
+    @State private var isActive = false
+    @State private var showStartButton = false
+
+    var body: some View {
+        if isActive {
+            MainView()
+        } else {
+            ZStack {
+                Color(red: 1.0, green: 0.96, blue: 0.9)
+                    .edgesIgnoringSafeArea(.all)
+                
+                VStack {
+                    Text("W E L C O M E")
+                        .font(Font.custom("FugazOne-Regular", size: 40))
+                        .foregroundColor(Color(red: 0.9, green: 0.3, blue: 0.3))
+                        .multilineTextAlignment(.center)
+                        .padding()
+                        .padding(.bottom, 50)
+
+                    Text("Learning a new word every day opens doors to new opportunities.")
+                        .font(Font.custom("FugazOne-Regular", size: 25))
+                        .foregroundColor(Color(red: 0.9, green: 0.3, blue: 0.3))
+                        .multilineTextAlignment(.center)
+                        .padding()
+                        .padding(.bottom, 50)
                     
-                    ZStack {
-                        Circle()
-                            .stroke(Color(red: 0.9, green: 0.3, blue: 0.3), lineWidth: 3)
-                            .frame(width: Const.width * 0.75, height: Const.height * 0.75)
+                    // Yükleme Çubuğu
+                    ZStack(alignment: .leading) {
+                        Rectangle()
+                            .fill(Color.gray.opacity(0.2))
+                            .frame(width: Const.width * 0.75, height: 10)
+                            .clipShape(.rect(cornerRadius: 10))
                         
-                        
-                        
-                        Text("W E L C O M E").font(Font.custom("FugazOne-Regular", size: 30))
-                            
-                            .foregroundColor(Color(red: 0.9, green: 0.3, blue: 0.3))
+                        Rectangle()
+                            .fill(Color(red: 0.9, green: 0.3, blue: 0.3))
+                            .frame(width: progressWidth, height: 10)
+                            .clipShape(.rect(cornerRadius: 10))
+                            .animation(.easeOut(duration: 2), value: progressWidth)
                     }
-                    .scaleEffect(scale)
-                    .rotation3DEffect(
-                        .degrees(rotation),
-                        axis: (x: 0, y: 1, z: 0),
-                        anchor: .center,
-                        perspective: 0.5
-                    )
-                }
-                .onAppear {
-                    withAnimation(
-                        Animation
-                            .easeOut(duration: 2)
-                    ) {
-                        rotation = 0  // 0 dereceye dön
-                        scale = 1.0  // Tam boyuta büyü
-                    }
+                    .padding(.bottom, 50)
                     
-                    // Ana sayfaya geçiş
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 5) {
-                        withAnimation {
-                            isActive = true
+                    if showStartButton {
+                        Button(action: {
+                            withAnimation {
+                                isActive = true
+                            }
+                        }) {
+                            Text("Start")
+                                .font(.headline)
+                                .foregroundColor(.white)
+                                .padding()
+                                .background(Color(red: 0.9, green: 0.3, blue: 0.3))
+                                .cornerRadius(10)
                         }
+                        .transition(.opacity)
+                    }
+                }
+            }
+            .onAppear {
+                withAnimation(.easeOut(duration: 2)) {
+                    progressWidth = Const.width * 0.75
+                    //çubuğu tamamlıyor gideceği yol kadar
+                }
+                
+                
+                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
+                    withAnimation {
+                        showStartButton = true
                     }
                 }
             }
         }
     }
+}
 
 #Preview {
     SplashView()
