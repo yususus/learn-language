@@ -11,8 +11,6 @@ struct HelpQuestion: View {
     @StateObject var viewModel = HelpQuestionsViewModel()
     @State private var selectedAnswer: Int? = nil
     @State private var isCorrect: Bool? = nil // Doğru veya yanlış durumu
-    
-    @State private var currentQuestionIndex: Int = 0
     @State private var showNextButton: Bool = false
     
     var level: String
@@ -20,8 +18,8 @@ struct HelpQuestion: View {
     
     var body: some View {
         VStack {
-            if !viewModel.questions.isEmpty && currentQuestionIndex < viewModel.questions.count {
-                let question = viewModel.questions[currentQuestionIndex]
+            if !viewModel.questions.isEmpty && viewModel.currentQuestionIndex < viewModel.questions.count {
+                            let question = viewModel.questions[viewModel.currentQuestionIndex]
                 
                 VStack {
                     Text(question.question)
@@ -80,7 +78,7 @@ struct HelpQuestion: View {
                         Button {
                             // Sıradaki soruya geç
                             viewModel.nextQuestion(for: level, category: category)
-                            currentQuestionIndex = viewModel.currentQuestionIndex
+                            
                             selectedAnswer = nil
                             isCorrect = nil
                             showNextButton = false
