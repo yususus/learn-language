@@ -3,7 +3,11 @@
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/13eafc6e-24cc-40b2-8734-717c113f6ae3" alt="logo" title="İcon" width="100"/>
-
+<div>
+  <a href="https://apps.apple.com/tr/app/learn-english-words-sentences/id6737259105?l=tr" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
+<img src="https://github.com/user-attachments/assets/bfc07313-7215-40a7-9177-0701dc4e2252" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;">
+</a>
+</div>
 
 SwiftUI ile geliştirilmiş, modern ve etkileşimli bir dil öğrenme deneyimi.
 
