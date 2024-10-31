@@ -43,8 +43,16 @@ struct MainView: View {
                     ToolbarItem(placement: .principal) {
                         // Özel başlık metni
                         Text(currentGreeting)
-                            .font(Font.custom("FugazOne-Regular", size: 25))  // Font stilini burada ayarlayabilirsin
-                            .foregroundColor(.black)  // İstediğin renkte yapabilirsin
+                            .font(Font.custom("FugazOne-Regular", size: 25))
+                            .foregroundColor(.black)
+                    }
+                    ToolbarItem(placement: .navigationBarTrailing) {
+                        NavigationLink {
+                            SettingsView()
+                        } label: {
+                            Image(systemName: "gear")
+                                .foregroundColor(.black)
+                        }
                     }
                 }
             }
