@@ -15,6 +15,7 @@ struct SplashView: View {
     var body: some View {
         if isActive {
             MainView()
+                .environmentObject(ThemeManager())
         } else {
             ZStack {
                 Color(red: 1.0, green: 0.96, blue: 0.9)

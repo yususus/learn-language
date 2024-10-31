@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SettingsView: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
-    @State private var selectTheme: Theme  = .system
+    @EnvironmentObject var themeManager: ThemeManager
     
     enum Theme {
         case light, dark, system
@@ -17,12 +17,12 @@ struct SettingsView: View {
     
     var body: some View {
         ZStack {
-            Color(red: 1.0, green: 0.96, blue: 0.9)
-                .edgesIgnoringSafeArea(.all)
+            Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
+                                .edgesIgnoringSafeArea(.all)
             VStack {
                 Group {
                     Text("Settings")
-                        .foregroundStyle(.black)
+                        .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         .font(.title)
                         .fontWeight(.bold)
                         .padding()
@@ -33,35 +33,54 @@ struct SettingsView: View {
                             .frame(width: Const.width * 0.85)
                         
                         Toggle(isOn: Binding(
-                            get: { selectTheme == .dark },
-                            set: { if $0 { selectTheme = .dark } }
+                            get: { themeManager.currentTheme == .dark },
+                            set: {
+                                if $0 {
+                                    themeManager.currentTheme = .dark
+                                }
+                            }
                         )) {
                             Text("Dark Mode")
                                 .font(.headline)
-                                .foregroundColor(.black)
+                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         }
                         .padding(.vertical, 5)
                         
+                        Rectangle()
+                            .frame(height: 0.4)
+                            .frame(width: Const.width * 0.85)
+                        
                         Toggle(isOn: Binding(
-                            get: { selectTheme == .light },
-                            set: { if $0 { selectTheme = .light } }
+                            get: { themeManager.currentTheme == .light },
+                            set: {
+                                if $0 {
+                                    themeManager.currentTheme = .light
+                                }
+                            }
                         )) {
                             Text("Light Mode")
                                 .font(.headline)
-                                .foregroundColor(.black)
+                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         }
                         .padding(.vertical, 5)
                         
+                        Rectangle()
+                            .frame(height: 0.4)
+                            .frame(width: Const.width * 0.85)
+                        
                         Toggle(isOn: Binding(
-                            get: { selectTheme == .system },
-                            set: { if $0 { selectTheme = .system } }
+                            get: { themeManager.currentTheme == .system },
+                            set: {
+                                if $0 {
+                                    themeManager.currentTheme = .system
+                                }
+                            }
                         )) {
                             Text("System Mode")
                                 .font(.headline)
-                                .foregroundColor(.black)
+                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         }
                         .padding(.vertical, 5)
-                        
                     }.frame(width: Const.width * 0.9)
                     
                     Spacer()
@@ -69,6 +88,7 @@ struct SettingsView: View {
             }
             
         }
+        .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
     }
 }
 

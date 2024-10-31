@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct MainView: View {
+    @StateObject private var themeManager = ThemeManager()
     let levels = ["A1", "A2", "B1", "B2"]
     
     var currentGreeting: String {
@@ -25,8 +26,8 @@ struct MainView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                Color(red: 1.0, green: 0.96, blue: 0.9)
-                    .edgesIgnoringSafeArea(.all)
+                Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
+                                    .edgesIgnoringSafeArea(.all)
                 
                 ScrollView {
                     ForEach(levels, id: \.self) { level in
@@ -44,19 +45,20 @@ struct MainView: View {
                         // Özel başlık metni
                         Text(currentGreeting)
                             .font(Font.custom("FugazOne-Regular", size: 25))
-                            .foregroundColor(.black)
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                     }
                     ToolbarItem(placement: .navigationBarTrailing) {
                         NavigationLink {
                             SettingsView()
                         } label: {
                             Image(systemName: "gear")
-                                .foregroundColor(.black)
+                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         }
                     }
                 }
             }
         }
+        .environmentObject(themeManager)
     }
 }
 

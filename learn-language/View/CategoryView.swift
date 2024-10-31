@@ -13,6 +13,7 @@ struct CategoryView: View {
     let words = ["General"]
     let sentences = ["Sport", "Science","Family", "Education","Life"]
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
+    @EnvironmentObject var themeManager: ThemeManager
     var body: some View {
         VStack{
             
@@ -55,19 +56,22 @@ struct CategoryView: View {
                     }
                 }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
             }
-        }.navigationBarBackButtonHidden(true)
-            .toolbar {
-                ToolbarItem(placement: .navigationBarLeading) {
-                    Button(action: {
-                        self.presentationMode.wrappedValue.dismiss()
-                    }) {
-                        HStack {
-                            Image(systemName: "chevron.left").foregroundStyle(Color.black)
-                            Text("Home").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
-                        }
+        }
+        
+        .navigationBarBackButtonHidden(true)
+        .toolbar {
+            ToolbarItem(placement: .navigationBarLeading) {
+                Button(action: {
+                    self.presentationMode.wrappedValue.dismiss()
+                }) {
+                    HStack {
+                        Image(systemName: "chevron.left").foregroundStyle(Color.black)
+                        Text("Home").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
                     }
                 }
             }
+        }
+        .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
     }
 }
 

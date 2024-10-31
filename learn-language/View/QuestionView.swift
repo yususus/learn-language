@@ -9,11 +9,11 @@ import SwiftUI
 
 struct QuestionView: View {
     var title : String
-    var level: String   
+    var level: String
     var category: String
     @ObservedObject var viewModel = HelpQuestionsViewModel()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
-
+    @EnvironmentObject var themeManager: ThemeManager
     
     var body: some View {
         ZStack {
@@ -27,19 +27,20 @@ struct QuestionView: View {
             }
         }
         .navigationBarBackButtonHidden(true)
-            .toolbar {
-                ToolbarItem(placement: .navigationBarLeading) {
-                    Button(action: {
-                        self.presentationMode.wrappedValue.dismiss()
-                    }) {
-                        HStack {
-                            Image(systemName: "chevron.left").foregroundStyle(Color.black)
-                            Text("Category").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
-                        }
+        .toolbar {
+            ToolbarItem(placement: .navigationBarLeading) {
+                Button(action: {
+                    self.presentationMode.wrappedValue.dismiss()
+                }) {
+                    HStack {
+                        Image(systemName: "chevron.left").foregroundStyle(Color.black)
+                        Text("Category").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
                     }
                 }
             }
-
+        }
+        .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
+        
     }
 }
 
