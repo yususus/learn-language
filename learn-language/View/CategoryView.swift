@@ -18,12 +18,13 @@ struct CategoryView: View {
         VStack{
             
             ZStack {
-                Color(red: 1.0, green: 0.96, blue: 0.9)
+                Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
                     .edgesIgnoringSafeArea(.all)
                 ScrollView {
                     HStack {
-                        Text("Words").font(Font.custom("FugazOne-Regular", size: UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
-                            .foregroundStyle(Color.black.gradient)
+                        Text("Words")
+                            .font(Font.custom("FugazOne-Regular", size: UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         Spacer()
                     }.padding(.horizontal, Const.width * 0.05)
                     ScrollView(.horizontal){
@@ -40,8 +41,9 @@ struct CategoryView: View {
                         }
                     }.padding()
                     HStack {
-                        Text("Sentences").font(Font.custom("FugazOne-Regular", size:  UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
-                            .foregroundStyle(Color.black.gradient)
+                        Text("Sentences")
+                            .font(Font.custom("FugazOne-Regular", size:  UIFont.preferredFont(forTextStyle: .largeTitle).pointSize))
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         Spacer()
                     }.padding(.horizontal, Const.width * 0.05)
                     VStack{
@@ -65,8 +67,10 @@ struct CategoryView: View {
                     self.presentationMode.wrappedValue.dismiss()
                 }) {
                     HStack {
-                        Image(systemName: "chevron.left").foregroundStyle(Color.black)
-                        Text("Home").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
+                        Image(systemName: "chevron.left")
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
+                        Text("Home").font(Font.custom("FugazOne-Regular", size: 18))
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                     }
                 }
             }
@@ -78,5 +82,6 @@ struct CategoryView: View {
 #Preview {
     NavigationView {
         CategoryView(title: "B1", level: "General")
+            .environmentObject(ThemeManager())
     }
 }

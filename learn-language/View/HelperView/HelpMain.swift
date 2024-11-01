@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HelpMain: View {
     var title: String
-    @StateObject var themeManager = ThemeManager()
+    @EnvironmentObject var themeManager: ThemeManager
     var body: some View {
         
         VStack(alignment: .leading){
@@ -18,8 +18,8 @@ struct HelpMain: View {
             }
             
         }.frame(width: Const.width * 0.9, height: Const.height * 0.18)
-            .background(themeManager.isDarkMode ? Color.gray.opacity(0.3) : Color.brown.opacity(0.3)).cornerRadius(20)
-            .environmentObject(themeManager)
+            .background(themeManager.isDarkMode ? Color(UIColor(hex : "#06402b")) : Color.brown.opacity(0.3)).cornerRadius(20)
+            .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
             
         
     }
@@ -27,4 +27,5 @@ struct HelpMain: View {
 
 #Preview {
     HelpMain(title: "A1")
+        .environmentObject(ThemeManager())
 }
