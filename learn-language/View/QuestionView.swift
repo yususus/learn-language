@@ -17,14 +17,16 @@ struct QuestionView: View {
     
     var body: some View {
         ZStack {
-            Color(red: 1.0, green: 0.96, blue: 0.9)
-                .edgesIgnoringSafeArea(.all)
+            Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
+                                .edgesIgnoringSafeArea(.all)
+            
             VStack {
                 HelpQuestion(level: level, category: category)
             }
             .onAppear {
                 viewModel.loadQuestions(for: level, category: category)
             }
+            
         }
         .navigationBarBackButtonHidden(true)
         .toolbar {
@@ -33,8 +35,11 @@ struct QuestionView: View {
                     self.presentationMode.wrappedValue.dismiss()
                 }) {
                     HStack {
-                        Image(systemName: "chevron.left").foregroundStyle(Color.black)
-                        Text("Category").font(Font.custom("FugazOne-Regular", size: 18)).foregroundStyle(Color.black) // Sabit "Home" metni
+                        Image(systemName: "chevron.left")
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
+                        Text("Category")
+                            .font(Font.custom("FugazOne-Regular", size: 18))
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                     }
                 }
             }
@@ -45,5 +50,8 @@ struct QuestionView: View {
 }
 
 #Preview {
-    QuestionView(title: "ads",level: "A1", category: "Family")
+    NavigationView {
+        QuestionView(title: "ads",level: "A1", category: "Family")
+            .environmentObject(ThemeManager())
+    }
 }

@@ -13,6 +13,8 @@ struct HelpQuestion: View {
     @State private var isCorrect: Bool? = nil // Doğru veya yanlış durumu
     @State private var showNextButton: Bool = false
     
+    @EnvironmentObject var themeManager: ThemeManager
+    
     var level: String
     var category: String
     
@@ -23,12 +25,12 @@ struct HelpQuestion: View {
                 
                 VStack {
                     Text(question.question)
-                        .foregroundStyle(LinearGradient(colors: [.black.opacity(0.8), .black.opacity(0.65)], startPoint: .top, endPoint: .bottomTrailing))
+                        .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         .bold()
                         .font(.title3)
                         .padding()
                         .frame(width: Const.width * 0.9, height: Const.height * 0.25)
-                        .background(.brown.opacity(0.25))
+                        .background(themeManager.isDarkMode ? Color(UIColor(hex : "#06402b")) : Color.brown.opacity(0.3))
                         .cornerRadius(20)
                     
                     Spacer()
@@ -39,10 +41,10 @@ struct HelpQuestion: View {
                             isCorrect = nil // Seçim yapıldığında durumu sıfırla
                         } label: {
                             Text(question.choices[index])
-                                .foregroundStyle(.black.opacity(0.7))
+                                .foregroundColor(themeManager.isDarkMode ? .white : .black.opacity(0.7))
                                 .fontWeight(.bold)
                                 .frame(width: Const.width * 0.9, height: Const.height * 0.07)
-                                .background(selectedAnswer == index ? (isCorrect == true ? Color.green : (isCorrect == false ? Color.red : Color.blue.opacity(0.2))) : Color.brown.opacity(0.1)) // Seçim yapılınca yeşil/kırmızı arka plan
+                                .background(selectedAnswer == index ? (isCorrect == true ? Color.green : (isCorrect == false ? Color.red : Color.blue.opacity(0.2))) : themeManager.isDarkMode ? Color(UIColor(hex : "#085957")) : Color.brown.opacity(0.1))
                                 .cornerRadius(20)
                                 .overlay(RoundedRectangle(cornerRadius: 20)
                                     .stroke(selectedAnswer == index ? (isCorrect == true ? Color.green : (isCorrect == false ? Color.red : Color.blue)) : Color.black, lineWidth: 1) // Seçim yapılınca yeşil/kırmızı çerçeve
@@ -66,10 +68,10 @@ struct HelpQuestion: View {
                         }
                     } label: {
                         Text("Submit")
-                            .foregroundStyle(LinearGradient(colors: [.black.opacity(0.65), .black.opacity(0.8)], startPoint: .top, endPoint: .bottomTrailing))
+                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                             .fontWeight(.bold)
                             .frame(width: Const.width * 0.9, height: Const.height * 0.07)
-                            .background(Color.brown.opacity(0.3))
+                            .background(themeManager.isDarkMode ? Color(UIColor(hex : "#06402b")) : Color.brown.opacity(0.3))
                             .cornerRadius(20)
                     }
                     
@@ -101,9 +103,11 @@ struct HelpQuestion: View {
         .onAppear {
             viewModel.loadQuestions(for: level, category: category)
         }
+        .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
     }
 }
 
 #Preview {
     HelpQuestion(level: "A1", category: "General")
+        .environmentObject(ThemeManager())
 }

@@ -63,24 +63,6 @@ struct SettingsView: View {
                                 .foregroundColor(themeManager.isDarkMode ? .white : .black)
                         }
                         .padding(.vertical, 5)
-                        
-                        Rectangle()
-                            .frame(height: 0.4)
-                            .frame(width: Const.width * 0.85)
-                        
-                        Toggle(isOn: Binding(
-                            get: { themeManager.currentTheme == .system },
-                            set: {
-                                if $0 {
-                                    themeManager.currentTheme = .system
-                                }
-                            }
-                        )) {
-                            Text("System Mode")
-                                .font(.headline)
-                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
-                        }
-                        .padding(.vertical, 5)
                     }.frame(width: Const.width * 0.9)
                     
                     Spacer()
