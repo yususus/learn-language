@@ -3,12 +3,12 @@
       "id": 1,
       "question": "hello",
       "choices": [
+          "güle güle",
         "merhaba",
-        "güle güle",
         "lütfen",
         "teşekkür ederim"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
@@ -59,22 +59,23 @@
       "question": "no",
       "choices": [
         "evet",
-        "hayır",
         "belki",
+        "hayır",
         "tamam"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "maybe",
       "choices": [
+          "belki",
         "evet",
         "hayır",
-        "belki",
+        
         "tamam"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 8,
@@ -91,12 +92,12 @@
       "id": 9,
       "question": "one",
       "choices": [
-        "bir",
         "iki",
+        "bir",
         "üç",
         "dört"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 10,
@@ -147,22 +148,23 @@
       "question": "six",
       "choices": [
         "beş",
-        "altı",
         "yedi",
+        "altı",
         "sekiz"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 15,
       "question": "seven",
       "choices": [
+          "yedi",
         "beş",
         "altı",
-        "yedi",
+        
         "sekiz"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 16,
@@ -179,12 +181,13 @@
       "id": 17,
       "question": "nine",
       "choices": [
-        "dokuz",
+        
         "on",
         "onbir",
-        "oniki"
+        "oniki",
+        "dokuz"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 18,
@@ -223,34 +226,35 @@
       "id": 21,
       "question": "Monday",
       "choices": [
-        "Pazartesi",
         "Salı",
         "Çarşamba",
+        "Pazartesi",
         "Perşembe"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 22,
       "question": "Tuesday",
       "choices": [
-        "Pazartesi",
+        
         "Salı",
         "Çarşamba",
+        "Pazartesi",
         "Perşembe"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 23,
       "question": "Wednesday",
       "choices": [
         "Pazartesi",
-        "Salı",
         "Çarşamba",
+        "Salı",
         "Perşembe"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 24,
@@ -312,11 +316,11 @@
       "question": "February",
       "choices": [
         "Ocak",
-        "Şubat",
         "Mart",
+        "Şubat",
         "Nisan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 30,
@@ -355,12 +359,13 @@
       "id": 33,
       "question": "June",
       "choices": [
+          "Haziran",
         "Mayıs",
-        "Haziran",
+        
         "Temmuz",
         "Ağustos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 34,
@@ -377,12 +382,13 @@
       "id": 35,
       "question": "August",
       "choices": [
+          "Ağustos",
         "Mayıs",
         "Haziran",
-        "Temmuz",
-        "Ağustos"
+        "Temmuz"
+        
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 36,
@@ -410,12 +416,13 @@
       "id": 38,
       "question": "November",
       "choices": [
+          "Kasım",
         "Eylül",
         "Ekim",
-        "Kasım",
+        
         "Aralık"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 39,
@@ -423,10 +430,11 @@
       "choices": [
         "Eylül",
         "Ekim",
-        "Kasım",
-        "Aralık"
+        "Aralık",
+        "Kasım"
+        
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 40,
@@ -476,12 +484,12 @@
       "id": 44,
       "question": "black",
       "choices": [
+          "beyaz",
         "siyah",
-        "beyaz",
         "gri",
         "kahverengi"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 45,
@@ -543,11 +551,12 @@
       "question": "neighbor",
       "choices": [
         "aile",
-        "arkadaş",
         "komşu",
+        "arkadaş",
+        
         "öğretmen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 51,
@@ -564,12 +573,13 @@
       "id": 52,
       "question": "mother",
       "choices": [
-        "anne",
+        
         "baba",
         "kardeş",
+        "anne",
         "çocuk"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 53,
@@ -586,12 +596,13 @@
       "id": 54,
       "question": "sibling",
       "choices": [
+          "kardeş",
         "anne",
         "baba",
-        "kardeş",
+        
         "çocuk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 55,
@@ -652,12 +663,13 @@
         "id": 60,
         "question": "book",
         "choices": [
-          "kitap",
+          
           "defter",
           "kalem",
+          "kitap",
           "silgi"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
       },
       {
         "id": 61,
@@ -675,11 +687,12 @@
         "question": "pencil",
         "choices": [
           "kitap",
-          "defter",
           "kalem",
+          "defter",
+          
           "silgi"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
       },
       {
         "id": 63,
@@ -719,11 +732,12 @@
         "question": "train",
         "choices": [
           "araba",
-          "otobüs",
           "tren",
+          "otobüs",
+          
           "uçak"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
       },
       {
         "id": 67,
@@ -1368,11 +1382,12 @@
         "question": "poor",
         "choices": [
             "zengin",
-            "fakir",
+            
             "cömert",
+            "fakir",
             "cimri"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
     },
     {
         "id": 126,
@@ -1433,12 +1448,13 @@
         "id": 131,
         "question": "empty",
         "choices": [
+            "boş",
             "açık",
             "kapalı",
-            "dolu",
-            "boş"
+            "dolu"
+            
         ],
-        "correctAnswer": 3
+        "correctAnswer": 0
     },
     {
         "id": 132,
@@ -1456,11 +1472,11 @@
         "question": "dirty",
         "choices": [
             "temiz",
-            "kirli",
             "düzenli",
+            "kirli",
             "dağınık"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
     },
     {
         "id": 134,
@@ -1488,12 +1504,13 @@
         "id": 136,
         "question": "expensive",
         "choices": [
-            "pahalı",
+            
             "ucuz",
             "kolay",
+            "pahalı",
             "zor"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 137,
@@ -1523,9 +1540,10 @@
         "choices": [
             "pahalı",
             "ucuz",
-            "kolay",
-            "zor"
+            "zor",
+            "kolay"
+            
         ],
-        "correctAnswer": 3
+        "correctAnswer": 2
     }
 ]

@@ -3,12 +3,13 @@
         "id": 0,
         "question": "achieve",
         "choices": [
-            "başarmak",
+            
             "denemek",
+            "başarmak",
             "planlamak",
             "vazgeçmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 1,
@@ -25,23 +26,25 @@
         "id": 2,
         "question": "advantage",
         "choices": [
-            "avantaj",
+            
             "dezavantaj",
             "fırsat",
-            "zorluk"
+            "zorluk",
+            "avantaj",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 3,
         "question": "adventure",
         "choices": [
-            "macera",
+            
             "yolculuk",
             "tatil",
+            "macera",
             "iş"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 4,
@@ -58,34 +61,37 @@
         "id": 5,
         "question": "advice",
         "choices": [
-            "tavsiye",
+            
             "emir",
+            "tavsiye",
             "istek",
             "soru"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 6,
         "question": "afford",
         "choices": [
-            "karşılayabilmek",
+            
             "satın almak",
             "satmak",
+            "karşılayabilmek",
             "kiralamak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 7,
         "question": "afraid",
         "choices": [
-            "korkmuş",
+            
             "cesur",
             "mutlu",
-            "üzgün"
+            "üzgün",
+            "korkmuş",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 8,
@@ -113,34 +119,37 @@
         "id": 10,
         "question": "aim",
         "choices": [
-            "hedef",
+            
             "başlangıç",
             "son",
+            "hedef",
             "orta"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 11,
         "question": "airport",
         "choices": [
-            "havalimanı",
+            
             "tren istasyonu",
+            "havalimanı",
             "otogar",
             "liman"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 12,
         "question": "alone",
         "choices": [
-            "yalnız",
+            
             "birlikte",
             "kalabalık",
+            "yalnız",
             "grup"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 13,
@@ -157,23 +166,25 @@
         "id": 14,
         "question": "among",
         "choices": [
-            "arasında",
+            
             "dışında",
+            "arasında",
             "üstünde",
             "altında"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 15,
         "question": "announce",
         "choices": [
-            "duyurmak",
+            
             "gizlemek",
             "sormak",
+            "duyurmak",
             "cevaplamak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 16,
@@ -190,34 +201,37 @@
         "id": 17,
         "question": "annual",
         "choices": [
-            "yıllık",
+            
             "aylık",
             "günlük",
+            "yıllık",
             "haftalık"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 18,
         "question": "answer",
         "choices": [
-            "cevap",
+            
             "soru",
+            "cevap",
             "problem",
             "çözüm"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 19,
         "question": "apologize",
         "choices": [
-            "özür dilemek",
+            
             "teşekkür etmek",
             "şikayet etmek",
-            "övmek"
+            "övmek",
+            "özür dilemek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 20,
@@ -234,12 +248,13 @@
         "id": 21,
         "question": "application",
         "choices": [
-            "başvuru",
+            
             "red",
             "kabul",
+            "başvuru",
             "iptal"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 22,
@@ -256,12 +271,13 @@
         "id": 23,
         "question": "appreciate",
         "choices": [
-            "takdir etmek",
+            
             "eleştirmek",
             "reddetmek",
+            "takdir etmek",
             "görmezden gelmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 24,
@@ -278,23 +294,25 @@
         "id": 25,
         "question": "approve",
         "choices": [
-            "onaylamak",
+            
             "reddetmek",
+            "onaylamak",
             "ertelemek",
             "düşünmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 26,
         "question": "arrange",
         "choices": [
-            "düzenlemek",
+            
             "bozmak",
             "karıştırmak",
+            "düzenlemek",
             "dağıtmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 27,
@@ -311,34 +329,37 @@
         "id": 28,
         "question": "article",
         "choices": [
-            "makale",
+            
             "kitap",
+            "makale",
             "dergi",
             "gazete"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 29,
         "question": "artist",
         "choices": [
-            "sanatçı",
+            
             "bilim adamı",
             "sporcu",
-            "politikacı"
+            "politikacı",
+            "sanatçı"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 30,
         "question": "ashamed",
         "choices": [
-            "utanmış",
+            
             "gururlu",
+            "utanmış",
             "mutlu",
             "kızgın"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 31,
@@ -355,12 +376,13 @@
         "id": 32,
         "question": "assistant",
         "choices": [
-            "yardımcı",
+            
             "patron",
             "müdür",
+            "yardımcı",
             "işçi"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 33,
@@ -377,34 +399,37 @@
         "id": 34,
         "question": "atmosphere",
         "choices": [
-            "atmosfer",
+            
             "hava",
+            "atmosfer",
             "iklim",
             "mevsim"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 35,
         "question": "attach",
         "choices": [
-            "eklemek",
+            
             "çıkarmak",
             "bölmek",
+            "eklemek",
             "kesmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 36,
         "question": "attack",
         "choices": [
-            "saldırmak",
+            
             "savunmak",
+            "saldırmak",
             "kaçmak",
             "beklemek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 37,
@@ -421,12 +446,13 @@
         "id": 38,
         "question": "attend",
         "choices": [
-            "katılmak",
+            
             "kaçırmak",
             "ertelemek",
+            "katılmak",
             "iptal etmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 39,
@@ -443,23 +469,25 @@
         "id": 40,
         "question": "attitude",
         "choices": [
-            "tutum",
+            
             "davranış",
+            "tutum",
             "düşünce",
             "duygu"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 41,
         "question": "attract",
         "choices": [
-            "çekmek",
+            
             "itmek",
             "uzaklaştırmak",
+            "çekmek",
             "kaçırmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 42,
@@ -476,34 +504,37 @@
         "id": 43,
         "question": "authority",
         "choices": [
-            "otorite",
+            
             "özgürlük",
             "eşitlik",
-            "demokrasi"
+            "demokrasi",
+            "otorite"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 44,
         "question": "available",
         "choices": [
-            "mevcut",
+            
             "yok",
+            "mevcut",
             "tükenmiş",
             "gizli"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 45,
         "question": "average",
         "choices": [
-            "ortalama",
+            
             "en iyi",
             "en kötü",
+            "ortalama",
             "mükemmel"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 46,
@@ -520,23 +551,25 @@
         "id": 47,
         "question": "awake",
         "choices": [
-            "uyanık",
+            
             "uykuda",
+            "uyanık",
             "yorgun",
             "dinlenmiş"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 48,
         "question": "aware",
         "choices": [
-            "farkında",
+            
             "habersiz",
             "ilgisiz",
-            "umursamaz"
+            "umursamaz",
+            "farkında"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 49,
@@ -553,12 +586,13 @@
         "id": 50,
         "question": "awful",
         "choices": [
-            "korkunç",
+            
             "harika",
+            "korkunç",
             "iyi",
             "normal"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 51,
@@ -575,34 +609,37 @@
         "id": 52,
         "question": "background",
         "choices": [
-            "arka plan",
+            
             "ön plan",
             "yan",
+            "arka plan",
             "orta"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 53,
         "question": "backward",
         "choices": [
-            "geriye",
+            
             "ileriye",
             "yukarı",
-            "aşağı"
+            "aşağı",
+            "geriye"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 54,
         "question": "badge",
         "choices": [
-            "rozet",
+            
             "kart",
+            "rozet",
             "bilet",
             "etiket"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 55,
@@ -619,78 +656,85 @@
         "id": 56,
         "question": "ban",
         "choices": [
-            "yasaklamak",
+            
             "izin vermek",
             "teşvik etmek",
-            "desteklemek"
+            "desteklemek",
+            "yasaklamak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 57,
         "question": "band",
         "choices": [
-            "grup",
+            
             "solo",
+            "grup",
             "orkestra",
             "koro"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 58,
         "question": "barrier",
         "choices": [
-            "engel",
+            
             "yol",
+            "engel",
             "köprü",
             "tünel"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 59,
         "question": "basic",
         "choices": [
-            "temel",
+            
             "karmaşık",
             "gelişmiş",
-            "zor"
+            "zor",
+            "temel"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 60,
         "question": "battery",
         "choices": [
-            "pil",
+            
             "lamba",
             "kablo",
+            "pil",
             "fiş"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 61,
         "question": "battle",
         "choices": [
-            "savaş",
+            
             "barış",
+            "savaş",
             "ateşkes",
             "anlaşma"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 62,
         "question": "beach",
         "choices": [
-            "plaj",
+            
             "dağ",
             "orman",
+            "plaj",
             "çöl"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 63,
@@ -707,34 +751,37 @@
         "id": 64,
         "question": "beauty",
         "choices": [
-            "güzellik",
+            
             "çirkinlik",
             "sıradanlık",
-            "normallik"
+            "normallik",
+            "güzellik"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 65,
         "question": "become",
         "choices": [
-            "olmak",
+            
             "kalmak",
+            "olmak",
             "değişmemek",
             "reddetmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 66,
         "question": "bedroom",
         "choices": [
-            "yatak odası",
+            
             "oturma odası",
             "mutfak",
+            "yatak odası",
             "banyo"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 67,
@@ -751,23 +798,25 @@
         "id": 68,
         "question": "begin",
         "choices": [
-            "başlamak",
+            
             "bitirmek",
+            "başlamak",
             "devam etmek",
             "durmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 69,
         "question": "behavior",
         "choices": [
-            "davranış",
+            
             "düşünce",
             "duygu",
+            "davranış",
             "inanç"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 70,
@@ -795,23 +844,25 @@
         "id": 72,
         "question": "belong",
         "choices": [
-            "ait olmak",
+            
             "sahip olmak",
             "kiralamak",
-            "ödünç almak"
+            "ödünç almak",
+            "ait olmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 73,
         "question": "below",
         "choices": [
-            "altında",
+            
             "üstünde",
+            "altında",
             "yanında",
             "arasında"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 74,
@@ -828,45 +879,49 @@
         "id": 75,
         "question": "besides",
         "choices": [
-            "ayrıca",
+            
             "sadece",
             "yalnızca",
+            "ayrıca",
             "hariç"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 76,
         "question": "between",
         "choices": [
-            "arasında",
+            
             "dışında",
+            "arasında",
             "üstünde",
             "altında"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 77,
         "question": "beyond",
         "choices": [
-            "ötesinde",
+            
             "berisinde",
             "içinde",
-            "yakınında"
+            "yakınında",
+            "ötesinde"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 78,
         "question": "bill",
         "choices": [
-            "fatura",
+            
             "makbuz",
             "çek",
+            "fatura",
             "senet"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 79,
@@ -894,34 +949,37 @@
         "id": 81,
         "question": "blind",
         "choices": [
-            "kör",
+            
             "sağır",
+            "kör",
             "dilsiz",
             "felçli"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 82,
         "question": "block",
         "choices": [
-            "engellemek",
+            
             "izin vermek",
             "kolaylaştırmak",
+            "engellemek",
             "hızlandırmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 83,
         "question": "blood",
         "choices": [
-            "kan",
+            
             "su",
+            "kan",
             "ter",
             "gözyaşı"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 84,
@@ -938,34 +996,37 @@
         "id": 85,
         "question": "boil",
         "choices": [
-            "kaynatmak",
+            
             "dondurmak",
             "soğutmak",
+            "kaynatmak",
             "ısıtmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 86,
         "question": "bond",
         "choices": [
-            "bağ",
+            
             "kopukluk",
             "ayrılık",
-            "mesafe"
+            "mesafe",
+            "bağ"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 87,
         "question": "border",
         "choices": [
-            "sınır",
+            
             "merkez",
+            "sınır",
             "iç",
             "orta"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 88,
@@ -982,12 +1043,13 @@
         "id": 89,
         "question": "boss",
         "choices": [
-            "patron",
+            
             "çalışan",
             "müşteri",
+            "patron",
             "ortak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 90,
@@ -1004,23 +1066,25 @@
         "id": 91,
         "question": "bottle",
         "choices": [
-            "şişe",
+            
             "bardak",
+            "şişe",
             "tabak",
             "kavanoz"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 92,
         "question": "bottom",
         "choices": [
-            "alt",
+            
             "üst",
             "orta",
-            "yan"
+            "yan",
+            "alt"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 93,
@@ -1037,56 +1101,61 @@
         "id": 94,
         "question": "brave",
         "choices": [
-            "cesur",
+            
             "korkak",
             "ürkek",
+            "cesur",
             "çekingen"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 95,
         "question": "break",
         "choices": [
-            "kırmak",
+            
             "onarmak",
+            "kırmak",
             "birleştirmek",
             "güçlendirmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 96,
         "question": "breath",
         "choices": [
-            "nefes",
+            
             "ses",
             "koku",
+            "nefes",
             "tat"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 97,
         "question": "brief",
         "choices": [
-            "kısa",
+            
             "uzun",
+            "kısa",
             "detaylı",
             "karmaşık"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 98,
         "question": "bright",
         "choices": [
-            "parlak",
+            
             "karanlık",
             "mat",
-            "soluk"
+            "soluk",
+            "parlak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 99,
@@ -1103,45 +1172,49 @@
         "id": 100,
         "question": "broad",
         "choices": [
-            "geniş",
+            
             "dar",
             "ince",
+            "geniş",
             "sığ"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 101,
         "question": "brother",
         "choices": [
-            "erkek kardeş",
+            
             "kız kardeş",
+            "erkek kardeş",
             "kuzen",
             "amca"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 102,
         "question": "budget",
         "choices": [
-            "bütçe",
+            
             "gelir",
             "gider",
-            "kar"
+            "kar",
+            "bütçe"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 103,
         "question": "build",
         "choices": [
-            "inşa etmek",
+            
             "yıkmak",
             "onarmak",
+            "inşa etmek",
             "boyamak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 104,
@@ -1158,12 +1231,13 @@
         "id": 105,
         "question": "busy",
         "choices": [
-            "meşgul",
+            
             "boş",
+            "meşgul",
             "serbest",
             "rahat"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 106,
@@ -1180,45 +1254,49 @@
         "id": 107,
         "question": "buy",
         "choices": [
-            "satın almak",
+            
             "satmak",
             "kiralamak",
+            "satın almak",
             "ödünç vermek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 108,
         "question": "call",
         "choices": [
-            "aramak",
+            
             "mesaj atmak",
+            "aramak",
             "mektup yazmak",
             "ziyaret etmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 109,
         "question": "calm",
         "choices": [
-            "sakin",
+            
             "sinirli",
             "heyecanlı",
-            "endişeli"
+            "endişeli",
+            "sakin"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 110,
         "question": "camera",
         "choices": [
-            "fotoğraf makinesi",
+            
             "televizyon",
+            "fotoğraf makinesi",
             "bilgisayar",
             "telefon"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 111,
@@ -1235,23 +1313,25 @@
         "id": 112,
         "question": "cancel",
         "choices": [
-            "iptal etmek",
+            
             "onaylamak",
             "ertelemek",
+            "iptal etmek",
             "değiştirmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 113,
         "question": "candidate",
         "choices": [
-            "aday",
+            
             "seçmen",
+            "aday",
             "lider",
             "rakip"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 114,
@@ -1268,12 +1348,13 @@
         "id": 115,
         "question": "capital",
         "choices": [
-            "başkent",
+            
             "il",
             "ilçe",
-            "köy"
+            "köy",
+            "başkent"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 116,
@@ -1290,34 +1371,37 @@
         "id": 117,
         "question": "care",
         "choices": [
-            "önemsemek",
+            
             "ihmal etmek",
+            "önemsemek",
             "unutmak",
             "görmezden gelmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 118,
         "question": "career",
         "choices": [
-            "kariyer",
+            
             "hobi",
             "tatil",
+            "kariyer",
             "eğlence"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 119,
         "question": "carpet",
         "choices": [
-            "halı",
+            
             "perde",
             "masa örtüsü",
-            "koltuk"
+            "koltuk",
+            "halı",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 120,
@@ -1334,56 +1418,61 @@
         "id": 121,
         "question": "cash",
         "choices": [
-            "nakit",
+            
             "kredi kartı",
+            "nakit",
             "çek",
             "senet"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 122,
         "question": "castle",
         "choices": [
-            "kale",
+            
             "ev",
             "apartman",
-            "villa"
+            "villa",
+            "kale"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 123,
         "question": "catch",
         "choices": [
-            "yakalamak",
+            
             "kaçırmak",
             "bırakmak",
+            "yakalamak",
             "düşürmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 124,
         "question": "celebrate",
         "choices": [
-            "kutlamak",
+            
             "üzülmek",
+            "kutlamak",
             "ağlamak",
             "şikayet etmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 125,
         "question": "center",
         "choices": [
-            "merkez",
+            
             "kenar",
             "köşe",
-            "dış"
+            "dış",
+            "merkez"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 126,
@@ -1400,34 +1489,37 @@
         "id": 127,
         "question": "certain",
         "choices": [
-            "kesin",
+            
             "belirsiz",
+            "kesin",
             "şüpheli",
             "kararsız"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 128,
         "question": "chain",
         "choices": [
-            "zincir",
+            
             "ip",
             "halat",
+            "zincir",
             "tel"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 129,
         "question": "chair",
         "choices": [
-            "sandalye",
+            
             "masa",
+            "sandalye",
             "koltuk",
             "tabure"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 130,
@@ -1455,67 +1547,73 @@
         "id": 132,
         "question": "change",
         "choices": [
-            "değişmek",
+            
             "kalmak",
             "durmak",
+            "değişmek",
             "beklemek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 133,
         "question": "channel",
         "choices": [
-            "kanal",
+            
             "program",
+            "kanal",
             "film",
             "dizi"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 134,
         "question": "chapter",
         "choices": [
-            "bölüm",
+            
             "sayfa",
             "paragraf",
+            "bölüm",
             "cümle"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 135,
         "question": "character",
         "choices": [
-            "karakter",
+            
             "kişilik",
+            "karakter",
             "davranış",
             "tutum"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 136,
         "question": "charge",
         "choices": [
-            "ücret",
+            
             "indirim",
+            "ücret",
             "hediye",
             "bonus"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 137,
         "question": "charity",
         "choices": [
-            "hayır kurumu",
+            
             "şirket",
             "mağaza",
-            "fabrika"
+            "fabrika",
+            "hayır kurumu"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 138,
@@ -1532,34 +1630,37 @@
         "id": 139,
         "question": "cheap",
         "choices": [
-            "ucuz",
+            
             "pahalı",
             "uygun",
+            "ucuz",
             "makul"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 140,
         "question": "check",
         "choices": [
-            "kontrol etmek",
+            
             "ihmal etmek",
+            "kontrol etmek",
             "atlamak",
             "unutmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 141,
         "question": "cheerful",
         "choices": [
-            "neşeli",
+            
             "üzgün",
             "kızgın",
-            "endişeli"
+            "endişeli",
+            "neşeli"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 142,
@@ -1576,34 +1677,37 @@
         "id": 143,
         "question": "chemistry",
         "choices": [
-            "kimya",
+            
             "fizik",
             "biyoloji",
+            "kimya",
             "matematik"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 144,
         "question": "chest",
         "choices": [
-            "göğüs",
+            
             "sırt",
+            "göğüs",
             "kol",
             "bacak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 145,
         "question": "chicken",
         "choices": [
-            "tavuk",
+            
             "hindi",
             "ördek",
+            "tavuk",
             "kaz"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 146,
@@ -1620,34 +1724,37 @@
         "id": 147,
         "question": "child",
         "choices": [
-            "çocuk",
+            
             "yetişkin",
             "yaşlı",
-            "genç"
+            "genç",
+            "çocuk"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 148,
         "question": "childhood",
         "choices": [
-            "çocukluk",
+            
             "gençlik",
+            "çocukluk",
             "yaşlılık",
             "olgunluk"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 149,
         "question": "chocolate",
         "choices": [
-            "çikolata",
+            
             "şeker",
             "bisküvi",
+            "çikolata",
             "kek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 150,
@@ -1664,89 +1771,97 @@
         "id": 151,
         "question": "choose",
         "choices": [
-            "seçmek",
+            
             "reddetmek",
+            "seçmek",
             "vazgeçmek",
             "bırakmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 152,
         "question": "cigarette",
         "choices": [
-            "sigara",
+            
             "puro",
             "pipo",
+            "sigara",
             "nargile"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 153,
         "question": "cinema",
         "choices": [
-            "sinema",
+            
             "tiyatro",
+            "sinema",
             "konser",
             "sergi"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 154,
         "question": "circle",
         "choices": [
-            "daire",
+            
             "kare",
             "üçgen",
-            "dikdörtgen"
+            "dikdörtgen",
+            "daire"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 155,
         "question": "citizen",
         "choices": [
-            "vatandaş",
+            
             "turist",
+            "vatandaş",
             "yabancı",
             "göçmen"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 156,
         "question": "city",
         "choices": [
-            "şehir",
+            
             "köy",
             "kasaba",
+            "şehir",
             "ilçe"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 157,
         "question": "claim",
         "choices": [
-            "iddia etmek",
+            
             "reddetmek",
+            "iddia etmek",
             "kabul etmek",
             "itiraf etmek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 158,
         "question": "class",
         "choices": [
-            "sınıf",
+            
             "okul",
             "ders",
-            "kurs"
+            "kurs",
+            "sınıf"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 159,
@@ -1763,34 +1878,37 @@
         "id": 160,
         "question": "clear",
         "choices": [
-            "net",
+            
             "belirsiz",
+            "net",
             "bulanık",
             "karışık"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 161,
         "question": "clever",
         "choices": [
-            "zeki",
+            
             "aptal",
             "cahil",
+            "zeki",
             "bilgisiz"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 162,
         "question": "climate",
         "choices": [
-            "iklim",
+            
             "hava",
+            "iklim",
             "mevsim",
             "sıcaklık"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 163,
@@ -1807,12 +1925,13 @@
         "id": 164,
         "question": "clock",
         "choices": [
-            "saat",
+            
             "takvim",
             "pusula",
-            "termometre"
+            "termometre",
+            "saat"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 165,
@@ -1829,23 +1948,25 @@
         "id": 166,
         "question": "cloth",
         "choices": [
-            "kumaş",
+            
             "deri",
             "plastik",
+            "kumaş",
             "metal"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 167,
         "question": "clothes",
         "choices": [
-            "kıyafetler",
+            
             "ayakkabılar",
+            "kıyafetler",
             "çantalar",
             "aksesuarlar"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 168,
@@ -1862,23 +1983,25 @@
         "id": 169,
         "question": "club",
         "choices": [
-            "kulüp",
+            
             "dernek",
             "vakıf",
+            "kulüp",
             "birlik"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 170,
         "question": "coach",
         "choices": [
-            "antrenör",
+            
             "oyuncu",
+            "antrenör",
             "hakem",
             "seyirci"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 171,
@@ -1895,12 +2018,13 @@
         "id": 172,
         "question": "coat",
         "choices": [
-            "palto",
+            
             "gömlek",
             "pantolon",
+            "palto",
             "etek"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 173,
@@ -1917,33 +2041,36 @@
         "id": 174,
         "question": "coin",
         "choices": [
-            "madeni para",
+            
             "kağıt para",
             "çek",
-            "kredi kartı"
+            "kredi kartı",
+            "madeni para"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 175,
         "question": "cold",
         "choices": [
-            "soğuk",
+            
             "sıcak",
+            "soğuk",
             "ılık",
             "serin"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 176,
         "question": "collect",
         "choices": [
-            "toplamak",
+            
             "dağıtmak",
             "atm",
+            "toplamak",
             "fırlatmak"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     }
 ]
