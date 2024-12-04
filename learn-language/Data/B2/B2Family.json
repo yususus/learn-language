@@ -14,56 +14,61 @@
         "id": 2,
         "question": "Modern families come in many different forms and structures.",
         "choices": [
-            "Modern aileler birçok farklı biçim ve yapıda gelir.",
+            
             "Tüm aileler aynı yapıya sahip olmalıdır.",
             "Modern aileler geleneksel değildir.",
-            "Aile yapıları hiç değişmemiştir."
+            "Aile yapıları hiç değişmemiştir.",
+            "Modern aileler birçok farklı biçim ve yapıda gelir.",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 3,
         "question": "Effective communication is crucial for maintaining healthy family relationships.",
         "choices": [
-            "Etkili iletişim, sağlıklı aile ilişkilerini sürdürmek için çok önemlidir.",
+            
             "Aile içi iletişim gereksizdir.",
+            "Etkili iletişim, sağlıklı aile ilişkilerini sürdürmek için çok önemlidir.",
             "Sadece çocuklar iletişim kurmalıdır.",
             "Aşırı iletişim aile bağlarını zayıflatır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 4,
         "question": "Many families are finding it challenging to balance work and family life.",
         "choices": [
-            "Birçok aile, iş ve aile yaşamını dengelemeyi zorlu buluyor.",
+            
             "İş-yaşam dengesi kolayca sağlanabilir.",
             "Aile yaşamı iş hayatından daha önemsizdir.",
+            "Birçok aile, iş ve aile yaşamını dengelemeyi zorlu buluyor.",
             "İş ve aile yaşamı arasında denge kurmak imkansızdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 5,
         "question": "Grandparents often play a crucial role in children's upbringing.",
         "choices": [
-            "Büyükanne ve büyükbabalar genellikle çocukların yetiştirilmesinde çok önemli bir rol oynar.",
+            
             "Büyükanne ve büyükbabalar çocuk yetiştirmeye karışmamalıdır.",
+            "Büyükanne ve büyükbabalar genellikle çocukların yetiştirilmesinde çok önemli bir rol oynar.",
             "Sadece ebeveynler çocuk yetiştirmede rol oynamalıdır.",
             "Büyükanne ve büyükbabaların rolü önemsizdir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 6,
         "question": "Family meals are an important time for bonding and communication.",
         "choices": [
-            "Aile yemekleri, bağ kurma ve iletişim için önemli bir zamandır.",
+            
             "Aile yemekleri gereksizdir.",
             "Yemek zamanı sadece beslenmek içindir.",
-            "Aile yemekleri stresi artırır."
+            "Aile yemekleri stresi artırır.",
+            "Aile yemekleri, bağ kurma ve iletişim için önemli bir zamandır.",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 7,
@@ -91,34 +96,37 @@
         "id": 9,
         "question": "The concept of family varies greatly across different cultures.",
         "choices": [
-            "Aile kavramı farklı kültürler arasında büyük ölçüde değişiklik gösterir.",
+            
             "Aile kavramı her yerde aynıdır.",
+            "Aile kavramı farklı kültürler arasında büyük ölçüde değişiklik gösterir.",
             "Kültür aile yapısını etkilemez.",
             "Sadece Batı kültüründe aile kavramı vardır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 10,
         "question": "Family support is often crucial during times of personal crisis.",
         "choices": [
-            "Aile desteği, kişisel kriz zamanlarında genellikle çok önemlidir.",
+            
             "Kişisel krizler aileyi ilgilendirmez.",
             "Kriz zamanlarında yalnız kalmak daha iyidir.",
-            "Aile desteği bağımsızlığı engeller."
+            "Aile desteği bağımsızlığı engeller.",
+            "Aile desteği, kişisel kriz zamanlarında genellikle çok önemlidir.",
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 11,
         "question": "The role of fathers in childcare has evolved significantly in recent decades.",
         "choices": [
-            "Babaların çocuk bakımındaki rolü son on yıllarda önemli ölçüde gelişti.",
+            
             "Babalar çocuk bakımına karışmamalıdır.",
             "Çocuk bakımı sadece annelerin sorumluluğundadır.",
+            "Babaların çocuk bakımındaki rolü son on yıllarda önemli ölçüde gelişti.",
             "Babaların rolü hiç değişmemiştir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 12,
@@ -135,23 +143,25 @@
         "id": 13,
         "question": "Family dynamics can significantly impact a child's educational performance.",
         "choices": [
-            "Aile dinamikleri bir çocuğun eğitim performansını önemli ölçüde etkileyebilir.",
+            
             "Aile dinamiklerinin eğitim üzerinde hiçbir etkisi yoktur.",
             "Sadece okul, çocuğun eğitim performansını etkiler.",
-            "Aile dinamikleri çocuğun başarısını düşürür."
+            "Aile dinamikleri çocuğun başarısını düşürür.",
+            "Aile dinamikleri bir çocuğun eğitim performansını önemli ölçüde etkileyebilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 14,
         "question": "Many families are struggling with the rising cost of living.",
         "choices": [
-            "Birçok aile artan yaşam maliyetleriyle mücadele ediyor.",
+            
             "Yaşam maliyetleri aileleri etkilemez.",
+            "Birçok aile artan yaşam maliyetleriyle mücadele ediyor.",
             "Tüm aileler ekonomik olarak rahattır.",
             "Artan maliyetler aile bağlarını güçlendirir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 15,
@@ -168,12 +178,13 @@
         "id": 16,
         "question": "The concept of work-life balance is becoming increasingly important for many families.",
         "choices": [
-            "İş-yaşam dengesi kavramı birçok aile için giderek daha önemli hale geliyor.",
+            
             "İş-yaşam dengesi gereksiz bir kavramdır.",
             "Çalışma hayatı her zaman öncelikli olmalıdır.",
+            "İş-yaşam dengesi kavramı birçok aile için giderek daha önemli hale geliyor.",
             "İş-yaşam dengesi sadece bekârlar için önemlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 17,
@@ -190,56 +201,61 @@
         "id": 18,
         "question": "Family vacations can be a great way to strengthen bonds and create lasting memories.",
         "choices": [
-            "Aile tatilleri, bağları güçlendirmek ve kalıcı anılar yaratmak için harika bir yol olabilir.",
+            
             "Aile tatilleri gereksiz bir lükstür.",
+            "Aile tatilleri, bağları güçlendirmek ve kalıcı anılar yaratmak için harika bir yol olabilir.",
             "Tatiller sadece çocuklar içindir.",
             "Aile tatilleri stres yaratır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 19,
         "question": "The role of extended family members varies greatly across different cultures.",
         "choices": [
-            "Geniş aile üyelerinin rolü farklı kültürler arasında büyük ölçüde değişiklik gösterir.",
+            
             "Geniş aile kavramı artık önemli değildir.",
             "Tüm kültürlerde geniş aile aynı role sahiptir.",
+            "Geniş aile üyelerinin rolü farklı kültürler arasında büyük ölçüde değişiklik gösterir.",
             "Geniş aile sadece gelişmemiş toplumlarda önemlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 20,
         "question": "Many families are experiencing challenges related to aging parents.",
         "choices": [
-            "Birçok aile, yaşlanan ebeveynlerle ilgili zorluklarla karşılaşıyor.",
+            
             "Yaşlanan ebeveynler hiçbir zaman sorun yaratmaz.",
             "Yaşlı bakımı sadece devletin sorumluluğundadır.",
-            "Yaşlı ebeveynler her zaman bakımevlerine gönderilmelidir."
+            "Yaşlı ebeveynler her zaman bakımevlerine gönderilmelidir.",
+            "Birçok aile, yaşlanan ebeveynlerle ilgili zorluklarla karşılaşıyor."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 21,
         "question": "Family histories and genealogies are becoming increasingly popular topics of interest.",
         "choices": [
-            "Aile tarihleri ve soy ağaçları giderek daha popüler ilgi konuları haline geliyor.",
+            
             "Aile tarihi önemsizdir.",
+            "Aile tarihleri ve soy ağaçları giderek daha popüler ilgi konuları haline geliyor.",
             "Soy ağaçları sadece soyluları ilgilendirir.",
             "Geçmişi bilmek zararlıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 22,
         "question": "Many families are dealing with the challenges of long-distance relationships.",
         "choices": [
-            "Birçok aile, uzak mesafe ilişkilerinin zorluklarıyla başa çıkmaya çalışıyor.",
+            
             "Uzak mesafe ilişkileri imkânsızdır.",
             "Aile üyeleri her zaman bir arada yaşamalıdır.",
+            "Birçok aile, uzak mesafe ilişkilerinin zorluklarıyla başa çıkmaya çalışıyor.",
             "Uzak mesafe ilişkileri aile bağlarını güçlendirir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 23,
@@ -256,45 +272,49 @@
         "id": 24,
         "question": "The definition of family is evolving in many societies.",
         "choices": [
-            "Aile tanımı birçok toplumda gelişiyor.",
+            
             "Aile tanımı hiç değişmemiştir.",
+            "Aile tanımı birçok toplumda gelişiyor.",
             "Sadece geleneksel aile yapısı geçerlidir.",
             "Aile kavramı artık önemli değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 25,
         "question": "Many families are embracing multicultural and interracial relationships.",
         "choices": [
-            "Birçok aile, çok kültürlü ve ırklar arası ilişkileri benimsemektedir.",
+            
             "Çok kültürlü ilişkiler her zaman sorunludur.",
             "Aileler sadece kendi kültürlerinden insanlarla ilişki kurmalıdır.",
+            "Birçok aile, çok kültürlü ve ırklar arası ilişkileri benimsemektedir.",
             "Irklar arası evlilikler toplum için zararlıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 26,
         "question": "Family rituals and routines can provide a sense of stability and belonging.",
         "choices": [
-            "Aile ritüelleri ve rutinleri, istikrar ve aidiyet duygusu sağlayabilir.",
+            
             "Aile rutinleri sıkıcıdır ve kaçınılmalıdır.",
+            "Aile ritüelleri ve rutinleri, istikrar ve aidiyet duygusu sağlayabilir.",
             "Ritüeller sadece dini ailelerde önemlidir.",
             "Aile rutinleri kişisel gelişimi engeller."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 27,
         "question": "Many families are facing challenges related to digital device usage and screen time.",
         "choices": [
-            "Birçok aile, dijital cihaz kullanımı ve ekran süresiyle ilgili zorluklarla karşı karşıya.",
+            
             "Dijital cihazlar aile yaşamını etkilemez.",
             "Ekran süresi sınırlaması gereksizdir.",
-            "Teknoloji kullanımı aile ilişkilerini her zaman iyileştirir."
+            "Teknoloji kullanımı aile ilişkilerini her zaman iyileştirir.",
+            "Birçok aile, dijital cihaz kullanımı ve ekran süresiyle ilgili zorluklarla karşı karşıya."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 28,
@@ -311,34 +331,37 @@
         "id": 29,
         "question": "Many families are choosing to homeschool their children.",
         "choices": [
-            "Birçok aile çocuklarını evde eğitmeyi tercih ediyor.",
+            
             "Evde eğitim yasadışıdır.",
+            "Birçok aile çocuklarını evde eğitmeyi tercih ediyor.",
             "Tüm çocuklar geleneksel okullara gitmelidir.",
             "Evde eğitim çocukların sosyalleşmesini engeller."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 30,
         "question": "Family financial planning is becoming increasingly important in today's economy.",
         "choices": [
-            "Aile finansal planlaması, günümüz ekonomisinde giderek daha önemli hale geliyor.",
+            
             "Finansal planlama sadece zenginler içindir.",
             "Aileler para konusunu konuşmamalıdır.",
-            "Finansal planlama aile bütçesini kısıtlar."
+            "Finansal planlama aile bütçesini kısıtlar.",
+            "Aile finansal planlaması, günümüz ekonomisinde giderek daha önemli hale geliyor."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 31,
         "question": "Many families are exploring alternative living arrangements, such as co-housing.",
         "choices": [
-            "Birçok aile, ortak konut gibi alternatif yaşam düzenlemelerini keşfediyor.",
+            
             "Alternatif yaşam düzenlemeleri aileyi zayıflatır.",
             "Herkes geleneksel evlerde yaşamalıdır.",
+            "Birçok aile, ortak konut gibi alternatif yaşam düzenlemelerini keşfediyor.",
             "Ortak konut sadece öğrenciler içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 32,
@@ -355,56 +378,61 @@
         "id": 33,
         "question": "The role of pets in family life is increasingly recognized as important.",
         "choices": [
-            "Evcil hayvanların aile yaşamındaki rolü giderek daha önemli olarak kabul ediliyor.",
+            
             "Evcil hayvanlar aile üyesi olamaz.",
             "Evcil hayvanlar çocuklar için zararlıdır.",
+            "Evcil hayvanların aile yaşamındaki rolü giderek daha önemli olarak kabul ediliyor.",
             "Evcil hayvanlar sadece çiftliklerde olmalıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 34,
         "question": "Many families are dealing with the challenges of blended family dynamics.",
         "choices": [
-            "Birçok aile, karma aile dinamiklerinin zorluklarıyla başa çıkmaya çalışıyor.",
+            
             "Karma aileler gerçek aile değildir.",
+            "Birçok aile, karma aile dinamiklerinin zorluklarıyla başa çıkmaya çalışıyor.",
             "Karma aileler her zaman sorunludur.",
             "Üvey ebeveynler asla kabul görmez."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 35,
         "question": "Family literacy programs can help improve educational outcomes for both parents and children.",
         "choices": [
-            "Aile okuryazarlık programları hem ebeveynlerin hem de çocukların eğitim sonuçlarını iyileştirebilir.",
+            
             "Okuryazarlık sadece okulda öğrenilmelidir.",
             "Aile okuryazarlık programları gereksizdir.",
+            "Aile okuryazarlık programları hem ebeveynlerin hem de çocukların eğitim sonuçlarını iyileştirebilir.",
             "Ebeveynler çocuklarının eğitimine karışmamalıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 36,
         "question": "Many families are choosing to live in multigenerational households.",
         "choices": [
-            "Birçok aile çok kuşaklı hanelerde yaşamayı tercih ediyor.",
+            
             "Farklı kuşaklar asla bir arada yaşamamalıdır.",
             "Çok kuşaklı haneler sadece ekonomik zorluklar nedeniyle oluşur.",
-            "Genç aileler her zaman ayrı yaşamalıdır."
+            "Genç aileler her zaman ayrı yaşamalıdır.",
+            "Birçok aile çok kuşaklı hanelerde yaşamayı tercih ediyor."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 37,
         "question": "Family-friendly workplace policies are becoming increasingly important for many employees.",
         "choices": [
-            "Aile dostu işyeri politikaları birçok çalışan için giderek daha önemli hale geliyor.",
+            
             "İş ve aile hayatı tamamen ayrı tutulmalıdır.",
+            "Aile dostu işyeri politikaları birçok çalışan için giderek daha önemli hale geliyor.",
             "Aile dostu politikalar şirketlere zarar verir.",
             "Çalışanlar ailevi sorumluluklarını işe taşımamalıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 38,
@@ -421,56 +449,61 @@
         "id": 39,
         "question": "Family reunions can be a powerful way to maintain connections across generations.",
         "choices": [
-            "Aile buluşmaları, kuşaklar arası bağları sürdürmenin güçlü bir yolu olabilir.",
+            
             "Aile buluşmaları zaman kaybıdır.",
             "Aile üyeleri sadece özel günlerde bir araya gelmelidir.",
+            "Aile buluşmaları, kuşaklar arası bağları sürdürmenin güçlü bir yolu olabilir.",
             "Kuşaklar arası bağlar önemsizdir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 40,
         "question": "Many families are facing challenges related to caring for elderly relatives.",
         "choices": [
-            "Birçok aile, yaşlı akrabalarının bakımıyla ilgili zorluklarla karşı karşıya.",
+            
             "Yaşlı bakımı sadece profesyoneller tarafından yapılmalıdır.",
+            "Birçok aile, yaşlı akrabalarının bakımıyla ilgili zorluklarla karşı karşıya.",
             "Yaşlı akrabalar her zaman bakımevlerine gönderilmelidir.",
             "Yaşlı bakımı aile sorumluluğu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 41,
         "question": "Family traditions can evolve and change over time to reflect changing values and circumstances.",
         "choices": [
-            "Aile gelenekleri, değişen değerleri ve koşulları yansıtmak için zamanla evrilebilir ve değişebilir.",
+            
             "Aile gelenekleri asla değişmemelidir.",
             "Değişen gelenekler aile bağlarını zayıflatır.",
-            "Modern aileler gelenekleri tamamen reddetmelidir."
+            "Modern aileler gelenekleri tamamen reddetmelidir.",
+            "Aile gelenekleri, değişen değerleri ve koşulları yansıtmak için zamanla evrilebilir ve değişebilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 42,
         "question": "Many families are embracing sustainable living practices.",
         "choices": [
-            "Birçok aile sürdürülebilir yaşam uygulamalarını benimsemektedir.",
+            
             "Sürdürülebilir yaşam sadece çevrecileri ilgilendirir.",
             "Aileler çevre konularıyla ilgilenmemelidir.",
+            "Birçok aile sürdürülebilir yaşam uygulamalarını benimsemektedir.",
             "Sürdürülebilir yaşam uygulamaları aile bütçesine zarar verir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 43,
         "question": "Family learning activities can strengthen bonds and promote shared interests.",
         "choices": [
-            "Aile öğrenme etkinlikleri bağları güçlendirebilir ve ortak ilgi alanlarını teşvik edebilir.",
+           
             "Öğrenme aktiviteleri sadece okulla sınırlı olmalıdır.",
+            "Aile öğrenme etkinlikleri bağları güçlendirebilir ve ortak ilgi alanlarını teşvik edebilir.",
             "Aile üyeleri farklı ilgi alanlarına sahip olmalıdır.",
             "Ortak öğrenme etkinlikleri aile içi rekabeti artırır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 44,
@@ -487,23 +520,25 @@
         "id": 45,
         "question": "Family volunteering can instill important values and create meaningful shared experiences.",
         "choices": [
-            "Aile gönüllülüğü önemli değerler aşılayabilir ve anlamlı ortak deneyimler yaratabilir.",
+           
             "Gönüllülük sadece yetişkinler içindir.",
             "Aile üyeleri bireysel olarak gönüllü olmalıdır.",
-            "Gönüllülük aile zamanını boşa harcar."
+            "Gönüllülük aile zamanını boşa harcar.",
+            "Aile gönüllülüğü önemli değerler aşılayabilir ve anlamlı ortak deneyimler yaratabilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 46,
         "question": "Many families are exploring alternative education options for their children.",
         "choices": [
-            "Birçok aile çocukları için alternatif eğitim seçeneklerini araştırıyor.",
+            
             "Alternatif eğitim seçenekleri yasadışıdır.",
+            "Birçok aile çocukları için alternatif eğitim seçeneklerini araştırıyor.",
             "Tüm çocuklar geleneksel okullara gitmelidir.",
             "Alternatif eğitim çocukların gelişimini engeller."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 47,

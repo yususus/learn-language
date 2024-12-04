@@ -56,7 +56,9 @@ struct CategoryView: View {
                             .buttonStyle(PressableButtonStyle())
                         }
                     }
-                }.navigationTitle("\(title) Degree" ).navigationBarTitleDisplayMode(.inline)
+                }.navigationTitle("\(title) Degree")
+                    
+                    .navigationBarTitleDisplayMode(.inline)
             }
         }
         

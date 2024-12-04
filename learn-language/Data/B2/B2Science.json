@@ -14,67 +14,73 @@
         "id": 2,
         "question": "The scientific method is crucial for conducting experiments.",
         "choices": [
-            "Bilimsel yöntemin deneyler yaparken kritik öneme sahip olduğunu düşünüyorum.",
+            
             "Bilimsel yöntem gereksizdir.",
+            "Bilimsel yöntemin deneyler yaparken kritik öneme sahip olduğunu düşünüyorum.",
             "Bilimsel yöntem sadece teorik bir konsepttir.",
             "Bilimsel yöntem zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 3,
         "question": "Climate change is a significant global issue.",
         "choices": [
-            "İklim değişikliğinin önemli bir küresel sorun olduğunu düşünüyorum.",
+            
             "İklim değişikliği gereksiz bir endişedir.",
             "İklim değişikliği sadece medya tarafından abartılıyor.",
+            "İklim değişikliğinin önemli bir küresel sorun olduğunu düşünüyorum.",
             "İklim değişikliği zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 4,
         "question": "Understanding genetics can lead to advancements in medicine.",
         "choices": [
-            "Genetiği anlamanın tıpta ilerlemelere yol açabileceğine inanıyorum.",
+            
             "Genetik gereksizdir.",
             "Genetik sadece bilim insanları için önemlidir.",
-            "Genetik bilgisi zorunlu değildir."
+            "Genetik bilgisi zorunlu değildir.",
+            "Genetiği anlamanın tıpta ilerlemelere yol açabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 5,
         "question": "Renewable energy sources are vital for a sustainable future.",
         "choices": [
-            "Yenilenebilir enerji kaynaklarının sürdürülebilir bir gelecek için hayati olduğunu düşünüyorum.",
+            
             "Yenilenebilir enerji gereksizdir.",
             "Yenilenebilir enerji sadece bir trenddir.",
+            "Yenilenebilir enerji kaynaklarının sürdürülebilir bir gelecek için hayati olduğunu düşünüyorum.",
             "Yenilenebilir enerji zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 6,
         "question": "Astrobiology explores the possibility of life beyond Earth.",
         "choices": [
-            "Astrobiyolojinin Dünya dışındaki yaşam olasılığını keşfettiğine inanıyorum.",
+            
             "Astrobiyoloji gereksizdir.",
+            "Astrobiyolojinin Dünya dışındaki yaşam olasılığını keşfettiğine inanıyorum.",
             "Astrobiyoloji sadece bilim kurgu için önemlidir.",
             "Astrobiyoloji zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 7,
         "question": "The study of ecosystems is important for environmental conservation.",
         "choices": [
-            "Ekosistemlerin incelenmesinin çevre koruma için önemli olduğunu düşünüyorum.",
+            
             "Ekosistemler gereksizdir.",
+            "Ekosistemlerin incelenmesinin çevre koruma için önemli olduğunu düşünüyorum.",
             "Ekosistemler sadece akademik bir konudur.",
             "Ekosistemlerin incelenmesi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 8,
@@ -91,34 +97,37 @@
         "id": 9,
         "question": "Studying physics helps us understand the universe.",
         "choices": [
-            "Fizik çalışmanın evreni anlamamıza yardımcı olduğuna inanıyorum.",
+            
             "Fizik gereksizdir.",
             "Fizik sadece mühendislik için önemlidir.",
+            "Fizik çalışmanın evreni anlamamıza yardımcı olduğuna inanıyorum.",
             "Fizik çalışmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 10,
         "question": "Biotechnology can offer solutions to food shortages.",
         "choices": [
-            "Biyoteknolojinin gıda kıtlıklarına çözümler sunabileceğine inanıyorum.",
+            
             "Biyoteknoloji gereksizdir.",
+            "Biyoteknolojinin gıda kıtlıklarına çözümler sunabileceğine inanıyorum.",
             "Biyoteknoloji sadece laboratuvar ortamında geçerlidir.",
             "Biyoteknoloji zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 11,
         "question": "The discovery of penicillin revolutionized medicine.",
         "choices": [
-            "Penisilinin keşfinin tıbbı devrim niteliğinde değiştirdiğine inanıyorum.",
+            
             "Penisilin gereksizdir.",
             "Penisilin yalnızca eski bir tedavidir.",
-            "Penisilin zorunlu değildir."
+            "Penisilin zorunlu değildir.",
+            "Penisilinin keşfinin tıbbı devrim niteliğinde değiştirdiğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 12,
@@ -135,34 +144,37 @@
         "id": 13,
         "question": "Understanding human anatomy is essential for healthcare professionals.",
         "choices": [
-            "İnsan anatomisini anlamanın sağlık profesyonelleri için gerekli olduğuna inanıyorum.",
+            
             "İnsan anatomisi gereksizdir.",
             "İnsan anatomisi sadece tıp öğrencileri için önemlidir.",
+            "İnsan anatomisini anlamanın sağlık profesyonelleri için gerekli olduğuna inanıyorum.",
             "İnsan anatomisi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 14,
         "question": "Psychology helps us understand human behavior.",
         "choices": [
-            "Psikolojinin insan davranışını anlamamıza yardımcı olduğuna inanıyorum.",
+            
             "Psikoloji gereksizdir.",
             "Psikoloji yalnızca hastalar için önemlidir.",
-            "Psikoloji zorunlu değildir."
+            "Psikoloji zorunlu değildir.",
+            "Psikolojinin insan davranışını anlamamıza yardımcı olduğuna inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 15,
         "question": "The study of chemistry is crucial for developing new materials.",
         "choices": [
-            "Kimya çalışmanın yeni malzemelerin geliştirilmesi için kritik öneme sahip olduğunu düşünüyorum.",
+            
             "Kimya gereksizdir.",
             "Kimya sadece laboratuvar çalışmaları içindir.",
-            "Kimya zorunlu değildir."
+            "Kimya zorunlu değildir.",
+            "Kimya çalışmanın yeni malzemelerin geliştirilmesi için kritik öneme sahip olduğunu düşünüyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 16,
@@ -179,67 +191,73 @@
         "id": 17,
         "question": "Sustainable farming practices can reduce environmental impact.",
         "choices": [
-            "Sürdürülebilir tarım uygulamalarının çevresel etkiyi azaltabileceğine inanıyorum.",
+            
             "Sürdürülebilir tarım gereksizdir.",
             "Sürdürülebilir tarım sadece küçük çiftlikler için geçerlidir.",
+            "Sürdürülebilir tarım uygulamalarının çevresel etkiyi azaltabileceğine inanıyorum.",
             "Sürdürülebilir tarım zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 18,
         "question": "Learning about evolution helps us understand biodiversity.",
         "choices": [
-            "Evrim hakkında bilgi edinmenin biyolojik çeşitliliği anlamamıza yardımcı olduğunu düşünüyorum.",
+            
             "Evrim gereksizdir.",
+            "Evrim hakkında bilgi edinmenin biyolojik çeşitliliği anlamamıza yardımcı olduğunu düşünüyorum.",
             "Evrim yalnızca teorik bir konsepttir.",
             "Evrim bilgisi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 19,
         "question": "Nanotechnology has the potential to revolutionize medicine.",
         "choices": [
-            "Nanoteknolojinin tıbbı devrim niteliğinde değiştirme potansiyeline sahip olduğuna inanıyorum.",
+            
             "Nanoteknoloji gereksizdir.",
             "Nanoteknoloji yalnızca gelecekte önem kazanacaktır.",
+            "Nanoteknolojinin tıbbı devrim niteliğinde değiştirme potansiyeline sahip olduğuna inanıyorum.",
             "Nanoteknoloji zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 20,
         "question": "Public health initiatives are important for community well-being.",
         "choices": [
-            "Halk sağlığı girişimlerinin topluluk refahı için önemli olduğunu düşünüyorum.",
+            
             "Halk sağlığı gereksizdir.",
+            "Halk sağlığı girişimlerinin topluluk refahı için önemli olduğunu düşünüyorum.",
             "Halk sağlığı sadece hastaneler için önemlidir.",
             "Halk sağlığı zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 21,
         "question": "Studying astronomy can inspire future scientists.",
         "choices": [
-            "Astronomiyi çalışmanın gelecekteki bilim insanlarını teşvik edebileceğine inanıyorum.",
+            
             "Astronomi gereksizdir.",
             "Astronomi yalnızca meraklılar için önemlidir.",
-            "Astronomi zorunlu değildir."
+            "Astronomi zorunlu değildir.",
+            "Astronomiyi çalışmanın gelecekteki bilim insanlarını teşvik edebileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 22,
         "question": "Understanding the human genome is key to personalized medicine.",
         "choices": [
-            "İnsan genomunu anlamanın kişiselleştirilmiş tıpta anahtar olduğuna inanıyorum.",
+            
             "Genom bilimi gereksizdir.",
+            "İnsan genomunu anlamanın kişiselleştirilmiş tıpta anahtar olduğuna inanıyorum.",
             "Genom bilgisi yalnızca araştırmalar için önemlidir.",
             "Genom bilgisi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 23,
@@ -256,34 +274,37 @@
         "id": 24,
         "question": "Understanding climate systems is vital for addressing global warming.",
         "choices": [
-            "İklim sistemlerini anlamanın küresel ısınmayla başa çıkmak için hayati olduğunu düşünüyorum.",
+            
             "İklim sistemleri gereksizdir.",
             "İklim sistemleri yalnızca bilim insanları için önemlidir.",
+            "İklim sistemlerini anlamanın küresel ısınmayla başa çıkmak için hayati olduğunu düşünüyorum.",
             "İklim sistemleri zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 25,
         "question": "Forensic science plays a crucial role in criminal investigations.",
         "choices": [
-            "Adli bilimin ceza soruşturmalarında kritik bir rol oynadığına inanıyorum.",
+            
             "Adli bilim gereksizdir.",
+            "Adli bilimin ceza soruşturmalarında kritik bir rol oynadığına inanıyorum.",
             "Adli bilim yalnızca suçlu avlamak içindir.",
             "Adli bilim zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 26,
         "question": "The study of anthropology helps us understand human cultures.",
         "choices": [
-            "Antropolojinin insan kültürlerini anlamamıza yardımcı olduğuna inanıyorum.",
+            
             "Antropoloji gereksizdir.",
             "Antropoloji sadece eski kalıntılar içindir.",
-            "Antropoloji zorunlu değildir."
+            "Antropoloji zorunlu değildir.",
+            "Antropolojinin insan kültürlerini anlamamıza yardımcı olduğuna inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 27,
@@ -300,12 +321,13 @@
         "id": 28,
         "question": "Mental health awareness is crucial in modern society.",
         "choices": [
-            "Zihinsel sağlık farkındalığının modern toplumda kritik öneme sahip olduğuna inanıyorum.",
+            
             "Zihinsel sağlık gereksizdir.",
             "Zihinsel sağlık sadece bazı insanlar için önemlidir.",
-            "Zihinsel sağlık zorunlu değildir."
+            "Zihinsel sağlık zorunlu değildir.",
+            "Zihinsel sağlık farkındalığının modern toplumda kritik öneme sahip olduğuna inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 29,
@@ -322,34 +344,37 @@
         "id": 30,
         "question": "Ecological research is important for understanding species interactions.",
         "choices": [
-            "Ekolojik araştırmanın türler arasındaki etkileşimleri anlamak için önemli olduğunu düşünüyorum.",
+            
             "Ekolojik araştırmalar gereksizdir.",
             "Ekoloji sadece biyologlar için önemlidir.",
+            "Ekolojik araştırmanın türler arasındaki etkileşimleri anlamak için önemli olduğunu düşünüyorum.",
             "Ekolojik araştırmalar zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 31,
         "question": "Robotics is transforming industries and daily life.",
         "choices": [
-            "Robot teknolojisinin endüstrileri ve günlük hayatı dönüştürdüğüne inanıyorum.",
+            
             "Robot teknolojisi gereksizdir.",
+            "Robot teknolojisinin endüstrileri ve günlük hayatı dönüştürdüğüne inanıyorum.",
             "Robot teknolojisi yalnızca mühendislik için önemlidir.",
             "Robot teknolojisi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 32,
         "question": "Environmental policies are necessary for sustainable development.",
         "choices": [
-            "Çevresel politikaların sürdürülebilir gelişim için gerekli olduğuna inanıyorum.",
+            
             "Çevresel politikalar gereksizdir.",
             "Çevresel politikalar sadece hükümetler için önemlidir.",
-            "Çevresel politikalar zorunlu değildir."
+            "Çevresel politikalar zorunlu değildir.",
+            "Çevresel politikaların sürdürülebilir gelişim için gerekli olduğuna inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 33,
@@ -366,34 +391,37 @@
         "id": 34,
         "question": "Quantum physics challenges our understanding of reality.",
         "choices": [
-            "Kuantum fiziğinin gerçeklik anlayışımızı sorguladığına inanıyorum.",
+           
             "Kuantum fiziği gereksizdir.",
             "Kuantum fiziği sadece karmaşık bir teoridir.",
+            "Kuantum fiziğinin gerçeklik anlayışımızı sorguladığına inanıyorum.",
             "Kuantum fiziği zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 35,
         "question": "Scientific literacy is essential for informed decision-making.",
         "choices": [
-            "Bilimsel okuryazarlığın bilinçli kararlar almak için gerekli olduğuna inanıyorum.",
+            
             "Bilimsel okuryazarlık gereksizdir.",
+            "Bilimsel okuryazarlığın bilinçli kararlar almak için gerekli olduğuna inanıyorum.",
             "Bilimsel okuryazarlık yalnızca akademik bir beceridir.",
             "Bilimsel okuryazarlık zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 36,
         "question": "Genetic engineering has the potential to improve crop yields.",
         "choices": [
-            "Genetik mühendisliğinin tarım verimliliğini artırma potansiyeline sahip olduğuna inanıyorum.",
+            
             "Genetik mühendislik gereksizdir.",
             "Genetik mühendislik yalnızca laboratuvarlarda geçerlidir.",
+            "Genetik mühendisliğinin tarım verimliliğini artırma potansiyeline sahip olduğuna inanıyorum.",
             "Genetik mühendislik zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 37,
@@ -410,12 +438,13 @@
         "id": 38,
         "question": "The impact of deforestation on biodiversity is alarming.",
         "choices": [
+            
+            "Ağaç kesimi gereksiz ve biyolojik çeşitlilik üzerinde alarm verici seviyededir.",
             "Ağaç kesiminin biyolojik çeşitlilik üzerindeki etkisinin alarm verici olduğunu düşünüyorum.",
-            "Ağaç kesimi gereksizdir.",
             "Ağaç kesimi yalnızca yerel bir sorundur.",
             "Ağaç kesimi zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 39,
@@ -432,33 +461,36 @@
         "id": 40,
         "question": "Psychological research helps improve mental health treatments.",
         "choices": [
-            "Psikolojik araştırmanın zihinsel sağlık tedavilerini iyileştirmeye yardımcı olduğuna inanıyorum.",
+            
             "Psikolojik araştırma gereksizdir.",
             "Psikolojik araştırma yalnızca akademik bir alandır.",
+            "Psikolojik araştırmanın zihinsel sağlık tedavilerini iyileştirmeye yardımcı olduğuna inanıyorum.",
             "Psikolojik araştırma zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 41,
         "question": "Geology is essential for understanding Earth's processes.",
         "choices": [
+            
+            "Jeoloji Dünya'nın etkilerini anlamk için gereklidir.",
             "Jeolojinin Dünya'nın süreçlerini anlamak için gerekli olduğuna inanıyorum.",
-            "Jeoloji gereksizdir.",
             "Jeoloji sadece akademik bir alandır.",
             "Jeoloji zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 42,
         "question": "The role of science in society cannot be underestimated.",
         "choices": [
-            "Bilimin toplumdaki rolünün küçümsenemez olduğunu düşünüyorum.",
+            
             "Bilim gereksizdir.",
             "Bilim sadece belirli bir grup için önemlidir.",
-            "Bilim zorunlu değildir."
+            "Bilim zorunlu değildir.",
+            "Bilimin toplumdaki rolünün küçümsenemez olduğunu düşünüyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     }
 ]

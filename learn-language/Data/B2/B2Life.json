@@ -14,45 +14,49 @@
         "id": 2,
         "question": "Having a balanced diet is important for health.",
         "choices": [
-            "Dengeli bir beslenmenin sağlık için önemli olduğunu düşünüyorum.",
+            
             "Dengeli beslenme gereksizdir.",
             "Dengeli beslenme sağlıksızdır.",
+            "Dengeli bir beslenmenin sağlık için önemli olduğunu düşünüyorum.",
             "Dengeli beslenmek zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 3,
         "question": "Regular exercise improves both physical and mental health.",
         "choices": [
-            "Düzenli egzersizin fiziksel ve zihinsel sağlığı artırdığını biliyorum.",
+            
             "Düzenli egzersiz yapmanın hiçbir faydası yoktur.",
+            "Düzenli egzersizin fiziksel ve zihinsel sağlığı artırdığını biliyorum.",
             "Egzersiz sadece fiziksel sağlığı etkiler.",
             "Egzersiz yapmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 4,
         "question": "Reading books can enhance one's knowledge.",
         "choices": [
-            "Kitap okumanın bilgi artırabileceğine inanıyorum.",
+            
             "Kitap okumak sadece zaman kaybıdır.",
             "Kitap okumak zorunlu değildir.",
-            "Kitaplar gereksizdir."
+            "Kitaplar gereksizdir.",
+            "Kitap okumanın bilgi artırabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 5,
         "question": "Traveling allows us to experience different cultures.",
         "choices": [
-            "Seyahat etmenin farklı kültürleri deneyimleme fırsatı sunduğuna inanıyorum.",
+            
             "Seyahat etmek gereksiz bir masraftır.",
             "Seyahat etmek yalnızca dinlenmek içindir.",
+            "Seyahat etmenin farklı kültürleri deneyimleme fırsatı sunduğuna inanıyorum.",
             "Seyahat etmek eğlenceli değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 6,
@@ -69,23 +73,25 @@
         "id": 7,
         "question": "Maintaining a work-life balance is crucial for happiness.",
         "choices": [
-            "İş-yaşam dengesini korumanın mutluluk için çok önemli olduğunu düşünüyorum.",
+           
             "İş-yaşam dengesi gereksizdir.",
+            "İş-yaşam dengesini korumanın mutluluk için çok önemli olduğunu düşünüyorum.",
             "İş ve yaşam birbirine karıştırılmalıdır.",
             "İş-yaşam dengesi sağlamak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 8,
         "question": "Using public transport can reduce traffic congestion.",
         "choices": [
-            "Toplu taşımanın trafik sıkışıklığını azaltabileceğine inanıyorum.",
+           
             "Toplu taşıma gereksizdir.",
             "Özel araç kullanmak daha iyidir.",
-            "Toplu taşıma sadece konforsuzdur."
+            "Toplu taşıma sadece konforsuzdur.",
+            "Toplu taşımanın trafik sıkışıklığını azaltabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 9,
@@ -102,23 +108,25 @@
         "id": 10,
         "question": "Learning a new language opens up career opportunities.",
         "choices": [
-            "Yeni bir dil öğrenmenin kariyer fırsatlarını artırdığına inanıyorum.",
+            
             "Yeni bir dil öğrenmek gereksizdir.",
             "Dil öğrenmek sadece eğlencelik bir iştir.",
+            "Yeni bir dil öğrenmenin kariyer fırsatlarını artırdığına inanıyorum.",
             "Dil öğrenmek zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 11,
         "question": "Practicing mindfulness can reduce stress levels.",
         "choices": [
-            "Farkındalık pratiğinin stres seviyelerini azaltabileceğine inanıyorum.",
+            
             "Farkındalık pratikleri sadece zaman kaybıdır.",
+            "Farkındalık pratiğinin stres seviyelerini azaltabileceğine inanıyorum.",
             "Farkındalık uygulamak gereksizdir.",
             "Stres ile başa çıkmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 12,
@@ -135,23 +143,25 @@
         "id": 13,
         "question": "Setting goals helps to stay motivated.",
         "choices": [
-            "Hedef belirlemenin motive kalmaya yardımcı olduğunu düşünüyorum.",
+            
             "Hedefler gereksizdir.",
             "Hedef koymak sadece stres yaratır.",
-            "Hedefler yalnızca hayal gücüdür."
+            "Hedefler yalnızca hayal gücüdür.",
+            "Hedef belirlemenin motive kalmaya yardımcı olduğunu düşünüyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 14,
         "question": "Cooking at home is often healthier than eating out.",
         "choices": [
-            "Evde yemek yapmanın dışarıda yemekten genellikle daha sağlıklı olduğunu düşünüyorum.",
+            
             "Dışarıda yemek yemek daha sağlıklıdır.",
             "Evde yemek yapmak zaman kaybıdır.",
+            "Evde yemek yapmanın dışarıda yemekten genellikle daha sağlıklı olduğunu düşünüyorum.",
             "Yemek yapmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 15,
@@ -168,56 +178,61 @@
         "id": 16,
         "question": "Participating in community events strengthens social bonds.",
         "choices": [
-            "Toplum etkinliklerine katılmanın sosyal bağları güçlendirdiğine inanıyorum.",
+            
             "Toplum etkinlikleri gereksizdir.",
+            "Toplum etkinliklerine katılmanın sosyal bağları güçlendirdiğine inanıyorum.",
             "Sosyal bağlar yalnızca iş yerinde oluşur.",
             "Toplum etkinliklerine katılmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 17,
         "question": "Listening to music can enhance concentration.",
         "choices": [
-            "Müzik dinlemenin konsantrasyonu artırabileceğine inanıyorum.",
+            
             "Müzik dinlemek dikkat dağınıklığı yaratır.",
             "Müzik dinlemek sadece eğlencelik bir aktivitedir.",
+            "Müzik dinlemenin konsantrasyonu artırabileceğine inanıyorum.",
             "Müzik dinlemek zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 18,
         "question": "Taking breaks during work increases productivity.",
         "choices": [
-            "Çalışma sırasında ara vermenin verimliliği artırabileceğine inanıyorum.",
+            
             "Ara vermek zaman kaybıdır.",
+            "Çalışma sırasında ara vermenin verimliliği artırabileceğine inanıyorum.",
             "Ara vermek sadece dikkat dağıtır.",
             "Ara vermek zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 19,
         "question": "Having a pet can bring joy and companionship.",
         "choices": [
-            "Evcil hayvan sahipliğinin mutluluk ve arkadaşlık getirdiğine inanıyorum.",
+            
             "Evcil hayvan sahipliği zorunlu değildir.",
             "Evcil hayvanlar sadece masraflıdır.",
-            "Evcil hayvanlar yalnızca çocuklar içindir."
+            "Evcil hayvanlar yalnızca çocuklar içindir.",
+            "Evcil hayvan sahipliğinin mutluluk ve arkadaşlık getirdiğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 20,
         "question": "Establishing a morning routine can set a positive tone for the day.",
         "choices": [
-            "Bir sabah rutini oluşturmanın güne olumlu bir başlangıç yapabileceğine inanıyorum.",
+            
             "Sabah rutini gereksizdir.",
+            "Bir sabah rutini oluşturmanın güne olumlu bir başlangıç yapabileceğine inanıyorum.",
             "Sabah rutini sadece zaman kaybıdır.",
             "Sabah rutini sadece çalışkan insanlar içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 21,
@@ -234,45 +249,49 @@
         "id": 22,
         "question": "Maintaining good relationships requires effort and communication.",
         "choices": [
-            "İyi ilişkilerin sürdürülmesinin çaba ve iletişim gerektirdiğine inanıyorum.",
+            
             "İlişkiler kendiliğinden gelişir.",
             "İlişkiler sadece zaman kaybıdır.",
+            "İyi ilişkilerin sürdürülmesinin çaba ve iletişim gerektirdiğine inanıyorum.",
             "İyi ilişkiler zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 23,
         "question": "Being organized can help save time and reduce stress.",
         "choices": [
-            "Düzenli olmanın zaman kazandırabileceğine ve stresi azaltabileceğine inanıyorum.",
+            
             "Düzenli olmak gereksizdir.",
+            "Düzenli olmanın zaman kazandırabileceğine ve stresi azaltabileceğine inanıyorum.",
             "Düzenli olmak sadece zordur.",
             "Düzenli olmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 24,
         "question": "Taking care of mental health is as important as physical health.",
         "choices": [
-            "Zihinsel sağlığın fiziksel sağlık kadar önemli olduğunu düşünüyorum.",
+            
             "Zihinsel sağlık gereksizdir.",
+            "Zihinsel sağlığın fiziksel sağlık kadar önemli olduğunu düşünüyorum.",
             "Zihinsel sağlık sadece stresli insanlar içindir.",
             "Zihinsel sağlık önemlidir ama fiziksel sağlık daha önemlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 25,
         "question": "Effective communication skills can improve personal relationships.",
         "choices": [
-            "Etkili iletişim becerilerinin kişisel ilişkileri geliştirebileceğine inanıyorum.",
+           
             "İletişim becerileri gereksizdir.",
             "İletişim sadece iş için önemlidir.",
-            "İletişim becerileri yalnızca eğitimde gereklidir."
+            "İletişim becerileri yalnızca eğitimde gereklidir.",
+            "Etkili iletişim becerilerinin kişisel ilişkileri geliştirebileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 26,
@@ -289,45 +308,49 @@
         "id": 27,
         "question": "Using technology wisely can enhance daily life.",
         "choices": [
-            "Teknolojiyi akıllıca kullanmanın günlük hayatı geliştirebileceğine inanıyorum.",
+            
             "Teknoloji gereksiz bir masraftır.",
             "Teknoloji yalnızca zaman kaybıdır.",
+            "Teknolojiyi akıllıca kullanmanın günlük hayatı geliştirebileceğine inanıyorum.",
             "Teknolojiyi kullanmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 28,
         "question": "Practicing self-care is essential for overall well-being.",
         "choices": [
-            "Kendine bakım yapmanın genel iyilik hali için gerekli olduğuna inanıyorum.",
+            
             "Kendine bakım gereksizdir.",
             "Kendine bakım sadece başkaları için önemlidir.",
+            "Kendine bakım yapmanın genel iyilik hali için gerekli olduğuna inanıyorum.",
             "Kendine bakım yapmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 29,
         "question": "Exploring nature can be a refreshing experience.",
         "choices": [
-            "Doğayı keşfetmenin ferahlatıcı bir deneyim olabileceğine inanıyorum.",
+            
             "Doğa keşfi gereksizdir.",
+            "Doğayı keşfetmenin ferahlatıcı bir deneyim olabileceğine inanıyorum.",
             "Doğayı keşfetmek zaman kaybıdır.",
             "Doğayı keşfetmek yalnızca çocuklar için eğlencelidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 30,
         "question": "Being punctual shows respect for others' time.",
         "choices": [
-            "Dakik olmanın başkalarının zamanına saygı gösterdiğine inanıyorum.",
+            
             "Dakik olmak gereksizdir.",
             "Dakik olmak sadece iş hayatında önemlidir.",
+            "Dakik olmanın başkalarının zamanına saygı gösterdiğine inanıyorum.",
             "Dakik olmak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 31,
@@ -344,56 +367,61 @@
         "id": 32,
         "question": "Developing a growth mindset can lead to personal growth.",
         "choices": [
-            "Bir gelişim zihniyeti geliştirmenin kişisel büyümeye yol açabileceğine inanıyorum.",
+            
             "Gelişim zihniyeti gereksizdir.",
             "Gelişim zihniyeti sadece iş hayatında önemlidir.",
-            "Gelişim zihniyeti zorunlu değildir."
+            "Gelişim zihniyeti zorunlu değildir.",
+            "Bir gelişim zihniyeti geliştirmenin kişisel büyümeye yol açabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 33,
         "question": "Embracing change can lead to new opportunities.",
         "choices": [
-            "Değişimi kucaklamanın yeni fırsatlar getirebileceğine inanıyorum.",
+            
             "Değişim gereksizdir.",
+            "Değişimi kucaklamanın yeni fırsatlar getirebileceğine inanıyorum.",
             "Değişim yalnızca karmaşa yaratır.",
             "Değişim sadece korkutucudur."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 34,
         "question": "Practicing relaxation techniques can improve sleep quality.",
         "choices": [
-            "Rahatlama tekniklerinin uyku kalitesini artırabileceğine inanıyorum.",
+            
             "Rahatlama teknikleri gereksizdir.",
             "Rahatlama sadece stresli insanlar içindir.",
+            "Rahatlama tekniklerinin uyku kalitesini artırabileceğine inanıyorum.",
             "Rahatlamak zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 35,
         "question": "Engaging in creative activities can boost mental health.",
         "choices": [
-            "Yaratıcı faaliyetlere katılmanın zihinsel sağlığı artırabileceğine inanıyorum.",
+            
             "Yaratıcılık gereksizdir.",
+            "Yaratıcı faaliyetlere katılmanın zihinsel sağlığı artırabileceğine inanıyorum.",
             "Yaratıcı faaliyetler zaman kaybıdır.",
             "Yaratıcılık yalnızca sanatçılar içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 36,
         "question": "Adopting sustainable practices can help the environment.",
         "choices": [
-            "Sürdürülebilir uygulamaların çevreye yardımcı olabileceğine inanıyorum.",
+            
             "Sürdürülebilirlik gereksizdir.",
             "Çevre koruma sadece politik bir meseledir.",
-            "Sürdürülebilirlik zorunlu değildir."
+            "Sürdürülebilirlik zorunlu değildir.",
+            "Sürdürülebilir uygulamaların çevreye yardımcı olabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 37,
@@ -410,33 +438,36 @@
         "id": 38,
         "question": "Being open to feedback can improve personal development.",
         "choices": [
-            "Geri bildirime açık olmanın kişisel gelişimi artırabileceğine inanıyorum.",
+            
             "Geri bildirim almak gereksizdir.",
+            "Geri bildirime açık olmanın kişisel gelişimi artırabileceğine inanıyorum.",
             "Geri bildirim sadece olumsuzdur.",
             "Geri bildirim zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 39,
         "question": "Taking time to relax is necessary for mental health.",
         "choices": [
-            "Dinlenmek için zaman ayırmanın zihinsel sağlık için gerekli olduğuna inanıyorum.",
+            
             "Dinlenmek gereksizdir.",
             "Dinlenmek yalnızca tembelliktir.",
+            "Dinlenmek için zaman ayırmanın zihinsel sağlık için gerekli olduğuna inanıyorum.",
             "Dinlenmek zorunlu değildir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 40,
         "question": "Investing in education can yield long-term benefits.",
         "choices": [
-            "Eğitime yatırım yapmanın uzun vadeli faydalar sağlayabileceğine inanıyorum.",
+            
             "Eğitime yatırım yapmak gereksizdir.",
             "Eğitim yalnızca kısa vadeli kazanç getirir.",
-            "Eğitim yatırımları sadece zaman kaybıdır."
+            "Eğitim yatırımları sadece zaman kaybıdır.",
+            "Eğitime yatırım yapmanın uzun vadeli faydalar sağlayabileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     }
 ]
