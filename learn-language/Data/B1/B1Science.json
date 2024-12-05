@@ -3,89 +3,93 @@
         "id": 1,
         "question": "The scientific method helps researchers conduct experiments.",
         "choices": [
+            "Bilimsel yöntem sadece teorik bir kavramdır.",
             "Bilimsel yöntem, araştırmacıların deney yapmalarına yardımcı olur.",
-            "Bilimsel yöntem yalnızca teorik bir kavramdır.",
             "Bilimsel yöntem gereksizdir.",
             "Bilimsel yöntem sadece matematik için geçerlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 2,
         "question": "Water is essential for all living organisms.",
         "choices": [
-            "Su, tüm canlılar için gereklidir.",
             "Su yalnızca bitkiler içindir.",
             "Su, yalnızca hayvanlar için gereklidir.",
-            "Su gereksizdir."
+            "Su gereksizdir.",
+            "Su, tüm canlılar için gereklidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 3,
         "question": "Atoms are the building blocks of matter.",
         "choices": [
-            "Atomlar, maddenin temel yapı taşlarıdır.",
             "Atomlar yalnızca büyük nesneler için vardır.",
             "Atomlar gereksizdir.",
-            "Atomlar sadece kimyada kullanılır."
+            "Atomlar sadece kimyada kullanılır.",
+            "Atomlar, maddenin temel yapı taşlarıdır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 4,
         "question": "Plants produce oxygen through photosynthesis.",
         "choices": [
-            "Bitkiler, fotosentez yoluyla oksijen üretir.",
             "Bitkiler sadece su alır.",
+            "Bitkiler, fotosentez yoluyla oksijen üretir.",
             "Bitkiler oksijen üretmez.",
             "Bitkiler sadece karbondioksit alır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 5,
         "question": "Gravity is the force that pulls objects towards each other.",
         "choices": [
-            "Yerçekimi, nesneleri birbirine çeken bir kuvvettir.",
+            
             "Yerçekimi yalnızca büyük nesneler içindir.",
             "Yerçekimi gereksizdir.",
+            "Yerçekimi, nesneleri birbirine çeken bir kuvvettir.",
             "Yerçekimi sadece uzayda geçerlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 6,
         "question": "The Earth orbits the Sun in about 365 days.",
         "choices": [
-            "Dünya, Güneş'in etrafında yaklaşık 365 günde döner.",
+            
             "Dünya, Güneş'in etrafında sürekli döner.",
             "Dünya, Güneş'e yakın değildir.",
-            "Dünya, sadece yaz aylarında döner."
+            "Dünya, sadece yaz aylarında döner.",
+            "Dünya, Güneş'in etrafında yaklaşık 365 günde döner."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 7,
         "question": "Recycling helps reduce waste in the environment.",
         "choices": [
-            "Geri dönüşüm, çevredeki atıkları azaltmaya yardımcı olur.",
+            
             "Geri dönüşüm yalnızca plastik için geçerlidir.",
             "Geri dönüşüm gereksizdir.",
+            "Geri dönüşüm, çevredeki atıkları azaltmaya yardımcı olur.",
             "Geri dönüşüm yalnızca ekonomik fayda sağlar."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 8,
         "question": "The human body is made up of cells.",
         "choices": [
-            "İnsan vücudu hücrelerden oluşur.",
+            
             "İnsan vücudu yalnızca dokulardan oluşur.",
+            "İnsan vücudu hücrelerden oluşur.",
             "İnsan vücudu hücreleri gereksizdir.",
             "İnsan vücudu sadece organlardan oluşur."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 9,
@@ -113,56 +117,61 @@
         "id": 11,
         "question": "Biology is the study of living organisms.",
         "choices": [
-            "Biyoloji, canlıları inceleyen bir bilim dalıdır.",
+            
             "Biyoloji yalnızca bitkileri inceler.",
             "Biyoloji gereksizdir.",
+            "Biyoloji, canlıları inceleyen bir bilim dalıdır.",
             "Biyoloji sadece hayvanlar içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 12,
         "question": "The internet has made scientific research more accessible.",
         "choices": [
-            "İnternet, bilimsel araştırmaları daha erişilebilir hale getirmiştir.",
+            
             "İnternet yalnızca sosyal medya için vardır.",
+            "İnternet, bilimsel araştırmaları daha erişilebilir hale getirmiştir.",
             "İnternet gereksizdir.",
             "İnternet sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 13,
         "question": "Vaccines help protect us from diseases.",
         "choices": [
-            "Aşılar, hastalıklardan korunmamıza yardımcı olur.",
+            
             "Aşılar yalnızca çocuklar içindir.",
             "Aşılar gereksizdir.",
-            "Aşılar yalnızca belirli hastalıklar içindir."
+            "Aşılar yalnızca belirli hastalıklar içindir.",
+            "Aşılar, hastalıklardan korunmamıza yardımcı olur."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 14,
         "question": "The study of climate change is important for our future.",
         "choices": [
-            "İklim değişikliğinin incelenmesi, geleceğimiz için önemlidir.",
+            
             "İklim değişikliği sadece bir teori olarak kalır.",
             "İklim değişikliği gereksizdir.",
+            "İklim değişikliğinin incelenmesi, geleceğimiz için önemlidir.",
             "İklim değişikliği yalnızca doğal olaylarla ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 15,
         "question": "Astronomy is the study of celestial bodies.",
         "choices": [
-            "Astronomi, gök cisimlerini inceleyen bir bilim dalıdır.",
+            
             "Astronomi yalnızca yıldızları inceler.",
+            "Astronomi, gök cisimlerini inceleyen bir bilim dalıdır.",
             "Astronomi gereksizdir.",
             "Astronomi yalnızca uzay yolculuğuyla ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 16,
@@ -179,34 +188,37 @@
         "id": 17,
         "question": "DNA carries genetic information.",
         "choices": [
-            "DNA, genetik bilgiyi taşır.",
+            
             "DNA yalnızca proteinlerle ilgilidir.",
             "DNA gereksizdir.",
-            "DNA sadece hücrelerde bulunur."
+            "DNA sadece hücrelerde bulunur.",
+            "DNA, genetik bilgiyi taşır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 18,
         "question": "The ozone layer protects us from harmful UV rays.",
         "choices": [
-            "Ozon tabakası, zararlı UV ışınlarından korunmamıza yardımcı olur.",
+            
             "Ozon tabakası yalnızca şehirlerde bulunur.",
             "Ozon tabakası gereksizdir.",
+            "Ozon tabakası, zararlı UV ışınlarından korunmamıza yardımcı olur.",
             "Ozon tabakası sadece bilim kurgu kitaplarında vardır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 19,
         "question": "Energy can be transformed from one form to another.",
         "choices": [
-            "Enerji bir formdan diğerine dönüştürülebilir.",
+            
             "Enerji yalnızca elektrikle ilgilidir.",
+            "Enerji bir formdan diğerine dönüştürülebilir.",
             "Enerji gereksizdir.",
             "Enerji sadece hareketle ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 20,
@@ -223,89 +235,92 @@
         "id": 21,
         "question": "Physics can explain the laws of motion.",
         "choices": [
-            "Fizik, hareket yasalarını açıklayabilir.",
+            
             "Fizik yalnızca kuvvetlerle ilgilidir.",
             "Fizik gereksizdir.",
-            "Fizik sadece matematiksel hesaplamalar yapar."
+            "Fizik sadece matematiksel hesaplamalar yapar.",
+            "Fizik, hareket yasalarını açıklayabilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 22,
         "question": "Natural selection is a key concept in evolution.",
         "choices": [
-            "Doğal seçilim, evrimde önemli bir kavramdır.",
+            
             "Doğal seçilim yalnızca bitkiler için geçerlidir.",
+            "Doğal seçilim, evrimde önemli bir kavramdır.",
             "Doğal seçilim gereksizdir.",
             "Doğal seçilim sadece hayvanlar için vardır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 23,
         "question": "Sustainable energy sources are important for the environment.",
         "choices": [
-            "Sürdürülebilir enerji kaynakları çevre için önemlidir.",
             "Sürdürülebilir enerji yalnızca maliyetle ilgilidir.",
             "Sürdürülebilir enerji gereksizdir.",
+            "Sürdürülebilir enerji kaynakları çevre için önemlidir.",
             "Sürdürülebilir enerji sadece gelecekte önemlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 24,
         "question": "The human brain controls all body functions.",
         "choices": [
-            "İnsan beyni tüm vücut fonksiyonlarını kontrol eder.",
             "İnsan beyni sadece düşünme ile ilgilidir.",
             "İnsan beyni gereksizdir.",
-            "İnsan beyni yalnızca duygusal tepkileri kontrol eder."
+            "İnsan beyni yalnızca duygusal tepkileri kontrol eder.",
+            "İnsan beyni tüm vücut fonksiyonlarını kontrol eder."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 25,
         "question": "Chemicals can be dangerous if not handled properly.",
         "choices": [
-            "Kimyasallar doğru kullanılmadığında tehlikeli olabilir.",
             "Kimyasallar her zaman güvenlidir.",
+            "Kimyasallar doğru kullanılmadığında tehlikeli olabilir.",
             "Kimyasallar yalnızca sanayide kullanılır.",
             "Kimyasallar gereksizdir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 26,
         "question": "Scientific research often requires collaboration between experts.",
         "choices": [
-            "Bilimsel araştırma genellikle uzmanlar arasında işbirliği gerektirir.",
             "Bilimsel araştırma tek başına yapılabilir.",
             "Bilimsel araştırma gereksizdir.",
+            "Bilimsel araştırma genellikle uzmanlar arasında işbirliği gerektirir.",
             "Bilimsel araştırma yalnızca belirli konularda geçerlidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 27,
         "question": "Environmental science studies the relationship between humans and nature.",
         "choices": [
-            "Çevre bilimi, insanlar ve doğa arasındaki ilişkiyi inceler.",
             "Çevre bilimi yalnızca bitkilerle ilgilidir.",
+            "Çevre bilimi, insanlar ve doğa arasındaki ilişkiyi inceler.",
             "Çevre bilimi gereksizdir.",
             "Çevre bilimi sadece iklim ile ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 28,
         "question": "The scientific community values peer review for research quality.",
         "choices": [
-            "Bilim camiası, araştırma kalitesi için akran incelemesini değerlendirir.",
             "Bilim camiası yalnızca kendi görüşlerini dikkate alır.",
             "Bilim camiası gereksizdir.",
+            "Bilim camiası, araştırma kalitesi için akran incelemesini değerlendirir.",
+
             "Bilim camiası sadece belirli konularla ilgilenir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 29,
@@ -322,89 +337,93 @@
         "id": 30,
         "question": "Botany is the study of plants.",
         "choices": [
-            "Botanik, bitkileri inceleyen bir bilim dalıdır.",
             "Botanik yalnızca çiçekleri inceler.",
             "Botanik gereksizdir.",
+            "Botanik, bitkileri inceleyen bir bilim dalıdır.",
+
             "Botanik sadece ağaçlarla ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 31,
         "question": "Zoology is the study of animals.",
         "choices": [
-            "Zooloji, hayvanları inceleyen bir bilim dalıdır.",
             "Zooloji yalnızca evcil hayvanlarla ilgilidir.",
             "Zooloji gereksizdir.",
+            "Zooloji, hayvanları inceleyen bir bilim dalıdır.",
+
             "Zooloji sadece deniz canlılarıyla ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 32,
         "question": "Geology is the study of the Earth and its processes.",
         "choices": [
-            "Jeoloji, Dünya'yı ve onun süreçlerini inceleyen bir bilim dalıdır.",
             "Jeoloji yalnızca taşları inceler.",
+            "Jeoloji, Dünya'yı ve onun süreçlerini inceleyen bir bilim dalıdır.",
             "Jeoloji gereksizdir.",
             "Jeoloji sadece doğa yürüyüşü ile ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 33,
         "question": "Meteorology studies the atmosphere and weather.",
         "choices": [
-            "Meteoroloji, atmosferi ve havayı inceler.",
             "Meteoroloji yalnızca rüzgarları inceler.",
             "Meteoroloji gereksizdir.",
-            "Meteoroloji sadece iklim değişikliği ile ilgilidir."
+            "Meteoroloji sadece iklim değişikliği ile ilgilidir.",
+            "Meteoroloji, atmosferi ve havayı inceler."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 34,
         "question": "Research in genetics can lead to important medical advancements.",
         "choices": [
-            "Genetikteki araştırmalar, önemli tıbbi ilerlemelere yol açabilir.",
             "Genetik yalnızca teorik bir alandır.",
             "Genetik gereksizdir.",
-            "Genetik sadece hastalıkları inceler."
+            "Genetik sadece hastalıkları inceler.",
+            "Genetikteki araştırmalar, önemli tıbbi ilerlemelere yol açabilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 35,
         "question": "The process of evolution explains how species change over time.",
         "choices": [
-            "Evrim süreci, türlerin zaman içinde nasıl değiştiğini açıklar.",
             "Evrim yalnızca geçmişte gerçekleşmiştir.",
             "Evrim gereksizdir.",
-            "Evrim sadece biyoloji derslerinde geçerlidir."
+            "Evrim sadece biyoloji derslerinde geçerlidir.",
+            "Evrim süreci, türlerin zaman içinde nasıl değiştiğini açıklar."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 36,
         "question": "Scientific innovations can improve our quality of life.",
         "choices": [
-            "Bilimsel yenilikler, yaşam kalitemizi artırabilir.",
+            
             "Bilimsel yenilikler yalnızca zengin insanlar içindir.",
+            "Bilimsel yenilikler, yaşam kalitemizi artırabilir.",
             "Bilimsel yenilikler gereksizdir.",
             "Bilimsel yenilikler sadece teknolojiyle ilgilidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 37,
         "question": "Artificial intelligence is becoming more common in our daily lives.",
         "choices": [
-            "Yapay zeka, günlük yaşamımızda daha yaygın hale geliyor.",
+            
             "Yapay zeka yalnızca oyunlarda kullanılır.",
             "Yapay zeka gereksizdir.",
+            "Yapay zeka, günlük yaşamımızda daha yaygın hale geliyor.",
             "Yapay zeka sadece bilim kurgu filmlerinde vardır."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     }
 ]
  

@@ -1,146 +1,147 @@
 [
     {
-        "id": 1,
-        "question": "Playing sports helps improve physical health.",
-        "choices": [
-            "Spor yapmak fiziksel sağlığı geliştirir.",
-            "Spor yapmak sağlıksızdır.",
-            "Spor yapmak sadece eğlence içindir.",
-            "Spor yapmak gereksizdir."
-        ],
-        "correctAnswer": 0
+   "id": 1,
+   "question": "Playing sports helps improve physical health.",
+   "choices": [
+   "Spor yapmak sadece eğlence içindir.",
+   "Spor yapmak sağlıksızdır.",
+   "Spor yapmak fiziksel sağlığı geliştirir.",
+   "Spor yapmak gereksizdir."
+    ],
+   "correctAnswer": 2
     },
     {
-        "id": 2,
-        "question": "Team sports encourage teamwork and cooperation.",
-        "choices": [
-            "Takım sporları iş birliğini teşvik eder.",
-            "Takım sporları yalnızca bireysel becerileri geliştirir.",
-            "Takım sporları gereksizdir.",
-            "Takım sporları sadece eğlence içindir."
-        ],
-        "correctAnswer": 0
+   "id": 2,
+   "question": "Team sports encourage teamwork and cooperation.",
+   "choices": [
+   "Takım sporları sadece eğlence içindir.",
+   "Takım sporları iş birliğini teşvik eder.",
+   "Takım sporları yalnızca bireysel becerileri geliştirir.",
+   "Takım sporları gereksizdir."
+    ],
+   "correctAnswer": 1
     },
     {
-        "id": 3,
-        "question": "Regular exercise is beneficial for mental health.",
-        "choices": [
-            "Düzenli egzersiz zihinsel sağlık için faydalıdır.",
-            "Egzersiz yapmak sadece fiziksel sağlığa yararlıdır.",
-            "Egzersiz yapmak gereksizdir.",
-            "Egzersiz yapmak yalnızca eğlence içindir."
-        ],
-        "correctAnswer": 0
+   "id": 3,
+   "question": "Regular exercise is beneficial for mental health.",
+   "choices": [
+   "Egzersiz yapmak sadece fiziksel sağlığa yararlıdır.",
+   "Egzersiz yapmak yalnızca eğlence içindir.",
+   "Egzersiz yapmak gereksizdir.",
+   "Düzenli egzersiz zihinsel sağlık için faydalıdır."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 4,
-        "question": "Swimming is a good way to relax.",
-        "choices": [
-            "Yüzme iyi bir rahatlama yoludur.",
-            "Yüzme zor bir aktivitedir.",
-            "Yüzme sadece yarışma içindir.",
-            "Yüzme sağlıksızdır."
-        ],
-        "correctAnswer": 0
+   "id": 4,
+   "question": "Swimming is a good way to relax.",
+   "choices": [
+   "Yüzme zor bir aktivitedir.",
+   "Yüzme sağlıksızdır.",
+   "Yüzme sadece yarışma içindir.",
+   "Yüzme iyi bir rahatlama yoludur."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 5,
-        "question": "Playing soccer is popular around the world.",
-        "choices": [
-            "Futbol oynamak dünya genelinde popülerdir.",
-            "Futbol oynamak yalnızca bazı ülkelerde yaygındır.",
-            "Futbol oynamak gereksizdir.",
-            "Futbol oynamak sadece eğlence içindir."
-        ],
-        "correctAnswer": 0
+   "id": 5,
+   "question": "Playing soccer is popular around the world.",
+   "choices": [
+   "Futbol oynamak sadece eğlence içindir.",
+   "Futbol oynamak gereksizdir.",
+   "Futbol oynamak yalnızca bazı ülkelerde yaygındır.",
+   "Futbol oynamak dünya genelinde popülerdir."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 6,
-        "question": "Yoga can improve flexibility and strength.",
-        "choices": [
-            "Yoga esnekliği ve gücü artırabilir.",
-            "Yoga sadece zihinsel rahatlama sağlar.",
-            "Yoga gereksizdir.",
-            "Yoga yalnızca eğlencelidir."
-        ],
-        "correctAnswer": 0
+   "id": 6,
+   "question": "Yoga can improve flexibility and strength.",
+   "choices": [
+   "Yoga sadece zihinsel rahatlama sağlar.",
+   "Yoga yalnızca eğlencelidir.",
+   "Yoga gereksizdir.",
+   "Yoga esnekliği ve gücü artırabilir."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 7,
-        "question": "Running is a great way to stay fit.",
-        "choices": [
-            "Koşmak formda kalmanın harika bir yoludur.",
-            "Koşmak yalnızca eğlencelidir.",
-            "Koşmak sağlıksızdır.",
-            "Koşmak gereksizdir."
-        ],
-        "correctAnswer": 0
+   "id": 7,
+   "question": "Running is a great way to stay fit.",
+   "choices": [
+   "Koşmak yalnızca eğlencelidir.",
+   "Koşmak sağlıksızdır.",
+   "Koşmak gereksizdir.",
+   "Koşmak formda kalmanın harika bir yoludur."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 8,
-        "question": "Cycling can be done indoors or outdoors.",
-        "choices": [
-            "Bisiklet sürmek iç mekanda veya dış mekanda yapılabilir.",
-            "Bisiklet sürmek yalnızca dışarıda yapılır.",
-            "Bisiklet sürmek yalnızca eğlence içindir.",
-            "Bisiklet sürmek gereksizdir."
-        ],
-        "correctAnswer": 0
+   "id": 8,
+   "question": "Cycling can be done indoors or outdoors.",
+   "choices": [
+   "Bisiklet sürmek yalnızca dışarıda yapılır.",
+   "Bisiklet sürmek yalnızca eğlence içindir.",
+   "Bisiklet sürmek gereksizdir.",
+   "Bisiklet sürmek iç mekanda veya dış mekanda yapılabilir."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 9,
-        "question": "Martial arts teach self-discipline.",
-        "choices": [
-            "Dövüş sanatları öz disiplin öğretir.",
-            "Dövüş sanatları yalnızca savaşmayı öğretir.",
-            "Dövüş sanatları gereksizdir.",
-            "Dövüş sanatları sadece eğlencelidir."
-        ],
-        "correctAnswer": 0
+   "id": 9,
+   "question": "Martial arts teach self-discipline.",
+   "choices": [
+   "Dövüş sanatları yalnızca savaşmayı öğretir.",
+   "Dövüş sanatları sadece eğlencelidir.",
+   "Dövüş sanatları gereksizdir.",
+   "Dövüş sanatları öz disiplin öğretir."
+    ],
+   "correctAnswer": 3
     },
     {
-        "id": 10,
-        "question": "Sports can bring people together.",
-        "choices": [
-            "Spor, insanları bir araya getirebilir.",
-            "Spor yalnızca bireysel etkinliklerdir.",
-            "Spor gereksizdir.",
-            "Spor sadece eğlence içindir."
-        ],
-        "correctAnswer": 0
+   "id": 10,
+   "question": "Sports can bring people together.",
+   "choices": [
+   "Spor yalnızca bireysel etkinliklerdir.",
+   "Spor sadece eğlence içindir.",
+   "Spor gereksizdir.",
+   "Spor, insanları bir araya getirebilir."
+    ],
+   "correctAnswer": 3
     },
     {
         "id": 11,
         "question": "Participating in sports can boost confidence.",
         "choices": [
-            "Spor etkinliklerine katılmak özgüveni artırabilir.",
             "Spor etkinliklerine katılmak sadece eğlencelidir.",
             "Spor etkinliklerine katılmak gereksizdir.",
+            "Spor etkinliklerine katılmak özgüveni artırabilir.",
+
             "Spor etkinliklerine katılmak yalnızca yarışmalar içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 12,
         "question": "Basketball is played with a team of five players.",
         "choices": [
-            "Basketbol, beş kişilik bir takımla oynanır.",
             "Basketbol yalnızca bireysel bir oyundur.",
+            "Basketbol, beş kişilik bir takımla oynanır.",
             "Basketbol gereksizdir.",
             "Basketbol sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 13,
         "question": "Fitness classes are popular among many people.",
         "choices": [
-            "Fitness dersleri birçok insan arasında popülerdir.",
             "Fitness dersleri yalnızca sporcular içindir.",
             "Fitness dersleri gereksizdir.",
-            "Fitness dersleri sadece eğlence içindir."
+            "Fitness dersleri sadece eğlence içindir.",
+            "Fitness dersleri birçok insan arasında popülerdir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 14,
@@ -168,232 +169,232 @@
         "id": 16,
         "question": "Volleyball can be played on the beach.",
         "choices": [
-            "Voleybol plajda oynanabilir.",
             "Voleybol yalnızca kapalı alanda oynanır.",
+            "Voleybol plajda oynanabilir.",
             "Voleybol gereksizdir.",
             "Voleybol sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 17,
         "question": "Golf requires skill and patience.",
         "choices": [
-            "Golf yetenek ve sabır gerektirir.",
             "Golf kolay bir spordur.",
             "Golf gereksizdir.",
+            "Golf yetenek ve sabır gerektirir.",
             "Golf yalnızca eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 18,
         "question": "Ice skating can be a fun winter activity.",
         "choices": [
-            "Buz pateni eğlenceli bir kış aktivitesi olabilir.",
             "Buz pateni yalnızca profesyoneller içindir.",
             "Buz pateni gereksizdir.",
+            "Buz pateni eğlenceli bir kış aktivitesi olabilir.",
             "Buz pateni sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 19,
         "question": "Cheerleading is a supportive role in sports.",
         "choices": [
-            "Seyircilik, sporda destekleyici bir roldür.",
             "Seyircilik sadece eğlencelidir.",
+            "Seyircilik, sporda destekleyici bir roldür.",
             "Seyircilik gereksizdir.",
             "Seyircilik yalnızca profesyonel takımlar içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 20,
         "question": "Surfing is popular in coastal areas.",
         "choices": [
-            "Sörf, kıyı bölgelerinde popülerdir.",
             "Sörf yalnızca kışın yapılır.",
+            "Sörf, kıyı bölgelerinde popülerdir.",
             "Sörf gereksizdir.",
             "Sörf sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 21,
         "question": "Sports events can create a sense of community.",
         "choices": [
-            "Spor etkinlikleri bir topluluk hissi yaratabilir.",
             "Spor etkinlikleri yalnızca bireysel aktivitelerdir.",
             "Spor etkinlikleri gereksizdir.",
+            "Spor etkinlikleri bir topluluk hissi yaratabilir.",
             "Spor etkinlikleri yalnızca eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 22,
         "question": "Dance is a form of physical exercise.",
         "choices": [
-            "Dans, fiziksel bir egzersiz biçimidir.",
             "Dans yalnızca eğlencelidir.",
+            "Dans, fiziksel bir egzersiz biçimidir.",
             "Dans gereksizdir.",
             "Dans yalnızca sosyal bir etkinliktir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 23,
         "question": "Participating in marathons requires training.",
         "choices": [
-            "Maratonlara katılmak antrenman gerektirir.",
             "Maratonlar sadece eğlence içindir.",
             "Maratonlar gereksizdir.",
-            "Maratonlar yalnızca profesyonellere göredir."
+            "Maratonlar yalnızca profesyonellere göredir.",
+            "Maratonlara katılmak antrenman gerektirir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 24,
         "question": "Strength training can help build muscles.",
         "choices": [
-            "Ağırlık antrenmanı kas inşa etmeye yardımcı olabilir.",
             "Ağırlık antrenmanı yalnızca zayıflamak içindir.",
+            "Ağırlık antrenmanı kas inşa etmeye yardımcı olabilir.",
             "Ağırlık antrenmanı gereksizdir.",
             "Ağırlık antrenmanı sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 25,
         "question": "Participating in sports can lead to lifelong friendships.",
         "choices": [
-            "Spor etkinliklerine katılmak ömür boyu arkadaşlıklara yol açabilir.",
             "Spor yalnızca bireysel etkinliklerdir.",
+            "Spor etkinliklerine katılmak ömür boyu arkadaşlıklara yol açabilir.",
             "Spor gereksizdir.",
             "Spor sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 26,
         "question": "Playing tennis improves hand-eye coordination.",
         "choices": [
-            "Tenis oynamak göz-el koordinasyonunu geliştirir.",
             "Tenis oynamak yalnızca eğlencelidir.",
             "Tenis oynamak gereksizdir.",
+            "Tenis oynamak göz-el koordinasyonunu geliştirir.",
             "Tenis oynamak sadece bireysel bir aktivitedir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 27,
         "question": "Outdoor sports can boost your mood.",
         "choices": [
-            "Açık hava sporları ruh halinizi iyileştirebilir.",
             "Açık hava sporları yalnızca eğlencelidir.",
             "Açık hava sporları gereksizdir.",
-            "Açık hava sporları sadece kapalı alanda yapılır."
+            "Açık hava sporları sadece kapalı alanda yapılır.",
+            "Açık hava sporları ruh halinizi iyileştirebilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 28,
         "question": "Sports can teach us about winning and losing gracefully.",
         "choices": [
-            "Spor, kazanmayı ve kaybetmeyi nazikçe öğretir.",
             "Spor yalnızca kazanmaya odaklanır.",
             "Spor gereksizdir.",
+            "Spor, kazanmayı ve kaybetmeyi nazikçe öğretir.",
             "Spor sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 29,
         "question": "Taking part in sports can enhance your discipline.",
         "choices": [
-            "Spor etkinliklerine katılmak disiplininizi artırabilir.",
             "Spor etkinlikleri yalnızca eğlencelidir.",
+            "Spor etkinliklerine katılmak disiplininizi artırabilir.",
             "Spor etkinlikleri gereksizdir.",
             "Spor etkinlikleri yalnızca bireysel başarı içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 30,
         "question": "Athletics includes running, jumping, and throwing.",
         "choices": [
-            "Atletizm koşma, atlama ve fırlatma içerir.",
             "Atletizm yalnızca koşmadır.",
+            "Atletizm koşma, atlama ve fırlatma içerir.",
             "Atletizm gereksizdir.",
             "Atletizm sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 31,
         "question": "Watching sports can be exciting.",
         "choices": [
-            "Spor izlemek heyecan verici olabilir.",
             "Spor izlemek zaman kaybıdır.",
             "Spor izlemek gereksizdir.",
+            "Spor izlemek heyecan verici olabilir.",
             "Spor izlemek yalnızca eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 32,
         "question": "Rugby is a contact sport.",
         "choices": [
-            "Rugby temas sporudur.",
             "Rugby yalnızca bireysel bir oyundur.",
             "Rugby gereksizdir.",
-            "Rugby sadece eğlence içindir."
+            "Rugby sadece eğlence içindir.",
+            "Rugby temas sporudur."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 33,
         "question": "Being active is important for a healthy lifestyle.",
         "choices": [
-            "Hareketli olmak sağlıklı bir yaşam tarzı için önemlidir.",
             "Hareketsiz olmak sağlıklıdır.",
+            "Hareketli olmak sağlıklı bir yaşam tarzı için önemlidir.",
             "Hareket etmek gereksizdir.",
             "Hareketli olmak sadece eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 34,
         "question": "Fitness apps can help you track your progress.",
         "choices": [
-            "Fitness uygulamaları ilerlemenizi takip etmenize yardımcı olabilir.",
             "Fitness uygulamaları yalnızca spor salonları içindir.",
             "Fitness uygulamaları gereksizdir.",
+            "Fitness uygulamaları ilerlemenizi takip etmenize yardımcı olabilir.",
             "Fitness uygulamaları yalnızca eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 35,
         "question": "Biking can be a fun way to explore your city.",
         "choices": [
-            "Bisiklet sürmek şehrinizi keşfetmenin eğlenceli bir yoludur.",
             "Bisiklet sürmek yalnızca yarışma içindir.",
+            "Bisiklet sürmek şehrinizi keşfetmenin eğlenceli bir yoludur.",
             "Bisiklet sürmek gereksizdir.",
             "Bisiklet sürmek yalnızca eğlence içindir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 36,
         "question": "Sports can help improve concentration.",
         "choices": [
-            "Spor konsantrasyonu artırabilir.",
             "Spor yalnızca fiziksel aktiviteler içindir.",
             "Spor gereksizdir.",
-            "Spor sadece eğlence içindir."
+            "Spor sadece eğlence içindir.",
+            "Spor konsantrasyonu artırabilir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     }
 ]
  

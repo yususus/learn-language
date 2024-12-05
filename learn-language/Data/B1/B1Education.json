@@ -14,100 +14,106 @@
         "id": 2,
         "question": "My favorite subject is mathematics.",
         "choices": [
-            "En sevdiğim ders matematik.",
             "Matematikten hiç hoşlanmam.",
             "Sadece edebiyatı severim.",
+            "En sevdiğim ders matematik.",
             "Tüm dersleri eşit seviyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 3,
         "question": "I have a study group with my classmates.",
         "choices": [
-            "Sınıf arkadaşlarımla bir çalışma grubum var.",
             "Hiç çalışma grubum yok.",
+            "Sınıf arkadaşlarımla bir çalışma grubum var.",
             "Sadece tek başıma çalışırım.",
             "Arkadaşlarımla hiç çalışmam."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 4,
         "question": "I enjoy reading books related to my field.",
         "choices": [
-            "Alanımla ilgili kitaplar okumayı severim.",
             "Kitap okumayı sevmem.",
             "Sadece roman okurum.",
-            "Sadece internetten bilgi alırım."
+            "Sadece internetten bilgi alırım.",
+            "Alanımla ilgili kitaplar okumayı severim."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 5,
         "question": "I participate in extracurricular activities.",
         "choices": [
-            "Küçük sanatsal etkinliklere katılıyorum.",
+            
             "Ekstra etkinliklere katılmıyorum.",
+            "Küçük sanatsal etkinliklere katılıyorum.",
             "Sadece ders çalışırım.",
             "Hiçbir aktiviteye katılmam."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 6,
         "question": "My teachers are very supportive.",
         "choices": [
-            "Öğretmenlerim çok destekleyicidir.",
+            
             "Öğretmenlerim beni sevmez.",
             "Hiçbir öğretmenim yok.",
-            "Öğretmenlerimden yardım almayı sevmiyorum."
+            "Öğretmenlerimden yardım almayı sevmiyorum.",
+            "Öğretmenlerim çok destekleyicidir."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 7,
         "question": "I have to complete my homework on time.",
         "choices": [
-            "Ödevlerimi zamanında tamamlamalıyım.",
+            
             "Ödev yapmayı sevmiyorum.",
+            "Ödevlerimi zamanında tamamlamalıyım.",
             "Ödevlerim hiç önemli değil.",
             "Sadece sınavlardan önce çalışırım."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 8,
         "question": "I take notes during lectures.",
         "choices": [
-            "Derslerde not alırım.",
+            
             "Not almayı sevmem.",
             "Sadece dersleri dinlerim.",
+            "Derslerde not alırım.",
             "Not almak önemli değil."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 9,
         "question": "I study a foreign language at school.",
         "choices": [
-            "Okulda yabancı dil öğreniyorum.",
+            
             "Yabancı dil dersi almıyorum.",
+            "Okulda yabancı dil öğreniyorum.",
             "Sadece Türkçe öğreniyorum.",
             "Dil öğrenmek istemiyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 10,
         "question": "I enjoy group discussions in class.",
         "choices": [
-            "Sınıfta grup tartışmalarını severim.",
+            
             "Tartışmalara katılmam.",
             "Sadece sessiz kalırım.",
-            "Bireysel çalışmayı tercih ederim."
+            "Bireysel çalışmayı tercih ederim.",
+            "Sınıfta grup tartışmalarını severim."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 11,
@@ -124,133 +130,145 @@
         "id": 12,
         "question": "I plan to continue my education after graduation.",
         "choices": [
-            "Mezuniyetimden sonra eğitimime devam etmeyi planlıyorum.",
+            
             "Eğitimimi bitirmek istiyorum.",
             "Sadece iş hayatına atılmayı düşünürüm.",
+            "Mezuniyetimden sonra eğitimime devam etmeyi planlıyorum.",
             "Eğitim benim için önemli değil."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 13,
         "question": "My school organizes educational trips.",
         "choices": [
-            "Okulumuz eğitim gezileri düzenliyor.",
+            
             "Hiç gezilere katılmam.",
+            "Okulumuz eğitim gezileri düzenliyor.",
             "Eğitim gezilerini sevmiyorum.",
             "Okulumda böyle etkinlikler yok."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 14,
         "question": "I use online resources for studying.",
         "choices": [
-            "Çalışmak için online kaynaklar kullanıyorum.",
+            
             "Online kaynakları hiç kullanmam.",
+            "Çalışmak için online kaynaklar kullanıyorum.",
             "Sadece kitap okuyorum.",
             "Online derslere katılmıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 15,
         "question": "I participate in class presentations.",
         "choices": [
-            "Sınıf sunumlarına katılırım.",
+            
             "Sunum yapmayı sevmiyorum.",
+            "Sınıf sunumlarına katılırım.",
             "Hiç sunum yapmam.",
             "Sadece arkadaşlarım yapar."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 16,
         "question": "My education is very important to me.",
         "choices": [
-            "Eğitimim benim için çok önemli.",
+            
             "Eğitim önemli değil.",
+            "Eğitimim benim için çok önemli.",
             "Sadece eğlenmek istiyorum.",
             "Okul benim için önemsiz."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 17,
         "question": "I often review my notes before exams.",
         "choices": [
-            "Sınavlardan önce notlarımı sık sık gözden geçiririm.",
+            
             "Notlarıma hiç bakmam.",
             "Sadece sınavdan bir gün önce çalışırım.",
+            "Sınavlardan önce notlarımı sık sık gözden geçiririm.",
             "Sınavlara hazırlanmam."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 18,
         "question": "I have a mentor who helps me with my studies.",
         "choices": [
-            "Bana derslerimde yardımcı olan bir mentorum var.",
+            
             "Mentorüm yok.",
             "Kendim çalışıyorum.",
+            "Bana derslerimde yardımcı olan bir mentorum var.",
             "Sadece öğretmenim var."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 19,
         "question": "I take part in school competitions.",
         "choices": [
-            "Okul yarışmalarına katılıyorum.",
+            
             "Yarışmalara katılmam.",
+            "Okul yarışmalarına katılıyorum.",
             "Sadece arkadaşlarımla oynarım.",
             "Böyle etkinlikleri sevmiyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 20,
         "question": "I believe education can change lives.",
         "choices": [
-            "Eğitimin hayatları değiştirebileceğine inanıyorum.",
+            
             "Eğitim değişmez.",
             "Sadece şansla olur.",
-            "Hayat değişimi önemli değil."
+            "Hayat değişimi önemli değil.",
+            "Eğitimin hayatları değiştirebileceğine inanıyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 21,
         "question": "I often ask questions during lessons.",
         "choices": [
-            "Ders sırasında sık sık soru sorarım.",
+            
             "Soru sormayı sevmem.",
+            "Ders sırasında sık sık soru sorarım.",
             "Dersleri sadece dinlerim.",
             "Hiç soru sormuyorum."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 22,
         "question": "I enjoy working on projects with classmates.",
         "choices": [
-            "Sınıf arkadaşlarımla projelerde çalışmayı severim.",
+            
             "Proje yapmaktan hoşlanmıyorum.",
+            "Sınıf arkadaşlarımla projelerde çalışmayı severim.",
             "Sadece bireysel çalışırım.",
             "Projeleri sevmem."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 23,
         "question": "I plan to study abroad one day.",
         "choices": [
-            "Bir gün yurtdışında okumayı planlıyorum.",
+            
             "Yurtdışına gitmek istemiyorum.",
             "Sadece burada kalmayı düşünürüm.",
+            "Bir gün yurtdışında okumayı planlıyorum.",
             "Yurtdışında eğitim önemli değil."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 24,
@@ -267,45 +285,49 @@
         "id": 25,
         "question": "I respect my teachers and classmates.",
         "choices": [
-            "Öğretmenlerime ve sınıf arkadaşlarıma saygı duyarım.",
+            
             "Saygı duymam.",
+            "Öğretmenlerime ve sınıf arkadaşlarıma saygı duyarım.",
             "Sadece kendime saygı duyarım.",
             "Kimseye saygım yok."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 26,
         "question": "I keep my study area organized.",
         "choices": [
-            "Çalışma alanımı düzenli tutarım.",
+            
             "Düzen hiç önemli değil.",
             "Çalışma alanım dağınık.",
-            "Sadece çalışırken toplarım."
+            "Sadece çalışırken toplarım.",
+            "Çalışma alanımı düzenli tutarım."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 27,
         "question": "I feel proud of my academic achievements.",
         "choices": [
-            "Akademik başarılarımdan gurur duyarım.",
+            
             "Başarılarım hiç önemli değil.",
             "Sadece eğlenmek için okurum.",
+            "Akademik başarılarımdan gurur duyarım.",
             "Hiçbir şeyden gurur duymam."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 28,
         "question": "I enjoy studying in a quiet environment.",
         "choices": [
-            "Sessiz bir ortamda çalışmayı severim.",
+            
             "Gürültülü yerlerde çalışırım.",
+            "Sessiz bir ortamda çalışmayı severim.",
             "Sadece dışarıda çalışmayı severim.",
             "Her yerde çalışabilirim."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 29,
@@ -322,56 +344,61 @@
         "id": 30,
         "question": "I believe in lifelong learning.",
         "choices": [
-            "Hayat boyu öğrenmeye inanıyorum.",
+            
             "Öğrenmek sadece okulda olur.",
             "Artık öğrenmiyorum.",
+            "Hayat boyu öğrenmeye inanıyorum.",
             "Öğrenmek benim için önemli değil."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 31,
         "question": "I appreciate constructive feedback on my work.",
         "choices": [
-            "Çalışmalarımdaki yapıcı geri bildirimleri takdir ediyorum.",
+            
             "Geri bildirim almak istemiyorum.",
+            "Çalışmalarımdaki yapıcı geri bildirimleri takdir ediyorum.",
             "Geri bildirimlere önem vermem.",
             "Sadece olumlu yorumları severim."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 32,
         "question": "I try to balance my studies and personal life.",
         "choices": [
-            "Çalışmalarımı ve kişisel yaşamımı dengelemeye çalışırım.",
+            
             "Sadece çalışırım.",
             "Kişisel hayatım önemli değil.",
-            "Dengeli bir yaşamım yok."
+            "Dengeli bir yaşamım yok.",
+            "Çalışmalarımı ve kişisel yaşamımı dengelemeye çalışırım."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 3
     },
     {
         "id": 33,
         "question": "I am motivated to achieve my educational goals.",
         "choices": [
-            "Eğitim hedeflerime ulaşmak için motiveyim.",
+            
             "Hiç hedefim yok.",
             "Sadece geçmeye çalışıyorum.",
+            "Eğitim hedeflerime ulaşmak için motiveyim.",
             "Hedeflerim önemsiz."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 34,
         "question": "I find studying languages interesting.",
         "choices": [
-            "Dil öğrenmeyi ilginç buluyorum.",
+            
             "Dil öğrenmek zor.",
+            "Dil öğrenmeyi ilginç buluyorum.",
             "Sadece Türkçe biliyorum.",
             "Diller benim için önemsiz."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "id": 35,
@@ -388,23 +415,25 @@
         "id": 36,
         "question": "I enjoy sharing my knowledge with others.",
         "choices": [
-            "Bilgimi başkalarıyla paylaşmayı severim.",
+            
             "Bilgi paylaşmak istemiyorum.",
             "Sadece kendi bilgilerimi saklarım.",
+            "Bilgimi başkalarıyla paylaşmayı severim.",
             "Diğerlerinin bilgileri benim için önemsiz."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
         "id": 37,
         "question": "I take responsibility for my learning.",
         "choices": [
-            "Kendi öğrenimim için sorumluluk alırım.",
+            
             "Sorumluluk almak istemiyorum.",
             "Her şeyi başkalarına bırakırım.",
+            "Kendi öğrenimim için sorumluluk alırım.",
             "Sorumluluk benim için önemli değil."
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     }
 ]
  
