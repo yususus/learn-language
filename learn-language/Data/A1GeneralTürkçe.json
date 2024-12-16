@@ -1,0 +1,1549 @@
+[
+    {
+      "id": 1,
+      "question": "hello",
+      "choices": [
+          "güle güle",
+        "merhaba",
+        "lütfen",
+        "teşekkür ederim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "goodbye",
+      "choices": [
+        "merhaba",
+        "güle güle",
+        "lütfen",
+        "teşekkür ederim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "please",
+      "choices": [
+        "merhaba",
+        "güle güle",
+        "lütfen",
+        "teşekkür ederim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "thank you",
+      "choices": [
+        "merhaba",
+        "güle güle",
+        "lütfen",
+        "teşekkür ederim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "yes",
+      "choices": [
+        "evet",
+        "hayır",
+        "belki",
+        "tamam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "no",
+      "choices": [
+        "evet",
+        "belki",
+        "hayır",
+        "tamam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "maybe",
+      "choices": [
+          "belki",
+        "evet",
+        "hayır",
+        
+        "tamam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 8,
+      "question": "okay",
+      "choices": [
+        "evet",
+        "hayır",
+        "belki",
+        "tamam"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 9,
+      "question": "one",
+      "choices": [
+        "iki",
+        "bir",
+        "üç",
+        "dört"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 10,
+      "question": "two",
+      "choices": [
+        "bir",
+        "iki",
+        "üç",
+        "dört"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 11,
+      "question": "three",
+      "choices": [
+        "bir",
+        "iki",
+        "üç",
+        "dört"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 12,
+      "question": "four",
+      "choices": [
+        "bir",
+        "iki",
+        "üç",
+        "dört"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 13,
+      "question": "five",
+      "choices": [
+        "beş",
+        "altı",
+        "yedi",
+        "sekiz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 14,
+      "question": "six",
+      "choices": [
+        "beş",
+        "yedi",
+        "altı",
+        "sekiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 15,
+      "question": "seven",
+      "choices": [
+          "yedi",
+        "beş",
+        "altı",
+        
+        "sekiz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "question": "eight",
+      "choices": [
+        "beş",
+        "altı",
+        "yedi",
+        "sekiz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 17,
+      "question": "nine",
+      "choices": [
+        
+        "on",
+        "onbir",
+        "oniki",
+        "dokuz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 18,
+      "question": "ten",
+      "choices": [
+        "dokuz",
+        "on",
+        "onbir",
+        "oniki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 19,
+      "question": "eleven",
+      "choices": [
+        "dokuz",
+        "on",
+        "onbir",
+        "oniki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 20,
+      "question": "twelve",
+      "choices": [
+        "dokuz",
+        "on",
+        "onbir",
+        "oniki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 21,
+      "question": "Monday",
+      "choices": [
+        "Salı",
+        "Çarşamba",
+        "Pazartesi",
+        "Perşembe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 22,
+      "question": "Tuesday",
+      "choices": [
+        
+        "Salı",
+        "Çarşamba",
+        "Pazartesi",
+        "Perşembe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 23,
+      "question": "Wednesday",
+      "choices": [
+        "Pazartesi",
+        "Çarşamba",
+        "Salı",
+        "Perşembe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "question": "Thursday",
+      "choices": [
+        "Pazartesi",
+        "Salı",
+        "Çarşamba",
+        "Perşembe"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 25,
+      "question": "Friday",
+      "choices": [
+        "Cuma",
+        "Cumartesi",
+        "Pazar",
+        "Pazartesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 26,
+      "question": "Saturday",
+      "choices": [
+        "Cuma",
+        "Cumartesi",
+        "Pazar",
+        "Pazartesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 27,
+      "question": "Sunday",
+      "choices": [
+        "Cuma",
+        "Cumartesi",
+        "Pazar",
+        "Pazartesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 28,
+      "question": "January",
+      "choices": [
+        "Ocak",
+        "Şubat",
+        "Mart",
+        "Nisan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 29,
+      "question": "February",
+      "choices": [
+        "Ocak",
+        "Mart",
+        "Şubat",
+        "Nisan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 30,
+      "question": "March",
+      "choices": [
+        "Ocak",
+        "Şubat",
+        "Mart",
+        "Nisan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 31,
+      "question": "April",
+      "choices": [
+        "Ocak",
+        "Şubat",
+        "Mart",
+        "Nisan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 32,
+      "question": "May",
+      "choices": [
+        "Mayıs",
+        "Haziran",
+        "Temmuz",
+        "Ağustos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 33,
+      "question": "June",
+      "choices": [
+          "Haziran",
+        "Mayıs",
+        
+        "Temmuz",
+        "Ağustos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 34,
+      "question": "July",
+      "choices": [
+        "Mayıs",
+        "Haziran",
+        "Temmuz",
+        "Ağustos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 35,
+      "question": "August",
+      "choices": [
+          "Ağustos",
+        "Mayıs",
+        "Haziran",
+        "Temmuz"
+        
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 36,
+      "question": "September",
+      "choices": [
+        "Eylül",
+        "Ekim",
+        "Kasım",
+        "Aralık"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 37,
+      "question": "October",
+      "choices": [
+        "Eylül",
+        "Ekim",
+        "Kasım",
+        "Aralık"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 38,
+      "question": "November",
+      "choices": [
+          "Kasım",
+        "Eylül",
+        "Ekim",
+        
+        "Aralık"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 39,
+      "question": "December",
+      "choices": [
+        "Eylül",
+        "Ekim",
+        "Aralık",
+        "Kasım"
+        
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 40,
+      "question": "red",
+      "choices": [
+        "kırmızı",
+        "mavi",
+        "yeşil",
+        "sarı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 41,
+      "question": "blue",
+      "choices": [
+        "kırmızı",
+        "mavi",
+        "yeşil",
+        "sarı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 42,
+      "question": "green",
+      "choices": [
+        "kırmızı",
+        "mavi",
+        "yeşil",
+        "sarı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 43,
+      "question": "yellow",
+      "choices": [
+        "kırmızı",
+        "mavi",
+        "yeşil",
+        "sarı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 44,
+      "question": "black",
+      "choices": [
+          "beyaz",
+        "siyah",
+        "gri",
+        "kahverengi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 45,
+      "question": "white",
+      "choices": [
+        "siyah",
+        "beyaz",
+        "gri",
+        "kahverengi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 46,
+      "question": "gray",
+      "choices": [
+        "siyah",
+        "beyaz",
+        "gri",
+        "kahverengi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 47,
+      "question": "brown",
+      "choices": [
+        "siyah",
+        "beyaz",
+        "gri",
+        "kahverengi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 48,
+      "question": "family",
+      "choices": [
+        "aile",
+        "arkadaş",
+        "komşu",
+        "öğretmen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 49,
+      "question": "friend",
+      "choices": [
+        "aile",
+        "arkadaş",
+        "komşu",
+        "öğretmen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 50,
+      "question": "neighbor",
+      "choices": [
+        "aile",
+        "komşu",
+        "arkadaş",
+        
+        "öğretmen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 51,
+      "question": "teacher",
+      "choices": [
+        "aile",
+        "arkadaş",
+        "komşu",
+        "öğretmen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 52,
+      "question": "mother",
+      "choices": [
+        
+        "baba",
+        "kardeş",
+        "anne",
+        "çocuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 53,
+      "question": "father",
+      "choices": [
+        "anne",
+        "baba",
+        "kardeş",
+        "çocuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 54,
+      "question": "sibling",
+      "choices": [
+          "kardeş",
+        "anne",
+        "baba",
+        
+        "çocuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 55,
+      "question": "child",
+      "choices": [
+        "anne",
+        "baba",
+        "kardeş",
+        "çocuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 56,
+      "question": "house",
+      "choices": [
+        "ev",
+        "apartman",
+        "okul",
+        "hastane"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 57,
+      "question": "apartment",
+      "choices": [
+        "ev",
+        "apartman",
+        "okul",
+        "hastane"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 58,
+      "question": "school",
+      "choices": [
+        "ev",
+        "apartman",
+        "okul",
+        "hastane"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 59,
+      "question": "hospital",
+      "choices": [
+        "ev",
+        "apartman",
+        "okul",
+        "hastane"
+      ],
+      "correctAnswer": 3
+    },
+    {
+        "id": 60,
+        "question": "book",
+        "choices": [
+          
+          "defter",
+          "kalem",
+          "kitap",
+          "silgi"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 61,
+        "question": "notebook",
+        "choices": [
+          "kitap",
+          "defter",
+          "kalem",
+          "silgi"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 62,
+        "question": "pencil",
+        "choices": [
+          "kitap",
+          "kalem",
+          "defter",
+          
+          "silgi"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 63,
+        "question": "eraser",
+        "choices": [
+          "kitap",
+          "defter",
+          "kalem",
+          "silgi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 64,
+        "question": "car",
+        "choices": [
+          "araba",
+          "otobüs",
+          "tren",
+          "uçak"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 65,
+        "question": "bus",
+        "choices": [
+          "araba",
+          "otobüs",
+          "tren",
+          "uçak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 66,
+        "question": "train",
+        "choices": [
+          "araba",
+          "tren",
+          "otobüs",
+          
+          "uçak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 67,
+        "question": "airplane",
+        "choices": [
+          "araba",
+          "otobüs",
+          "tren",
+          "uçak"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 68,
+        "question": "water",
+        "choices": [
+          "su",
+          "çay",
+          "kahve",
+          "süt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 69,
+        "question": "tea",
+        "choices": [
+          "su",
+          "çay",
+          "kahve",
+          "süt"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 70,
+        "question": "coffee",
+        "choices": [
+          "su",
+          "çay",
+          "kahve",
+          "süt"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 71,
+        "question": "milk",
+        "choices": [
+          "su",
+          "çay",
+          "kahve",
+          "süt"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 72,
+        "question": "bread",
+        "choices": [
+          "ekmek",
+          "peynir",
+          "yumurta",
+          "et"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 73,
+        "question": "cheese",
+        "choices": [
+          "ekmek",
+          "peynir",
+          "yumurta",
+          "et"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 74,
+        "question": "egg",
+        "choices": [
+          "ekmek",
+          "peynir",
+          "yumurta",
+          "et"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 75,
+        "question": "meat",
+        "choices": [
+          "ekmek",
+          "peynir",
+          "yumurta",
+          "et"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 76,
+        "question": "apple",
+        "choices": [
+          "elma",
+          "muz",
+          "portakal",
+          "üzüm"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 77,
+        "question": "banana",
+        "choices": [
+          "elma",
+          "muz",
+          "portakal",
+          "üzüm"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 78,
+        "question": "orange",
+        "choices": [
+          "elma",
+          "muz",
+          "portakal",
+          "üzüm"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 79,
+        "question": "grape",
+        "choices": [
+          "elma",
+          "muz",
+          "portakal",
+          "üzüm"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 80,
+        "question": "dog",
+        "choices": [
+          "köpek",
+          "kedi",
+          "kuş",
+          "balık"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 81,
+        "question": "cat",
+        "choices": [
+          "köpek",
+          "kedi",
+          "kuş",
+          "balık"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 82,
+        "question": "bird",
+        "choices": [
+          "köpek",
+          "kedi",
+          "kuş",
+          "balık"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 83,
+        "question": "fish",
+        "choices": [
+          "köpek",
+          "kedi",
+          "kuş",
+          "balık"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 84,
+        "question": "sun",
+        "choices": [
+          "güneş",
+          "ay",
+          "yıldız",
+          "bulut"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 85,
+        "question": "moon",
+        "choices": [
+          "güneş",
+          "ay",
+          "yıldız",
+          "bulut"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 86,
+        "question": "star",
+        "choices": [
+          "güneş",
+          "ay",
+          "yıldız",
+          "bulut"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 87,
+        "question": "cloud",
+        "choices": [
+          "güneş",
+          "ay",
+          "yıldız",
+          "bulut"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 88,
+        "question": "hand",
+        "choices": [
+          "el",
+          "ayak",
+          "baş",
+          "göz"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 89,
+        "question": "foot",
+        "choices": [
+          "el",
+          "ayak",
+          "baş",
+          "göz"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 90,
+        "question": "head",
+        "choices": [
+          "el",
+          "ayak",
+          "baş",
+          "göz"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 91,
+        "question": "eye",
+        "choices": [
+          "el",
+          "ayak",
+          "baş",
+          "göz"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 92,
+        "question": "shirt",
+        "choices": [
+          "gömlek",
+          "pantolon",
+          "ayakkabı",
+          "çorap"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 93,
+        "question": "pants",
+        "choices": [
+          "gömlek",
+          "pantolon",
+          "ayakkabı",
+          "çorap"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 94,
+        "question": "shoes",
+        "choices": [
+          "gömlek",
+          "pantolon",
+          "ayakkabı",
+          "çorap"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 95,
+        "question": "socks",
+        "choices": [
+          "gömlek",
+          "pantolon",
+          "ayakkabı",
+          "çorap"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 96,
+        "question": "hot",
+        "choices": [
+          "sıcak",
+          "soğuk",
+          "ılık",
+          "serin"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 97,
+        "question": "cold",
+        "choices": [
+          "sıcak",
+          "soğuk",
+          "ılık",
+          "serin"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 98,
+        "question": "warm",
+        "choices": [
+          "sıcak",
+          "soğuk",
+          "ılık",
+          "serin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 99,
+        "question": "cool",
+        "choices": [
+          "sıcak",
+          "soğuk",
+          "ılık",
+          "serin"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 100,
+        "question": "big",
+        "choices": [
+          "büyük",
+          "küçük",
+          "uzun",
+          "kısa"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 101,
+        "question": "small",
+        "choices": [
+          "büyük",
+          "küçük",
+          "uzun",
+          "kısa"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 102,
+        "question": "long",
+        "choices": [
+          "büyük",
+          "küçük",
+          "uzun",
+          "kısa"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 103,
+        "question": "short",
+        "choices": [
+          "büyük",
+          "küçük",
+          "uzun",
+          "kısa"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 104,
+        "question": "good",
+        "choices": [
+          "iyi",
+          "kötü",
+          "güzel",
+          "çirkin"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 105,
+        "question": "bad",
+        "choices": [
+          "iyi",
+          "kötü",
+          "güzel",
+          "çirkin"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 106,
+        "question": "beautiful",
+        "choices": [
+          "iyi",
+          "kötü",
+          "güzel",
+          "çirkin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 107,
+        "question": "ugly",
+        "choices": [
+          "iyi",
+          "kötü",
+          "güzel",
+          "çirkin"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 108,
+        "question": "fast",
+        "choices": [
+          "hızlı",
+          "yavaş",
+          "kolay",
+          "zor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 109,
+        "question": "slow",
+        "choices": [
+          "hızlı",
+          "yavaş",
+          "kolay",
+          "zor"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 110,
+        "question": "easy",
+        "choices": [
+          "hızlı",
+          "yavaş",
+          "kolay",
+          "zor"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 111,
+        "question": "difficult",
+        "choices": [
+          "hızlı",
+          "yavaş",
+          "kolay",
+          "zor"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 112,
+        "question": "happy",
+        "choices": [
+          "mutlu",
+          "üzgün",
+          "kızgın",
+          "korkmuş"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 113,
+        "question": "sad",
+        "choices": [
+          "mutlu",
+          "üzgün",
+          "kızgın",
+          "korkmuş"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 114,
+        "question": "angry",
+        "choices": [
+          "mutlu",
+          "üzgün",
+          "kızgın",
+          "korkmuş"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 115,
+        "question": "scared",
+        "choices": [
+          "mutlu",
+          "üzgün",
+          "kızgın",
+          "korkmuş"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 116,
+        "question": "hungry",
+        "choices": [
+          "aç",
+          "tok",
+          "susamış",
+          "yorgun"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 117,
+        "question": "full",
+        "choices": [
+          "aç",
+          "tok",
+          "susamış",
+          "yorgun"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 118,
+        "question": "thirsty",
+        "choices": [
+          "aç",
+          "tok",
+          "susamış",
+          "yorgun"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 119,
+        "question": "tired",
+        "choices": [
+            "aç",
+            "tok",
+            "susamış",
+            "yorgun"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 120,
+        "question": "old",
+        "choices": [
+            "yaşlı",
+            "genç",
+            "yeni",
+            "eski"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 121,
+        "question": "young",
+        "choices": [
+            "yaşlı",
+            "genç",
+            "yeni",
+            "eski"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 122,
+        "question": "new",
+        "choices": [
+            "yaşlı",
+            "genç",
+            "yeni",
+            "eski"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 123,
+        "question": "old (for objects)",
+        "choices": [
+            "yaşlı",
+            "genç",
+            "yeni",
+            "eski"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 124,
+        "question": "rich",
+        "choices": [
+            "zengin",
+            "fakir",
+            "cömert",
+            "cimri"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 125,
+        "question": "poor",
+        "choices": [
+            "zengin",
+            
+            "cömert",
+            "fakir",
+            "cimri"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 126,
+        "question": "generous",
+        "choices": [
+            "zengin",
+            "fakir",
+            "cömert",
+            "cimri"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 127,
+        "question": "stingy",
+        "choices": [
+            "zengin",
+            "fakir",
+            "cömert",
+            "cimri"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 128,
+        "question": "open",
+        "choices": [
+            "açık",
+            "kapalı",
+            "dolu",
+            "boş"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 129,
+        "question": "closed",
+        "choices": [
+            "açık",
+            "kapalı",
+            "dolu",
+            "boş"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 130,
+        "question": "full",
+        "choices": [
+            "açık",
+            "kapalı",
+            "dolu",
+            "boş"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 131,
+        "question": "empty",
+        "choices": [
+            "boş",
+            "açık",
+            "kapalı",
+            "dolu"
+            
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 132,
+        "question": "clean",
+        "choices": [
+            "temiz",
+            "kirli",
+            "düzenli",
+            "dağınık"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 133,
+        "question": "dirty",
+        "choices": [
+            "temiz",
+            "düzenli",
+            "kirli",
+            "dağınık"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 134,
+        "question": "tidy",
+        "choices": [
+            "temiz",
+            "kirli",
+            "düzenli",
+            "dağınık"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 135,
+        "question": "messy",
+        "choices": [
+            "temiz",
+            "kirli",
+            "düzenli",
+            "dağınık"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 136,
+        "question": "expensive",
+        "choices": [
+            
+            "ucuz",
+            "kolay",
+            "pahalı",
+            "zor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 137,
+        "question": "cheap",
+        "choices": [
+            "pahalı",
+            "ucuz",
+            "kolay",
+            "zor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 138,
+        "question": "easy",
+        "choices": [
+            "pahalı",
+            "ucuz",
+            "kolay",
+            "zor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 139,
+        "question": "difficult",
+        "choices": [
+            "pahalı",
+            "ucuz",
+            "zor",
+            "kolay"
+            
+        ],
+        "correctAnswer": 2
+    }
+]

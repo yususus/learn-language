@@ -11,21 +11,22 @@ import SwiftyJSON
 class HelpQuestionsViewModel: ObservableObject {
     @Published var questions: [QuestionModel] = []
     @Published var currentQuestionIndex: Int = 0
+    @Published var selectedLanguage: String = "Türkçe" // Varsayılan dil
     
     let defaults = UserDefaults.standard
-
+    
     // Seviye ve kategori için benzersiz bir anahtar oluşturma
     func key(for level: String, category: String) -> String {
-        return "\(level)_\(category)_progress"
+        return "\(level)_\(category)_\(selectedLanguage)_progress"
     }
-
+    
     // İlerlemeyi kaydet
     func saveProgress(for level: String, category: String) {
         let progressKey = key(for: level, category: category)
         defaults.set(currentQuestionIndex, forKey: progressKey)
         print("Progress saved for \(progressKey): \(currentQuestionIndex)")
     }
-
+    
     // İlerlemeyi geri yükle
     func loadProgress(for level: String, category: String) {
         let progressKey = key(for: level, category: category)
@@ -37,10 +38,10 @@ class HelpQuestionsViewModel: ObservableObject {
             currentQuestionIndex = 0
         }
     }
-
+    
     // Soruları yükle ve ilerlemeyi geri getir
     func loadQuestions(for level: String, category: String) {
-        let fileName = "\(level)\(category)"
+        let fileName = "\(level)\(category)\(selectedLanguage)"
         
         if let url = Bundle.main.url(forResource: fileName, withExtension: "json") {
             do {
@@ -59,7 +60,7 @@ class HelpQuestionsViewModel: ObservableObject {
             print("File not found: \(fileName).json")
         }
     }
-
+    
     // Sıradaki soruya geç
     func nextQuestion(for level: String, category: String) {
         if currentQuestionIndex < questions.count - 1 {
