@@ -22,6 +22,7 @@ struct QuestionView: View {
             
             VStack {
                 HelpQuestion(level: level, category: category)
+                    .environmentObject(HelpQuestionsViewModel())
             }
             .onAppear {
                 viewModel.loadQuestions(for: level, category: category)
@@ -45,6 +46,7 @@ struct QuestionView: View {
             }
         }
         .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
+        .environmentObject(HelpQuestionsViewModel())
         
     }
 }

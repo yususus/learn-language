@@ -142,6 +142,7 @@ struct SettingsView: View {
             
         }
         .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
+        .environmentObject(HelpQuestionsViewModel())
     }
     func requestNotificationPermission() {
         UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge]) { granted, error in

@@ -11,9 +11,16 @@ import SwiftyJSON
 class HelpQuestionsViewModel: ObservableObject {
     @Published var questions: [QuestionModel] = []
     @Published var currentQuestionIndex: Int = 0
-    @Published var selectedLanguage: String = "Türkçe" // Varsayılan dil
+    @Published var selectedLanguage: String {
+            didSet {
+                defaults.set(selectedLanguage, forKey: "selectedLanguage") // Dil değişikliğini kaydet
+            }
+        }
     
     let defaults = UserDefaults.standard
+    init() {
+            self.selectedLanguage = defaults.string(forKey: "selectedLanguage") ?? "Türkçe"
+        }
     
     // Seviye ve kategori için benzersiz bir anahtar oluşturma
     func key(for level: String, category: String) -> String {

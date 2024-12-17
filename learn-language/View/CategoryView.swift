@@ -32,6 +32,7 @@ struct CategoryView: View {
                             ForEach(words, id: \.self){ category in
                                 NavigationLink {
                                     QuestionView(title: category, level: level, category: category)
+                                        .environmentObject(HelpQuestionsViewModel())
                                 } label: {
                                     HelpCategory(categoryTitle: category)
                                 }
@@ -50,6 +51,7 @@ struct CategoryView: View {
                         ForEach(sentences, id: \.self) { seviye in
                             NavigationLink {
                                 QuestionView(title: seviye, level: level, category: seviye)
+                                    .environmentObject(HelpQuestionsViewModel())
                             } label: {
                                 SentencesView(categoryTitle: seviye)
                             }
@@ -78,6 +80,7 @@ struct CategoryView: View {
             }
         }
         .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
+        .environmentObject(HelpQuestionsViewModel())
     }
 }
 

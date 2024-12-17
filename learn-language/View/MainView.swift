@@ -33,6 +33,7 @@ struct MainView: View {
                     ForEach(levels, id: \.self) { level in
                         NavigationLink {
                             CategoryView(title: level, level: level)
+                                .environmentObject(HelpQuestionsViewModel())
                         } label: {
                             HelpMain(title: level)
                         }
@@ -59,6 +60,7 @@ struct MainView: View {
             }
         }
         .environmentObject(themeManager)
+        .environmentObject(HelpQuestionsViewModel())
     }
 }
 
