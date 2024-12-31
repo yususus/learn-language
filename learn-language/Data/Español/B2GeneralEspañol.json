@@ -1,0 +1,1718 @@
+[
+    {
+        "id": 1,
+        "question": "accomplish",
+        "choices": [
+            "lograr",
+            "rechazar",
+            "düşünmek",
+            "unutmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "negotiate",
+        "choices": [
+            "kaçmak",
+            "müzakere etmek",
+            "uyumak",
+            "yürümek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "perspective",
+        "choices": [
+            "renk",
+            "masa",
+            "bakış açısı",
+            "kitap"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "question": "significant",
+        "choices": [
+            "küçük",
+            "basit",
+            "zayıf",
+            "önemli"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "implement",
+        "choices": [
+            "görmek",
+            "uygulamak",
+            "duymak",
+            "içmek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "contribute",
+        "choices": [
+            "katkıda bulunmak",
+            "almak",
+            "satmak",
+            "vermek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "facilitate",
+        "choices": [
+            "zorlaştırmak",
+            "ağlamak",
+            "kolaylaştırmak",
+            "düşünmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "comprehensive",
+        "choices": [
+            "kapsamlı",
+            "basit",
+            "zor",
+            "karmaşık"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "sustainable",
+        "choices": [
+            "sürdürülebilir",
+            "geçici",
+            "zayıf",
+            "güçlü"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "controversial",
+        "choices": [
+            "basit",
+            "kolay",
+            "tartışmalı",
+            "zor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "fundamental",
+        "choices": [
+            "yüzeysel",
+            "geçici",
+            "temel",
+            "karmaşık"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "consequently",
+        "choices": [
+            "öncesinde",
+            "şimdi",
+            "sonra",
+            "dolayısıyla"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 13,
+        "question": "resilient",
+        "choices": [
+            "zayıf",
+            "dayanıklı",
+            "kırılgan",
+            "hassas"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "anticipate",
+        "choices": [
+            "öngörmek",
+            "unutmak",
+            "kaçmak",
+            "uyumak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "evaluate",
+        "choices": [
+            "unutmak",
+            "kaçmak",
+            "uyumak",
+            "değerlendirmek"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 16,
+        "question": "inevitable",
+        "choices": [
+            "belirsiz",
+            "kaçınılmaz",
+            "olası",
+            "mümkün"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "advocate",
+        "choices": [
+            "savunmak",
+            "karşı çıkmak",
+            "düşünmek",
+            "konuşmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 18,
+        "question": "implicit",
+        "choices": [
+            "açık",
+            "üstü kapalı",
+            "basit",
+            "karmaşık"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "arbitrary",
+        "choices": [
+            "planlı",
+            "düzenli",
+            "keyfi",
+            "sistematik"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "substantial",
+        "choices": [
+            "küçük",
+            "az",
+            "orta",
+            "önemli miktarda"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 21,
+        "question": "manipulate",
+        "choices": [
+            "yardım etmek",
+            "apoyar",
+            "manipüle etmek",
+            "sevmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "elaborate",
+        "choices": [
+            "basit",
+            "ayrıntılı",
+            "kısa",
+            "özet"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "prejudice",
+        "choices": [
+            "sevgi",
+            "dostluk",
+            "önyargı",
+            "anlayış"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "concurrent",
+        "choices": [
+            "ardışık",
+            "eşzamanlı",
+            "sıralı",
+            "ayrı"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "authentic",
+        "choices": [
+            "otantik",
+            "sahte",
+            "yapay",
+            "kopya"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 26,
+        "question": "coherent",
+        "choices": [
+            "dağınık",
+            "karışık",
+            "tutarlı",
+            "belirsiz"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "consensus",
+        "choices": [
+            "çatışma",
+            "tartışma",
+            "fikir birliği",
+            "anlaşmazlık"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "reluctant",
+        "choices": [
+            "istekli",
+            "hevesli",
+            "kararlı",
+            "isteksiz"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 29,
+        "question": "legitimate",
+        "choices": [
+            "meşru",
+            "yasadışı",
+            "geçersiz",
+            "sahte"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "ambiguous",
+        "choices": [
+            "belirsiz",
+            "net",
+            "açık",
+            "kesin"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 31,
+        "question": "subsequent",
+        "choices": [
+            "önceki",
+            "şimdiki",
+            "sonraki",
+            "aynı"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "profound",
+        "choices": [
+            "yüzeysel",
+            "basit",
+            "sığ",
+            "derin"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "phenomenon",
+        "choices": [
+            "fenomen",
+            "olay",
+            "durum",
+            "sorun"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 34,
+        "question": "objective",
+        "choices": [
+            "öznel",
+            "kişisel",
+            "nesnel",
+            "duygusal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "ambition",
+        "choices": [
+            "korku",
+            "endişe",
+            "hırs",
+            "üzüntü"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "conventional",
+        "choices": [
+            "sıradışı",
+            "farklı",
+            "özgün",
+            "geleneksel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 37,
+        "question": "encounter",
+        "choices": [
+            "kaçmak",
+            "karşılaşmak",
+            "uzaklaşmak",
+            "gitmek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 38,
+        "question": "peculiar",
+        "choices": [
+            "normal",
+            "tuhaf",
+            "sıradan",
+            "basit"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 39,
+        "question": "eligible",
+        "choices": [
+            "yetersiz",
+            "uygunsuz",
+            "uygun",
+            "geçersiz"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 40,
+        "question": "abundant",
+        "choices": [
+            "az",
+            "bol",
+            "yetersiz",
+            "kıt"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 41,
+        "question": "crucial",
+        "choices": [
+            "kritik",
+            "önemsiz",
+            "basit",
+            "kolay"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 42,
+        "question": "precise",
+        "choices": [
+            "belirsiz",
+            "kesin",
+            "yaklaşık",
+            "bulanık"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 43,
+        "question": "interpret",
+        "choices": [
+            "karıştırmak",
+            "unutmak",
+            "yorumlamak",
+            "yazmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 44,
+        "question": "voluntary",
+        "choices": [
+            "zorunlu",
+            "mecburi",
+            "gerekli",
+            "gönüllü"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 45,
+        "question": "excessive",
+        "choices": [
+            "az",
+            "yetersiz",
+            "normal",
+            "aşırı"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 46,
+        "question": "prominent",
+        "choices": [
+            "önemsiz",
+            "önemli",
+            "sıradan",
+            "basit"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 47,
+        "question": "persistence",
+        "choices": [
+            "vazgeçme",
+            "bırakma",
+            "azim",
+            "yorgunluk"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 48,
+        "question": "peripheral",
+        "choices": [
+            "merkezi",
+            "temel",
+            "ana",
+            "çevresel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 49,
+        "question": "unprecedented",
+        "choices": [
+            "görülmemiş",
+            "normal",
+            "sıradan",
+            "alışılmış"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 50,
+        "question": "aggregate",
+        "choices": [
+            "ayrı",
+            "toplam",
+            "bireysel",
+            "tek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 51,
+        "question": "contemplate",
+        "choices": [
+            "unutmak",
+            "kaçmak",
+            "düşünmek",
+            "koşmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 52,
+        "question": "transparent",
+        "choices": [
+            "şeffaf",
+            "kapalı",
+            "gizli",
+            "belirsiz"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 53,
+        "question": "innovative",
+        "choices": [
+            "yenilikçi",
+            "eski",
+            "geleneksel",
+            "sıradan"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 54,
+        "question": "spontaneous",
+        "choices": [
+            "planlı",
+            "kendiliğinden",
+            "düzenli",
+            "hazırlıklı"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 55,
+        "question": "dilemma",
+        "choices": [
+            "çözüm",
+            "sonuç",
+            "ikilem",
+            "karar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 56,
+        "question": "mandatory",
+        "choices": [
+            "isteğe bağlı",
+            "seçmeli",
+            "gönüllü",
+            "zorunlu"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 57,
+        "question": "diminish",
+        "choices": [
+            "artmak",
+            "çoğalmak",
+            "azalmak",
+            "büyümek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 58,
+        "question": "empirical",
+        "choices": [
+            "teorik",
+            "deneysel",
+            "varsayımsal",
+            "hayali"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 59,
+        "question": "empirical",
+        "choices": [
+            "teorik",
+            "deneysel",
+            "varsayımsal",
+            "hayali"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 60,
+        "question": "hypothetical",
+        "choices": [
+            "kesin",
+            "real",
+            "varsayımsal",
+            "kanıtlanmış"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 61,
+        "question": "convenient",
+        "choices": [
+            "zor",
+            "karmaşık",
+            "uygun",
+            "zahmetli"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 62,
+        "question": "emphasize",
+        "choices": [
+            "vurgulamak",
+            "gizlemek",
+            "unutmak",
+            "kaçınmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 63,
+        "question": "anticipate",
+        "choices": [
+            "beklemek",
+            "unutmak",
+            "öngörmek",
+            "kaçınmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 64,
+        "question": "demonstrate",
+        "choices": [
+            "saklamak",
+            "gizlemek",
+            "göstermek",
+            "kaçınmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 65,
+        "question": "compatible",
+        "choices": [
+            "zıt",
+            "farklı",
+            "aykırı",
+            "uyumlu"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 66,
+        "question": "accommodate",
+        "choices": [
+            "rechazar",
+            "göndermek",
+            "alojar",
+            "kovmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 67,
+        "question": "deliberately",
+        "choices": [
+            "kazara",
+            "kasıtlı olarak",
+            "tesadüfen",
+            "yanlışlıkla"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 68,
+        "question": "tendency",
+        "choices": [
+            "kararsızlık",
+            "belirsizlik",
+            "eğilim",
+            "zorunluluk"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 69,
+        "question": "reluctant",
+        "choices": [
+            "istekli",
+            "hevesli",
+            "isteksiz",
+            "kararlı"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 70,
+        "question": "distinguish",
+        "choices": [
+            "ayırt etmek",
+            "karıştırmak",
+            "birleştirmek",
+            "benzetmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 71,
+        "question": "optimize",
+        "choices": [
+            "kötüleştirmek",
+            "optimize etmek",
+            "zorlaştırmak",
+            "karıştırmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 72,
+        "question": "considerable",
+        "choices": [
+            "önemli",
+            "önemsiz",
+            "küçük",
+            "basit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 73,
+        "question": "systematic",
+        "choices": [
+            "düzensiz",
+            "karışık",
+            "rastgele",
+            "sistematik"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 74,
+        "question": "facilitate",
+        "choices": [
+            "kolaylaştırmak",
+            "zorlaştırmak",
+            "bloquear",
+            "karıştırmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 75,
+        "question": "fundamental",
+        "choices": [
+            "yüzeysel",
+            "temel",
+            "önemsiz",
+            "geçici"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 76,
+        "question": "initiative",
+        "choices": [
+            "pasiflik",
+            "kararsızlık",
+            "tembellik",
+            "girişim"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 77,
+        "question": "preliminary",
+        "choices": [
+            "son",
+            "nihai",
+            "kesin",
+            "ön"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 78,
+        "question": "versatile",
+        "choices": [
+            "çok yönlü",
+            "tek düze",
+            "sıradan",
+            "basit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 79,
+        "question": "prerequisite",
+        "choices": [
+            "sonuç",
+            "ön koşul",
+            "süreç",
+            "sonuç"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 80,
+        "question": "coherent",
+        "choices": [
+            "dağınık",
+            "karışık",
+            "tutarlı",
+            "belirsiz"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 81,
+        "question": "anonymous",
+        "choices": [
+            "tanınmış",
+            "ünlü",
+            "bilinen",
+            "anonim"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 82,
+        "question": "authorize",
+        "choices": [
+            "yetkilendirmek",
+            "rechazar",
+            "bloquear",
+            "yasaklamak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 83,
+        "question": "compromise",
+        "choices": [
+            "dayatmak",
+            "uzlaşmak",
+            "rechazar",
+            "savaşmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 84,
+        "question": "concurrent",
+        "choices": [
+            "ardışık",
+            "sıralı",
+            "eşzamanlı",
+            "gecikmeli"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 85,
+        "question": "sophisticated",
+        "choices": [
+            "basit",
+            "sıradan",
+            "ilkel",
+            "gelişmiş"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 86,
+        "question": "enhance",
+        "choices": [
+            "geliştirmek",
+            "kötüleştirmek",
+            "azaltmak",
+            "düşürmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 87,
+        "question": "arbitrary",
+        "choices": [
+            "planlı",
+            "keyfi",
+            "düzenli",
+            "sistematik"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 88,
+        "question": "peculiar",
+        "choices": [
+            "sıradan",
+            "normal",
+            "tuhaf",
+            "alışılmış"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 89,
+        "question": "inevitable",
+        "choices": [
+            "belirsiz",
+            "olası",
+            "mümkün",
+            "kaçınılmaz"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 90,
+        "question": "obsolete",
+        "choices": [
+            "eskimiş",
+            "yeni",
+            "modern",
+            "güncel"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 91,
+        "question": "unanimous",
+        "choices": [
+            "karışık",
+            "oybirliği",
+            "çekimser",
+            "kararsız"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 92,
+        "question": "skeptical",
+        "choices": [
+            "inançlı",
+            "emin",
+            "şüpheci",
+            "kararlı"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 93,
+        "question": "authentic",
+        "choices": [
+            "sahte",
+            "yapay",
+            "taklit",
+            "otantik"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 94,
+        "question": "resilient",
+        "choices": [
+            "dayanıklı",
+            "zayıf",
+            "kırılgan",
+            "hassas"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 95,
+        "question": "comprehensive",
+        "choices": [
+            "eksik",
+            "kapsamlı",
+            "yüzeysel",
+            "dar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 96,
+        "question": "reliable",
+        "choices": [
+            "güvensiz",
+            "şüpheli",
+            "güvenilir",
+            "kararsız"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 97,
+        "question": "persistent",
+        "choices": [
+            "kararsız",
+            "vazgeçen",
+            "değişken",
+            "ısrarlı"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 98,
+        "question": "flexible",
+        "choices": [
+            "esnek",
+            "katı",
+            "sert",
+            "sabit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 99,
+        "question": "adequate",
+        "choices": [
+            "eksik",
+            "yeterli",
+            "az",
+            "yetersiz"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 100,
+        "question": "diverse",
+        "choices": [
+            "tek tip",
+            "aynı",
+            "çeşitli",
+            "benzer"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 101,
+        "question": "allocate",
+        "choices": [
+            "tahsis etmek",
+            "rechazar",
+            "saklamak",
+            "kaçırmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 102,
+        "question": "collaborate",
+        "choices": [
+            "çalışmak",
+            "işbirliği yapmak",
+            "rekabet etmek",
+            "yarışmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 103,
+        "question": "accumulate",
+        "choices": [
+            "distribuir",
+            "azaltmak",
+            "biriktirmek",
+            "harcamak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 104,
+        "question": "essential",
+        "choices": [
+            "gereksiz",
+            "önemsiz",
+            "basit",
+            "temel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 105,
+        "question": "validate",
+        "choices": [
+            "doğrulamak",
+            "rechazar",
+            "iptal etmek",
+            "silmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 106,
+        "question": "proportion",
+        "choices": [
+            "bütün",
+            "oran",
+            "parça",
+            "miktar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 107,
+        "question": "regulate",
+        "choices": [
+            "bozmak",
+            "karıştırmak",
+            "düzenlemek",
+            "bloquear"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 108,
+        "question": "significant",
+        "choices": [
+            "önemsiz",
+            "küçük",
+            "basit",
+            "önemli"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 109,
+        "question": "generate",
+        "choices": [
+            "üretmek",
+            "tüketmek",
+            "azaltmak",
+            "bitirmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 110,
+        "question": "coordinate",
+        "choices": [
+            "karıştırmak",
+            "koordine etmek",
+            "bozmak",
+            "bloquear"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 111,
+        "question": "execute",
+        "choices": [
+            "planlamak",
+            "düşünmek",
+            "uygulamak",
+            "beklemek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 112,
+        "question": "permanent",
+        "choices": [
+            "geçici",
+            "kısa süreli",
+            "değişken",
+            "kalıcı"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 113,
+        "question": "formulate",
+        "choices": [
+            "formüle etmek",
+            "bozmak",
+            "karıştırmak",
+            "unutmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 114,
+        "question": "integrate",
+        "choices": [
+            "ayırmak",
+            "entegre etmek",
+            "bölmek",
+            "koparmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 115,
+        "question": "minimize",
+        "choices": [
+            "artırmak",
+            "çoğaltmak",
+            "minimize etmek",
+            "büyütmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 116,
+        "question": "beneficial",
+        "choices": [
+            "zararlı",
+            "kötü",
+            "olumsuz",
+            "faydalı"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 117,
+        "question": "indicate",
+        "choices": [
+            "göstermek",
+            "gizlemek",
+            "saklamak",
+            "kaçırmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 118,
+        "question": "supplement",
+        "choices": [
+            "azaltmak",
+            "apoyar",
+            "eksiltmek",
+            "çıkarmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 119,
+        "question": "eliminate",
+        "choices": [
+            "eklemek",
+            "artırmak",
+            "elemek",
+            "çoğaltmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 120,
+        "question": "progressive",
+        "choices": [
+            "gerici",
+            "durağan",
+            "sabit",
+            "ilerici"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 121,
+        "question": "acquire",
+        "choices": [
+            "edinmek",
+            "satmak",
+            "vermek",
+            "kaybetmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 122,
+        "question": "emphasize",
+        "choices": [
+            "gizlemek",
+            "vurgulamak",
+            "örtmek",
+            "saklamak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 123,
+        "question": "maintain",
+        "choices": [
+            "bozmak",
+            "yıkmak",
+            "sürdürmek",
+            "detener"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 124,
+        "question": "specific",
+        "choices": [
+            "genel",
+            "belirsiz",
+            "bulanık",
+            "belirli"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 125,
+        "question": "resolve",
+        "choices": [
+            "çözmek",
+            "karıştırmak",
+            "bozmak",
+            "posponer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 126,
+        "question": "distribute",
+        "choices": [
+            "toplamak",
+            "distribuir",
+            "biriktirmek",
+            "saklamak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 127,
+        "question": "convince",
+        "choices": [
+            "rechazar",
+            "karşı çıkmak",
+            "ikna etmek",
+            "vazgeçirmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 128,
+        "question": "extensive",
+        "choices": [
+            "dar",
+            "sınırlı",
+            "küçük",
+            "kapsamlı"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 129,
+        "question": "classify",
+        "choices": [
+            "sınıflandırmak",
+            "karıştırmak",
+            "distribuir",
+            "bozmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 130,
+        "question": "precise",
+        "choices": [
+            "belirsiz",
+            "kesin",
+            "bulanık",
+            "karışık"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 131,
+        "question": "verify",
+        "choices": [
+            "yalanlamak",
+            "rechazar",
+            "doğrulamak",
+            "inkâr etmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 132,
+        "question": "efficient",
+        "choices": [
+            "verimsiz",
+            "yavaş",
+            "hantal",
+            "verimli"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 133,
+        "question": "conclude",
+        "choices": [
+            "sonuçlandırmak",
+            "başlamak",
+            "devam etmek",
+            "sürdürmek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 134,
+        "question": "examine",
+        "choices": [
+            "görmezden gelmek",
+            "incelemek",
+            "atlamak",
+            "kaçırmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 135,
+        "question": "establish",
+        "choices": [
+            "yıkmak",
+            "bozmak",
+            "kurmak",
+            "bitirmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 136,
+        "question": "convenient",
+        "choices": [
+            "zor",
+            "zahmetli",
+            "karmaşık",
+            "uygun"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 137,
+        "question": "evaluate",
+        "choices": [
+            "değerlendirmek",
+            "görmezden gelmek",
+            "atlamak",
+            "kaçırmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 138,
+        "question": "interact",
+        "choices": [
+            "uzaklaşmak",
+            "etkileşmek",
+            "kaçınmak",
+            "ayrılmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 139,
+        "question": "justify",
+        "choices": [
+            "rechazar",
+            "inkâr etmek",
+            "gerekçelendirmek",
+            "kaçınmak"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 140,
+        "question": "relevant",
+        "choices": [
+            "ilgisiz",
+            "gereksiz",
+            "önemsiz",
+            "ilgili"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 141,
+        "question": "maximize",
+        "choices": [
+            "maksimize etmek",
+            "azaltmak",
+            "düşürmek",
+            "kısıtlamak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 142,
+        "question": "reliable",
+        "choices": [
+            "güvensiz",
+            "güvenilir",
+            "şüpheli",
+            "belirsiz"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 143,
+        "question": "proceed",
+        "choices": [
+            "durmak",
+            "beklemek",
+            "devam etmek",
+            "renunciar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 144,
+        "question": "crucial",
+        "choices": [
+            "önemsiz",
+            "basit",
+            "sıradan",
+            "kritik"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 145,
+        "question": "perceive",
+        "choices": [
+            "algılamak",
+            "kaçırmak",
+            "görmezden gelmek",
+            "unutmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 146,
+        "question": "estimate",
+        "choices": [
+            "kesinleştirmek",
+            "tahmin etmek",
+            "belirlemek",
+            "ölçmek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 147,
+        "question": "clarify",
+        "choices": [
+            "karıştırmak",
+            "bulandırmak",
+            "netleştirmek",
+            "belirsizleştirmek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 148,
+        "question": "accurate",
+        "choices": [
+            "yanlış",
+            "hatalı",
+            "belirsiz",
+            "doğru"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 149,
+        "question": "modify",
+        "choices": [
+            "değiştirmek",
+            "proteger",
+            "tutmak",
+            "saklamak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 150,
+        "question": "restrict",
+        "choices": [
+            "genişletmek",
+            "kısıtlamak",
+            "büyütmek",
+            "artırmak"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 151,
+        "question": "transfer",
+        "choices": [
+            "tutmak",
+            "saklamak",
+            "aktarmak",
+            "gizlemek"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 152,
+        "question": "sufficient",
+        "choices": [
+            "yetersiz",
+            "eksik",
+            "az",
+            "yeterli"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 153,
+        "question": "determine",
+        "choices": [
+            "belirlemek",
+            "karıştırmak",
+            "şaşırmak",
+            "unutmak"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 154,
+        "question": "compile",
+        "choices": [
+            "distribuir",
+            "derlemek",
+            "ayırmak",
+            "bölmek"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 155,
+        "question": "influence",
+        "choices": [
+            "uzaklaşmak",
+            "kaçınmak",
+            "etkilemek",
+            "rechazar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 156,
+        "question": "rational",
+        "choices": [
+            "duygusal",
+            "mantıksız",
+            "anlamsız",
+            "mantıklı"
+        ],
+        "correctAnswer": 3
+    }
+]
