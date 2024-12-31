@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "question": "I believe that time management is essential for productivity.",
+        "choices": [
+            "Creo que la gestión del tiempo es esencial para la productividad.",
+            "La gestión del tiempo es innecesaria.",
+            "La gestión del tiempo solo crea estrés.",
+            "La gestión del tiempo no puede aumentar la productividad."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Having a balanced diet is important for health.",
+        "choices": [
+            "Una dieta equilibrada es innecesaria.",
+            "Una dieta equilibrada es poco saludable.",
+            "Creo que una dieta equilibrada es importante para la salud.",
+            "No es obligatorio tener una dieta equilibrada."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "Regular exercise improves both physical and mental health.",
+        "choices": [
+            "El ejercicio regular no tiene ningún beneficio.",
+            "Sé que el ejercicio regular mejora tanto la salud física como mental.",
+            "El ejercicio solo afecta la salud física.",
+            "Hacer ejercicio no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "Reading books can enhance one's knowledge.",
+        "choices": [
+            "Leer libros es solo una pérdida de tiempo.",
+            "Leer libros no es obligatorio.",
+            "Los libros son innecesarios.",
+            "Creo que leer libros puede aumentar el conocimiento."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Traveling allows us to experience different cultures.",
+        "choices": [
+            "Viajar es un gasto innecesario.",
+            "Viajar es solo para descansar.",
+            "Creo que viajar permite experimentar diferentes culturas.",
+            "Viajar no es divertido."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "Volunteering helps to develop empathy.",
+        "choices": [
+            "Creo que el voluntariado ayuda a desarrollar la empatía.",
+            "El voluntariado es solo una pérdida de tiempo.",
+            "El voluntariado es innecesario.",
+            "El voluntariado no tiene ningún beneficio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "Maintaining a work-life balance is crucial for happiness.",
+        "choices": [
+            "Mantener un equilibrio entre el trabajo y la vida es innecesario.",
+            "Creo que mantener un equilibrio entre el trabajo y la vida es crucial para la felicidad.",
+            "El trabajo y la vida deben mezclarse.",
+            "Mantener un equilibrio entre el trabajo y la vida no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "Using public transport can reduce traffic congestion.",
+        "choices": [
+            "El transporte público es innecesario.",
+            "Es mejor usar un vehículo privado.",
+            "El transporte público es solo incómodo.",
+            "Creo que usar el transporte público puede reducir la congestión del tráfico."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "Keeping a journal can help reflect on daily experiences.",
+        "choices": [
+            "Creo que llevar un diario puede ayudar a reflexionar sobre las experiencias diarias.",
+            "Llevar un diario es una pérdida de tiempo.",
+            "Llevar un diario no tiene ningún beneficio.",
+            "Llevar un diario no es obligatorio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "Learning a new language opens up career opportunities.",
+        "choices": [
+            "Aprender un nuevo idioma es innecesario.",
+            "Aprender un idioma es solo una actividad divertida.",
+            "Creo que aprender un nuevo idioma abre oportunidades de carrera.",
+            "Aprender un idioma no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "Practicing mindfulness can reduce stress levels.",
+        "choices": [
+            "Practicar la atención plena es solo una pérdida de tiempo.",
+            "Creo que practicar la atención plena puede reducir los niveles de estrés.",
+            "Practicar la atención plena es innecesario.",
+            "No es obligatorio lidiar con el estrés."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "question": "Socializing with friends is vital for mental health.",
+        "choices": [
+            "Creo que socializar con amigos es vital para la salud mental.",
+            "Pasar tiempo con amigos es innecesario.",
+            "Ser social es solo una pérdida de tiempo.",
+            "Es mejor estar solo para la salud mental."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "Setting goals helps to stay motivated.",
+        "choices": [
+            "Los objetivos son innecesarios.",
+            "Establecer objetivos solo crea estrés.",
+            "Los objetivos son solo imaginación.",
+            "Creo que establecer metas ayuda a mantenerse motivado."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "Cooking at home is often healthier than eating out.",
+        "choices": [
+            "Comer fuera es más saludable.",
+            "Cocinar en casa es una pérdida de tiempo.",
+            "Creo que cocinar en casa es a menudo más saludable que comer fuera.",
+            "Cocinar no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "question": "Practicing gratitude can improve overall well-being.",
+        "choices": [
+            "Creo que practicar la gratitud puede mejorar el bienestar general.",
+            "La gratitud es un sentimiento innecesario.",
+            "Ser agradecido es solo una pérdida de tiempo.",
+            "La gratitud solo es importante para los demás."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "Participating in community events strengthens social bonds.",
+        "choices": [
+            "Los eventos comunitarios son innecesarios.",
+            "Creo que participar en eventos comunitarios fortalece los lazos sociales.",
+            "Los lazos sociales solo se forman en el trabajo.",
+            "Participar en eventos comunitarios no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "Listening to music can enhance concentration.",
+        "choices": [
+            "Escuchar música causa distracción.",
+            "Escuchar música es solo una actividad de entretenimiento.",
+            "Creo que escuchar música puede mejorar la concentración.",
+            "Escuchar música no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "Taking breaks during work increases productivity.",
+        "choices": [
+            "Tomarse un descanso es una pérdida de tiempo.",
+            "Creo que tomar descansos durante el trabajo aumenta la productividad.",
+            "Tomarse un descanso solo distrae.",
+            "Tomarse un descanso no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "Having a pet can bring joy and companionship.",
+        "choices": [
+            "Tener una mascota no es obligatorio.",
+            "Las mascotas solo son costosas.",
+            "Las mascotas son solo para niños.",
+            "Creo que tener una mascota puede traer alegría y compañía."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 20,
+        "question": "Establishing a morning routine can set a positive tone for the day.",
+        "choices": [
+            "La rutina matutina es innecesaria.",
+            "Creo que establecer una rutina matutina puede establecer un tono positivo para el día.",
+            "La rutina matutina es solo una pérdida de tiempo.",
+            "La rutina matutina es solo para personas trabajadoras."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "Finding a hobby can be a great way to relieve stress.",
+        "choices": [
+            "Creo que encontrar un pasatiempo puede ser una excelente manera de aliviar el estrés.",
+            "Tener un pasatiempo es innecesario.",
+            "Los pasatiempos son solo una pérdida de tiempo.",
+            "Los pasatiempos solo son importantes para los niños."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "Maintaining good relationships requires effort and communication.",
+        "choices": [
+            "Las relaciones se desarrollan por sí solas.",
+            "Las relaciones son solo una pérdida de tiempo.",
+            "Creo que mantener buenas relaciones requiere esfuerzo y comunicación.",
+            "Las buenas relaciones no son obligatorias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "Being organized can help save time and reduce stress.",
+        "choices": [
+            "Ser organizado es innecesario.",
+            "Creo que ser organizado puede ahorrar tiempo y reducir el estrés.",
+            "Ser organizado es solo difícil.",
+            "Ser organizado no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 24,
+        "question": "Taking care of mental health is as important as physical health.",
+        "choices": [
+            "La salud mental es innecesaria.",
+            "Creo que cuidar la salud mental es tan importante como la salud física.",
+            "La salud mental es solo para personas estresadas.",
+            "La salud mental es importante, pero la salud física es más importante."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "Effective communication skills can improve personal relationships.",
+        "choices": [
+            "Las habilidades de comunicación son innecesarias.",
+            "La comunicación solo es importante para el trabajo.",
+            "Las habilidades de comunicación solo son necesarias en la educación.",
+            "Creo que las habilidades de comunicación efectivas pueden mejorar las relaciones personales."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 26,
+        "question": "Having a positive mindset can change one's perspective on challenges.",
+        "choices": [
+            "Creo que una mentalidad positiva puede cambiar la perspectiva sobre los desafíos.",
+            "Pensar en positivo es innecesario.",
+            "Pensar en positivo solo es importante para los niños.",
+            "Pensar en positivo es solo un sueño."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 27,
+        "question": "Using technology wisely can enhance daily life.",
+        "choices": [
+            "La tecnología es un gasto innecesario.",
+            "La tecnología es solo una pérdida de tiempo.",
+            "Creo que usar la tecnología sabiamente puede mejorar la vida diaria.",
+            "No es obligatorio usar la tecnología."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "Practicing self-care is essential for overall well-being.",
+        "choices": [
+            "El autocuidado es innecesario.",
+            "El autocuidado solo es importante para los demás.",
+            "Creo que practicar el autocuidado es esencial para el bienestar general.",
+            "El autocuidado no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "Exploring nature can be a refreshing experience.",
+        "choices": [
+            "Explorar la naturaleza es innecesario.",
+            "Creo que explorar la naturaleza puede ser una experiencia refrescante.",
+            "Explorar la naturaleza es una pérdida de tiempo.",
+            "Explorar la naturaleza solo es divertido para los niños."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "Being punctual shows respect for others' time.",
+        "choices": [
+            "Ser puntual es innecesario.",
+            "Ser puntual solo es importante en el trabajo.",
+            "Creo que ser puntual muestra respeto por el tiempo de los demás.",
+            "Ser puntual no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "Building a strong support system can help in difficult times.",
+        "choices": [
+            "Creo que construir un sistema de apoyo sólido puede ayudar en tiempos difíciles.",
+            "Los sistemas de apoyo son innecesarios.",
+            "Recibir apoyo solo es una señal de debilidad.",
+            "Los sistemas de apoyo no son obligatorios."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 32,
+        "question": "Developing a growth mindset can lead to personal growth.",
+        "choices": [
+            "Una mentalidad de crecimiento es innecesaria.",
+            "Una mentalidad de crecimiento solo es importante en el trabajo.",
+            "Una mentalidad de crecimiento no es obligatoria.",
+            "Creo que desarrollar una mentalidad de crecimiento puede llevar al crecimiento personal."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "Embracing change can lead to new opportunities.",
+        "choices": [
+            "El cambio es innecesario.",
+            "Creo que abrazar el cambio puede llevar a nuevas oportunidades.",
+            "El cambio solo crea caos.",
+            "El cambio solo da miedo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "Practicing relaxation techniques can improve sleep quality.",
+        "choices": [
+            "Las técnicas de relajación son innecesarias.",
+            "La relajación es solo para personas estresadas.",
+            "Creo que practicar técnicas de relajación puede mejorar la calidad del sueño.",
+            "Relajarse no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "Engaging in creative activities can boost mental health.",
+        "choices": [
+            "La creatividad es innecesaria.",
+            "Creo que participar en actividades creativas puede mejorar la salud mental.",
+            "Las actividades creativas son una pérdida de tiempo.",
+            "La creatividad es solo para los artistas."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "question": "Adopting sustainable practices can help the environment.",
+        "choices": [
+            "La sostenibilidad es innecesaria.",
+            "La protección del medio ambiente es solo un asunto político.",
+            "La sostenibilidad no es obligatoria.",
+            "Creo que adoptar prácticas sostenibles puede ayudar al medio ambiente."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 37,
+        "question": "Maintaining a clean living space can promote well-being.",
+        "choices": [
+            "Creo que mantener un espacio de vida limpio puede promover el bienestar.",
+            "La limpieza es innecesaria.",
+            "Un espacio limpio es solo un lujo.",
+            "La limpieza no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 38,
+        "question": "Being open to feedback can improve personal development.",
+        "choices": [
+            "Recibir retroalimentación es innecesario.",
+            "Creo que estar abierto a la retroalimentación puede mejorar el desarrollo personal.",
+            "La retroalimentación solo es negativa.",
+            "La retroalimentación no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 39,
+        "question": "Taking time to relax is necessary for mental health.",
+        "choices": [
+            "Descansar es innecesario.",
+            "Descansar es solo para los perezosos.",
+            "Creo que tomarse tiempo para descansar es necesario para la salud mental.",
+            "Descansar no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 40,
+        "question": "Investing in education can yield long-term benefits.",
+        "choices": [
+            "Invertir en educación es innecesario.",
+            "La educación solo trae beneficios a corto plazo.",
+            "Las inversiones en educación son solo una pérdida de tiempo.",
+            "Creo que invertir en educación puede proporcionar beneficios a largo plazo."
+        ],
+        "correctAnswer": 3
+    }
+]

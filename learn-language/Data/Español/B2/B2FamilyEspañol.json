@@ -1,0 +1,519 @@
+[
+    {
+        "id": 1,
+        "question": "Family traditions play a significant role in shaping our identities.",
+        "choices": [
+            "Las tradiciones familiares juegan un papel importante en la formación de nuestras identidades.",
+            "Las tradiciones familiares ya no son importantes.",
+            "Nuestras identidades se forman solo a través de experiencias personales.",
+            "Las tradiciones familiares obstaculizan el desarrollo personal."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Modern families come in many different forms and structures.",
+        "choices": [
+            "Todas las familias deben tener la misma estructura.",
+            "Las familias modernas no son tradicionales.",
+            "Las estructuras familiares nunca han cambiado.",
+            "Las familias modernas vienen en muchas formas y estructuras diferentes."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 3,
+        "question": "Effective communication is crucial for maintaining healthy family relationships.",
+        "choices": [
+            "La comunicación familiar es innecesaria.",
+            "La comunicación efectiva es crucial para mantener relaciones familiares saludables.",
+            "Solo los niños deben comunicarse.",
+            "La comunicación excesiva debilita los lazos familiares."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "Many families are finding it challenging to balance work and family life.",
+        "choices": [
+            "El equilibrio entre el trabajo y la vida es fácil de lograr.",
+            "La vida familiar es menos importante que la vida laboral.",
+            "Muchas familias encuentran difícil equilibrar el trabajo y la vida familiar.",
+            "Es imposible equilibrar la vida laboral y familiar."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "Grandparents often play a crucial role in children's upbringing.",
+        "choices": [
+            "Los abuelos no deben involucrarse en la crianza de los niños.",
+            "Los abuelos a menudo juegan un papel crucial en la crianza de los niños.",
+            "Solo los padres deben desempeñar un papel en la crianza de los niños.",
+            "El papel de los abuelos es insignificante."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "Family meals are an important time for bonding and communication.",
+        "choices": [
+            "Las comidas familiares son innecesarias.",
+            "La hora de comer es solo para alimentarse.",
+            "Las comidas familiares aumentan el estrés.",
+            "Las comidas familiares son un momento importante para la unión y la comunicación."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 7,
+        "question": "Sibling relationships can have a profound impact on personal development.",
+        "choices": [
+            "Las relaciones entre hermanos pueden tener un impacto profundo en el desarrollo personal.",
+            "Las relaciones entre hermanos son insignificantes.",
+            "El desarrollo personal solo se ve afectado por los padres.",
+            "No debe haber competencia entre hermanos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "Many families are embracing technology to stay connected.",
+        "choices": [
+            "Muchas familias están adoptando la tecnología para mantenerse conectadas.",
+            "La tecnología debilita los lazos familiares.",
+            "Las familias no deben usar tecnología.",
+            "La tecnología es solo para los jóvenes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "The concept of family varies greatly across different cultures.",
+        "choices": [
+            "El concepto de familia es el mismo en todas partes.",
+            "El concepto de familia varía mucho entre diferentes culturas.",
+            "La cultura no afecta la estructura familiar.",
+            "Solo en la cultura occidental existe el concepto de familia."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "Family support is often crucial during times of personal crisis.",
+        "choices": [
+            "Las crisis personales no son asunto de la familia.",
+            "Es mejor estar solo en tiempos de crisis.",
+            "El apoyo familiar obstaculiza la independencia.",
+            "El apoyo familiar es a menudo crucial durante tiempos de crisis personal."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 11,
+        "question": "The role of fathers in childcare has evolved significantly in recent decades.",
+        "choices": [
+            "Los padres no deben involucrarse en el cuidado de los niños.",
+            "El cuidado de los niños es solo responsabilidad de las madres.",
+            "El papel de los padres en el cuidado de los niños ha evolucionado significativamente en las últimas décadas.",
+            "El papel de los padres nunca ha cambiado."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "Many families are choosing to adopt or foster children.",
+        "choices": [
+            "Muchas familias están optando por adoptar o acoger niños.",
+            "La adopción ya no se realiza.",
+            "Solo los hijos biológicos pueden ser verdaderos miembros de la familia.",
+            "La adopción es solo para parejas sin hijos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "Family dynamics can significantly impact a child's educational performance.",
+        "choices": [
+            "Las dinámicas familiares no tienen ningún impacto en la educación.",
+            "Solo la escuela afecta el rendimiento educativo de un niño.",
+            "Las dinámicas familiares disminuyen el éxito de un niño.",
+            "Las dinámicas familiares pueden afectar significativamente el rendimiento educativo de un niño."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "Many families are struggling with the rising cost of living.",
+        "choices": [
+            "El costo de vida no afecta a las familias.",
+            "Muchas familias están luchando con el aumento del costo de vida.",
+            "Todas las familias están económicamente cómodas.",
+            "El aumento de los costos fortalece los lazos familiares."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "Family counseling can be beneficial in resolving conflicts and improving relationships.",
+        "choices": [
+            "La consejería familiar puede ser beneficiosa para resolver conflictos y mejorar las relaciones.",
+            "La consejería familiar es innecesaria.",
+            "Los problemas familiares siempre se resuelven por sí mismos.",
+            "La consejería viola la privacidad familiar."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "The concept of work-life balance is becoming increasingly important for many families.",
+        "choices": [
+            "El concepto de equilibrio entre el trabajo y la vida es innecesario.",
+            "La vida laboral siempre debe ser prioritaria.",
+            "El concepto de equilibrio entre el trabajo y la vida es cada vez más importante para muchas familias.",
+            "El equilibrio entre el trabajo y la vida solo es importante para los solteros."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "Many families are choosing to have fewer children than in previous generations.",
+        "choices": [
+            "Muchas familias están optando por tener menos hijos que en generaciones anteriores.",
+            "Las familias siempre deben tener muchos hijos.",
+            "El número de hijos determina la felicidad familiar.",
+            "Tener pocos hijos es egoísta."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 18,
+        "question": "Family vacations can be a great way to strengthen bonds and create lasting memories.",
+        "choices": [
+            "Las vacaciones familiares son un lujo innecesario.",
+            "Las vacaciones familiares pueden ser una excelente manera de fortalecer los lazos y crear recuerdos duraderos.",
+            "Las vacaciones son solo para los niños.",
+            "Las vacaciones familiares crean estrés."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "The role of extended family members varies greatly across different cultures.",
+        "choices": [
+            "El concepto de familia extendida ya no es importante.",
+            "En todas las culturas, la familia extendida tiene el mismo papel.",
+            "El papel de los miembros de la familia extendida varía mucho entre diferentes culturas.",
+            "La familia extendida solo es importante en las sociedades subdesarrolladas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "Many families are experiencing challenges related to aging parents.",
+        "choices": [
+            "Los padres ancianos nunca causan problemas.",
+            "El cuidado de los ancianos es solo responsabilidad del estado.",
+            "Los padres ancianos siempre deben ser enviados a hogares de ancianos.",
+            "Muchas familias están enfrentando desafíos relacionados con los padres ancianos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 21,
+        "question": "Family histories and genealogies are becoming increasingly popular topics of interest.",
+        "choices": [
+            "La historia familiar es irrelevante.",
+            "Las historias familiares y genealogías se están convirtiendo en temas de interés cada vez más populares.",
+            "Los árboles genealógicos solo interesan a la nobleza.",
+            "Conocer el pasado es perjudicial."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 22,
+        "question": "Many families are dealing with the challenges of long-distance relationships.",
+        "choices": [
+            "Las relaciones a larga distancia son imposibles.",
+            "Los miembros de la familia siempre deben vivir juntos.",
+            "Muchas familias están lidiando con los desafíos de las relaciones a larga distancia.",
+            "Las relaciones a larga distancia fortalecen los lazos familiares."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "Family businesses can create unique dynamics and challenges.",
+        "choices": [
+            "Los negocios familiares pueden crear dinámicas y desafíos únicos.",
+            "Los negocios familiares siempre tienen éxito.",
+            "El trabajo y la familia nunca deben mezclarse.",
+            "Los negocios familiares son insignificantes en la economía moderna."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "The definition of family is evolving in many societies.",
+        "choices": [
+            "La definición de familia nunca ha cambiado.",
+            "La definición de familia está evolucionando en muchas sociedades.",
+            "Solo la estructura familiar tradicional es válida.",
+            "El concepto de familia ya no es importante."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "Many families are embracing multicultural and interracial relationships.",
+        "choices": [
+            "Las relaciones multiculturales siempre son problemáticas.",
+            "Las familias solo deben relacionarse con personas de su propia cultura.",
+            "Muchas familias están adoptando relaciones multiculturales e interraciales.",
+            "Los matrimonios interraciales son perjudiciales para la sociedad."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 26,
+        "question": "Family rituals and routines can provide a sense of stability and belonging.",
+        "choices": [
+            "Las rutinas familiares son aburridas y deben evitarse.",
+            "Los rituales y rutinas familiares pueden proporcionar un sentido de estabilidad y pertenencia.",
+            "Los rituales solo son importantes en las familias religiosas.",
+            "Las rutinas familiares obstaculizan el desarrollo personal."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 27,
+        "question": "Many families are facing challenges related to digital device usage and screen time.",
+        "choices": [
+            "Los dispositivos digitales no afectan la vida familiar.",
+            "Limitar el tiempo de pantalla es innecesario.",
+            "El uso de la tecnología siempre mejora las relaciones familiares.",
+            "Muchas familias están enfrentando desafíos relacionados con el uso de dispositivos digitales y el tiempo de pantalla."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 28,
+        "question": "Family support can be crucial for individuals recovering from addiction.",
+        "choices": [
+            "El apoyo familiar puede ser crucial para las personas que se recuperan de una adicción.",
+            "El tratamiento de la adicción debe ser realizado solo por profesionales.",
+            "El apoyo familiar es ineficaz en el tratamiento de la adicción.",
+            "La adicción es un problema personal y no concierne a la familia."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "Many families are choosing to homeschool their children.",
+        "choices": [
+            "La educación en el hogar es ilegal.",
+            "Muchas familias prefieren educar a sus hijos en casa.",
+            "Todos los niños deben asistir a escuelas tradicionales.",
+            "La educación en el hogar impide la socialización de los niños."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "Family financial planning is becoming increasingly important in today's economy.",
+        "choices": [
+            "La planificación financiera es solo para los ricos.",
+            "Las familias no deben hablar de dinero.",
+            "La planificación financiera restringe el presupuesto familiar.",
+            "La planificación financiera familiar se está volviendo cada vez más importante en la economía actual."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "Many families are exploring alternative living arrangements, such as co-housing.",
+        "choices": [
+            "Las disposiciones de vida alternativas debilitan a la familia.",
+            "Todos deben vivir en hogares tradicionales.",
+            "Muchas familias están explorando arreglos de vida alternativos, como la co-vivienda.",
+            "La co-vivienda es solo para estudiantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "Family therapy can be beneficial in addressing complex relational issues.",
+        "choices": [
+            "La terapia familiar puede ser beneficiosa para abordar problemas relacionales complejos.",
+            "Los problemas familiares deben resolverse sin necesidad de terapia.",
+            "La terapia viola la privacidad familiar.",
+            "La terapia familiar es solo para familias en proceso de divorcio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 33,
+        "question": "The role of pets in family life is increasingly recognized as important.",
+        "choices": [
+            "Las mascotas no pueden ser miembros de la familia.",
+            "Las mascotas son perjudiciales para los niños.",
+            "El papel de las mascotas en la vida familiar se reconoce cada vez más como importante.",
+            "Las mascotas solo deben estar en las granjas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 34,
+        "question": "Many families are dealing with the challenges of blended family dynamics.",
+        "choices": [
+            "Las familias mezcladas no son familias reales.",
+            "Muchas familias están lidiando con los desafíos de las dinámicas de familias mezcladas.",
+            "Las familias mezcladas siempre tienen problemas.",
+            "Los padrastros nunca son aceptados."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "Family literacy programs can help improve educational outcomes for both parents and children.",
+        "choices": [
+            "La alfabetización solo debe aprenderse en la escuela.",
+            "Los programas de alfabetización familiar son innecesarios.",
+            "Los programas de alfabetización familiar pueden ayudar a mejorar los resultados educativos tanto de los padres como de los niños.",
+            "Los padres no deben involucrarse en la educación de sus hijos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "Many families are choosing to live in multigenerational households.",
+        "choices": [
+            "Las diferentes generaciones nunca deben vivir juntas.",
+            "Los hogares multigeneracionales solo se forman debido a dificultades económicas.",
+            "Las familias jóvenes siempre deben vivir separadas.",
+            "Muchas familias están optando por vivir en hogares multigeneracionales."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 37,
+        "question": "Family-friendly workplace policies are becoming increasingly important for many employees.",
+        "choices": [
+            "La vida laboral y familiar deben mantenerse completamente separadas.",
+            "Las políticas laborales amigables con la familia están cobrando cada vez más importancia para muchos empleados.",
+            "Las políticas amigables con la familia perjudican a las empresas.",
+            "Los empleados no deben llevar sus responsabilidades familiares al trabajo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 38,
+        "question": "Many families are exploring alternative parenting styles and philosophies.",
+        "choices": [
+            "Muchas familias están explorando estilos y filosofías de crianza alternativas.",
+            "Solo los métodos tradicionales de crianza son efectivos.",
+            "Los estilos de crianza no cambian.",
+            "Los enfoques de crianza alternativos dañan a los niños."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 39,
+        "question": "Family reunions can be a powerful way to maintain connections across generations.",
+        "choices": [
+            "Las reuniones familiares son una pérdida de tiempo.",
+            "Los miembros de la familia solo deben reunirse en ocasiones especiales.",
+            "Las reuniones familiares pueden ser una poderosa manera de mantener conexiones a través de las generaciones.",
+            "Las conexiones intergeneracionales no son importantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 40,
+        "question": "Many families are facing challenges related to caring for elderly relatives.",
+        "choices": [
+            "El cuidado de los ancianos solo debe ser realizado por profesionales.",
+            "Muchas familias están enfrentando desafíos relacionados con el cuidado de los ancianos.",
+            "Los ancianos siempre deben ser enviados a hogares de ancianos.",
+            "El cuidado de los ancianos no es responsabilidad de la familia."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 41,
+        "question": "Family traditions can evolve and change over time to reflect changing values and circumstances.",
+        "choices": [
+            "Las tradiciones familiares nunca deben cambiar.",
+            "Las tradiciones cambiantes debilitan los lazos familiares.",
+            "Las familias modernas deben rechazar completamente las tradiciones.",
+            "Las tradiciones familiares pueden evolucionar y cambiar con el tiempo para reflejar los valores y circunstancias cambiantes."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 42,
+        "question": "Many families are embracing sustainable living practices.",
+        "choices": [
+            "La vida sostenible solo interesa a los ecologistas.",
+            "Las familias no deben preocuparse por los temas ambientales.",
+            "Muchas familias están adoptando prácticas de vida sostenible.",
+            "Las prácticas de vida sostenible dañan el presupuesto familiar."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 43,
+        "question": "Family learning activities can strengthen bonds and promote shared interests.",
+        "choices": [
+            "Las actividades de aprendizaje deben limitarse solo a la escuela.",
+            "Las actividades de aprendizaje en familia pueden fortalecer los lazos y promover intereses compartidos.",
+            "Los miembros de la familia deben tener intereses diferentes.",
+            "Las actividades de aprendizaje compartidas aumentan la competencia familiar."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 44,
+        "question": "Many families are dealing with the impact of social media on family dynamics.",
+        "choices": [
+            "Muchas familias están lidiando con el impacto de las redes sociales en la dinámica familiar.",
+            "Las redes sociales no afectan las relaciones familiares.",
+            "Las familias deben prohibir completamente las redes sociales.",
+            "Las redes sociales siempre mejoran la comunicación familiar."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 45,
+        "question": "Family volunteering can instill important values and create meaningful shared experiences.",
+        "choices": [
+            "El voluntariado es solo para adultos.",
+            "Los miembros de la familia deben ser voluntarios individualmente.",
+            "El voluntariado desperdicia el tiempo familiar.",
+            "El voluntariado familiar puede inculcar valores importantes y crear experiencias compartidas significativas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 46,
+        "question": "Many families are exploring alternative education options for their children.",
+        "choices": [
+            "Las opciones educativas alternativas son ilegales.",
+            "Muchas familias están explorando opciones educativas alternativas para sus hijos.",
+            "Todos los niños deben asistir a escuelas tradicionales.",
+            "La educación alternativa impide el desarrollo de los niños."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 47,
+        "question": "Family meal planning can promote healthier eating habits and save money.",
+        "choices": [
+            "La planificación de comidas familiares puede promover hábitos alimenticios más saludables y ahorrar dinero.",
+            "La planificación de comidas es un esfuerzo innecesario.",
+            "Las familias siempre deben comer fuera.",
+            "Las comidas planificadas matan la creatividad familiar."
+        ],
+        "correctAnswer": 0
+    }
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "id": 1,
+        "question": "I believe that education is the key to success.",
+        "choices": [
+            "No se necesita educación para tener éxito.",
+            "La educación resulta en fracaso.",
+            "Creo que la educación es la clave del éxito.",
+            "La educación es solo una pérdida de tiempo."
+        ],        
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "question": "Studying abroad can broaden one's horizons.",
+        "choices": [
+            "Estudiar en el extranjero puede ampliar los horizontes.",
+            "Estudiar en el extranjero no es obligatorio.",
+            "Estudiar en el extranjero es caro.",
+            "Estudiar en el extranjero es solo para turistas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "question": "Online learning has become increasingly popular in recent years.",
+        "choices": [
+            "La educación en línea ya no se utiliza.",
+            "La educación en línea se ha vuelto cada vez más popular en los últimos años.",
+            "La educación en línea es solo para niños.",
+            "La educación en línea ha reemplazado completamente a la educación tradicional."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "Lifelong learning is essential in today's rapidly changing world.",
+        "choices": [
+            "El aprendizaje a lo largo de la vida es solo para los ancianos.",
+            "El aprendizaje a lo largo de la vida es innecesario.",
+            "El aprendizaje a lo largo de la vida es solo una táctica de marketing.",
+            "El aprendizaje a lo largo de la vida es esencial en el mundo rápidamente cambiante de hoy."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Critical thinking skills are crucial for academic success.",
+        "choices": [
+            "Las habilidades de pensamiento crítico son innecesarias.",
+            "Las habilidades de pensamiento crítico son solo para estudiantes de filosofía.",
+            "Las habilidades de pensamiento crítico son cruciales para el éxito académico.",
+            "Las habilidades de pensamiento crítico obstaculizan el éxito académico."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "Many universities offer scholarships to outstanding students.",
+        "choices": [
+            "Las universidades nunca ofrecen becas.",
+            "Muchas universidades ofrecen becas a estudiantes sobresalientes.",
+            "Las becas solo se otorgan a estudiantes ricos.",
+            "Las becas reducen la calidad de la educación."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "The importance of STEM education has been emphasized in recent years.",
+        "choices": [
+            "En los últimos años se ha enfatizado la importancia de la educación STEM.",
+            "La educación STEM ya no es importante.",
+            "La educación STEM es solo para hombres.",
+            "La educación STEM mata la creatividad."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "Effective time management is crucial for students to balance their studies and personal life.",
+        "choices": [
+            "La gestión del tiempo es innecesaria para los estudiantes.",
+            "La gestión del tiempo es solo para adultos.",
+            "La gestión efectiva del tiempo es crucial para que los estudiantes equilibren sus estudios y su vida personal.",
+            "La gestión del tiempo aumenta el estrés de los estudiantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "question": "Many schools are incorporating technology into their curriculum.",
+        "choices": [
+            "Las escuelas prohíben el uso de tecnología.",
+            "La tecnología no tiene ningún papel en la educación.",
+            "La tecnología solo se usa para jugar.",
+            "Muchas escuelas están incorporando tecnología en sus planes de estudio."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 10,
+        "question": "Extracurricular activities can enhance a student's overall educational experience.",
+        "choices": [
+            "Las actividades extracurriculares pueden mejorar la experiencia educativa general de un estudiante.",
+            "Las actividades extracurriculares son una pérdida de tiempo.",
+            "Las actividades extracurriculares solo se centran en los deportes.",
+            "Las actividades extracurriculares reducen el éxito académico."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 11,
+        "question": "Many countries are investing heavily in improving their education systems.",
+        "choices": [
+            "Los países han dejado de invertir en educación.",
+            "Muchos países están invirtiendo fuertemente en mejorar sus sistemas educativos.",
+            "Los sistemas educativos no necesitan mejoras.",
+            "Invertir en sistemas educativos es innecesario."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "question": "Inclusive education aims to provide equal opportunities for all students.",
+        "choices": [
+            "La educación inclusiva tiene como objetivo proporcionar igualdad de oportunidades para todos los estudiantes.",
+            "La educación inclusiva es solo para estudiantes con discapacidades.",
+            "La educación inclusiva reduce la calidad de la educación.",
+            "La educación inclusiva es un concepto innecesario."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "Many educators believe that project-based learning enhances student engagement.",
+        "choices": [
+            "El aprendizaje basado en proyectos no proporciona ningún beneficio.",
+            "El aprendizaje basado en proyectos es solo para clases de arte.",
+            "Muchos educadores creen que el aprendizaje basado en proyectos aumenta la participación de los estudiantes.",
+            "El aprendizaje basado en proyectos aburre a los estudiantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "The COVID-19 pandemic has significantly impacted education worldwide.",
+        "choices": [
+            "La pandemia de COVID-19 no tuvo ningún impacto en la educación.",
+            "La pandemia de COVID-19 ha impactado significativamente la educación en todo el mundo.",
+            "La pandemia de COVID-19 mejoró la educación.",
+            "La pandemia de COVID-19 solo afectó a la educación superior."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "Many schools are focusing on developing students' soft skills.",
+        "choices": [
+            "Muchas escuelas se están enfocando en desarrollar las habilidades blandas de los estudiantes.",
+            "Las habilidades blandas son irrelevantes en la educación.",
+            "Las habilidades blandas solo son importantes en el ámbito laboral.",
+            "Las escuelas solo deben centrarse en las habilidades académicas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "Vocational education is gaining importance in many countries.",
+        "choices": [
+            "La educación vocacional ya no se utiliza.",
+            "La educación vocacional es solo para estudiantes fracasados.",
+            "La educación vocacional perjudica la economía del país.",
+            "La educación vocacional está ganando importancia en muchos países."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "Many educators advocate for a more personalized approach to learning.",
+        "choices": [
+            "El aprendizaje personalizado es imposible.",
+            "Muchos educadores abogan por un enfoque más personalizado del aprendizaje.",
+            "El aprendizaje personalizado solo se puede aplicar en escuelas privadas.",
+            "El aprendizaje personalizado reduce la calidad de la educación."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "question": "Digital literacy has become an essential skill in modern education.",
+        "choices": [
+            "La alfabetización digital es una habilidad innecesaria.",
+            "La alfabetización digital solo es importante en las clases de informática.",
+            "La alfabetización digital distrae a los estudiantes.",
+            "La alfabetización digital se ha convertido en una habilidad fundamental en la educación moderna."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 19,
+        "question": "Many schools are implementing mindfulness programs to support student well-being.",
+        "choices": [
+            "Muchas escuelas están implementando programas de atención plena para apoyar el bienestar estudiantil.",
+            "Los programas de atención plena no tienen lugar en la educación.",
+            "Los programas de atención plena son solo para adultos.",
+            "Los programas de atención plena reducen el éxito académico."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 20,
+        "question": "The role of teachers is evolving in the digital age.",
+        "choices": [
+            "El papel de los maestros nunca ha cambiado.",
+            "El papel de los maestros está evolucionando en la era digital.",
+            "En la era digital, ya no se necesitan maestros.",
+            "Los maestros solo enseñan el uso de la tecnología."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "Many universities are offering interdisciplinary programs to prepare students for complex challenges.",
+        "choices": [
+            "Los programas interdisciplinarios son innecesarios.",
+            "Las universidades solo deben ofrecer especialización en un área.",
+            "Muchas universidades están ofreciendo programas interdisciplinarios para preparar a los estudiantes para desafíos complejos.",
+            "Los programas interdisciplinarios confunden a los estudiantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "Continuous professional development is crucial for teachers to stay up-to-date.",
+        "choices": [
+            "El desarrollo profesional continuo es innecesario para los maestros.",
+            "El desarrollo profesional continuo es crucial para que los maestros se mantengan actualizados.",
+            "Los maestros solo deben recibir formación una vez.",
+            "El desarrollo profesional desperdicia el tiempo de los maestros."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "Many schools are implementing anti-bullying programs to create a safe learning environment.",
+        "choices": [
+            "Los programas contra el acoso escolar son innecesarios.",
+            "El acoso escolar no es un problema en las escuelas.",
+            "Muchas escuelas están implementando programas contra el acoso escolar para crear un entorno de aprendizaje seguro.",
+            "Los programas contra el acoso escolar debilitan a los estudiantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "The importance of early childhood education is increasingly recognized.",
+        "choices": [
+            "La importancia de la educación infantil es cada vez más reconocida.",
+            "La educación infantil es innecesaria.",
+            "La educación solo debe comenzar en la escuela primaria.",
+            "La educación infantil afecta negativamente el desarrollo de los niños."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "Many countries are working to improve access to higher education.",
+        "choices": [
+            "El acceso a la educación superior ya es excelente.",
+            "Muchos países están trabajando para mejorar el acceso a la educación superior.",
+            "La educación superior es solo para la élite.",
+            "Mejorar el acceso a la educación superior reduce la calidad educativa."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "Environmental education is becoming an important part of many school curricula.",
+        "choices": [
+            "La educación ambiental es innecesaria.",
+            "La educación ambiental solo debe impartirse en las clases de biología.",
+            "La educación ambiental preocupa a los estudiantes.",
+            "La educación ambiental se está convirtiendo en una parte importante de muchos planes de estudio escolares."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "Many educators emphasize the importance of fostering creativity in the classroom.",
+        "choices": [
+            "Muchos educadores enfatizan la importancia de fomentar la creatividad en el aula.",
+            "La creatividad es irrelevante en la educación.",
+            "La creatividad solo es necesaria en las clases de arte.",
+            "La creatividad obstaculiza el éxito académico."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 28,
+        "question": "The integration of technology in education has transformed traditional teaching methods.",
+        "choices": [
+            "La integración de la tecnología en la educación ha transformado los métodos de enseñanza tradicionales.",
+            "La tecnología nunca debe usarse en la educación.",
+            "Los métodos de enseñanza tradicionales no han cambiado.",
+            "La tecnología solo se usa para el entretenimiento."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "Many schools are adopting a more student-centered approach to learning.",
+        "choices": [
+            "El enfoque centrado en el estudiante es ineficaz.",
+            "La educación solo debe ser centrada en el maestro.",
+            "Muchas escuelas están adoptando un enfoque más centrado en el estudiante para el aprendizaje.",
+            "El enfoque centrado en el estudiante reduce la disciplina."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 30,
+        "question": "Critical thinking is considered a key 21st-century skill in education.",
+        "choices": [
+            "El pensamiento crítico es una habilidad innecesaria.",
+            "El pensamiento crítico se considera una habilidad clave del siglo XXI en la educación.",
+            "El pensamiento crítico solo debe enseñarse en la universidad.",
+            "El pensamiento crítico afecta negativamente a los estudiantes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 31,
+        "question": "Many countries are investing in teacher training to improve education quality.",
+        "choices": [
+            "La formación de profesores es innecesaria.",
+            "Los profesores ya están suficientemente formados.",
+            "La formación de profesores desperdicia el presupuesto educativo.",
+            "Muchos países están invirtiendo en la formación de profesores para mejorar la calidad educativa."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 32,
+        "question": "The concept of lifelong learning is becoming increasingly important in today's rapidly changing world.",
+        "choices": [
+            "El concepto de aprendizaje a lo largo de la vida es innecesario.",
+            "El aprendizaje solo debe ocurrir durante la juventud.",
+            "El concepto de aprendizaje a lo largo de la vida se está volviendo cada vez más importante en el mundo rápidamente cambiante de hoy.",
+            "El aprendizaje a lo largo de la vida solo es aplicable a los pasatiempos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "Many schools are implementing programs to promote mental health and well-being among students.",
+        "choices": [
+            "Muchas escuelas están implementando programas para promover la salud mental y el bienestar entre los estudiantes.",
+            "La salud mental no es responsabilidad de las escuelas.",
+            "Los programas de salud mental son innecesarios.",
+            "Los programas de salud mental debilitan a los estudiantes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 34,
+        "question": "The importance of STEM education in preparing students for future careers is widely recognized.",
+        "choices": [
+            "La educación STEM es innecesaria.",
+            "La importancia de la educación STEM en preparar a los estudiantes para futuras carreras es ampliamente reconocida.",
+            "La educación STEM es solo para ciertos estudiantes.",
+            "La educación STEM inhibe la creatividad."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "Many universities are offering online courses to make education more accessible.",
+        "choices": [
+            "Los cursos en línea son ineficaces.",
+            "La educación solo debe ser presencial.",
+            "Muchas universidades están ofreciendo cursos en línea para hacer la educación más accesible.",
+            "Los cursos en línea reducen la calidad de la educación."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "The role of artificial intelligence in education is a topic of growing interest and debate.",
+        "choices": [
+            "La inteligencia artificial no tiene lugar en la educación.",
+            "El papel de la inteligencia artificial en la educación es un tema de creciente interés y debate.",
+            "La inteligencia artificial reemplazará a los maestros.",
+            "La inteligencia artificial solo debe usarse en las clases de informática."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "Many educators are emphasizing the importance of developing students' social and emotional skills.",
+        "choices": [
+            "Las habilidades sociales y emocionales son irrelevantes.",
+            "Las escuelas solo deben centrarse en las habilidades académicas.",
+            "Muchos educadores enfatizan la importancia de desarrollar las habilidades sociales y emocionales de los estudiantes.",
+            "Las habilidades sociales y emocionales deben aprenderse en casa."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "The concept of inclusive education is gaining traction in many educational systems.",
+        "choices": [
+            "El concepto de educación inclusiva está ganando terreno en muchos sistemas educativos.",
+            "La educación inclusiva es innecesaria.",
+            "La educación inclusiva solo debe aplicarse en escuelas de educación especial.",
+            "La educación inclusiva reduce la calidad educativa."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 39,
+        "question": "Many schools are implementing project-based learning to enhance student engagement.",
+        "choices": [
+            "El aprendizaje basado en proyectos es ineficaz.",
+            "Muchas escuelas están implementando el aprendizaje basado en proyectos para aumentar la participación de los estudiantes.",
+            "El aprendizaje basado en proyectos es solo para estudiantes avanzados.",
+            "El aprendizaje basado en proyectos lleva mucho tiempo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 40,
+        "question": "The importance of digital literacy in today's education landscape cannot be overstated.",
+        "choices": [
+            "La importancia de la alfabetización digital en el panorama educativo actual no puede ser exagerada.",
+            "La alfabetización digital es innecesaria.",
+            "La alfabetización digital solo es importante en las clases de informática.",
+            "La alfabetización digital hace que los estudiantes dependan de la tecnología."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 41,
+        "question": "Many countries are working to bridge the digital divide in education.",
+        "choices": [
+            "La brecha digital no es un problema.",
+            "La brecha digital solo existe en los países en desarrollo.",
+            "Muchos países están trabajando para cerrar la brecha digital en la educación.",
+            "Cerrar la brecha digital es imposible."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 42,
+        "question": "The role of assessment in education is evolving, with a focus on more formative approaches.",
+        "choices": [
+            "La evaluación es innecesaria en la educación.",
+            "El papel de la evaluación en la educación está evolucionando, con un enfoque en enfoques más formativos.",
+            "Solo los exámenes son importantes.",
+            "La evaluación formativa es ineficaz."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 43,
+        "question": "Many schools are incorporating mindfulness practices to help students manage stress.",
+        "choices": [
+            "Las prácticas de atención plena son innecesarias.",
+            "La gestión del estrés no es responsabilidad de la escuela.",
+            "Muchas escuelas están incorporando prácticas de atención plena para ayudar a los estudiantes a manejar el estrés.",
+            "Las prácticas de atención plena son una pérdida de tiempo."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 44,
+        "question": "The importance of cultural diversity in education is increasingly recognized.",
+        "choices": [
+            "La diversidad cultural es irrelevante en la educación.",
+            "La educación solo debe centrarse en la cultura dominante.",
+            "La diversidad cultural confunde a los estudiantes.",
+            "La importancia de la diversidad cultural en la educación es cada vez más reconocida."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 45,
+        "question": "Many educators are advocating for a more holistic approach to education.",
+        "choices": [
+            "Muchos educadores abogan por un enfoque más holístico de la educación.",
+            "La educación holística es innecesaria.",
+            "La educación solo debe centrarse en temas académicos.",
+            "El enfoque holístico reduce la calidad educativa."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 46,
+        "question": "The concept of personalized learning is gaining traction in many educational systems.",
+        "choices": [
+            "El aprendizaje personalizado es imposible.",
+            "Todos los estudiantes deben aprender de la misma manera.",
+            "El concepto de aprendizaje personalizado está ganando terreno en muchos sistemas educativos.",
+            "El aprendizaje personalizado es muy costoso."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 47,
+        "question": "Many schools are implementing programs to promote global citizenship education.",
+        "choices": [
+            "Muchas escuelas están implementando programas para promover la educación en ciudadanía global.",
+            "La educación en ciudadanía global es innecesaria.",
+            "La educación solo debe centrarse en temas nacionales.",
+            "La educación en ciudadanía global debilita el nacionalismo."
+        ],
+        "correctAnswer": 0
+    }
+]

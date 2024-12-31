@@ -1,0 +1,466 @@
+[
+    {
+        "id": 1,
+        "question": "Scientific research is essential for technological advancement.",
+        "choices": [
+            "Creo que la investigación científica es esencial para el avance tecnológico.",
+            "La investigación científica es innecesaria.",
+            "La investigación científica es solo costosa.",
+            "La investigación científica no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "The scientific method is crucial for conducting experiments.",
+        "choices": [
+            "El método científico es innecesario.",
+            "Creo que el método científico es crucial para realizar experimentos.",
+            "El método científico es solo un concepto teórico.",
+            "El método científico no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "Climate change is a significant global issue.",
+        "choices": [
+            "El cambio climático es una preocupación innecesaria.",
+            "El cambio climático solo es exagerado por los medios.",
+            "Creo que el cambio climático es un problema global significativo.",
+            "El cambio climático no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "question": "Understanding genetics can lead to advancements in medicine.",
+        "choices": [
+            "La genética es innecesaria.",
+            "La genética solo es importante para los científicos.",
+            "El conocimiento genético no es obligatorio.",
+            "Creo que comprender la genética puede llevar a avances en la medicina."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Renewable energy sources are vital for a sustainable future.",
+        "choices": [
+            "La energía renovable es innecesaria.",
+            "La energía renovable es solo una tendencia.",
+            "Creo que las fuentes de energía renovable son vitales para un futuro sostenible.",
+            "La energía renovable no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "Astrobiology explores the possibility of life beyond Earth.",
+        "choices": [
+            "La astrobiología es innecesaria.",
+            "Creo que la astrobiología explora la posibilidad de vida más allá de la Tierra.",
+            "La astrobiología es solo importante para la ciencia ficción.",
+            "La astrobiología no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "The study of ecosystems is important for environmental conservation.",
+        "choices": [
+            "Los ecosistemas son innecesarios.",
+            "Creo que el estudio de los ecosistemas es importante para la conservación del medio ambiente.",
+            "Los ecosistemas son solo un tema académico.",
+            "El estudio de los ecosistemas no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "Advancements in artificial intelligence can improve various industries.",
+        "choices": [
+            "Creo que los avances en inteligencia artificial pueden mejorar diversas industrias.",
+            "La inteligencia artificial es innecesaria.",
+            "La inteligencia artificial solo está relacionada con la tecnología.",
+            "La inteligencia artificial no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "Studying physics helps us understand the universe.",
+        "choices": [
+            "La física es innecesaria.",
+            "La física solo es importante para la ingeniería.",
+            "Creo que estudiar física nos ayuda a entender el universo.",
+            "Estudiar física no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 10,
+        "question": "Biotechnology can offer solutions to food shortages.",
+        "choices": [
+            "La biotecnología es innecesaria.",
+            "Creo que la biotecnología puede ofrecer soluciones a la escasez de alimentos.",
+            "La biotecnología solo es válida en un entorno de laboratorio.",
+            "La biotecnología no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "The discovery of penicillin revolutionized medicine.",
+        "choices": [
+            "La penicilina es innecesaria.",
+            "La penicilina es solo un tratamiento antiguo.",
+            "La penicilina no es obligatoria.",
+            "Creo que el descubrimiento de la penicilina revolucionó la medicina."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 12,
+        "question": "Space exploration expands our knowledge of the universe.",
+        "choices": [
+            "Creo que la exploración espacial expande nuestro conocimiento del universo.",
+            "La exploración espacial es innecesaria.",
+            "La exploración espacial solo es importante para los países ricos.",
+            "La exploración espacial no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "Understanding human anatomy is essential for healthcare professionals.",
+        "choices": [
+            "La anatomía humana es innecesaria.",
+            "La anatomía humana solo es importante para los estudiantes de medicina.",
+            "Creo que comprender la anatomía humana es esencial para los profesionales de la salud.",
+            "La anatomía humana no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "Psychology helps us understand human behavior.",
+        "choices": [
+            "La psicología es innecesaria.",
+            "La psicología solo es importante para los pacientes.",
+            "La psicología no es obligatoria.",
+            "Creo que la psicología nos ayuda a entender el comportamiento humano."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 15,
+        "question": "The study of chemistry is crucial for developing new materials.",
+        "choices": [
+            "La química es innecesaria.",
+            "La química solo es para trabajos de laboratorio.",
+            "La química no es obligatoria.",
+            "Creo que estudiar química es crucial para desarrollar nuevos materiales."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 16,
+        "question": "Marine biology is important for preserving ocean ecosystems.",
+        "choices": [
+            "Creo que la biología marina es importante para preservar los ecosistemas oceánicos.",
+            "La biología marina es innecesaria.",
+            "La biología marina es solo un campo académico.",
+            "La biología marina no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 17,
+        "question": "Sustainable farming practices can reduce environmental impact.",
+        "choices": [
+            "La agricultura sostenible es innecesaria.",
+            "La agricultura sostenible solo es válida para pequeñas granjas.",
+            "Creo que las prácticas agrícolas sostenibles pueden reducir el impacto ambiental.",
+            "La agricultura sostenible no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "Learning about evolution helps us understand biodiversity.",
+        "choices": [
+            "La evolución es innecesaria.",
+            "Creo que aprender sobre la evolución nos ayuda a entender la biodiversidad.",
+            "La evolución es solo un concepto teórico.",
+            "El conocimiento de la evolución no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "Nanotechnology has the potential to revolutionize medicine.",
+        "choices": [
+            "La nanotecnología es innecesaria.",
+            "La nanotecnología solo será importante en el futuro.",
+            "Creo que la nanotecnología tiene el potencial de revolucionar la medicina.",
+            "La nanotecnología no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "Public health initiatives are important for community well-being.",
+        "choices": [
+            "La salud pública es innecesaria.",
+            "Creo que las iniciativas de salud pública son importantes para el bienestar de la comunidad.",
+            "La salud pública solo es importante para los hospitales.",
+            "La salud pública no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "Studying astronomy can inspire future scientists.",
+        "choices": [
+            "La astronomía es innecesaria.",
+            "La astronomía solo es importante para los aficionados.",
+            "La astronomía no es obligatoria.",
+            "Creo que estudiar astronomía puede inspirar a futuros científicos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 22,
+        "question": "Understanding the human genome is key to personalized medicine.",
+        "choices": [
+            "La ciencia del genoma es innecesaria.",
+            "Creo que comprender el genoma humano es clave para la medicina personalizada.",
+            "El conocimiento del genoma solo es importante para la investigación.",
+            "El conocimiento del genoma no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "The impact of pollution on health is a significant concern.",
+        "choices": [
+            "Creo que el impacto de la contaminación en la salud es una preocupación significativa.",
+            "La contaminación es innecesaria.",
+            "La contaminación solo interesa a los ecologistas.",
+            "La contaminación no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "Understanding climate systems is vital for addressing global warming.",
+        "choices": [
+            "Los sistemas climáticos son innecesarios.",
+            "Los sistemas climáticos solo son importantes para los científicos.",
+            "Creo que entender los sistemas climáticos es vital para abordar el calentamiento global.",
+            "Los sistemas climáticos no son obligatorios."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 25,
+        "question": "Forensic science plays a crucial role in criminal investigations.",
+        "choices": [
+            "La ciencia forense es innecesaria.",
+            "Creo que la ciencia forense juega un papel crucial en las investigaciones criminales.",
+            "La ciencia forense solo es para atrapar criminales.",
+            "La ciencia forense no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "The study of anthropology helps us understand human cultures.",
+        "choices": [
+            "La antropología es innecesaria.",
+            "La antropología solo es para restos antiguos.",
+            "La antropología no es obligatoria.",
+            "Creo que el estudio de la antropología nos ayuda a entender las culturas humanas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "Technological advancements have changed the way we communicate.",
+        "choices": [
+            "Creo que los avances tecnológicos han cambiado la forma en que nos comunicamos.",
+            "La tecnología es innecesaria.",
+            "La tecnología solo es importante para los jóvenes.",
+            "La tecnología no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 28,
+        "question": "Mental health awareness is crucial in modern society.",
+        "choices": [
+            "La salud mental es innecesaria.",
+            "La salud mental solo es importante para algunas personas.",
+            "La salud mental no es obligatoria.",
+            "Creo que la concienciación sobre la salud mental es crucial en la sociedad moderna."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 29,
+        "question": "The evolution of technology is accelerating rapidly.",
+        "choices": [
+            "Creo que la evolución de la tecnología está acelerando rápidamente.",
+            "La tecnología es innecesaria.",
+            "La tecnología solo era importante en el pasado.",
+            "La tecnología no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "Ecological research is important for understanding species interactions.",
+        "choices": [
+            "La investigación ecológica es innecesaria.",
+            "La ecología solo es importante para los biólogos.",
+            "Creo que la investigación ecológica es importante para entender las interacciones entre especies.",
+            "La investigación ecológica no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "Robotics is transforming industries and daily life.",
+        "choices": [
+            "La tecnología robótica es innecesaria.",
+            "Creo que la tecnología robótica está transformando las industrias y la vida diaria.",
+            "La tecnología robótica solo es importante para la ingeniería.",
+            "La tecnología robótica no es obligatoria."
+        ],
+        "correctAnswer": 1
+        },
+        {
+        "id": 32,
+        "question": "Environmental policies are necessary for sustainable development.",
+        "choices": [
+            "Las políticas ambientales son innecesarias.",
+            "Las políticas ambientales solo son importantes para los gobiernos.",
+            "Las políticas ambientales no son obligatorias.",
+            "Creo que las políticas ambientales son necesarias para el desarrollo sostenible."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "The study of meteorology helps us predict weather patterns.",
+        "choices": [
+            "Creo que el estudio de la meteorología nos ayuda a predecir los patrones climáticos.",
+            "La meteorología es innecesaria.",
+            "La meteorología solo es un campo académico.",
+            "La meteorología no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 34,
+        "question": "Quantum physics challenges our understanding of reality.",
+        "choices": [
+            "La física cuántica es innecesaria.",
+            "La física cuántica es solo una teoría compleja.",
+            "Creo que la física cuántica desafía nuestra comprensión de la realidad.",
+            "La física cuántica no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "Scientific literacy is essential for informed decision-making.",
+        "choices": [
+            "La alfabetización científica es innecesaria.",
+            "Creo que la alfabetización científica es esencial para tomar decisiones informadas.",
+            "La alfabetización científica es solo una habilidad académica.",
+            "La alfabetización científica no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "question": "Genetic engineering has the potential to improve crop yields.",
+        "choices": [
+            "La ingeniería genética es innecesaria.",
+            "La ingeniería genética solo es válida en laboratorios.",
+            "Creo que la ingeniería genética tiene el potencial de mejorar los rendimientos de los cultivos.",
+            "La ingeniería genética no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 37,
+        "question": "Artificial intelligence can enhance healthcare efficiency.",
+        "choices": [
+            "Creo que la inteligencia artificial puede mejorar la eficiencia de la atención médica.",
+            "La inteligencia artificial es innecesaria.",
+            "La inteligencia artificial solo pertenece a la tecnología.",
+            "La inteligencia artificial no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 38,
+        "question": "The impact of deforestation on biodiversity is alarming.",
+        "choices": [
+            "La deforestación es innecesaria y tiene un impacto alarmante en la biodiversidad.",
+            "Creo que el impacto de la deforestación en la biodiversidad es alarmante.",
+            "La deforestación es solo un problema local.",
+            "La deforestación no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 39,
+        "question": "Science communication is important for public understanding.",
+        "choices": [
+            "Creo que la comunicación científica es importante para la comprensión pública.",
+            "La comunicación científica es innecesaria.",
+            "La comunicación científica es solo para los científicos.",
+            "La comunicación científica no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 40,
+        "question": "Psychological research helps improve mental health treatments.",
+        "choices": [
+            "La investigación psicológica es innecesaria.",
+            "La investigación psicológica es solo un campo académico.",
+            "Creo que la investigación psicológica ayuda a mejorar los tratamientos de salud mental.",
+            "La investigación psicológica no es obligatoria."
+        
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 41,
+        "question": "Geology is essential for understanding Earth's processes.",
+        "choices": [
+            "La geología es innecesaria.",
+            "Creo que la geología es esencial para comprender los procesos de la Tierra.",
+            "La geología es solo un campo académico.",
+            "La geología no es obligatoria."
+        
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 42,
+        "question": "The role of science in society cannot be underestimated.",
+        "choices": [
+            "La ciencia es innecesaria.",
+            "La ciencia solo es importante para un grupo específico.",
+            "La ciencia no es obligatoria.",
+            "Creo que el papel de la ciencia en la sociedad no puede ser subestimado."
+        ],
+        "correctAnswer": 3
+    }
+]

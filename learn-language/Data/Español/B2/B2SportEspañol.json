@@ -1,0 +1,406 @@
+[
+    {
+        "id": 1,
+        "question": "Regular exercise contributes to overall physical health.",
+        "choices": [
+            "Creo que el ejercicio regular contribuye a la salud física en general.",
+            "El ejercicio regular es innecesario.",
+            "El ejercicio regular solo es importante para los atletas.",
+            "El ejercicio regular no es obligatorio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Team sports promote social interaction and teamwork.",
+        "choices": [
+            "Los deportes de equipo son innecesarios.",
+            "Los deportes de equipo solo son importantes para los jóvenes.",
+            "Creo que los deportes de equipo fomentan la interacción social y el trabajo en equipo.",
+            "Los deportes de equipo no son obligatorios."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "Athletic competitions inspire people to achieve their best.",
+        "choices": [
+            "Las competiciones deportivas son innecesarias.",
+            "Creo que las competiciones deportivas inspiran a las personas a lograr lo mejor de sí mismas.",
+            "Las competiciones deportivas solo están dirigidas a profesionales.",
+            "Las competiciones deportivas no son obligatorias."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "Physical fitness is essential for a healthy lifestyle.",
+        "choices": [
+            "La aptitud física es innecesaria.",
+            "La aptitud física solo es importante para los jóvenes.",
+            "La aptitud física no es obligatoria.",
+            "Creo que la aptitud física es esencial para un estilo de vida saludable."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Participating in sports can improve mental well-being.",
+        "choices": [
+            "Creo que participar en deportes puede mejorar el bienestar mental.",
+            "Participar en deportes es innecesario.",
+            "Participar en deportes solo es importante para la salud física.",
+            "Participar en deportes no es obligatorio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 6,
+        "question": "Learning new sports skills can boost self-confidence.",
+        "choices": [
+            "Aprender nuevas habilidades deportivas es innecesario.",
+            "Las habilidades deportivas solo están dirigidas a profesionales.",
+            "Creo que aprender nuevas habilidades deportivas puede aumentar la confianza en uno mismo.",
+            "Las habilidades deportivas no son obligatorias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 7,
+        "question": "Yoga and meditation are beneficial for physical and mental health.",
+        "choices": [
+            "El yoga y la meditación son innecesarios.",
+            "Creo que el yoga y la meditación son beneficiosos para la salud física y mental.",
+            "El yoga y la meditación son solo para relajarse.",
+            "El yoga y la meditación no son obligatorios."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "Nutrition plays a crucial role in athletic performance.",
+        "choices": [
+            "La nutrición es innecesaria.",
+            "Creo que la nutrición juega un papel crucial en el rendimiento atlético.",
+            "La nutrición solo es importante para los que hacen dieta.",
+            "La nutrición no es obligatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "question": "Sports help develop discipline and time management skills.",
+        "choices": [
+            "Creo que el deporte ayuda a desarrollar la disciplina y las habilidades de gestión del tiempo.",
+            "El deporte es innecesario.",
+            "El deporte solo es importante para los jóvenes.",
+            "El deporte no es obligatorio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "Outdoor activities encourage appreciation for nature.",
+        "choices": [
+            "Creo que las actividades al aire libre fomentan la apreciación por la naturaleza.",
+            "Las actividades al aire libre son innecesarias.",
+            "Las actividades al aire libre son solo para el entretenimiento.",
+            "Las actividades al aire libre no son obligatorias."
+        
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 11,
+        "question": "Regular sports participation can reduce stress levels.",
+        "choices": [
+            "El deporte regular es innecesario.",
+            "La participación en deportes solo es importante para la salud física.",
+            "La participación en deportes no es obligatoria.",
+            "Creo que la participación regular en deportes puede reducir los niveles de estrés."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 12,
+        "question": "Watching sports can foster community spirit.",
+        "choices": [
+            "Ver deportes es innecesario.",
+            "Creo que ver deportes puede fomentar el espíritu comunitario.",
+            "Ver deportes solo es importante para los fanáticos.",
+            "Ver deportes no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "Individual sports teach self-reliance and personal responsibility.",
+        "choices": [
+            "Los deportes individuales son innecesarios.",
+            "Los deportes individuales solo son importantes para algunas personas.",
+            "Creo que los deportes individuales enseñan autosuficiencia y responsabilidad personal.",
+            "Los deportes individuales no son obligatorios."
+        
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "Competitive sports can improve focus and concentration.",
+        "choices": [
+            "Los deportes competitivos son innecesarios.",
+            "Los deportes competitivos solo son importantes para los profesionales.",
+            "Los deportes competitivos no son obligatorios.",
+            "Creo que los deportes competitivos pueden mejorar el enfoque y la concentración."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 15,
+        "question": "Swimming is an effective full-body workout.",
+        "choices": [
+            "Creo que nadar es un ejercicio completo y efectivo para todo el cuerpo.",
+            "Nadar es innecesario.",
+            "Nadar solo se hace en verano.",
+            "Nadar no es obligatorio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "Martial arts promote self-discipline and respect.",
+        "choices": [
+            "Las artes marciales son innecesarias.",
+            "Las artes marciales solo son importantes para la defensa.",
+            "Creo que las artes marciales promueven la autodisciplina y el respeto.",
+            "Las artes marciales no son obligatorias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "Cycling is an environmentally friendly mode of transportation.",
+        "choices": [
+            "Andar en bicicleta es innecesario.",
+            "Creo que andar en bicicleta es un modo de transporte amigable con el medio ambiente.",
+            "Andar en bicicleta es solo para entretenimiento.",
+            "Andar en bicicleta no es obligatorio."
+        
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "question": "Sports can enhance one's ability to work under pressure.",
+        "choices": [
+            "Creo que el deporte puede mejorar la capacidad de trabajar bajo presión.",
+            "El deporte es innecesario.",
+            "El deporte solo es importante para los jóvenes.",
+            "El deporte no es obligatorio."
+        
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 19,
+        "question": "Participating in sports can create lasting friendships.",
+        "choices": [
+            "La participación en deportes es innecesaria.",
+            "El deporte solo es para hacer amigos.",
+            "Creo que la participación en deportes puede crear amistades duraderas.",
+            "La participación en deportes no es obligatoria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "Fitness trends influence people's workout routines.",
+        "choices": [
+            "Las tendencias de fitness son innecesarias.",
+            "Creo que las tendencias de fitness influyen en las rutinas de ejercicio de las personas.",
+            "Las tendencias de fitness solo son importantes para los jóvenes.",
+            "Las tendencias de fitness no son obligatorias."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "Sports medicine is essential for athlete care.",
+        "choices": [
+            "La medicina deportiva es innecesaria.",
+            "La medicina deportiva solo está dirigida a profesionales.",
+            "La medicina deportiva no es obligatoria.",
+            "Creo que la medicina deportiva es esencial para el cuidado de los atletas."
+        
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 22,
+        "question": "Dance is a form of exercise that combines fitness and art.",
+        "choices": [
+            "Creo que la danza es una forma de ejercicio que combina el fitness y el arte.",
+            "La danza es innecesaria.",
+            "La danza es solo para entretenimiento.",
+            "La danza no es obligatoria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 23,
+        "question": "Sports can be a powerful tool for social change.",
+        "choices": [
+            "El deporte es innecesario.",
+            "El deporte es solo para entretenimiento.",
+            "Creo que el deporte puede ser una herramienta poderosa para el cambio social.",
+            "El deporte no es obligatorio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "Fitness challenges can motivate people to stay active.",
+        "choices": [
+            "Creo que los desafíos de fitness pueden motivar a las personas a mantenerse activas.",
+            "Los desafíos de fitness son innecesarios.",
+            "Los desafíos de fitness solo son importantes para los jóvenes.",
+            "Los desafíos de fitness no son obligatorios."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "Sports can improve community health overall.",
+        "choices": [
+            "El deporte es esencial para la salud.",
+            "Creo que el deporte puede mejorar la salud de la comunidad en general.",
+            "El deporte solo es importante para algunas personas.",
+            "El deporte no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "Running is a popular way to stay fit.",
+        "choices": [
+            "Correr es innecesario.",
+            "Correr solo es importante para los atletas.",
+            "Correr no es obligatorio.",
+            "Creo que correr es una forma popular de mantenerse en forma."
+        
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "Playing sports can boost academic performance.",
+        "choices": [
+            "Jugar deportes es innecesario.",
+            "Creo que jugar deportes puede mejorar el rendimiento académico.",
+            "Jugar deportes es solo para entretenimiento.",
+            "Jugar deportes no es obligatorio."
+        
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "Motivational speakers can inspire athletes to achieve greatness.",
+        "choices": [
+            "Las charlas motivacionales son innecesarias.",
+            "Las charlas motivacionales solo son para profesionales.",
+            "Creo que los oradores motivacionales pueden inspirar a los atletas a lograr grandeza.",
+            "Las charlas motivacionales no son obligatorias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "Being part of a team fosters a sense of belonging.",
+        "choices": [
+            "Ser parte de un equipo es innecesario.",
+            "Creo que ser parte de un equipo fomenta un sentido de pertenencia.",
+            "Ser parte de un equipo solo es importante para algunas personas.",
+            "Ser parte de un equipo no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "Fitness apps can help track progress and stay motivated.",
+        "choices": [
+            "Las aplicaciones de fitness son innecesarias.",
+            "Las aplicaciones de fitness solo son para profesionales.",
+            "Creo que las aplicaciones de fitness pueden ayudar a seguir el progreso y mantenerse motivado.",
+            "Las aplicaciones de fitness no son obligatorias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "Outdoor sports can enhance appreciation for the environment.",
+        "choices": [
+            "Los deportes al aire libre son innecesarios.",
+            "Creo que los deportes al aire libre pueden aumentar la apreciación por el medio ambiente.",
+            "Los deportes al aire libre son solo para entretenimiento.",
+            "Los deportes al aire libre no son obligatorios."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 32,
+        "question": "Personal trainers can provide guidance and accountability.",
+        "choices": [
+            "Los entrenadores personales son innecesarios.",
+            "Los entrenadores personales solo son importantes para los ricos.",
+            "Los entrenadores personales no son obligatorios.",
+            "Creo que los entrenadores personales pueden proporcionar orientación y responsabilidad."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "Sports can teach valuable life lessons.",
+        "choices": [
+            "El deporte es innecesario.",
+            "Creo que el deporte puede enseñar valiosas lecciones de vida.",
+            "El deporte es solo para entretenimiento.",
+            "El deporte no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "Community sports programs can bring people together.",
+        "choices": [
+            "Los deportes comunitarios son innecesarios.",
+            "Los deportes comunitarios solo son importantes para los jóvenes.",
+            "Creo que los programas deportivos comunitarios pueden unir a las personas.",
+            "Los deportes comunitarios no son obligatorios."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "Sports can enhance cognitive skills such as problem-solving.",
+        "choices": [
+            "El deporte es innecesario.",
+            "Creo que el deporte puede mejorar habilidades cognitivas como la resolución de problemas.",
+            "El deporte es solo para la salud física.",
+            "El deporte no es obligatorio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "question": "Fitness challenges can build resilience and determination.",
+        "choices": [
+            "Creo que los desafíos de fitness pueden desarrollar la resiliencia y la determinación.",
+            "Los desafíos de fitness son innecesarios.",
+            "Los desafíos de fitness solo son importantes para los jóvenes.",
+            "Los desafíos de fitness no son obligatorios."
+        ],
+        "correctAnswer": 0
+    }
+]
+ 
