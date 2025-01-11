@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "question": "My mother cooks dinner every night.",
+        "choices": [
+            "Mi madre lee un libro todas las noches.",
+            "Mi madre cocina todas las noches.",
+            "Mi madre mira la televisión todas las noches.",
+            "Mi madre duerme todas las noches."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "My father drives me to school.",
+        "choices": [
+            "Mi padre me lleva al parque.",
+            "Mi padre me lleva de compras.",
+            "Mi padre me lleva a la biblioteca.",
+            "Mi padre me lleva a la escuela."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 3,
+        "question": "My sister is a student.",
+        "choices": [
+            "Mi hermana es profesora.",
+            "Mi hermana es doctora.",
+            "Mi hermana es estudiante.",
+            "Mi hermana es enfermera."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "question": "My brother plays football.",
+        "choices": [
+            "Mi hermano juega baloncesto.",
+            "Mi hermano juega fútbol.",
+            "Mi hermano juega tenis.",
+            "Mi hermano juega voleibol."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "We eat dinner together.",
+        "choices": [
+            "Desayunamos juntos.",
+            "Almorzamos juntos.",
+            "Cenamos juntos.",
+            "Comemos el postre juntos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "My grandfather tells stories.",
+        "choices": [
+            "Mi abuelo cuenta historias.",
+            "Mi abuelo canta canciones.",
+            "Mi abuelo dibuja.",
+            "Mi abuelo juega juegos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "My cousin is younger than me.",
+        "choices": [
+            "Mi primo es mayor que yo.",
+            "Mi primo es menor que yo.",
+            "Mi primo tiene la misma edad que yo.",
+            "Mi primo nunca crece."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "We visit our grandparents on weekends.",
+        "choices": [
+            "Visitamos a nuestros abuelos entre semana.",
+            "Visitamos a nuestros abuelos los fines de semana.",
+            "Visitamos a nuestros abuelos en vacaciones.",
+            "Visitamos a nuestros abuelos todos los días."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "question": "I love my family very much.",
+        "choices": [
+            "Quiero mucho a mis amigos.",
+            "Quiero mucho a mis vecinos.",
+            "Quiero mucho a mi familia.",
+            "Quiero mucho a mis profesores."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 10,
+        "question": "My uncle works in a big company.",
+        "choices": [
+            "Mi tío trabaja en una empresa pequeña.",
+            "Mi tío trabaja en una empresa grande.",
+            "Mi tío trabaja en escuelas.",
+            "Mi tío trabaja en una fábrica."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "My father works as a doctor.",
+        "choices": [
+            "Mi padre trabaja como profesor.",
+            "Mi padre trabaja como ingeniero.",
+            "Mi padre trabaja como abogado.",
+            "Mi padre trabaja como doctor."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 12,
+        "question": "My sister goes to high school.",
+        "choices": [
+            "Mi hermana va a la preparatoria.",
+            "Mi hermana va a la primaria.",
+            "Mi hermana va a la universidad.",
+            "Mi hermana va al jardín de niños."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "My mother loves cooking.",
+        "choices": [
+            "A mi madre le gusta leer.",
+            "A mi madre le gusta hacer ejercicio.",
+            "A mi madre le gusta cocinar.",
+            "A mi madre le gusta escuchar música."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "My parents are very kind.",
+        "choices": [
+            "Mis padres son muy estrictos.",
+            "Mis padres son muy amables.",
+            "Mis padres son muy callados.",
+            "Mis padres son muy enojones."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "I have two brothers.",
+        "choices": [
+            "Tengo dos hermanas.",
+            "Tengo un hermano.",
+            "Tengo dos hermanos.",
+            "No tengo hermanos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 16,
+        "question": "My grandmother tells great stories.",
+        "choices": [
+            "Mi abuela cuenta historias maravillosas.",
+            "Mi abuela cocina platos maravillosos.",
+            "Mi abuela canta muy bien.",
+            "Mi abuela baila muy bien."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 17,
+        "question": "We visit our cousins every summer.",
+        "choices": [
+            "Visitamos a nuestros primos cada invierno.",
+            "Visitamos a nuestros primos cada verano.",
+            "Visitamos a nuestros primos cada otoño.",
+            "Visitamos a nuestros primos cada primavera."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "question": "My uncle lives in another city.",
+        "choices": [
+            "Mi tío vive con nosotros.",
+            "Mi tío vive en el pueblo.",
+            "Mi tío vive en el extranjero.",
+            "Mi tío vive en otra ciudad."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 19,
+        "question": "My aunt has a small dog.",
+        "choices": [
+            "Mi tía tiene un gato grande.",
+            "Mi tía tiene un perro pequeño.",
+            "Mi tía tiene un pájaro pequeño.",
+            "Mi tía tiene un perro grande."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "My family loves to travel.",
+        "choices": [
+            "A mi familia le encanta viajar.",
+            "A mi familia le encanta quedarse en casa.",
+            "A mi familia le encanta ver películas.",
+            "A mi familia le encanta pasar tiempo en el jardín."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "My cousin plays the guitar.",
+        "choices": [
+            "Mi primo toca el piano.",
+            "Mi primo toca el violín.",
+            "Mi primo toca la guitarra.",
+            "Mi primo toca la batería."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "My brother is very tall.",
+        "choices": [
+            "Mi hermano es muy bajo.",
+            "Mi hermano es muy alto.",
+            "Mi hermano es muy delgado.",
+            "Mi hermano es muy fuerte."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "My sister is good at math.",
+        "choices": [
+            "Mi hermana es buena en arte.",
+            "Mi hermana es buena en deportes.",
+            "Mi hermana es buena en música.",
+            "Mi hermana es buena en matemáticas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 24,
+        "question": "My mother speaks three languages.",
+        "choices": [
+            "Mi madre habla dos idiomas.",
+            "Mi madre habla cuatro idiomas.",
+            "Mi madre habla tres idiomas.",
+            "Mi madre habla cinco idiomas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 25,
+        "question": "My father reads the newspaper every morning.",
+        "choices": [
+            "Mi padre lee un libro cada mañana.",
+            "Mi padre lee el periódico cada mañana.",
+            "Mi padre lee revistas cada mañana.",
+            "Mi padre mira las noticias cada mañana."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "My grandparents live in a small house.",
+        "choices": [
+            "Mis abuelos viven en una casa grande.",
+            "Mis abuelos viven en un apartamento.",
+            "Mis abuelos viven en el pueblo.",
+            "Mis abuelos viven en una casa pequeña."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "My cousin is in the same school as me.",
+        "choices": [
+            "Mi primo está en otra escuela.",
+            "Mi primo está en la misma escuela que yo.",
+            "Mi primo está en la universidad.",
+            "Mi primo está en la preparatoria."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "My aunt loves to bake cookies.",
+        "choices": [
+            "A mi tía le gusta hacer pasteles.",
+            "A mi tía le gusta hacer pan.",
+            "A mi tía le gusta hacer galletas.",
+            "A mi tía le gusta hacer bizcochos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "My uncle is a very good cook.",
+        "choices": [
+            "Mi tío es muy buen profesor.",
+            "Mi tío es muy buen cocinero.",
+            "Mi tío es muy buen doctor.",
+            "Mi tío es muy buen ingeniero."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "My father loves watching football.",
+        "choices": [
+            "A mi padre le gusta ver fútbol.",
+            "A mi padre le gusta ver baloncesto.",
+            "A mi padre le gusta ver voleibol.",
+            "A mi padre le gusta ver tenis."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 31,
+        "question": "My sister likes to paint pictures.",
+        "choices": [
+            "A mi hermana le gusta escribir.",
+            "A mi hermana le gusta escuchar música.",
+            "A mi hermana le gusta cocinar.",
+            "A mi hermana le gusta pintar."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 32,
+        "question": "My parents are very supportive.",
+        "choices": [
+            "Mis padres son muy estrictos.",
+            "Mis padres son muy callados.",
+            "Mis padres son muy comprensivos.",
+            "Mis padres son muy preocupados."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "My cousin is very funny.",
+        "choices": [
+            "Mi primo es muy serio.",
+            "Mi primo es muy gracioso.",
+            "Mi primo es muy callado.",
+            "Mi primo es muy tímido."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "We always celebrate birthdays together.",
+        "choices": [
+            "Siempre celebramos los cumpleaños juntos.",
+            "Siempre celebramos los cumpleaños solos.",
+            "Siempre celebramos los cumpleaños fuera.",
+            "Nunca celebramos los cumpleaños."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 35,
+        "question": "My grandfather loves gardening.",
+        "choices": [
+            "A mi abuelo le gusta leer.",
+            "A mi abuelo le gusta ver televisión.",
+            "A mi abuelo le gusta la jardinería.",
+            "A mi abuelo le gusta caminar."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "My brother plays basketball on the weekends.",
+        "choices": [
+            "Mi hermano juega fútbol los fines de semana.",
+            "Mi hermano juega baloncesto los fines de semana.",
+            "Mi hermano juega tenis los fines de semana.",
+            "Mi hermano juega ajedrez los fines de semana."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "My cousin is very creative.",
+        "choices": [
+            "Mi primo es muy trabajador.",
+            "Mi primo es muy tranquilo.",
+            "Mi primo es muy creativo.",
+            "Mi primo es muy rápido."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "My aunt loves animals.",
+        "choices": [
+            "A mi tía le encanta el mar.",
+            "A mi tía le encantan los animales.",
+            "A mi tía le encantan las ciudades.",
+            "A mi tía le encantan los coches."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 39,
+        "question": "My sister wants to be a doctor.",
+        "choices": [
+            "Mi hermana quiere ser doctora.",
+            "Mi hermana quiere ser profesora.",
+            "Mi hermana quiere ser ingeniera.",
+            "Mi hermana quiere ser abogada."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 40,
+        "question": "My parents love classical music.",
+        "choices": [
+            "A mis padres les encanta la música pop.",
+            "A mis padres les encanta la música rock.",
+            "A mis padres les encanta el jazz.",
+            "A mis padres les encanta la música clásica."
+        ],
+        "correctAnswer": 3
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "question": "School is a place for learning.",
+        "choices": [
+            "La escuela es un lugar para aprender.",
+            "La escuela es solo para jugar.",
+            "La escuela solo existe para comer.",
+            "La escuela es solo para hacer compras."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Teachers help students.",
+        "choices": [
+            "Los maestros ayudan a los estudiantes.",
+            "Los maestros solo leen libros.",
+            "Los maestros no educan a los estudiantes.",
+            "Los maestros solo imparten lecciones."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "question": "Students study different subjects.",
+        "choices": [
+            "Los estudiantes estudian diferentes materias.",
+            "Los estudiantes solo estudian una materia.",
+            "Los estudiantes no estudian.",
+            "Los estudiantes solo juegan."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 4,
+        "question": "Homework is assigned to students.",
+        "choices": [
+            "La tarea se asigna a los estudiantes.",
+            "La tarea es solo para los maestros.",
+            "La tarea solo existe en los exámenes.",
+            "La tarea no se asigna a nadie."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 5,
+        "question": "Books are important for education.",
+        "choices": [
+            "Los libros son importantes para la educación.",
+            "Los libros son solo para entretenimiento.",
+            "Los libros no se usan solo en la escuela.",
+            "Los libros solo existen para escribir."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 6,
+        "question": "Students can ask questions in class.",
+        "choices": [
+            "Los estudiantes pueden hacer preguntas en clase.",
+            "Los estudiantes no pueden hablar en clase.",
+            "Los estudiantes solo escuchan a los maestros.",
+            "Los estudiantes juegan en clase."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "Tests evaluate students' knowledge.",
+        "choices": [
+            "Los exámenes evalúan el conocimiento de los estudiantes.",
+            "Los exámenes son solo para entretenimiento.",
+            "Los exámenes son para los maestros.",
+            "Los exámenes son solo para leer libros."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "Graduation is an important event.",
+        "choices": [
+            "La graduación es un evento importante.",
+            "La graduación es solo un descanso.",
+            "La graduación es solo para los maestros.",
+            "La graduación no es importante para nadie."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "Students learn new things every day.",
+        "choices": [
+            "Los estudiantes aprenden cosas nuevas cada día.",
+            "Los estudiantes solo recuerdan conocimientos antiguos.",
+            "Los estudiantes no aprenden.",
+            "Los estudiantes solo juegan."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "Group work helps students cooperate.",
+        "choices": [
+            "El trabajo en grupo enseña a los estudiantes a cooperar.",
+            "El trabajo en grupo es solo para los maestros.",
+            "El trabajo en grupo es solo extracurricular.",
+            "El trabajo en grupo no es importante."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 11,
+        "question": "Learning a new language is useful.",
+        "choices": [
+            "Aprender un nuevo idioma es útil.",
+            "Aprender un nuevo idioma es innecesario.",
+            "Aprender un nuevo idioma es solo difícil.",
+            "Aprender un nuevo idioma es una pérdida de tiempo."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "Field trips provide real-world experiences.",
+        "choices": [
+            "Las excursiones ofrecen experiencias del mundo real.",
+            "Las excursiones son solo para jugar.",
+            "Las excursiones son solo para los maestros.",
+            "Las excursiones no son divertidas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "Education helps build a better future.",
+        "choices": [
+            "La educación ayuda a construir un futuro mejor.",
+            "La educación es innecesaria.",
+            "La educación es solo divertida.",
+            "La educación es solo una pérdida de tiempo."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 14,
+        "question": "Students can join clubs to explore interests.",
+        "choices": [
+            "Los estudiantes pueden unirse a clubes para explorar intereses.",
+            "Los estudiantes no pueden unirse a clubes.",
+            "Los estudiantes solo asisten a clases.",
+            "Los estudiantes no gustan de los clubes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "Education is a lifelong process.",
+        "choices": [
+            "La educación es un proceso que dura toda la vida.",
+            "La educación solo ocurre en la escuela.",
+            "La educación es solo para jóvenes.",
+            "La educación es innecesaria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "A good study environment is important.",
+        "choices": [
+            "Un buen ambiente de estudio es importante.",
+            "El ambiente de estudio no es importante.",
+            "Estudiar solo ocurre mientras duermes.",
+            "Estudiar solo es posible en lugares ruidosos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 17,
+        "question": "Online courses are becoming popular.",
+        "choices": [
+            "Los cursos en línea se están volviendo populares.",
+            "Los cursos en línea son solo para los maestros.",
+            "Los cursos en línea no son difíciles.",
+            "Los cursos en línea son innecesarios."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 18,
+        "question": "Science teaches us about the world.",
+        "choices": [
+            "La ciencia nos enseña sobre el mundo.",
+            "La ciencia solo se ocupa de las matemáticas.",
+            "La ciencia es solo para la clase de historia.",
+            "La ciencia es innecesaria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 19,
+        "question": "Mathematics helps us solve problems.",
+        "choices": [
+            "Las matemáticas nos ayudan a resolver problemas.",
+            "Las matemáticas solo son divertidas.",
+            "En matemáticas solo se juegan juegos.",
+            "Las matemáticas son innecesarias."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 20,
+        "question": "Reading improves language skills.",
+        "choices": [
+            "Leer mejora las habilidades lingüísticas.",
+            "Leer solo es divertido.",
+            "Leer es solo para estudiar.",
+            "Leer es innecesario."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "Writing helps express thoughts.",
+        "choices": [
+            "Escribir ayuda a expresar pensamientos.",
+            "Escribir solo es necesario para la escuela.",
+            "Escribir solo es divertido.",
+            "Escribir es innecesario."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "Physical education keeps us healthy.",
+        "choices": [
+            "La educación física nos mantiene saludables.",
+            "La educación física es solo para jugar.",
+            "La educación física es innecesaria.",
+            "La educación física es solo para los maestros."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 23,
+        "question": "Art encourages creativity.",
+        "choices": [
+            "El arte fomenta la creatividad.",
+            "El arte es innecesario.",
+            "El arte es solo para entretenimiento.",
+            "El arte es solo para la clase de historia."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "History teaches us about the past.",
+        "choices": [
+            "La historia nos enseña sobre el pasado.",
+            "La historia solo es divertida.",
+            "La historia es solo para clases.",
+            "La historia es innecesaria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "Education opens doors to opportunities.",
+        "choices": [
+            "La educación abre puertas a oportunidades.",
+            "La educación es solo para jugar.",
+            "La educación es solo para niños.",
+            "La educación es innecesaria."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 26,
+        "question": "Listening to lectures is important for learning.",
+        "choices": [
+            "Escuchar conferencias es importante para aprender.",
+            "Escuchar conferencias es innecesario.",
+            "Escuchar conferencias es solo divertido.",
+            "Escuchar conferencias es solo para los maestros."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 27,
+        "question": "Students can use computers for research.",
+        "choices": [
+            "Los estudiantes pueden usar computadoras para investigar.",
+            "Los estudiantes no pueden usar computadoras.",
+            "Los estudiantes solo juegan.",
+            "Los estudiantes no gustan de las computadoras."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 28,
+        "question": "Education includes practical experiences.",
+        "choices": [
+            "La educación incluye experiencias prácticas.",
+            "La educación es solo leer libros.",
+            "La educación es innecesaria.",
+            "La educación es solo divertida."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "Learning about cultures is important.",
+        "choices": [
+            "Aprender sobre culturas es importante.",
+            "Las culturas son innecesarias.",
+            "Las culturas son solo para entretenimiento.",
+            "Las culturas son solo para la clase de historia."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "Studying hard leads to good grades.",
+        "choices": [
+            "Estudiar duro te lleva a buenas calificaciones.",
+            "Estudiar es innecesario.",
+            "Estudiar duro es solo divertido.",
+            "Estudiar es solo para jugar."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 31,
+        "question": "Education helps us understand the world better.",
+        "choices": [
+            "La educación nos ayuda a entender mejor el mundo.",
+            "La educación es innecesaria.",
+            "La educación es solo para entretenimiento.",
+            "La educación es solo para la clase de historia."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 32,
+        "question": "Learning can be fun.",
+        "choices": [
+            "Aprender puede ser divertido.",
+            "Aprender solo es difícil.",
+            "Aprender es innecesario.",
+            "Aprender es solo para jugar."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 33,
+        "question": "Teachers inspire their students.",
+        "choices": [
+            "Los maestros inspiran a sus estudiantes.",
+            "Los maestros solo imparten lecciones.",
+            "Los maestros son innecesarios.",
+            "Los maestros solo son divertidos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 34,
+        "question": "Discipline is important in education.",
+        "choices": [
+            "La disciplina es importante en la educación.",
+            "La disciplina es innecesaria.",
+            "La disciplina es solo para entretenimiento.",
+            "La disciplina es solo para los maestros."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 35,
+        "question": "Participating in discussions enhances learning.",
+        "choices": [
+            "Participar en discusiones mejora el aprendizaje.",
+            "Discutir solo es divertido.",
+            "Discutir es innecesario.",
+            "Discutir es solo para los maestros."
+        ],
+        "correctAnswer": 0
+    }
+]

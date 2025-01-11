@@ -1,0 +1,420 @@
+[
+    {
+        "id": 1,
+        "question": "I have one brother and one sister.",
+        "choices": [
+            "No tengo hermanos.",
+            "Solo tengo un hermano.",
+            "Tengo un hermano y una hermana.",
+            "Tengo una hermana."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "question": "My mother is a teacher.",
+        "choices": [
+            "Mi madre es profesora.",
+            "Mi padre es profesor.",
+            "Mi hermano es profesor.",
+            "Mi hermana mayor es abogada."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "question": "My father likes to cook.",
+        "choices": [
+            "A mi madre no le gusta cocinar.",
+            "A mi padre le gusta cocinar.",
+            "Yo no cocino.",
+            "Mi hermano es chef."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "We have a big family gathering every year.",
+        "choices": [
+            "No hacemos reuniones familiares.",
+            "Solo me reúno con mis amigos.",
+            "Tenemos una gran reunión familiar cada año.",
+            "Tengo una familia pequeña."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "My grandparents live in another city.",
+        "choices": [
+            "Mis abuelos viven aquí.",
+            "Solo mi madre está aquí.",
+            "Toda mi familia está aquí.",
+            "Mis abuelos viven en otra ciudad."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 6,
+        "question": "I often visit my relatives.",
+        "choices": [
+            "No visito a mis parientes.",
+            "A menudo visito a mis parientes.",
+            "Solo visito a mis amigos.",
+            "No visito a nadie."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "My sister is very good at math.",
+        "choices": [
+            "Mi hermana es muy buena en matemáticas.",
+            "A mi hermana no le gustan las matemáticas.",
+            "Mi hermano dibuja.",
+            "Soy bueno en matemáticas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "We celebrate birthdays together.",
+        "choices": [
+            "Solo celebro mi cumpleaños.",
+            "No hacemos celebraciones.",
+            "No celebro con mi familia.",
+            "Celebramos los cumpleaños juntos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "My mother has a dog.",
+        "choices": [
+            "Tengo un gato.",
+            "A mi padre no le gustan los animales.",
+            "Mi madre tiene un perro.",
+            "Mi hermano no quiere un perro."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 10,
+        "question": "I love spending time with my family.",
+        "choices": [
+            "No quiero a mi familia.",
+            "Me encanta pasar tiempo con mi familia.",
+            "Prefiero pasar tiempo solo.",
+            "Solo paso tiempo con mis amigos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "We go on family vacations every summer.",
+        "choices": [
+            "No voy de vacaciones.",
+            "Solo voy de vacaciones con mis amigos.",
+            "Vamos de vacaciones familiares todos los veranos.",
+            "No hago vacaciones con mi familia."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "My father works in an office.",
+        "choices": [
+            "Mi madre es ama de casa.",
+            "Mi padre trabaja en una oficina.",
+            "Mi hermano es estudiante.",
+            "Mi familia no tiene empleo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "My brother loves playing video games.",
+        "choices": [
+            "A mi hermano no le gustan los videojuegos.",
+            "A mi hermano le encanta jugar videojuegos.",
+            "No me gustan los videojuegos.",
+            "Solo juega deportes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "We have dinner together every evening.",
+        "choices": [
+            "No ceno.",
+            "Solo desayunamos juntos.",
+            "Cenamos juntos todas las noches.",
+            "No me gustan las cenas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "question": "My aunt has three children.",
+        "choices": [
+            "Tengo todos los hijos.",
+            "Mi tía tiene tres hijos.",
+            "Solo tengo un hijo.",
+            "No tengo hermana."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "question": "We watch movies as a family on weekends.",
+        "choices": [
+            "Solo voy al cine.",
+            "No veo películas.",
+            "Mi familia no quiere ver películas.",
+            "Vemos películas en familia los fines de semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 17,
+        "question": "My grandmother tells great stories.",
+        "choices": [
+            "Mi abuelo no cuenta historias.",
+            "Mi madre cuenta historias.",
+            "Mi abuela cuenta historias geniales.",
+            "No escribo historias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "My family has a garden.",
+        "choices": [
+            "No tengo un jardín.",
+            "Mi familia tiene un jardín.",
+            "Solo tengo flores.",
+            "No me interesa el jardín."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "I enjoy family game nights.",
+        "choices": [
+            "No me gustan los juegos.",
+            "Me encantan las noches de juegos en familia.",
+            "Solo juego con mis amigos.",
+            "Mi familia no juega."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "My cousin lives in another country.",
+        "choices": [
+            "Mi primo vive aquí.",
+            "Solo mi hermano está aquí.",
+            "Mi familia vive en otro país.",
+            "Mi primo vive en otro país."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 21,
+        "question": "We take family photos together.",
+        "choices": [
+            "No tomo fotos.",
+            "Tomamos fotos familiares juntos.",
+            "Solo tomo fotos solo.",
+            "No me gustan las fotos familiares."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 22,
+        "question": "My mother is the best cook in the family.",
+        "choices": [
+            "A mi padre le gusta cocinar.",
+            "Yo no cocino.",
+            "Mi madre es la mejor cocinera de la familia.",
+            "Mi hermano cocina."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "We celebrate holidays together.",
+        "choices": [
+            "Celebramos juntos los días festivos.",
+            "No me gustan las fiestas.",
+            "Solo celebro con mis amigos.",
+            "Me quedo en casa durante las fiestas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "My family is very supportive.",
+        "choices": [
+            "Mi familia es muy solidaria.",
+            "Mi familia no apoya.",
+            "Solo mis amigos me apoyan.",
+            "No ofrezco apoyo."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "I call my family every week.",
+        "choices": [
+            "Nunca llamo a mi familia.",
+            "Llamo a mi familia cada semana.",
+            "Solo llamo a mis amigos.",
+            "No salgo una vez a la semana."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "My parents met in college.",
+        "choices": [
+            "Mis padres se conocieron en el trabajo.",
+            "No fui a la universidad.",
+            "Mis padres se conocieron en la universidad.",
+            "Solo se conocieron en la escuela secundaria."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "We help each other with homework.",
+        "choices": [
+            "No hago tareas.",
+            "Yo no hago tareas.",
+            "Solo ayudo a mis amigos.",
+            "Nos ayudamos mutuamente con las tareas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 28,
+        "question": "My uncle works as a doctor.",
+        "choices": [
+            "Mi tío es profesor.",
+            "Mi tío trabaja como médico.",
+            "Mi padre es ingeniero.",
+            "Mi hermana es doctora."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 29,
+        "question": "We share everything in our family.",
+        "choices": [
+            "No comparto nada.",
+            "Compartimos todo en nuestra familia.",
+            "Solo comparto con mis amigos.",
+            "No comparto con mi familia."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "My father loves to read books.",
+        "choices": [
+            "A mi madre no le gusta leer.",
+            "A mi hermano le gusta leer.",
+            "A mi padre le encanta leer libros.",
+            "No me gusta leer."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "We enjoy picnics in the park.",
+        "choices": [
+            "No hago picnics.",
+            "Disfrutamos de los picnics en el parque.",
+            "Solo me quedo en casa.",
+            "No me gusta sentarme en el parque."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 32,
+        "question": "My family has a tradition of storytelling.",
+        "choices": [
+            "No me gusta contar historias.",
+            "Solo yo cuento historias.",
+            "Mi familia tiene una tradición de contar historias.",
+            "Nadie cuenta historias en mi familia."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "We play board games every Saturday.",
+        "choices": [
+            "No juego juegos.",
+            "Jugamos juegos de mesa todos los sábados.",
+            "Solo juego videojuegos.",
+            "Mi familia no juega."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "My brother is studying at university.",
+        "choices": [
+            "Mi hermano se graduó de la secundaria.",
+            "Yo estudio en la universidad.",
+            "Mi familia no está en la escuela.",
+            "Mi hermano está estudiando en la universidad."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 35,
+        "question": "We visit our grandparents every month.",
+        "choices": [
+            "Nunca veo a mis abuelos.",
+            "Solo los visito en verano.",
+            "Visitamos a nuestros abuelos cada mes.",
+            "Mi familia olvida a sus abuelos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "My mother loves gardening.",
+        "choices": [
+            "A mi padre no le interesa el jardín.",
+            "A mi madre le encanta la jardinería.",
+            "Mi hermano hace jardinería.",
+            "No me interesa el jardín."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "We celebrate Thanksgiving together.",
+        "choices": [
+            "Celebramos el Día de Acción de Gracias juntos.",
+            "No celebramos el Día de Acción de Gracias.",
+            "Solo hago mi propia celebración.",
+            "Mi familia no toma vacaciones."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 38,
+        "question": "I look up to my parents.",
+        "choices": [
+            "No respeto a mis hermanos.",
+            "Admiro a mis padres.",
+            "Solo quiero a mis amigos.",
+            "No admiro a nadie."
+        ],
+        "correctAnswer": 1
+    }
+]

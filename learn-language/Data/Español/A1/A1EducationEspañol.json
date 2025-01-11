@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "question": "I study English every day.",
+        "choices": [
+            "Estudio inglés todos los días.",
+            "Estudio matemáticas todos los días.",
+            "Estudio historia todos los días.",
+            "Estudio ciencias todos los días."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "My teacher gives us homework.",
+        "choices": [
+            "Mi profesor nos da vacaciones.",
+            "Mi profesor nos da tarea.",
+            "Mi profesor nos da juegos.",
+            "Mi profesor nos da premios."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "We have a math exam tomorrow.",
+        "choices": [
+            "Mañana tenemos un examen de historia.",
+            "Mañana tenemos un examen de inglés.",
+            "Mañana tenemos un examen de matemáticas.",
+            "Mañana tenemos un examen de ciencias."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "question": "The library is quiet.",
+        "choices": [
+            "La biblioteca es ruidosa.",
+            "La biblioteca está silenciosa.",
+            "La biblioteca está llena.",
+            "La biblioteca está desordenada."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "We learn new things at school.",
+        "choices": [
+            "Aprendemos cosas viejas en la escuela.",
+            "Aprendemos cosas nuevas en la escuela.",
+            "Nos divertimos en la escuela.",
+            "Jugamos en la escuela."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "The teacher explains the lesson.",
+        "choices": [
+            "El profesor explica la lección.",
+            "El estudiante explica la lección.",
+            "El director explica la lección.",
+            "Mi amigo explica la lección."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "We have homework every day.",
+        "choices": [
+            "Tenemos tarea cada semana.",
+            "Tenemos tarea cada mes.",
+            "Tenemos tarea todos los días.",
+            "Tenemos tarea cada año."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "I study math in the afternoon.",
+        "choices": [
+            "Estudio historia por la tarde.",
+            "Estudio arte por la tarde.",
+            "Estudio deporte por la tarde.",
+            "Estudio matemáticas por la tarde."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "The students read a book in class.",
+        "choices": [
+            "Los estudiantes cantan en clase.",
+            "Los estudiantes leen un libro en clase.",
+            "Los estudiantes dibujan en clase.",
+            "Los estudiantes juegan en clase."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "She writes notes in her notebook.",
+        "choices": [
+            "Escribe notas en su libro.",
+            "Escribe notas en la pizarra.",
+            "Escribe notas en su cuaderno.",
+            "Escribe notas en su computadora."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "We listen to the teacher carefully.",
+        "choices": [
+            "Escuchamos al profesor con atención.",
+            "Escuchamos al profesor rápidamente.",
+            "Escuchamos al profesor lentamente.",
+            "Escuchamos al profesor en silencio."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "They take an exam next week.",
+        "choices": [
+            "Ellos tienen un examen la semana pasada.",
+            "Ellos tienen un examen la próxima semana.",
+            "Ellos tienen un examen todos los días.",
+            "Ellos tienen un examen hoy."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "The students go to the library.",
+        "choices": [
+            "Los estudiantes van al parque.",
+            "Los estudiantes van a la biblioteca.",
+            "Los estudiantes van al aula.",
+            "Los estudiantes van a la cafetería."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "She learns new words in class.",
+        "choices": [
+            "Aprende nuevas canciones en clase.",
+            "Aprende nuevos juegos en clase.",
+            "Aprende nuevas palabras en clase.",
+            "Aprende nuevos dibujos en clase."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "question": "The teacher asks a question.",
+        "choices": [
+            "El profesor hace una pregunta.",
+            "El profesor responde.",
+            "El estudiante hace una pregunta.",
+            "El estudiante responde."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "We use computers in the computer lab.",
+        "choices": [
+            "Usamos libros en el laboratorio de computación.",
+            "Usamos computadoras en el laboratorio de computación.",
+            "Usamos pizarras en el laboratorio de computación.",
+            "Usamos teléfonos en el laboratorio de computación."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "I need a pen for the exam.",
+        "choices": [
+            "Necesito un libro para el examen.",
+            "Necesito un cuaderno para el examen.",
+            "Necesito una goma para el examen.",
+            "Necesito un bolígrafo para el examen."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 18,
+        "question": "The classroom is very quiet.",
+        "choices": [
+            "El aula está muy silenciosa.",
+            "El aula está muy llena.",
+            "El aula está muy ruidosa.",
+            "El aula está muy caliente."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 19,
+        "question": "He studies science every evening.",
+        "choices": [
+            "Estudia historia todas las noches.",
+            "Estudia arte todas las noches.",
+            "Estudia ciencias todas las noches.",
+            "Estudia música todas las noches."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "We have a break after two lessons.",
+        "choices": [
+            "Tenemos un descanso después de tres lecciones.",
+            "Tenemos un descanso después de dos lecciones.",
+            "Tenemos un descanso después de una lección.",
+            "Tenemos un descanso después de cinco lecciones."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "The blackboard is clean now.",
+        "choices": [
+            "La pizarra está sucia ahora.",
+            "La pizarra está llena ahora.",
+            "La pizarra está limpia ahora.",
+            "La pizarra está vacía ahora."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "He passes the exam with high marks.",
+        "choices": [
+            "Aprueba el examen con notas bajas.",
+            "Aprueba el examen con notas altas.",
+            "Aprueba el examen con notas medias.",
+            "No aprueba el examen."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "The teacher gives us homework every week.",
+        "choices": [
+            "El profesor nos da tarea todos los días.",
+            "El profesor nos da tarea cada mes.",
+            "El profesor nunca nos da tarea.",
+            "El profesor nos da tarea cada semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 24,
+        "question": "We learn history on Tuesdays.",
+        "choices": [
+            "Aprendemos matemáticas los martes.",
+            "Aprendemos historia los martes.",
+            "Aprendemos ciencias los martes.",
+            "Aprendemos inglés los martes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "I sit next to my friend in class.",
+        "choices": [
+            "Me siento al lado de mi maestro en clase.",
+            "Me siento junto a la ventana en clase.",
+            "Me siento al lado de mi amigo en clase.",
+            "Me siento junto a la puerta en clase."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 26,
+        "question": "We finish school at 4 pm.",
+        "choices": [
+            "Terminamos la escuela a las 4 pm.",
+            "Terminamos la escuela a las 5 pm.",
+            "Terminamos la escuela a las 3 pm.",
+            "Terminamos la escuela a las 6 pm."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 27,
+        "question": "The teacher explains the new topic.",
+        "choices": [
+            "El profesor explica el tema antiguo.",
+            "El profesor explica una pregunta.",
+            "El profesor explica una historia.",
+            "El profesor explica el tema nuevo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 28,
+        "question": "I take notes during the lesson.",
+        "choices": [
+            "Tomo notas durante la lección.",
+            "Dibujo durante la lección.",
+            "Juego durante la lección.",
+            "Canto durante la lección."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "She helps her friend with homework.",
+        "choices": [
+            "Ayuda a su amigo con el juego.",
+            "Ayuda a su amigo con la tarea.",
+            "Ayuda a su amigo con el dibujo.",
+            "Ayuda a su amigo con la comida."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "We read stories in the literature class.",
+        "choices": [
+            "Leemos poemas en la clase de literatura.",
+            "Leemos novelas en la clase de literatura.",
+            "Leemos artículos en la clase de literatura.",
+            "Leemos cuentos en la clase de literatura."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "She writes an essay for English class.",
+        "choices": [
+            "Escribe un poema para la clase de inglés.",
+            "Escribe un ensayo para la clase de inglés.",
+            "Escribe una historia para la clase de inglés.",
+            "Escribe una carta para la clase de inglés."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 32,
+        "question": "We have a math test tomorrow.",
+        "choices": [
+            "Hoy tenemos un examen de matemáticas.",
+            "La próxima semana tenemos un examen de matemáticas.",
+            "Mañana tenemos un examen de matemáticas.",
+            "Ayer tuvimos un examen de matemáticas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "The principal talks to the students.",
+        "choices": [
+            "El director habla con los estudiantes.",
+            "El director habla con los profesores.",
+            "El director habla con los padres.",
+            "El director habla con los trabajadores."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 34,
+        "question": "The school library is very big.",
+        "choices": [
+            "La biblioteca de la escuela es muy pequeña.",
+            "La biblioteca de la escuela es muy grande.",
+            "La biblioteca de la escuela es muy antigua.",
+            "La biblioteca de la escuela es muy ruidosa."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "The art teacher shows us paintings.",
+        "choices": [
+            "El profesor de arte nos muestra música.",
+            "El profesor de arte nos muestra libros.",
+            "El profesor de arte nos muestra películas.",
+            "El profesor de arte nos muestra pinturas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 36,
+        "question": "I ask questions when I don't understand.",
+        "choices": [
+            "Hago preguntas cuando entiendo.",
+            "Hago preguntas cuando no entiendo.",
+            "Hago preguntas cuando respondo.",
+            "Hago preguntas cuando leo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "We have music class in the afternoon.",
+        "choices": [
+            "Tenemos clase de arte por la tarde.",
+            "Tenemos clase de deportes por la tarde.",
+            "Tenemos clase de música por la tarde.",
+            "Tenemos clase de matemáticas por la tarde."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "The school cafeteria is open during lunch.",
+        "choices": [
+            "La cafetería de la escuela está abierta durante la cena.",
+            "La cafetería de la escuela está abierta durante el almuerzo.",
+            "La cafetería de la escuela está abierta durante el desayuno.",
+            "La cafetería de la escuela está abierta durante la clase."
+        ],
+        "correctAnswer": 1
+    }
+]
+ 
+ 

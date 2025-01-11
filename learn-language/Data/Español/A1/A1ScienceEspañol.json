@@ -1,0 +1,343 @@
+[
+    {
+        "id": 1,
+        "question": "The sun is a star.",
+        "choices": [
+            "El sol es un planeta",
+            "El sol es un satélite",
+            "El sol es un meteorito",
+            "El sol es una estrella"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 2,
+        "question": "Water boils at 100 degrees Celsius.",
+        "choices": [
+            "El agua hierve a 50 grados Celsius",
+            "El agua hierve a 100 grados Celsius",
+            "El agua hierve a 200 grados Celsius",
+            "El agua hierve a 0 grados Celsius"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+            "Las plantas necesitan luz solar para crecer",
+            "Las plantas necesitan agua para crecer",
+            "Las plantas necesitan fertilizante para crecer",
+            "Las plantas necesitan oscuridad para crecer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 4,
+        "question": "The Earth orbits the Sun.",
+        "choices": [
+            "La Tierra orbita alrededor de la Luna",
+            "La Luna orbita alrededor de la Tierra",
+            "La Tierra orbita alrededor del Sol",
+            "Marte orbita alrededor de la Tierra"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "Electricity powers our homes.",
+        "choices": [
+            "La electricidad ilumina nuestras casas",
+            "La electricidad calienta nuestras casas",
+            "La electricidad alimenta nuestras casas",
+            "La electricidad enfría nuestras casas"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "The moon is Earth's satellite.",
+        "choices": [
+            "La Luna es el satélite de la Tierra",
+            "Marte es el satélite de la Tierra",
+            "Venus es el satélite de la Tierra",
+            "Mercurio es el satélite de la Tierra"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "Gravity keeps us on the ground.",
+        "choices": [
+            "La gravedad nos mantiene en el aire",
+            "La gravedad nos mantiene en el suelo",
+            "La gravedad nos mantiene sobre el agua",
+            "La gravedad nos hace mover"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "Fish can breathe in water.",
+        "choices": [
+            "Los peces respiran en el aire",
+            "Los peces respiran en la tierra",
+            "Los peces respiran en el agua",
+            "Los peces respiran bajo tierra"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "A scientist studies nature.",
+        "choices": [
+            "Un científico estudia la naturaleza",
+            "Un científico estudia la historia",
+            "Un científico estudia el espacio",
+            "Un científico estudia las matemáticas"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "Stars are far away from Earth.",
+        "choices": [
+            "Las estrellas están muy cerca de la Tierra",
+            "Las estrellas están muy lejos de la Tierra",
+            "Las estrellas pueden tocar la Tierra",
+            "Las estrellas están dentro de la Tierra"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "The Moon reflects light from the Sun.",
+        "choices": [
+            "La Luna refleja la luz de la Tierra",
+            "La Luna refleja su propia luz",
+            "La Luna refleja la luz de las estrellas",
+            "La Luna refleja la luz del Sol"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 20,
+        "question": "Gravity pulls objects toward the Earth.",
+        "choices": [
+            "La velocidad de la luz es aproximadamente 150,000 km/s",
+            "La gravedad atrae los objetos hacia la Tierra",
+            "La velocidad de la luz es aproximadamente 400,000 km/s",
+            "La gravedad atrae los objetos hacia la Luna"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "An atom is made of protons, neutrons, and electrons.",
+        "choices": [
+            "Un átomo está hecho solo de electrones",
+            "Un átomo está hecho de protones, neutrones y electrones",
+            "Un átomo está hecho solo de protones",
+            "Un átomo está hecho solo de neutrones"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 22,
+        "question": "The speed of light is approximately 300,000 km/s.",
+        "choices": [
+            "Los dinosaurios vivieron hace miles de años",
+            "La velocidad de la luz es aproximadamente 150,000 km/s",
+            "La velocidad de la luz es aproximadamente 300,000 km/s",
+            "Los dinosaurios vivieron hace millones de años"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "Dinosaurs lived millions of years ago.",
+        "choices": [
+            "Los dinosaurios vivieron hace cientos de años",
+            "Los dinosaurios vivirán dentro de millones de años",
+            "El cuerpo humano está hecho de células",
+            "Los dinosaurios vivieron hace millones de años"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 24,
+        "question": "The human body is made of cells.",
+        "choices": [
+            "El cuerpo humano está hecho de huesos",
+            "El cuerpo humano está hecho de músculos",
+            "El sonido viaja más rápido en el agua que en el aire",
+            "El cuerpo humano está hecho de células"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 25,
+        "question": "Sound travels faster in water than in air.",
+        "choices": [
+            "El sonido viaja más rápido en el aire que en el agua",
+            "El sonido viaja más rápido en el vacío",
+            "El sonido viaja más rápido en el agua que en el aire",
+            "El sonido no viaja en el agua"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 26,
+        "question": "Energy cannot be created or destroyed.",
+        "choices": [
+            "La energía siempre se crea",
+            "La energía no se crea ni se destruye",
+            "La energía se crea pero no se destruye",
+            "La energía se destruye pero no se crea"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "Oxygen is essential for human life.",
+        "choices": [
+            "El dióxido de carbono es esencial para la vida humana",
+            "El nitrógeno es esencial para la vida humana",
+            "El helio es esencial para la vida humana",
+            "El oxígeno es esencial para la vida humana"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 29,
+        "question": "Electricity flows through a conductor.",
+        "choices": [
+            "La electricidad fluye a través de una pared",
+            "La electricidad fluye a través de un aislante",
+            "La electricidad fluye a través de un conductor",
+            "La electricidad fluye a través del plástico"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 30,
+        "question": "Photosynthesis occurs in plants.",
+        "choices": [
+            "La fotosíntesis ocurre en las bacterias",
+            "La fotosíntesis ocurre en los animales",
+            "La fotosíntesis ocurre en los minerales",
+            "La fotosíntesis ocurre en las plantas"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "The heart pumps blood throughout the body.",
+        "choices": [
+            "El corazón bombea oxígeno por el cuerpo",
+            "El corazón bombea alimento por el cuerpo",
+            "El corazón bombea energía por el cuerpo",
+            "El corazón bombea sangre por el cuerpo"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 32,
+        "question": "DNA carries genetic information.",
+        "choices": [
+            "El ADN transporta energía",
+            "El ADN transporta oxígeno",
+            "El ADN transporta información genética",
+            "El ADN transporta proteínas"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "The Milky Way is our galaxy.",
+        "choices": [
+            "Marte es nuestra galaxia",
+            "Júpiter es nuestra galaxia",
+            "Andrómeda es nuestra galaxia",
+            "La Vía Láctea es nuestra galaxia"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 34,
+        "question": "Atoms are the building blocks of matter.",
+        "choices": [
+            "Los electrones son los bloques fundamentales de la materia",
+            "Las células son los bloques fundamentales de la materia",
+            "Las proteínas son los bloques fundamentales de la materia",
+            "Los átomos son los bloques fundamentales de la materia"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 35,
+        "question": "Water is made up of hydrogen and oxygen.",
+        "choices": [
+            "El agua está compuesta de hidrógeno y carbono",
+            "El agua está compuesta de oxígeno y nitrógeno",
+            "El agua está compuesta de carbono y oxígeno",
+            "El agua está compuesta de hidrógeno y oxígeno"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 36,
+        "question": "Evolution explains the diversity of life.",
+        "choices": [
+            "La gravedad explica la diversidad de la vida",
+            "La fotosíntesis explica la diversidad de la vida",
+            "La química explica la diversidad de la vida",
+            "La evolución explica la diversidad de la vida"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 37,
+        "question": "A volcano erupts when pressure builds up.",
+        "choices": [
+            "Un volcán erupciona cuando baja la temperatura",
+            "Un volcán erupciona cuando se acumula agua",
+            "Un volcán erupciona cuando se agota el oxígeno",
+            "Un volcán erupciona cuando se acumula presión"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 38,
+        "question": "Light travels in a straight line.",
+        "choices": [
+            "La luz viaja en un círculo",
+            "La luz viaja en una curva",
+            "La luz viaja al azar",
+            "La luz viaja en línea recta"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 39,
+        "question": "Plants produce oxygen through photosynthesis.",
+        "choices": [
+            "Las plantas producen dióxido de carbono a través de la fotosíntesis",
+            "Las plantas producen agua a través de la fotosíntesis",
+            "Las plantas producen energía a través de la fotosíntesis",
+            "Las plantas producen oxígeno a través de la fotosíntesis"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 40,
+        "question": "Ice melts at 0 degrees Celsius.",
+        "choices": [
+            "El hielo se derrite a 50 grados Celsius",
+            "El hielo se derrite a -10 grados Celsius",
+            "El hielo se derrite a 100 grados Celsius",
+            "El hielo se derrite a 0 grados Celsius"
+        ],
+        "correctAnswer": 3
+    }
+]

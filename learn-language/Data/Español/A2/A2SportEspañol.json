@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "question": "I go swimming every Saturday.",
+        "choices": [
+            "Voy a nadar todos los sábados.",
+            "Voy a nadar todos los viernes.",
+            "No me gusta nadar.",
+            "Tomo clases de natación."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "He plays basketball with his friends.",
+        "choices": [
+            "Juega fútbol con sus amigos.",
+            "Solo juega tenis.",
+            "Juega baloncesto con sus amigos.",
+            "No le gusta jugar baloncesto."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "She practices yoga every morning.",
+        "choices": [
+            "No le gusta hacer yoga.",
+            "Practica yoga todas las mañanas.",
+            "Solo hace ejercicio por las tardes.",
+            "Va al gimnasio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "We watch football matches on TV.",
+        "choices": [
+            "No vemos partidos de fútbol en la televisión.",
+            "Solo vemos baloncesto.",
+            "Nos gusta jugar fútbol.",
+            "Vemos partidos de fútbol en la televisión."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "They run in the park every evening.",
+        "choices": [
+            "Caminan en el parque.",
+            "Solo se sientan cada noche.",
+            "Corren en el parque todas las noches.",
+            "No les gusta correr."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "I enjoy playing tennis on weekends.",
+        "choices": [
+            "No juego tenis.",
+            "Me gusta jugar tenis los fines de semana.",
+            "Solo juego baloncesto.",
+            "Solo juego fútbol."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "My brother likes cycling in the countryside.",
+        "choices": [
+            "Mi hermano nunca anda en bicicleta.",
+            "A mi hermano le gusta andar en bicicleta en el campo.",
+            "Solo anda en bicicleta en la ciudad.",
+            "Le gusta caminar en el campo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "I participate in a marathon every year.",
+        "choices": [
+            "No participo en maratones.",
+            "Solo voy al gimnasio.",
+            "Participo en un maratón cada año.",
+            "Solo participo en competencias de natación."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "question": "We play volleyball at the beach.",
+        "choices": [
+            "Jugamos voleibol en la playa.",
+            "No nos gusta jugar voleibol.",
+            "Solo jugamos fútbol.",
+            "Tomamos el sol en la playa."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "I lift weights at the gym.",
+        "choices": [
+            "No levanto pesas.",
+            "Levanto pesas en el gimnasio.",
+            "Solo corro en la cinta.",
+            "No voy al gimnasio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "She enjoys dancing in her free time.",
+        "choices": [
+            "No le gusta bailar.",
+            "Solo escucha música.",
+            "Solo pinta.",
+            "Le gusta bailar en su tiempo libre."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 12,
+        "question": "We go hiking in the mountains.",
+        "choices": [
+            "Nunca voy a las montañas.",
+            "Solo voy a la playa.",
+            "Hacemos senderismo en las montañas.",
+            "Hago picnic en la montaña."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 13,
+        "question": "He trains for a triathlon.",
+        "choices": [
+            "No le gusta el triatlón.",
+            "Solo entrena natación.",
+            "No le gusta correr.",
+            "Entrena para un triatlón."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "I play badminton with my family.",
+        "choices": [
+            "No juego bádminton.",
+            "Solo juego tenis de mesa.",
+            "Nunca juego con mi familia.",
+            "Juego bádminton con mi familia."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 15,
+        "question": "She enjoys watching sports on TV.",
+        "choices": [
+            "Le gusta ver deportes en la televisión.",
+            "No le gusta ver deportes.",
+            "Solo ve noticias.",
+            "Nunca ve películas en la televisión."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "We join a sports club.",
+        "choices": [
+            "No nos unimos a clubes deportivos.",
+            "Solo me uno a un club de natación.",
+            "Nos unimos a un club deportivo.",
+            "No hago deportes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "I often go for a run in the morning.",
+        "choices": [
+            "Nunca corro por las mañanas.",
+            "Solo camino por las tardes.",
+            "A menudo salgo a correr por la mañana.",
+            "Todos los días solo voy al gimnasio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "He practices martial arts every week.",
+        "choices": [
+            "No le interesan las artes marciales.",
+            "Practica artes marciales cada semana.",
+            "Solo juega fútbol.",
+            "Hace deporte una vez a la semana."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "I like to watch gymnastics competitions.",
+        "choices": [
+            "No hago gimnasia.",
+            "Me gusta ver competencias de gimnasia.",
+            "Solo veo partidos de fútbol.",
+            "Nunca veo deportes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "We go to the swimming pool in summer.",
+        "choices": [
+            "Vamos a la piscina en verano.",
+            "No voy a la piscina en invierno.",
+            "Solo me gusta nadar en la playa.",
+            "No me gusta la piscina."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "She enjoys playing team sports.",
+        "choices": [
+            "Le gusta jugar deportes de equipo.",
+            "Solo le gustan los deportes individuales.",
+            "No le gusta hacer deporte.",
+            "Solo juega tenis."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "I watch the Olympics every four years.",
+        "choices": [
+            "Nunca veo los Juegos Olímpicos.",
+            "Veo los Juegos Olímpicos cada cuatro años.",
+            "Solo veo la Copa del Mundo.",
+            "Solo veo mi propio deporte."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "We have a picnic in the park and play frisbee.",
+        "choices": [
+            "Nunca voy al parque.",
+            "Hacemos un picnic en el parque y jugamos al frisbee.",
+            "Solo nos quedamos en casa.",
+            "No juego al frisbee."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 24,
+        "question": "I love to watch boxing matches.",
+        "choices": [
+            "No boxeo.",
+            "Solo veo fútbol.",
+            "Solo veo baloncesto.",
+            "Me encanta ver combates de boxeo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 25,
+        "question": "She is a member of the running club.",
+        "choices": [
+            "Nunca se une a un club.",
+            "Es miembro del club de atletismo.",
+            "Solo se une a un club de natación.",
+            "Solo se queda en casa."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "We play sports to stay healthy.",
+        "choices": [
+            "No hacemos deportes.",
+            "Solo descanso.",
+            "Solo duermo.",
+            "Hacemos deportes para mantenernos saludables."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "I enjoy skiing in winter.",
+        "choices": [
+            "Me gusta nadar en invierno.",
+            "Solo hago deporte en verano.",
+            "Me gusta esquiar en invierno.",
+            "No esquío."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "They play table tennis in their free time.",
+        "choices": [
+            "Nunca usan su tiempo libre.",
+            "Juegan al tenis de mesa en su tiempo libre.",
+            "Solo juegan baloncesto.",
+            "No les gusta jugar al tenis de mesa."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 29,
+        "question": "We go to sports events together.",
+        "choices": [
+            "No asistimos a eventos deportivos.",
+            "Asistimos juntos a eventos deportivos.",
+            "Solo voy al cine.",
+            "No me gustan los eventos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "I prefer individual sports to team sports.",
+        "choices": [
+            "Prefiero los deportes de equipo.",
+            "Solo hago natación.",
+            "No hago deporte.",
+            "Prefiero los deportes individuales a los deportes de equipo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "She goes to the gym three times a week.",
+        "choices": [
+            "Solo va una vez.",
+            "No le gusta ir al gimnasio.",
+            "Va al gimnasio tres veces a la semana.",
+            "Solo hace ejercicio en casa."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "They like to skate in the winter.",
+        "choices": [
+            "No les gusta patinar.",
+            "Les gusta patinar en invierno.",
+            "Solo nadan en verano.",
+            "Solo les gusta correr."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 33,
+        "question": "I take dance classes every week.",
+        "choices": [
+            "No bailo.",
+            "Solo tomo clases de deporte.",
+            "Solo tomo clases de música.",
+            "Tomo clases de baile todas las semanas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 34,
+        "question": "We train together for the race.",
+        "choices": [
+            "No participamos en carreras.",
+            "Entrenamos juntos para la carrera.",
+            "Solo voy a nadar.",
+            "No entrenamos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "She is very good at playing golf.",
+        "choices": [
+            "No juega golf.",
+            "Solo juega baloncesto.",
+            "Es muy buena jugando golf.",
+            "No le gusta el golf."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "I often go to the sports shop.",
+        "choices": [
+            "No voy a la tienda de deportes.",
+            "Voy a menudo a la tienda de deportes.",
+            "Solo compro alimentos.",
+            "Solo compro ropa."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "We play cricket on weekends.",
+        "choices": [
+            "No me gusta jugar cricket.",
+            "Solo jugamos fútbol.",
+            "Solo juego baloncesto.",
+            "Jugamos cricket los fines de semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 38,
+        "question": "He trains hard to improve his skills.",
+        "choices": [
+            "No le gusta entrenar.",
+            "Solo le gusta descansar.",
+            "Entrena mucho para mejorar sus habilidades.",
+            "No hace deporte."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 39,
+        "question": "I watch sports documentaries on Netflix.",
+        "choices": [
+            "No veo documentales deportivos en Netflix.",
+            "Veo documentales deportivos en Netflix.",
+            "No veo documentales de naturaleza en Netflix.",
+            "Solo veo series."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 40,
+        "question": "We have a friendly match with another team.",
+        "choices": [
+            "Jugamos un partido amistoso con otro equipo.",
+            "No juego partidos amistosos.",
+            "Solo juego partidos oficiales.",
+            "No me gustan los partidos amistosos."
+        ],
+        "correctAnswer": 0
+    }
+]

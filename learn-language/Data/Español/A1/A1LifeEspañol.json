@@ -1,0 +1,376 @@
+[
+    {
+        "id": 1,
+        "question": "I wake up at 7 am.",
+        "choices": [
+            "Me despierto a las 6.",
+            "Me despierto a las 7.",
+            "Me despierto a las 8.",
+            "Me despierto a las 9."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "I brush my teeth every morning.",
+        "choices": [
+            "Me cepillo los dientes todas las mañanas.",
+            "Desayuno todas las mañanas.",
+            "Corro todas las mañanas.",
+            "Leo un libro todas las mañanas."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "question": "I go to work by bus.",
+        "choices": [
+            "Voy al trabajo en coche.",
+            "Voy al trabajo en autobús.",
+            "Voy al trabajo en bicicleta.",
+            "Voy al trabajo caminando."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "I have lunch at 12 pm.",
+        "choices": [
+            "Almuerzo a la 1.",
+            "Almuerzo a las 12.",
+            "Almuerzo a las 2.",
+            "Almuerzo a las 3."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "I watch TV in the evening.",
+        "choices": [
+            "Leo un libro por la noche.",
+            "Veo la televisión por la noche.",
+            "Salgo por la noche.",
+            "Duermo por la noche."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "I go to bed at 10 pm.",
+        "choices": [
+            "Me acuesto a las 8 de la noche.",
+            "Me acuesto a las 9 de la noche.",
+            "Me acuesto a las 10 de la noche.",
+            "Me acuesto a las 11 de la noche."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "I read books before I sleep.",
+        "choices": [
+            "Escucho música antes de dormir.",
+            "Dibujo antes de dormir.",
+            "Como antes de dormir.",
+            "Leo libros antes de dormir."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 13,
+        "question": "I take a shower in the morning.",
+        "choices": [
+            "Me ducho por la noche.",
+            "Me ducho por la tarde.",
+            "Me ducho por la mañana.",
+            "Me ducho al mediodía."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "I go for a walk in the park.",
+        "choices": [
+            "Corro en el parque.",
+            "Paseo en el parque.",
+            "Monto en bicicleta en el parque.",
+            "Juego al fútbol en el parque."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "I clean my house on weekends.",
+        "choices": [
+            "Limpio mi casa durante las vacaciones.",
+            "Limpio mi casa por la noche.",
+            "Limpio mi casa entre semana.",
+            "Limpio mi casa los fines de semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 17,
+        "question": "I have breakfast with my family.",
+        "choices": [
+            "Desayuno solo.",
+            "Desayuno fuera.",
+            "Desayuno en la escuela.",
+            "Desayuno con mi familia."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 18,
+        "question": "I go to school by bus.",
+        "choices": [
+            "Voy a la escuela en bicicleta.",
+            "Voy a la escuela en autobús.",
+            "Voy a la escuela caminando.",
+            "Voy a la escuela en coche."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "I study for two hours every evening.",
+        "choices": [
+            "Estudio una hora cada noche.",
+            "Estudio dos horas cada noche.",
+            "Estudio tres horas cada noche.",
+            "Estudio cuatro horas cada noche."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "I have lunch at school.",
+        "choices": [
+            "Almuerzo fuera.",
+            "Almuerzo en la escuela.",
+            "Almuerzo en casa.",
+            "Almuerzo en un picnic."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "I play sports after school.",
+        "choices": [
+            "Escucho música después de la escuela.",
+            "Leo un libro después de la escuela.",
+            "Me encuentro con mis amigos después de la escuela.",
+            "Hago deporte después de la escuela."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 22,
+        "question": "I watch TV in the evening.",
+        "choices": [
+            "Leo libros por la noche.",
+            "Salgo por la noche.",
+            "Juego por la noche.",
+            "Veo la televisión por la noche."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 23,
+        "question": "I go to bed at 10 p.m.",
+        "choices": [
+            "Me acuesto a las 9 de la noche.",
+            "Me acuesto a las 11 de la noche.",
+            "Me acuesto a las 12 de la noche.",
+            "Me acuesto a las 10 de la noche."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 24,
+        "question": "I do my homework every day.",
+        "choices": [
+            "Reviso mi tarea todos los días.",
+            "No hago mi tarea todos los días.",
+            "Olvido mi tarea todos los días.",
+            "Hago mi tarea todos los días."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 25,
+        "question": "I like to read books.",
+        "choices": [
+            "Me gusta ver películas.",
+            "Me gusta escuchar música.",
+            "Me gusta estudiar.",
+            "Me gusta leer libros."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 26,
+        "question": "I help my parents at home.",
+        "choices": [
+            "No trabajo en casa.",
+            "Estoy solo en casa.",
+            "Descanso en casa.",
+            "Ayudo a mis padres en casa."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "I go shopping with my mother.",
+        "choices": [
+            "Voy de compras con mis amigos.",
+            "Voy de compras con mi hermano.",
+            "Voy de compras con mi abuela.",
+            "Voy de compras con mi madre."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 28,
+        "question": "I enjoy cooking on weekends.",
+        "choices": [
+            "No cocino los fines de semana.",
+            "Solo hago el desayuno los fines de semana.",
+            "Como fuera los fines de semana.",
+            "Me gusta cocinar los fines de semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 29,
+        "question": "I take a shower in the morning.",
+        "choices": [
+            "No me ducho todos los días.",
+            "Odio ducharme.",
+            "Me ducho por la noche.",
+            "Me ducho por la mañana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 30,
+        "question": "I ride my bike to the park.",
+        "choices": [
+            "Voy al parque en coche.",
+            "Voy al parque en autobús.",
+            "Voy al parque caminando.",
+            "Voy al parque en bicicleta."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "I spend time with my friends.",
+        "choices": [
+            "Paso tiempo con mis amigos.",
+            "Prefiero estar solo.",
+            "Paso tiempo con mi familia.",
+            "No paso tiempo con nadie."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 32,
+        "question": "I go for a walk in the evening.",
+        "choices": [
+            "Salgo a caminar por la noche.",
+            "Corro por la noche.",
+            "Veo la televisión por la noche.",
+            "Leo un libro por la noche."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 33,
+        "question": "I have a small garden.",
+        "choices": [
+            "Tengo un jardín grande.",
+            "Tengo un jardín pequeño.",
+            "No tengo jardín.",
+            "Vivo en un apartamento."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "I wash the dishes after dinner.",
+        "choices": [
+            "Pongo la mesa después de la cena.",
+            "Cocino después de la cena.",
+            "Lavo los platos después de la cena.",
+            "Veo la televisión después de la cena."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "I play video games on weekends.",
+        "choices": [
+            "Hago deporte los fines de semana.",
+            "Salgo los fines de semana.",
+            "Estudio los fines de semana.",
+            "Juego videojuegos los fines de semana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 36,
+        "question": "I like to listen to music while studying.",
+        "choices": [
+            "Me gusta estar en silencio mientras estudio.",
+            "Me gusta escuchar música mientras estudio.",
+            "Me gusta ver la televisión mientras estudio.",
+            "Me gusta jugar mientras estudio."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "I often visit my grandparents.",
+        "choices": [
+            "A menudo visito a mis amigos.",
+            "A menudo salgo.",
+            "A menudo visito a mis abuelos.",
+            "A menudo estudio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "I take care of my pets.",
+        "choices": [
+            "Cuido a mis mascotas.",
+            "No tengo mascotas.",
+            "No me gustan los animales.",
+            "No tengo animales en casa."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 39,
+        "question": "I enjoy watching movies with my family.",
+        "choices": [
+            "Me gusta ver películas solo.",
+            "Me gusta ver películas con mi familia.",
+            "Me gusta ver películas con mis amigos.",
+            "Me gusta ver películas fuera."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 40,
+        "question": "I drink tea every morning.",
+        "choices": [
+            "Tomo café todas las mañanas.",
+            "Tomo agua todas las mañanas.",
+            "Tomo jugo todas las mañanas.",
+            "Tomo té todas las mañanas."
+        ],
+        "correctAnswer": 3
+    }
+]

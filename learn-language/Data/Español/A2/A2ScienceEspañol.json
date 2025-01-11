@@ -1,0 +1,409 @@
+[
+    {
+        "id": 1,
+        "question": "The Earth revolves around the Sun.",
+        "choices": [
+            "La Tierra gira alrededor del Sol.",
+            "La Tierra gira alrededor de la Luna.",
+            "El Sol gira alrededor de la Tierra.",
+            "La Luna gira alrededor de la Tierra."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Water freezes at 0 degrees Celsius.",
+        "choices": [
+            "El agua se congela a 100 grados Celsius.",
+            "El agua se congela a 0 grados Celsius.",
+            "El agua hierve a 0 grados Celsius.",
+            "El agua se congela a 50 grados Celsius."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "Plants need sunlight to grow.",
+        "choices": [
+            "Las plantas necesitan luz solar para crecer.",
+            "Las plantas no necesitan agua.",
+            "Las plantas crecen en la oscuridad.",
+            "Las plantas solo necesitan tierra."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 4,
+        "question": "The human body has 206 bones.",
+        "choices": [
+            "El cuerpo humano tiene 100 huesos.",
+            "El cuerpo humano tiene 300 huesos.",
+            "El cuerpo humano tiene 206 huesos.",
+            "El cuerpo humano tiene 250 huesos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "The water cycle includes evaporation.",
+        "choices": [
+            "El ciclo del agua incluye congelación.",
+            "El ciclo del agua incluye evaporación.",
+            "El ciclo del agua incluye iluminación.",
+            "El ciclo del agua incluye crecimiento."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "Oxygen is necessary for humans.",
+        "choices": [
+            "El oxígeno es necesario para las plantas.",
+            "El oxígeno solo se encuentra en el agua.",
+            "El oxígeno es necesario para los humanos.",
+            "No existe oxígeno."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 7,
+        "question": "The speed of light is very fast.",
+        "choices": [
+            "La velocidad del sonido es más rápida.",
+            "La velocidad de la luz es muy rápida.",
+            "La velocidad de la luz es lenta.",
+            "Nada viaja a la velocidad de la luz."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "The moon affects the tides.",
+        "choices": [
+            "El Sol afecta las mareas.",
+            "Las estrellas afectan las mareas.",
+            "La Luna afecta las mareas.",
+            "El viento afecta las mareas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "question": "Cells are the building blocks of life.",
+        "choices": [
+            "Las células solo se encuentran en las plantas.",
+            "Las células son los bloques básicos de la vida.",
+            "No hay células en los humanos.",
+            "Las células solo se encuentran en los animales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "The heart pumps blood.",
+        "choices": [
+            "El corazón bombea aire.",
+            "El corazón bombea agua.",
+            "El corazón bombea alimentos.",
+            "El corazón bombea sangre."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 11,
+        "question": "Animals breathe oxygen.",
+        "choices": [
+            "Los animales respiran dióxido de carbono.",
+            "Los animales respiran agua.",
+            "Los animales respiran oxígeno.",
+            "Los animales no respiran aire."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "Photosynthesis occurs in plants.",
+        "choices": [
+            "La fotosíntesis ocurre en los animales.",
+            "La fotosíntesis ocurre bajo el agua.",
+            "La fotosíntesis ocurre en las plantas.",
+            "La fotosíntesis ocurre solo en los árboles."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 13,
+        "question": "The Earth's atmosphere is essential for life.",
+        "choices": [
+            "La atmósfera de la Tierra es esencial para la vida.",
+            "La atmósfera de la Tierra no existe.",
+            "La atmósfera de la Tierra solo contiene agua.",
+            "La atmósfera de la Tierra no es necesaria para los humanos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 14,
+        "question": "Gravity pulls objects toward the Earth.",
+        "choices": [
+            "La gravedad atrae objetos hacia el espacio.",
+            "La gravedad atrae objetos hacia la Tierra.",
+            "La gravedad solo funciona en el agua.",
+            "La gravedad empuja los objetos hacia arriba."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "Electricity can power machines.",
+        "choices": [
+            "La electricidad solo enciende luces.",
+            "La electricidad produce sonido.",
+            "La electricidad no genera calor.",
+            "La electricidad puede hacer funcionar máquinas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 16,
+        "question": "The brain controls the body.",
+        "choices": [
+            "El corazón controla el cuerpo.",
+            "El hígado controla el cuerpo.",
+            "El cerebro controla el cuerpo.",
+            "Los pulmones controlan el cuerpo."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "Earth is the third planet from the Sun.",
+        "choices": [
+            "La Tierra es el quinto planeta desde el Sol.",
+            "La Tierra es el tercer planeta desde el Sol.",
+            "La Tierra es el segundo planeta desde el Sol.",
+            "La Tierra es el cuarto planeta desde el Sol."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "Animals reproduce to create offspring.",
+        "choices": [
+            "Los animales solo se reproducen para comer.",
+            "Los animales se reproducen para crear descendencia.",
+            "Los animales no se reproducen.",
+            "Los animales solo duermen."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "Sound travels in waves.",
+        "choices": [
+            "El sonido viaja en línea recta.",
+            "El sonido solo viaja bajo el agua.",
+            "El sonido viaja en ondas.",
+            "El sonido no viaja con el viento."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 21,
+        "question": "The scientific method is used for experiments.",
+        "choices": [
+            "El método científico solo se usa para libros.",
+            "El método científico solo se aplica a los humanos.",
+            "El método científico no es necesario.",
+            "El método científico se utiliza para experimentos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 22,
+        "question": "Atoms are the smallest units of matter.",
+        "choices": [
+            "Los átomos son las unidades más grandes.",
+            "Los átomos son las unidades más pequeñas de la materia.",
+            "Los átomos solo se encuentran en líquidos.",
+            "Los átomos no están presentes en los gases."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "The sun gives us light and warmth.",
+        "choices": [
+            "El sol nos da luz y calor.",
+            "El sol causa oscuridad.",
+            "El sol solo da frío.",
+            "El sol no emite luz."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "Electric circuits are used to power devices.",
+        "choices": [
+            "Los circuitos eléctricos solo se usan para la luz.",
+            "Los circuitos eléctricos se usan para el sonido.",
+            "Los circuitos eléctricos se utilizan para alimentar dispositivos.",
+            "Los circuitos eléctricos se usan para el agua."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 25,
+        "question": "Fossils are evidence of past life.",
+        "choices": [
+            "Los fósiles son evidencia de vida pasada.",
+            "Los fósiles solo se encuentran en las rocas.",
+            "Los fósiles no están vivos.",
+            "Los fósiles solo se encuentran en los animales."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 26,
+        "question": "The respiratory system helps us breathe.",
+        "choices": [
+            "El sistema digestivo no ayuda a respirar.",
+            "El sistema respiratorio nos ayuda a respirar.",
+            "El sistema circulatorio no respira.",
+            "El sistema nervioso no respira."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 27,
+        "question": "The skeletal system supports the body.",
+        "choices": [
+            "El sistema circulatorio sostiene el cuerpo.",
+            "El sistema nervioso sostiene el cuerpo.",
+            "El sistema esquelético sostiene el cuerpo.",
+            "El sistema digestivo sostiene el cuerpo."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "Electricity can be dangerous.",
+        "choices": [
+            "La electricidad es segura.",
+            "La electricidad solo proporciona luz.",
+            "La electricidad puede ser peligrosa.",
+            "La electricidad produce sonido."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "The internet connects computers worldwide.",
+        "choices": [
+            "Internet solo existe para redes locales.",
+            "Internet conecta computadoras en todo el mundo.",
+            "Internet solo es para teléfonos.",
+            "Internet solo es para juegos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "Chemistry studies matter and its changes.",
+        "choices": [
+            "La química solo estudia las plantas.",
+            "La química solo estudia los animales.",
+            "La química solo estudia los árboles.",
+            "La química estudia la materia y sus cambios."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "question": "Physics studies the laws of nature.",
+        "choices": [
+            "La física solo se relaciona con las matemáticas.",
+            "La física solo se relaciona con la astronomía.",
+            "La física estudia las leyes de la naturaleza.",
+            "La física solo se relaciona con las ciencias sociales."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "Biology studies living organisms.",
+        "choices": [
+            "La biología solo estudia organismos muertos.",
+            "La biología estudia organismos vivos.",
+            "La biología solo se relaciona con las plantas.",
+            "La biología solo se relaciona con los animales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 33,
+        "question": "The Earth's surface is covered by water.",
+        "choices": [
+            "La superficie de la Tierra está completamente cubierta de tierra.",
+            "La superficie de la Tierra está cubierta solo de aire.",
+            "La superficie de la Tierra está cubierta solo de rocas.",
+            "La superficie de la Tierra está cubierta de agua."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 34,
+        "question": "The seasons change throughout the year.",
+        "choices": [
+            "Las estaciones siempre son iguales.",
+            "Las estaciones cambian a lo largo del año.",
+            "Las estaciones solo cambian en verano.",
+            "Las estaciones no cambian en invierno."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "Stars are massive balls of gas.",
+        "choices": [
+            "Las estrellas solo están llenas de agua.",
+            "Las estrellas solo están hechas de materiales sólidos.",
+            "Las estrellas son enormes bolas de gas.",
+            "Las estrellas solo están relacionadas con la tierra."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 36,
+        "question": "The brain is part of the nervous system.",
+        "choices": [
+            "El cerebro solo está relacionado con el corazón.",
+            "El cerebro solo está relacionado con la digestión.",
+            "El cerebro solo está relacionado con los músculos.",
+            "El cerebro es parte del sistema nervioso."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 37,
+        "question": "The heart is a muscle.",
+        "choices": [
+            "El corazón es un hueso.",
+            "El corazón es un grupo de músculos.",
+            "El corazón solo está hecho de grasa.",
+            "El corazón solo está relacionado con el agua."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 38,
+        "question": "Mercury is the closest planet to the Sun.",
+        "choices": [
+            "Mercurio está más lejos de la Tierra.",
+            "Mercurio es el planeta más cercano al Sol.",
+            "Mercurio es más grande que la Luna.",
+            "Mercurio es más grande que Marte."
+        ],
+        "correctAnswer": 1
+    }
+]

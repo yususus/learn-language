@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "question": "I play soccer every weekend.",
+        "choices": [
+            "Juego fútbol todos los fines de semana",
+            "Juego baloncesto todos los fines de semana",
+            "Juego tenis todos los fines de semana",
+            "Juego voleibol todos los fines de semana"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "She runs in the park every morning.",
+        "choices": [
+            "Ella camina en el parque todas las mañanas",
+            "Ella corre en el parque todas las mañanas",
+            "Ella nada en el parque todas las mañanas",
+            "Ella monta en bicicleta en el parque todas las mañanas"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "They are watching a football match on TV.",
+        "choices": [
+            "Están viendo un partido de baloncesto en la televisión",
+            "Están viendo un partido de tenis en la televisión",
+            "Están viendo un partido de voleibol en la televisión",
+            "Están viendo un partido de fútbol en la televisión"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 4,
+        "question": "The athlete won a gold medal in the Olympics.",
+        "choices": [
+            "El atleta ganó una medalla de oro en las Olimpiadas",
+            "El atleta ganó una medalla de plata en las Olimpiadas",
+            "El atleta ganó una medalla de bronce en las Olimpiadas",
+            "El atleta no ganó ninguna medalla en las Olimpiadas"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 5,
+        "question": "We go swimming at the beach in summer.",
+        "choices": [
+            "En verano hacemos senderismo en la montaña",
+            "En verano nadamos en la playa",
+            "En verano hacemos picnic en el parque",
+            "En verano vemos películas en casa"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "He plays tennis every Tuesday and Thursday.",
+        "choices": [
+            "Juega fútbol todos los martes y jueves",
+            "Juega baloncesto todos los martes y jueves",
+            "Juega tenis todos los martes y jueves",
+            "Juega voleibol todos los martes y jueves"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 7,
+        "question": "The team is practicing for the big game next week.",
+        "choices": [
+            "El equipo está entrenando para el gran partido de la próxima semana",
+            "El equipo está celebrando el gran partido de la semana pasada",
+            "El equipo está descansando para el gran partido del próximo mes",
+            "El equipo está pensando en posponer el gran partido"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "I need to buy new running shoes.",
+        "choices": [
+            "Necesito comprar una nueva bolsa deportiva",
+            "Necesito comprar nuevos zapatos para correr",
+            "Necesito comprar nueva ropa deportiva",
+            "Necesito comprar un nuevo reloj deportivo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "question": "The basketball game starts at 7 PM.",
+        "choices": [
+            "El partido de fútbol empieza a las 19:00",
+            "El partido de baloncesto empieza a las 19:00",
+            "El partido de tenis empieza a las 19:00",
+            "El partido de voleibol empieza a las 19:00"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "She is learning to play golf.",
+        "choices": [
+            "Está aprendiendo a nadar",
+            "Está aprendiendo a jugar tenis",
+            "Está aprendiendo a jugar golf",
+            "Está aprendiendo a esquiar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "The cyclist won the race by a narrow margin.",
+        "choices": [
+            "El ciclista ganó la carrera por un pequeño margen",
+            "El ciclista ganó la carrera por un gran margen",
+            "El ciclista perdió la carrera",
+            "El ciclista no pudo completar la carrera"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "We need to warm up before exercising.",
+        "choices": [
+            "Debemos hacer ejercicios de enfriamiento después de ejercitar",
+            "Debemos calentar antes de hacer ejercicio",
+            "Debemos tomar un descanso durante el ejercicio",
+            "Debemos beber mucha agua antes del ejercicio"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "The swimming pool is closed on Mondays.",
+        "choices": [
+            "La piscina está abierta los lunes",
+            "La piscina está cerrada los lunes",
+            "La piscina está abierta todos los días",
+            "La piscina está cerrada los fines de semana"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "He scored a goal in the last minute of the game.",
+        "choices": [
+            "Anotó un gol en el último minuto del partido",
+            "Anotó un gol en el primer minuto del partido",
+            "Anotó un gol a mitad del partido",
+            "No anotó ningún gol en el partido"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "The yoga class is every Wednesday evening.",
+        "choices": [
+            "La clase de yoga es todos los martes por la noche",
+            "La clase de yoga es todos los miércoles por la noche",
+            "La clase de yoga es todos los jueves por la mañana",
+            "La clase de yoga es todos los viernes por la tarde"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "question": "They are hiking in the mountains this weekend.",
+        "choices": [
+            "Este fin de semana están tomando el sol en la playa",
+            "Este fin de semana están descansando en casa",
+            "Este fin de semana están haciendo senderismo en las montañas",
+            "Este fin de semana están de compras en la ciudad"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "question": "The referee blew the whistle to end the match.",
+        "choices": [
+            "El árbitro tocó el silbato para comenzar el partido",
+            "El árbitro tocó el silbato para terminar el partido",
+            "El árbitro mostró tarjeta amarilla al jugador",
+            "El árbitro señaló un descanso"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "question": "She is practicing her serve for the tennis tournament.",
+        "choices": [
+            "Está practicando su saque para el torneo de tenis",
+            "Está haciendo ejercicios de carrera para el torneo de tenis",
+            "Está haciendo ejercicios de calentamiento para el torneo de tenis",
+            "Está desarrollando estrategias para el torneo de tenis"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 19,
+        "question": "The gym is open from 6 AM to 10 PM.",
+        "choices": [
+            "El gimnasio está abierto de 6 de la mañana a 10 de la noche",
+            "El gimnasio está abierto de 8 de la mañana a 8 de la noche",
+            "El gimnasio está abierto las 24 horas",
+            "El gimnasio está abierto de 2 de la tarde a 12 de la noche"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 20,
+        "question": "We need to buy tickets for the baseball game.",
+        "choices": [
+            "Necesitamos comprar entradas para el partido de fútbol",
+            "Necesitamos comprar entradas para el partido de baloncesto",
+            "Necesitamos comprar entradas para el partido de béisbol",
+            "Necesitamos comprar entradas para el partido de tenis"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 21,
+        "question": "The marathon starts at 7 AM on Sunday.",
+        "choices": [
+            "El maratón comienza el domingo a las 7 de la mañana",
+            "El maratón comienza el sábado a las 12 del mediodía",
+            "El maratón comienza el domingo a las 7 de la tarde",
+            "El maratón comienza el lunes a las 6 de la mañana"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "He is the captain of the volleyball team.",
+        "choices": [
+            "Es el capitán del equipo de fútbol",
+            "Es el capitán del equipo de baloncesto",
+            "Es el capitán del equipo de voleibol",
+            "Es el capitán del equipo de balonmano"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "The cycling race covers a distance of 100 kilometers.",
+        "choices": [
+            "La carrera ciclista cubre una distancia de 50 kilómetros",
+            "La carrera ciclista cubre una distancia de 75 kilómetros",
+            "La carrera ciclista cubre una distancia de 100 kilómetros",
+            "La carrera ciclista cubre una distancia de 150 kilómetros"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "We need to inflate the basketball before the game.",
+        "choices": [
+            "Necesitamos inflar el balón de fútbol antes del partido",
+            "Necesitamos inflar el balón de baloncesto antes del partido",
+            "Necesitamos inflar el balón de voleibol antes del partido",
+            "Necesitamos revisar la pelota de tenis antes del partido"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "The ice skating rink is very crowded on weekends.",
+        "choices": [
+            "La pista de patinaje sobre hielo está muy llena los fines de semana",
+            "La pista de patinaje sobre hielo está muy llena entre semana",
+            "La pista de patinaje sobre hielo está siempre vacía",
+            "La pista de patinaje sobre hielo solo está llena por las noches"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 26,
+        "question": "She won first place in the gymnastics competition.",
+        "choices": [
+            "Ganó el primer lugar en la competencia de natación",
+            "Ganó el primer lugar en la competencia de atletismo",
+            "Ganó el primer lugar en la competencia de gimnasia",
+            "Ganó el primer lugar en la competencia de esquí"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "The football stadium can seat 50,000 people.",
+        "choices": [
+            "El estadio de fútbol tiene capacidad para 30,000 personas",
+            "El estadio de fútbol tiene capacidad para 40,000 personas",
+            "El estadio de fútbol tiene capacidad para 50,000 personas",
+            "El estadio de fútbol tiene capacidad para 60,000 personas"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "We're going to watch the Olympic Games on TV.",
+        "choices": [
+            "Vamos a ver los Juegos Olímpicos en la televisión",
+            "Vamos a ver la Copa Mundial en la televisión",
+            "Vamos a ver la Liga de Campeones en la televisión",
+            "Vamos a ver el Campeonato Europeo en la televisión"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "He needs to improve his backhand in tennis.",
+        "choices": [
+            "Necesita mejorar su saque en tenis",
+            "Necesita mejorar su golpe de derecha en tenis",
+            "Necesita mejorar su golpe de revés en tenis",
+            "Necesita mejorar su volea en tenis"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 30,
+        "question": "The surfer is waiting for the perfect wave.",
+        "choices": [
+            "El surfista está esperando la ola perfecta",
+            "El surfista está esperando a sus amigos",
+            "El surfista está revisando el pronóstico del tiempo",
+            "El surfista está preparando su equipo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 31,
+        "question": "They are playing badminton in the park.",
+        "choices": [
+            "Están jugando tenis en el parque",
+            "Están jugando baloncesto en el parque",
+            "Están jugando bádminton en el parque",
+            "Están jugando fútbol en el parque"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "The boxer is training for his next fight.",
+        "choices": [
+            "El boxeador está entrenando para su próxima pelea",
+            "El boxeador se ha retirado",
+            "El boxeador está de vacaciones",
+            "El boxeador está dando una conferencia de prensa"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 33,
+        "question": "We need to replace the net on the tennis court.",
+        "choices": [
+            "Necesitamos reemplazar el aro en la cancha de baloncesto",
+            "Necesitamos reemplazar las redes de las porterías en el campo de fútbol",
+            "Necesitamos reemplazar la red en la cancha de tenis",
+            "Necesitamos renovar las líneas en la cancha de voleibol"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 34,
+        "question": "The golf tournament will last for four days.",
+        "choices": [
+            "El torneo de golf durará dos días",
+            "El torneo de golf durará tres días",
+            "El torneo de golf durará cuatro días",
+            "El torneo de golf durará una semana."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "She is doing push-ups to build upper body strength.",
+        "choices": [
+            "Hace flexiones para aumentar la fuerza de la parte superior del cuerpo",
+            "Él trota para aumentar la fuerza de la parte superior del cuerpo.",
+            "Levanta pesas para aumentar la fuerza de la parte superior del cuerpo",
+            "Nadar para desarrollar la fuerza de la parte superior del cuerpo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 36,
+        "question": "The referee showed a red card to the player.",
+        "choices": [
+            "El árbitro le mostró la tarjeta amarilla al jugador.",
+            "El árbitro le mostró la tarjeta roja al jugador.",
+            "El árbitro le mostró al jugador una tarjeta verde.",
+            "El árbitro le mostró una tarjeta azul al jugador."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "We need to buy new tennis balls for practice.",
+        "choices": [
+            "Necesitamos comprar nuevos balones para entrenar.",
+            "Necesitamos comprar nuevos balones de baloncesto para entrenar.",
+            "Necesitamos comprar nuevas pelotas de tenis para entrenar.",
+            "Necesitamos comprar nuevos balones de voleibol para practicar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "The swimmer broke the world record in the 100-meter freestyle.",
+        "choices": [
+            "Nadador rompe récord mundial en 100m libre.",
+            "Nadador rompe récord mundial en 200m mariposa.",
+            "Nadador rompe récord mundial en 400 m combinados.",
+            "Nadador rompe récord mundial en 50m espalda"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 39,
+        "question": "The basketball player scored a three-pointer at the buzzer.",
+        "choices": [
+            "El jugador de baloncesto lanzó un tiro libre en el último segundo.",
+            "Un jugador de baloncesto lanza un tiro de tres puntos en el último segundo.",
+            "El jugador de baloncesto cometió una falta en el último segundo.",
+            "El jugador de baloncesto robó el balón en el último segundo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 40,
+        "question": "We're going skiing in the mountains next weekend.",
+        "choices": [
+            "El próximo fin de semana esquiaremos en las montañas",
+            "El próximo fin de semana nadaremos en la playa.",
+            "El próximo fin de semana daremos una vuelta por la ciudad en bicicleta.",
+            "El próximo fin de semana vamos a acampar en el bosque"
+        ],
+        "correctAnswer": 0
+    }
+]
