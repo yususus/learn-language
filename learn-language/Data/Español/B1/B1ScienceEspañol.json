@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "question": "The scientific method helps researchers conduct experiments.",
+        "choices": [
+            "El método científico es solo un concepto teórico.",
+            "El método científico ayuda a los investigadores a realizar experimentos.",
+            "El método científico es innecesario.",
+            "El método científico solo es válido para matemáticas."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "Water is essential for all living organisms.",
+        "choices": [
+            "El agua es solo para plantas.",
+            "El agua solo es necesaria para los animales.",
+            "El agua es innecesaria.",
+            "El agua es necesaria para todos los seres vivos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 3,
+        "question": "Atoms are the building blocks of matter.",
+        "choices": [
+            "Los átomos solo existen para objetos grandes.",
+            "Los átomos son innecesarios.",
+            "Los átomos solo se usan en química.",
+            "Los átomos son los bloques fundamentales de la materia."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 4,
+        "question": "Plants produce oxygen through photosynthesis.",
+        "choices": [
+            "Las plantas solo absorben agua.",
+            "Las plantas producen oxígeno a través de la fotosíntesis.",
+            "Las plantas no producen oxígeno.",
+            "Las plantas solo absorben dióxido de carbono."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "Gravity is the force that pulls objects towards each other.",
+        "choices": [
+            "La gravedad es solo para objetos grandes.",
+            "La gravedad es innecesaria.",
+            "La gravedad es una fuerza que atrae los objetos entre sí.",
+            "La gravedad solo existe en el espacio."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "The Earth orbits the Sun in about 365 days.",
+        "choices": [
+            "La Tierra gira constantemente alrededor del Sol.",
+            "La Tierra no está cerca del Sol.",
+            "La Tierra solo gira durante el verano.",
+            "La Tierra orbita alrededor del Sol en aproximadamente 365 días."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 7,
+        "question": "Recycling helps reduce waste in the environment.",
+        "choices": [
+            "El reciclaje solo es válido para plásticos.",
+            "El reciclaje es innecesario.",
+            "El reciclaje ayuda a reducir los residuos en el medio ambiente.",
+            "El reciclaje solo proporciona beneficios económicos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "The human body is made up of cells.",
+        "choices": [
+            "El cuerpo humano solo está hecho de tejidos.",
+            "El cuerpo humano está compuesto de células.",
+            "Las células del cuerpo humano son innecesarias.",
+            "El cuerpo humano solo está hecho de órganos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "question": "Physics studies the properties of matter and energy.",
+        "choices": [
+            "La física estudia las propiedades de la materia y la energía.",
+            "La física solo estudia el movimiento.",
+            "La física es innecesaria.",
+            "La física es solo un campo teórico."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "Chemistry involves the study of substances and their reactions.",
+        "choices": [
+            "La química implica el estudio de sustancias y sus reacciones.",
+            "La química solo estudia elementos.",
+            "La química es innecesaria.",
+            "La química solo trata con líquidos."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 11,
+        "question": "Biology is the study of living organisms.",
+        "choices": [
+            "La biología solo estudia plantas.",
+            "La biología es innecesaria.",
+            "La biología es la ciencia que estudia los seres vivos.",
+            "La biología es solo para animales."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "The internet has made scientific research more accessible.",
+        "choices": [
+            "El internet es solo para redes sociales.",
+            "El internet ha hecho la investigación científica más accesible.",
+            "El internet es innecesario.",
+            "El internet es solo para entretenimiento."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "Vaccines help protect us from diseases.",
+        "choices": [
+            "Las vacunas son solo para niños.",
+            "Las vacunas son innecesarias.",
+            "Las vacunas son solo para ciertas enfermedades.",
+            "Las vacunas nos ayudan a protegernos de las enfermedades."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "The study of climate change is important for our future.",
+        "choices": [
+            "El cambio climático es solo una teoría.",
+            "El cambio climático es innecesario.",
+            "El estudio del cambio climático es importante para nuestro futuro.",
+            "El cambio climático solo tiene que ver con fenómenos naturales."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "question": "Astronomy is the study of celestial bodies.",
+        "choices": [
+            "La astronomía solo estudia las estrellas.",
+            "La astronomía es la ciencia que estudia los cuerpos celestes.",
+            "La astronomía es innecesaria.",
+            "La astronomía solo trata sobre viajes espaciales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "question": "Robotics is a branch of engineering that deals with robots.",
+        "choices": [
+            "La robótica es una rama de la ingeniería que se ocupa de los robots.",
+            "La robótica solo trata sobre automatización.",
+            "La robótica es innecesaria.",
+            "La robótica solo trata sobre desarrollo de software."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 17,
+        "question": "DNA carries genetic information.",
+        "choices": [
+            "El ADN solo tiene que ver con proteínas.",
+            "El ADN es innecesario.",
+            "El ADN solo se encuentra en células.",
+            "El ADN transporta información genética."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 18,
+        "question": "The ozone layer protects us from harmful UV rays.",
+        "choices": [
+            "La capa de ozono solo existe en las ciudades.",
+            "La capa de ozono es innecesaria.",
+            "La capa de ozono nos ayuda a protegernos de los rayos UV dañinos.",
+            "La capa de ozono solo existe en libros de ciencia ficción."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "Energy can be transformed from one form to another.",
+        "choices": [
+            "La energía solo tiene que ver con la electricidad.",
+            "La energía puede transformarse de una forma a otra.",
+            "La energía es innecesaria.",
+            "La energía solo tiene que ver con el movimiento."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "Scientific discoveries often lead to technological advancements.",
+        "choices": [
+            "Los descubrimientos científicos a menudo conducen a avances tecnológicos.",
+            "Los descubrimientos científicos son solo conocimiento teórico.",
+            "Los descubrimientos científicos son innecesarios.",
+            "Los descubrimientos científicos solo fueron importantes en el pasado."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "Physics can explain the laws of motion.",
+        "choices": [
+            "La física solo trata sobre fuerzas.",
+            "La física es innecesaria.",
+            "La física solo hace cálculos matemáticos.",
+            "La física puede explicar las leyes del movimiento."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 22,
+        "question": "Natural selection is a key concept in evolution.",
+        "choices": [
+            "La selección natural solo es válida para plantas.",
+            "La selección natural es un concepto importante en la evolución.",
+            "La selección natural es innecesaria.",
+            "La selección natural solo existe para animales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "Sustainable energy sources are important for the environment.",
+        "choices": [
+            "La energía sostenible solo tiene que ver con costos.",
+            "La energía sostenible es innecesaria.",
+            "Las fuentes de energía sostenible son importantes para el medio ambiente.",
+            "La energía sostenible solo será importante en el futuro."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "The human brain controls all body functions.",
+        "choices": [
+            "El cerebro humano solo tiene que ver con el pensamiento.",
+            "El cerebro humano es innecesario.",
+            "El cerebro humano solo controla las respuestas emocionales.",
+            "El cerebro humano controla todas las funciones corporales."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 25,
+        "question": "Chemicals can be dangerous if not handled properly.",
+        "choices": [
+            "Los productos químicos siempre son seguros.",
+            "Los productos químicos pueden ser peligrosos si no se manejan adecuadamente.",
+            "Los productos químicos solo se usan en la industria.",
+            "Los productos químicos son innecesarios."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "Scientific research often requires collaboration between experts.",
+        "choices": [
+            "La investigación científica se puede hacer solo.",
+            "La investigación científica es innecesaria.",
+            "La investigación científica a menudo requiere colaboración entre expertos.",
+            "La investigación científica solo es válida en ciertos temas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "Environmental science studies the relationship between humans and nature.",
+        "choices": [
+            "La ciencia ambiental solo trata sobre plantas.",
+            "La ciencia ambiental estudia la relación entre los humanos y la naturaleza.",
+            "La ciencia ambiental es innecesaria.",
+            "La ciencia ambiental solo trata sobre el clima."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "The scientific community values peer review for research quality.",
+        "choices": [
+            "La comunidad científica solo considera sus propias opiniones.",
+            "La comunidad científica es innecesaria.",
+            "La comunidad científica valora la revisión por pares para la calidad de la investigación.",
+            "La comunidad científica solo se interesa por ciertos temas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "Observations are crucial in the scientific process.",
+        "choices": [
+            "Las observaciones son cruciales en el proceso científico.",
+            "Las observaciones solo son necesarias para experimentos.",
+            "Las observaciones son innecesarias.",
+            "Las observaciones solo se basan en la intuición."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "Botany is the study of plants.",
+        "choices": [
+            "La botánica solo estudia las flores.",
+            "La botánica es innecesaria.",
+            "La botánica es la ciencia que estudia las plantas.",
+            "La botánica solo trata sobre árboles."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "Zoology is the study of animals.",
+        "choices": [
+            "La zoología solo trata sobre mascotas.",
+            "La zoología es innecesaria.",
+            "La zoología es la ciencia que estudia los animales.",
+            "La zoología solo trata sobre animales marinos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "Geology is the study of the Earth and its processes.",
+        "choices": [
+            "La geología solo estudia las rocas.",
+            "La geología es la ciencia que estudia la Tierra y sus procesos.",
+            "La geología es innecesaria.",
+            "La geología solo trata sobre senderismo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 33,
+        "question": "Meteorology studies the atmosphere and weather.",
+        "choices": [
+            "La meteorología solo estudia los vientos.",
+            "La meteorología es innecesaria.",
+            "La meteorología solo trata sobre el cambio climático.",
+            "La meteorología estudia la atmósfera y el clima."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 34,
+        "question": "Research in genetics can lead to important medical advancements.",
+        "choices": [
+            "La genética es solo un campo teórico.",
+            "La genética es innecesaria.",
+            "La genética solo estudia enfermedades.",
+            "La investigación en genética puede llevar a importantes avances médicos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 35,
+        "question": "The process of evolution explains how species change over time.",
+        "choices": [
+            "La evolución solo ocurrió en el pasado.",
+            "La evolución es innecesaria.",
+            "La evolución solo es válida en clases de biología.",
+            "El proceso de evolución explica cómo las especies cambian a lo largo del tiempo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 36,
+        "question": "Scientific innovations can improve our quality of life.",
+        "choices": [
+            "Las innovaciones científicas son solo para personas ricas.",
+            "Las innovaciones científicas pueden mejorar nuestra calidad de vida.",
+            "Las innovaciones científicas son innecesarias.",
+            "Las innovaciones científicas solo tienen que ver con la tecnología."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 37,
+        "question": "Artificial intelligence is becoming more common in our daily lives.",
+        "choices": [
+            "La inteligencia artificial solo se usa en juegos.",
+            "La inteligencia artificial es innecesaria.",
+            "La inteligencia artificial se está volviendo más común en nuestra vida diaria.",
+            "La inteligencia artificial solo existe en películas de ciencia ficción."
+        ],
+        "correctAnswer": 2
+    }
+]
+ 

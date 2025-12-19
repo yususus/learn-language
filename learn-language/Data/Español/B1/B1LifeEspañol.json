@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "question": "I usually wake up at 7 AM on weekdays.",
+        "choices": [
+            "Me despierto a la misma hora todos los días.",
+            "No quiero despertarme.",
+            "Normalmente me despierto a las 7 de la mañana los días de semana.",
+            "Nunca me despierto por las mañanas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "question": "I like to drink coffee in the morning.",
+        "choices": [
+            "Beber café no es saludable.",
+            "El café siempre es caro.",
+            "No bebo café.",
+            "Me gusta tomar café por la mañana."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 3,
+        "question": "I take the bus to work every day.",
+        "choices": [
+            "Tomo el autobús para ir al trabajo todos los días.",
+            "Camino al trabajo.",
+            "No voy al trabajo.",
+            "Conduzco al trabajo."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 4,
+        "question": "I enjoy cooking dinner for my family.",
+        "choices": [
+            "Disfruto cocinar la cena para mi familia.",
+            "Cocinar es un trabajo difícil.",
+            "No cocino para mi familia.",
+            "A mi familia no le gusta cocinar."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 5,
+        "question": "I usually read a book before bed.",
+        "choices": [
+            "Leer libros es muy aburrido.",
+            "Veo la televisión antes de acostarme.",
+            "Normalmente leo un libro antes de acostarme.",
+            "No hago nada antes de acostarme."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 6,
+        "question": "I like to go for a walk in the park.",
+        "choices": [
+            "No me gusta caminar en absoluto.",
+            "Me gusta caminar en el parque.",
+            "No voy al parque.",
+            "Caminar es difícil."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "I often meet my friends on weekends.",
+        "choices": [
+            "Me gusta estar solo los fines de semana.",
+            "Nunca llamo a mis amigos.",
+            "A menudo me encuentro con mis amigos los fines de semana.",
+            "Es difícil reunirse con amigos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "I like to watch movies in my free time.",
+        "choices": [
+            "Ver películas es muy aburrido.",
+            "No tengo tiempo libre.",
+            "No veo películas.",
+            "Me gusta ver películas en mi tiempo libre."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "I usually go grocery shopping on Sundays.",
+        "choices": [
+            "No me gusta ir de compras.",
+            "Hago compras todos los días.",
+            "No voy de compras.",
+            "Normalmente hago las compras los domingos."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 10,
+        "question": "I love trying new recipes.",
+        "choices": [
+            "Las recetas son muy complicadas.",
+            "Me encanta probar nuevas recetas.",
+            "Nunca pruebo nuevas recetas.",
+            "No quiero cocinar."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "question": "I enjoy listening to music while I work.",
+        "choices": [
+            "Escuchar música me distrae.",
+            "Prefiero trabajar en silencio.",
+            "Me gusta escuchar música mientras trabajo.",
+            "No escucho música."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "I often go to the gym to stay fit.",
+        "choices": [
+            "No voy al gimnasio.",
+            "Voy al gimnasio con frecuencia para mantenerme en forma.",
+            "No me gusta hacer ejercicio.",
+            "Solo hago natación."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "I usually go to bed at 11 PM.",
+        "choices": [
+            "Necesito quedarme despierto hasta tarde.",
+            "Nunca duermo por la noche.",
+            "Normalmente me acuesto a las 11 de la noche.",
+            "Me acuesto a las 10 de la noche."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "question": "I like to drink tea in the evening.",
+        "choices": [
+            "No me gusta tomar té.",
+            "Bebo café por la noche.",
+            "No tomo té.",
+            "Me gusta tomar té por la noche."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 15,
+        "question": "I often visit my grandparents on holidays.",
+        "choices": [
+            "Nunca visito a mis abuelos.",
+            "Visito a mis abuelos con frecuencia durante las vacaciones.",
+            "Solo los visito durante las vacaciones de verano.",
+            "No veo a mis abuelos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "question": "I like to keep my house clean and organized.",
+        "choices": [
+            "Mi casa siempre está desordenada.",
+            "Me gusta mantener mi casa limpia y organizada.",
+            "La limpieza no es importante para mí.",
+            "Me gusta que mi casa esté desordenada."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "I enjoy gardening in my free time.",
+        "choices": [
+            "No tengo interés en la jardinería.",
+            "El jardín siempre está desordenado.",
+            "No trabajo en mi jardín.",
+            "Disfruto de la jardinería en mi tiempo libre."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 18,
+        "question": "I like to travel to new places.",
+        "choices": [
+            "Viajar es muy difícil.",
+            "No me gusta viajar.",
+            "Me gusta viajar a lugares nuevos.",
+            "Siempre me quedo en el mismo lugar."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "I often cook breakfast for my family on weekends.",
+        "choices": [
+            "Preparar el desayuno es difícil.",
+            "Cocino el desayuno para mi familia los fines de semana.",
+            "Nunca preparo el desayuno.",
+            "El desayuno no es importante para mí."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "I like to go shopping for clothes.",
+        "choices": [
+            "Ir de compras es aburrido.",
+            "Me gusta ir de compras para ropa.",
+            "Nunca compro ropa.",
+            "Solo compro lo necesario."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "I enjoy reading the news every morning.",
+        "choices": [
+            "Las noticias siempre son parciales.",
+            "Me gusta leer las noticias cada mañana.",
+            "No me gusta leer noticias.",
+            "Solo reviso las redes sociales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 22,
+        "question": "I often spend time with my family during holidays.",
+        "choices": [
+            "Me gusta pasar tiempo con mi familia durante las vacaciones.",
+            "Prefiero estar solo en los días festivos.",
+            "No paso tiempo con mi familia.",
+            "No hablo con mi familia."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 23,
+        "question": "I like to play games with my friends.",
+        "choices": [
+            "Me gusta jugar con mis amigos.",
+            "Jugar es una pérdida de tiempo.",
+            "No juego juegos.",
+            "Solo juego solo."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "I enjoy trying new restaurants.",
+        "choices": [
+            "Siempre prefiero el mismo lugar.",
+            "Los restaurantes son muy caros.",
+            "Me gusta probar nuevos restaurantes.",
+            "No como fuera."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 25,
+        "question": "I often ride my bike in the evening.",
+        "choices": [
+            "No me gusta andar en bicicleta.",
+            "Siempre camino.",
+            "No tengo bicicleta.",
+            "A menudo ando en bicicleta por la noche."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 26,
+        "question": "I like to write in my journal every day.",
+        "choices": [
+            "Escribir es un trabajo difícil.",
+            "Nunca escribo.",
+            "Me gusta escribir en mi diario todos los días.",
+            "Solo hago dibujos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "I often practice speaking English with friends.",
+        "choices": [
+            "No me gusta hablar inglés.",
+            "Practico hablar inglés con mis amigos.",
+            "Nunca practico.",
+            "Solo hablo en las clases."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "I like to plan my week every Sunday.",
+        "choices": [
+            "Me gusta planificar mi semana todos los domingos.",
+            "Planificar es aburrido.",
+            "Nunca hago planes.",
+            "Siempre actúo espontáneamente."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "I enjoy visiting museums in my free time.",
+        "choices": [
+            "Los museos son muy aburridos.",
+            "No visito museos.",
+            "Me gusta visitar museos en mi tiempo libre.",
+            "Solo visito lugares históricos."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 30,
+        "question": "I like to help my neighbors when they need it.",
+        "choices": [
+            "No ayudo a mis vecinos.",
+            "Me gusta ayudar a mis vecinos cuando lo necesitan.",
+            "Solo me ocupo de mis propios asuntos.",
+            "No quiero ayudar."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 31,
+        "question": "I often go to the library to study.",
+        "choices": [
+            "La biblioteca es muy silenciosa.",
+            "No voy a la biblioteca.",
+            "Las bibliotecas son aburridas.",
+            "A menudo voy a la biblioteca para estudiar."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 32,
+        "question": "I like to take photos of nature.",
+        "choices": [
+            "Tomar fotos es difícil.",
+            "Nunca tomo fotos.",
+            "Me gusta tomar fotos de la naturaleza.",
+            "Solo tomo fotos de personas."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "question": "I enjoy participating in community events.",
+        "choices": [
+            "No participo en eventos.",
+            "Solo voy a los eventos de mis amigos.",
+            "Los eventos son muy aburridos.",
+            "Me gusta participar en eventos comunitarios."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 34,
+        "question": "I like to learn new things every day.",
+        "choices": [
+            "Aprender cosas nuevas es difícil.",
+            "Me gusta aprender cosas nuevas todos los días.",
+            "Nunca aprendo algo nuevo.",
+            "Ya lo sé todo."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "I often go for coffee with my friends.",
+        "choices": [
+            "A menudo salgo a tomar café con mis amigos.",
+            "No me gusta tomar café.",
+            "Nunca me reúno con mis amigos.",
+            "El café solo se toma en casa."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 36,
+        "question": "I like to volunteer in my community.",
+        "choices": [
+            "Ser voluntario es aburrido.",
+            "Nunca hago voluntariado.",
+            "Me gusta ser voluntario en mi comunidad.",
+            "Solo hago mi propio trabajo."
+        ],
+        "correctAnswer": 2
+    }
+]

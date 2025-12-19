@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "question": "Playing sports helps improve physical health.",
+        "choices": [
+            "El deporte es solo para diversión.",
+            "El deporte es insalubre.",
+            "El deporte mejora la salud física.",
+            "El deporte es innecesario."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "question": "Team sports encourage teamwork and cooperation.",
+        "choices": [
+            "Los deportes de equipo son solo para diversión.",
+            "Los deportes de equipo fomentan la cooperación.",
+            "Los deportes de equipo solo desarrollan habilidades individuales.",
+            "Los deportes de equipo son innecesarios."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "question": "Regular exercise is beneficial for mental health.",
+        "choices": [
+            "El ejercicio solo es beneficioso para la salud física.",
+            "El ejercicio es solo para diversión.",
+            "El ejercicio es innecesario.",
+            "El ejercicio regular es beneficioso para la salud mental."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 4,
+        "question": "Swimming is a good way to relax.",
+        "choices": [
+            "La natación es una actividad difícil.",
+            "La natación es insalubre.",
+            "La natación es solo para competición.",
+            "La natación es una buena forma de relajarse."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Playing soccer is popular around the world.",
+        "choices": [
+            "El fútbol es solo para diversión.",
+            "El fútbol es innecesario.",
+            "El fútbol solo es popular en algunos países.",
+            "El fútbol es popular en todo el mundo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 6,
+        "question": "Yoga can improve flexibility and strength.",
+        "choices": [
+            "El yoga solo proporciona relajación mental.",
+            "El yoga es solo divertido.",
+            "El yoga es innecesario.",
+            "El yoga puede mejorar la flexibilidad y la fuerza."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 7,
+        "question": "Running is a great way to stay fit.",
+        "choices": [
+            "Correr es solo divertido.",
+            "Correr es insalubre.",
+            "Correr es innecesario.",
+            "Correr es una excelente manera de mantenerse en forma."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 8,
+        "question": "Cycling can be done indoors or outdoors.",
+        "choices": [
+            "El ciclismo solo se practica al aire libre.",
+            "El ciclismo es solo para diversión.",
+            "El ciclismo es innecesario.",
+            "El ciclismo se puede practicar en interiores o exteriores."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "Martial arts teach self-discipline.",
+        "choices": [
+            "Las artes marciales solo enseñan a pelear.",
+            "Las artes marciales son solo diversión.",
+            "Las artes marciales son innecesarias.",
+            "Las artes marciales enseñan autodisciplina."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 10,
+        "question": "Sports can bring people together.",
+        "choices": [
+            "Los deportes son solo actividades individuales.",
+            "Los deportes son solo para diversión.",
+            "Los deportes son innecesarios.",
+            "Los deportes pueden unir a las personas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 11,
+        "question": "Participating in sports can boost confidence.",
+        "choices": [
+            "Participar en deportes es solo diversión.",
+            "Participar en deportes es innecesario.",
+            "Participar en deportes puede aumentar la confianza.",
+            "Participar en deportes es solo para competiciones."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 12,
+        "question": "Basketball is played with a team of five players.",
+        "choices": [
+            "El baloncesto es solo un juego individual.",
+            "El baloncesto se juega con un equipo de cinco jugadores.",
+            "El baloncesto es innecesario.",
+            "El baloncesto es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "Fitness classes are popular among many people.",
+        "choices": [
+            "Las clases de fitness son solo para atletas.",
+            "Las clases de fitness son innecesarias.",
+            "Las clases de fitness son solo para diversión.",
+            "Las clases de fitness son populares entre mucha gente."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "Hiking is a great way to explore nature.",
+        "choices": [
+            "El senderismo es una excelente manera de explorar la naturaleza.",
+            "El senderismo es solo difícil.",
+            "El senderismo es innecesario.",
+            "El senderismo es solo para diversión."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 15,
+        "question": "Playing sports teaches important life skills.",
+        "choices": [
+            "Practicar deportes enseña habilidades importantes para la vida.",
+            "Practicar deportes es solo para diversión.",
+            "Practicar deportes es innecesario.",
+            "Practicar deportes es solo actividad física."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "Volleyball can be played on the beach.",
+        "choices": [
+            "El voleibol solo se juega en interiores.",
+            "El voleibol se puede jugar en la playa.",
+            "El voleibol es innecesario.",
+            "El voleibol es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "Golf requires skill and patience.",
+        "choices": [
+            "El golf es un deporte fácil.",
+            "El golf es innecesario.",
+            "El golf requiere habilidad y paciencia.",
+            "El golf es solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "Ice skating can be a fun winter activity.",
+        "choices": [
+            "El patinaje sobre hielo es solo para profesionales.",
+            "El patinaje sobre hielo es innecesario.",
+            "El patinaje sobre hielo puede ser una actividad divertida de invierno.",
+            "El patinaje sobre hielo es solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "Cheerleading is a supportive role in sports.",
+        "choices": [
+            "La animación deportiva es solo diversión.",
+            "La animación deportiva es un rol de apoyo en los deportes.",
+            "La animación deportiva es innecesaria.",
+            "La animación deportiva es solo para equipos profesionales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "Surfing is popular in coastal areas.",
+        "choices": [
+            "El surf solo se practica en invierno.",
+            "El surf es popular en las zonas costeras.",
+            "El surf es innecesario.",
+            "El surf es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "Sports events can create a sense of community.",
+        "choices": [
+            "Los eventos deportivos son solo actividades individuales.",
+            "Los eventos deportivos son innecesarios.",
+            "Los eventos deportivos pueden crear un sentido de comunidad.",
+            "Los eventos deportivos son solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "Dance is a form of physical exercise.",
+        "choices": [
+            "El baile es solo diversión.",
+            "El baile es una forma de ejercicio físico.",
+            "El baile es innecesario.",
+            "El baile es solo una actividad social."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "Participating in marathons requires training.",
+        "choices": [
+            "Los maratones son solo para diversión.",
+            "Los maratones son innecesarios.",
+            "Los maratones son solo para profesionales.",
+            "Participar en maratones requiere entrenamiento."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 24,
+        "question": "Strength training can help build muscles.",
+        "choices": [
+            "El entrenamiento de fuerza es solo para adelgazar.",
+            "El entrenamiento de fuerza puede ayudar a desarrollar músculos.",
+            "El entrenamiento de fuerza es innecesario.",
+            "El entrenamiento de fuerza es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "question": "Participating in sports can lead to lifelong friendships.",
+        "choices": [
+            "Los deportes son solo actividades individuales.",
+            "Participar en deportes puede llevar a amistades duraderas.",
+            "Los deportes son innecesarios.",
+            "Los deportes son solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "Playing tennis improves hand-eye coordination.",
+        "choices": [
+            "El tenis es solo para diversión.",
+            "El tenis es innecesario.",
+            "Jugar tenis mejora la coordinación mano-ojo.",
+            "El tenis es solo una actividad individual."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "Outdoor sports can boost your mood.",
+        "choices": [
+            "Los deportes al aire libre son solo para diversión.",
+            "Los deportes al aire libre son innecesarios.",
+            "Los deportes al aire libre solo se practican en interiores.",
+            "Los deportes al aire libre pueden mejorar tu estado de ánimo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 28,
+        "question": "Sports can teach us about winning and losing gracefully.",
+        "choices": [
+            "El deporte solo se centra en ganar.",
+            "El deporte es innecesario.",
+            "El deporte nos enseña a ganar y perder con gracia.",
+            "El deporte es solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 29,
+        "question": "Taking part in sports can enhance your discipline.",
+        "choices": [
+            "Los deportes son solo para diversión.",
+            "Participar en deportes puede mejorar tu disciplina.",
+            "Los deportes son innecesarios.",
+            "Los deportes son solo para logros individuales."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "Athletics includes running, jumping, and throwing.",
+        "choices": [
+            "El atletismo es solo correr.",
+            "El atletismo incluye correr, saltar y lanzar.",
+            "El atletismo es innecesario.",
+            "El atletismo es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 31,
+        "question": "Watching sports can be exciting.",
+        "choices": [
+            "Ver deportes es una pérdida de tiempo.",
+            "Ver deportes es innecesario.",
+            "Ver deportes puede ser emocionante.",
+            "Ver deportes es solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "Rugby is a contact sport.",
+        "choices": [
+            "El rugby es solo un juego individual.",
+            "El rugby es innecesario.",
+            "El rugby es solo para diversión.",
+            "El rugby es un deporte de contacto."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "Being active is important for a healthy lifestyle.",
+        "choices": [
+            "Ser sedentario es saludable.",
+            "Estar activo es importante para un estilo de vida saludable.",
+            "Estar activo es innecesario.",
+            "Estar activo es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "Fitness apps can help you track your progress.",
+        "choices": [
+            "Las aplicaciones de fitness son solo para gimnasios.",
+            "Las aplicaciones de fitness son innecesarias.",
+            "Las aplicaciones de fitness pueden ayudarte a seguir tu progreso.",
+            "Las aplicaciones de fitness son solo para diversión."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 35,
+        "question": "Biking can be a fun way to explore your city.",
+        "choices": [
+            "Andar en bicicleta es solo para competición.",
+            "Andar en bicicleta es una forma divertida de explorar tu ciudad.",
+            "Andar en bicicleta es innecesario.",
+            "Andar en bicicleta es solo para diversión."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "question": "Sports can help improve concentration.",
+        "choices": [
+            "El deporte es solo para actividades físicas.",
+            "El deporte es innecesario.",
+            "El deporte es solo para diversión.",
+            "El deporte puede mejorar la concentración."
+        ],
+        "correctAnswer": 3
+    }
+]

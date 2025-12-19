@@ -1,0 +1,409 @@
+[
+    {
+        "id": 1,
+        "question": "I study at a local university.",
+        "choices": [
+            "Estudio en una universidad local.",
+            "No voy a la universidad.",
+            "Solo estudio en la escuela secundaria.",
+            "Solo tomo clases en línea."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "My favorite subject is mathematics.",
+        "choices": [
+            "No me gusta nada la matemática.",
+            "Solo me gusta la literatura.",
+            "Mi materia favorita es la matemática.",
+            "Me gustan todas las materias por igual."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "I have a study group with my classmates.",
+        "choices": [
+            "No tengo ningún grupo de estudio.",
+            "Tengo un grupo de estudio con mis compañeros de clase.",
+            "Solo estudio por mi cuenta.",
+            "Nunca estudio con mis amigos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "I enjoy reading books related to my field.",
+        "choices": [
+            "No me gusta leer libros.",
+            "Solo leo novelas.",
+            "Solo obtengo información de internet.",
+            "Me gusta leer libros relacionados con mi campo."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "I participate in extracurricular activities.",
+        "choices": [
+            "No participo en actividades extracurriculares.",
+            "Participo en pequeñas actividades artísticas.",
+            "Solo estudio.",
+            "No participo en ninguna actividad."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "My teachers are very supportive.",
+        "choices": [
+            "A mis maestros no les gusto.",
+            "No tengo maestros.",
+            "No me gusta pedir ayuda a mis maestros.",
+            "Mis maestros son muy solidarios."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 7,
+        "question": "I have to complete my homework on time.",
+        "choices": [
+            "No me gusta hacer tareas.",
+            "Tengo que completar mis tareas a tiempo.",
+            "Mis tareas no son importantes.",
+            "Solo estudio antes de los exámenes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "question": "I take notes during lectures.",
+        "choices": [
+            "No me gusta tomar apuntes.",
+            "Solo escucho las clases.",
+            "Tomo apuntes durante las clases.",
+            "Tomar apuntes no es importante."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "question": "I study a foreign language at school.",
+        "choices": [
+            "No tomo clases de idiomas.",
+            "Estudio un idioma extranjero en la escuela.",
+            "Solo aprendo turco.",
+            "No quiero aprender un idioma."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "I enjoy group discussions in class.",
+        "choices": [
+            "No participo en discusiones.",
+            "Solo me mantengo en silencio.",
+            "Prefiero trabajar solo.",
+            "Disfruto las discusiones grupales en clase."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 11,
+        "question": "I often visit the library to study.",
+        "choices": [
+            "Visito la biblioteca frecuentemente para estudiar.",
+            "No voy a la biblioteca.",
+            "Solo estudio en casa.",
+            "No me gusta la biblioteca."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "I plan to continue my education after graduation.",
+        "choices": [
+            "Quiero terminar mi educación.",
+            "Solo planeo empezar a trabajar.",
+            "Planeo continuar mi educación después de graduarme.",
+            "La educación no es importante para mí."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 13,
+        "question": "My school organizes educational trips.",
+        "choices": [
+            "Nunca participo en excursiones.",
+            "Mi escuela organiza viajes educativos.",
+            "No me gustan los viajes educativos.",
+            "Mi escuela no organiza actividades como estas."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "question": "I use online resources for studying.",
+        "choices": [
+            "Nunca uso recursos en línea.",
+            "Utilizo recursos en línea para estudiar.",
+            "Solo leo libros.",
+            "No participo en clases en línea."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "I participate in class presentations.",
+        "choices": [
+            "No me gusta hacer presentaciones.",
+            "Participo en presentaciones en clase.",
+            "Nunca hago presentaciones.",
+            "Solo mis amigos presentan."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "question": "My education is very important to me.",
+        "choices": [
+            "La educación no es importante.",
+            "Mi educación es muy importante para mí.",
+            "Solo quiero divertirme.",
+            "La escuela no es importante para mí."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "I often review my notes before exams.",
+        "choices": [
+            "Nunca reviso mis apuntes.",
+            "Solo estudio un día antes del examen.",
+            "Reviso mis apuntes frecuentemente antes de los exámenes.",
+            "No me preparo para los exámenes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 18,
+        "question": "I have a mentor who helps me with my studies.",
+        "choices": [
+            "No tengo mentor.",
+            "Estudio solo.",
+            "Tengo un mentor que me ayuda con mis estudios.",
+            "Solo tengo a mi maestro."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "I take part in school competitions.",
+        "choices": [
+            "No participo en competiciones.",
+            "Participo en competiciones escolares.",
+            "Solo juego con mis amigos.",
+            "No me gustan este tipo de actividades."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "I believe education can change lives.",
+        "choices": [
+            "La educación no cambia.",
+            "Solo pasa con suerte.",
+            "El cambio de vida no es importante.",
+            "Creo que la educación puede cambiar vidas."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 21,
+        "question": "I often ask questions during lessons.",
+        "choices": [
+            "No me gusta hacer preguntas.",
+            "A menudo hago preguntas durante las lecciones.",
+            "Solo escucho las clases.",
+            "Nunca hago preguntas."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 22,
+        "question": "I enjoy working on projects with classmates.",
+        "choices": [
+            "No me gusta trabajar en proyectos.",
+            "Disfruto trabajar en proyectos con mis compañeros de clase.",
+            "Solo trabajo individualmente.",
+            "No me gustan los proyectos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 23,
+        "question": "I plan to study abroad one day.",
+        "choices": [
+            "No quiero ir al extranjero.",
+            "Solo planeo quedarme aquí.",
+            "Planeo estudiar en el extranjero algún día.",
+            "Estudiar en el extranjero no es importante."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 24,
+        "question": "I love learning new things.",
+        "choices": [
+            "Me encanta aprender cosas nuevas.",
+            "No me gusta aprender.",
+            "Solo repaso lo que ya sé.",
+            "Aprender es aburrido para mí."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "I respect my teachers and classmates.",
+        "choices": [
+            "No respeto a nadie.",
+            "Respeto a mis maestros y compañeros de clase.",
+            "Solo me respeto a mí mismo.",
+            "No tengo respeto por nadie."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "question": "I keep my study area organized.",
+        "choices": [
+            "El orden no es importante.",
+            "Mi área de estudio está desordenada.",
+            "Solo organizo mientras estudio.",
+            "Mantengo mi área de estudio organizada."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 27,
+        "question": "I feel proud of my academic achievements.",
+        "choices": [
+            "Mis logros no son importantes.",
+            "Solo estudio por diversión.",
+            "Me siento orgulloso de mis logros académicos.",
+            "No estoy orgulloso de nada."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 28,
+        "question": "I enjoy studying in a quiet environment.",
+        "choices": [
+            "Estudio en lugares ruidosos.",
+            "Disfruto estudiar en un ambiente tranquilo.",
+            "Solo me gusta estudiar al aire libre.",
+            "Puedo estudiar en cualquier lugar."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 29,
+        "question": "I am excited about learning new technologies.",
+        "choices": [
+            "Me emociona aprender nuevas tecnologías.",
+            "No me gusta la tecnología.",
+            "Solo uso cosas antiguas.",
+            "La tecnología no es importante para mí."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "I believe in lifelong learning.",
+        "choices": [
+            "Aprender solo ocurre en la escuela.",
+            "Ya no estoy aprendiendo.",
+            "Creo en el aprendizaje a lo largo de toda la vida.",
+            "Aprender no es importante para mí."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "I appreciate constructive feedback on my work.",
+        "choices": [
+            "No quiero recibir comentarios.",
+            "Aprecio los comentarios constructivos sobre mi trabajo.",
+            "No me importan los comentarios.",
+            "Solo me gustan los comentarios positivos."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 32,
+        "question": "I try to balance my studies and personal life.",
+        "choices": [
+            "Solo estudio.",
+            "Mi vida personal no es importante.",
+            "No tengo una vida equilibrada.",
+            "Intento equilibrar mis estudios y mi vida personal."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "I am motivated to achieve my educational goals.",
+        "choices": [
+            "No tengo metas.",
+            "Solo intento aprobar.",
+            "Estoy motivado para alcanzar mis metas educativas.",
+            "Mis metas no son importantes."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 34,
+        "question": "I find studying languages interesting.",
+        "choices": [
+            "Aprender idiomas es difícil.",
+            "Encuentro interesante aprender idiomas.",
+            "Solo sé turco.",
+            "Los idiomas no son importantes para mí."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "question": "I regularly review my study materials.",
+        "choices": [
+            "Reviso regularmente mis materiales de estudio.",
+            "Nunca reviso mis materiales.",
+            "Solo los reviso antes de los exámenes.",
+            "Mis materiales no son importantes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 36,
+        "question": "I enjoy sharing my knowledge with others.",
+        "choices": [
+            "No quiero compartir mi conocimiento.",
+            "Solo guardo mi conocimiento para mí.",
+            "Disfruto compartir mi conocimiento con otros.",
+            "El conocimiento de otros no me importa."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 37,
+        "question": "I take responsibility for my learning.",
+        "choices": [
+            "No quiero asumir responsabilidades.",
+            "Dejo todo en manos de otros.",
+            "Asumo la responsabilidad de mi aprendizaje.",
+            "La responsabilidad no es importante para mí."
+        ],
+        "correctAnswer": 2
+    }
+]
