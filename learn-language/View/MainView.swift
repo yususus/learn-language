@@ -26,34 +26,60 @@ struct MainView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
-                                    .edgesIgnoringSafeArea(.all)
+                // Modern gradient background
+                LinearGradient(
+                    colors: themeManager.isDarkMode ? 
+                        [Color(hex: "#0a0a0a"), Color(hex: "#1a1a2e")] :
+                        [Color(hex: "#f8f9fa"), Color(hex: "#e9ecef")],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
+                .ignoresSafeArea()
                 
                 ScrollView {
-                    ForEach(levels, id: \.self) { level in
-                        NavigationLink {
-                            CategoryView(title: level, level: level)
-                                .environmentObject(HelpQuestionsViewModel())
-                        } label: {
-                            HelpMain(title: level)
+                    VStack(spacing: 16) {
+                        // Header section with greeting
+                        VStack(spacing: 8) {
+                            Text(currentGreeting)
+                                .font(Font.custom("FugazOne-Regular", size: 32))
+                                .foregroundColor(themeManager.isDarkMode ? .white : Color(hex: "#2d3436"))
+                            
+                            Text("Choose your level to start learning")
+                                .font(.subheadline)
+                                .foregroundColor(themeManager.isDarkMode ? .gray : Color(hex: "#636e72"))
                         }
-                        .buttonStyle(PressableButtonStyle())
+                        .padding(.top, 20)
+                        .padding(.bottom, 8)
+                        
+                        // Level cards with modern design
+                        ForEach(levels, id: \.self) { level in
+                            NavigationLink {
+                                CategoryView(title: level, level: level)
+                                    .environmentObject(HelpQuestionsViewModel())
+                            } label: {
+                                HelpMain(title: level)
+                            }
+                            .buttonStyle(PressableButtonStyle())
+                        }
                     }
+                    .padding(.horizontal, 20)
+                    .padding(.bottom, 30)
                 }
                 
                 .toolbar {
-                    ToolbarItem(placement: .principal) {
-                        // Özel başlık metni
-                        Text(currentGreeting)
-                            .font(Font.custom("FugazOne-Regular", size: 25))
-                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
-                    }
                     ToolbarItem(placement: .navigationBarTrailing) {
                         NavigationLink {
                             SettingsView()
                         } label: {
-                            Image(systemName: "gear")
-                                .foregroundColor(themeManager.isDarkMode ? .white : .black)
+                            Image(systemName: "gearshape.fill")
+                                .font(.system(size: 20))
+                                .foregroundColor(themeManager.isDarkMode ? .white : Color(hex: "#2d3436"))
+                                .padding(8)
+                                .background(
+                                    Circle()
+                                        .fill(themeManager.isDarkMode ? Color(hex: "#2d3436") : Color.white)
+                                        .shadow(color: .black.opacity(0.1), radius: 5, x: 0, y: 2)
+                                )
                         }
                     }
                 }

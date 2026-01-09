@@ -17,8 +17,15 @@ struct QuestionView: View {
     
     var body: some View {
         ZStack {
-            Color(themeManager.isDarkMode ? UIColor.black : UIColor(red: 1.0, green: 0.96, blue: 0.9, alpha: 1.0))
-                                .edgesIgnoringSafeArea(.all)
+            // Modern gradient background
+            LinearGradient(
+                colors: themeManager.isDarkMode ? 
+                    [Color(hex: "#0a0a0a"), Color(hex: "#1a1a2e")] :
+                    [Color(hex: "#f8f9fa"), Color(hex: "#e9ecef")],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            )
+            .ignoresSafeArea()
             
             VStack {
                 HelpQuestion(level: level, category: category)
@@ -27,7 +34,6 @@ struct QuestionView: View {
             .onAppear {
                 viewModel.loadQuestions(for: level, category: category)
             }
-            
         }
         .navigationBarBackButtonHidden(true)
         .toolbar {
@@ -35,19 +41,25 @@ struct QuestionView: View {
                 Button(action: {
                     self.presentationMode.wrappedValue.dismiss()
                 }) {
-                    HStack {
+                    HStack(spacing: 6) {
                         Image(systemName: "chevron.left")
-                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
+                            .font(.system(size: 16, weight: .semibold))
                         Text("Category")
                             .font(Font.custom("FugazOne-Regular", size: 18))
-                            .foregroundColor(themeManager.isDarkMode ? .white : .black)
                     }
+                    .foregroundColor(themeManager.isDarkMode ? .white : Color(hex: "#2d3436"))
+                    .padding(.horizontal, 12)
+                    .padding(.vertical, 8)
+                    .background(
+                        Capsule()
+                            .fill(themeManager.isDarkMode ? Color(hex: "#2d3436") : Color.white)
+                            .shadow(color: .black.opacity(0.1), radius: 5, x: 0, y: 2)
+                    )
                 }
             }
         }
         .environment(\.colorScheme, themeManager.isDarkMode ? .dark : .light)
         .environmentObject(HelpQuestionsViewModel())
-        
     }
 }
 

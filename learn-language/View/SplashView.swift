@@ -11,6 +11,8 @@ struct SplashView: View {
     @State private var progressWidth: CGFloat = 0.0 
     @State private var isActive = false
     @State private var showStartButton = false
+    @State private var scale: CGFloat = 0.8
+    @State private var opacity: Double = 0.0
 
     var body: some View {
         if isActive {
@@ -18,65 +20,112 @@ struct SplashView: View {
                 .environmentObject(ThemeManager())
         } else {
             ZStack {
-                Color(red: 1.0, green: 0.96, blue: 0.9)
-                    .edgesIgnoringSafeArea(.all)
+                // Modern gradient background
+                LinearGradient(
+                    colors: [Color(hex: "#667eea"), Color(hex: "#764ba2")],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
+                .ignoresSafeArea()
                 
-                VStack {
-                    Text("W E L C O M E")
-                        .font(Font.custom("FugazOne-Regular", size: 40))
-                        .foregroundColor(Color(red: 0.9, green: 0.3, blue: 0.3))
-                        .multilineTextAlignment(.center)
-                        .padding()
-                        .padding(.bottom, 50)
-
-                    Text("Learning a new word every day opens doors to new opportunities.")
-                        .font(Font.custom("FugazOne-Regular", size: 25))
-                        .foregroundColor(Color(red: 0.9, green: 0.3, blue: 0.3))
-                        .multilineTextAlignment(.center)
-                        .padding()
-                        .padding(.bottom, 50)
+                VStack(spacing: 40) {
+                    Spacer()
                     
-                    // Yükleme Çubuğu
-                    ZStack(alignment: .leading) {
-                        Rectangle()
-                            .fill(Color.gray.opacity(0.2))
-                            .frame(width: Const.width * 0.75, height: 10)
-                            .clipShape(.rect(cornerRadius: 10))
+                    // App Icon/Logo
+                    VStack(spacing: 20) {
+                        Image(systemName: "book.fill")
+                            .font(.system(size: 80))
+                            .foregroundColor(.white)
+                            .shadow(color: .black.opacity(0.2), radius: 10, x: 0, y: 5)
+                            .scaleEffect(scale)
                         
-                        Rectangle()
-                            .fill(Color(red: 0.9, green: 0.3, blue: 0.3))
-                            .frame(width: progressWidth, height: 10)
-                            .clipShape(.rect(cornerRadius: 10))
-                            .animation(.easeOut(duration: 2), value: progressWidth)
+                        Text("W E L C O M E")
+                            .font(Font.custom("FugazOne-Regular", size: 42))
+                            .foregroundColor(.white)
+                            .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 2)
+                            .opacity(opacity)
                     }
-                    .padding(.bottom, 50)
                     
+                    // Quote
+                    Text("Learning a new word every day opens doors to new opportunities.")
+                        .font(.title3)
+                        .fontWeight(.medium)
+                        .foregroundColor(.white.opacity(0.9))
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 40)
+                        .opacity(opacity)
+                    
+                    // Progress Bar
+                    VStack(spacing: 12) {
+                        ZStack(alignment: .leading) {
+                            RoundedRectangle(cornerRadius: 12)
+                                .fill(Color.white.opacity(0.3))
+                                .frame(width: Const.width * 0.75, height: 8)
+                            
+                            RoundedRectangle(cornerRadius: 12)
+                                .fill(Color.white)
+                                .frame(width: progressWidth, height: 8)
+                                .shadow(color: .white.opacity(0.5), radius: 5, x: 0, y: 0)
+                                .animation(.spring(response: 0.6, dampingFraction: 0.8), value: progressWidth)
+                        }
+                        
+                        Text("Loading...")
+                            .font(.caption)
+                            .foregroundColor(.white.opacity(0.8))
+                            .opacity(opacity)
+                    }
+                    .padding(.bottom, 20)
+                    
+                    // Start Button
                     if showStartButton {
                         Button(action: {
-                            withAnimation {
+                            withAnimation(.spring(response: 0.4, dampingFraction: 0.7)) {
                                 isActive = true
                             }
                         }) {
-                            Text("Start")
-                                .font(.headline)
-                                .foregroundColor(.white)
-                                .padding()
-                                .background(Color(red: 0.9, green: 0.3, blue: 0.3))
-                                .cornerRadius(10)
+                            HStack(spacing: 12) {
+                                Text("Get Started")
+                                    .font(.headline)
+                                    .fontWeight(.semibold)
+                                
+                                Image(systemName: "arrow.right")
+                                    .font(.headline)
+                            }
+                            .foregroundColor(Color(hex: "#667eea"))
+                            .padding(.horizontal, 40)
+                            .padding(.vertical, 16)
+                            .background(
+                                Capsule()
+                                    .fill(Color.white)
+                                    .shadow(color: .black.opacity(0.2), radius: 15, x: 0, y: 8)
+                            )
                         }
-                        .transition(.opacity)
+                        .transition(.scale.combined(with: .opacity))
+                        .padding(.bottom, 40)
                     }
+                    
+                    Spacer()
                 }
             }
             .onAppear {
-                withAnimation(.easeOut(duration: 2)) {
-                    progressWidth = Const.width * 0.75
-                    //çubuğu tamamlıyor gideceği yol kadar
+                // Animate logo
+                withAnimation(.spring(response: 0.6, dampingFraction: 0.7)) {
+                    scale = 1.0
                 }
                 
+                // Animate text and progress
+                withAnimation(.easeIn(duration: 0.5).delay(0.3)) {
+                    opacity = 1.0
+                }
                 
-                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
-                    withAnimation {
+                // Animate progress bar
+                withAnimation(.easeOut(duration: 2).delay(0.5)) {
+                    progressWidth = Const.width * 0.75
+                }
+                
+                // Show start button
+                DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
+                    withAnimation(.spring(response: 0.4, dampingFraction: 0.7)) {
                         showStartButton = true
                     }
                 }
